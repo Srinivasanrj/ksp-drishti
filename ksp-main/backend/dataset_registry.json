@@ -1,0 +1,533 @@
+[
+  {
+    "id": "ds-1785004531",
+    "filename": "synthetic_station_crimes.csv",
+    "file_type": "csv",
+    "record_count": 1500,
+    "upload_date": "2026-07-26 00:05",
+    "status": "Indexed & Active",
+    "size_str": "145.9 KB"
+  },
+  {
+    "id": "ds-1784996893",
+    "filename": "crime 9.pdf",
+    "file_type": "pdf",
+    "record_count": 271,
+    "upload_date": "2026-07-25 21:58",
+    "status": "Indexed & Active",
+    "size_str": "2448.4 KB"
+  },
+  {
+    "id": "ds-1784996891",
+    "filename": "crime 8.pdf",
+    "file_type": "pdf",
+    "record_count": 270,
+    "upload_date": "2026-07-25 21:58",
+    "status": "Indexed & Active",
+    "size_str": "5903.0 KB"
+  },
+  {
+    "id": "ds-1784996889",
+    "filename": "crime 7.pdf",
+    "file_type": "pdf",
+    "record_count": 268,
+    "upload_date": "2026-07-25 21:58",
+    "status": "Indexed & Active",
+    "size_str": "2423.5 KB"
+  },
+  {
+    "id": "ds-1784996888",
+    "filename": "crime 6.pdf",
+    "file_type": "pdf",
+    "record_count": 268,
+    "upload_date": "2026-07-25 21:58",
+    "status": "Indexed & Active",
+    "size_str": "2415.0 KB"
+  },
+  {
+    "id": "ds-1784996886",
+    "filename": "crime 5.pdf",
+    "file_type": "pdf",
+    "record_count": 280,
+    "upload_date": "2026-07-25 21:58",
+    "status": "Indexed & Active",
+    "size_str": "6012.7 KB"
+  },
+  {
+    "id": "ds-1784996884",
+    "filename": "crime 42.pdf",
+    "file_type": "pdf",
+    "record_count": 190,
+    "upload_date": "2026-07-25 21:58",
+    "status": "Indexed & Active",
+    "size_str": "15270.6 KB"
+  },
+  {
+    "id": "ds-1784996884",
+    "filename": "crime 41.pdf",
+    "file_type": "pdf",
+    "record_count": 265,
+    "upload_date": "2026-07-25 21:58",
+    "status": "Indexed & Active",
+    "size_str": "3363.7 KB"
+  },
+  {
+    "id": "ds-1784996882",
+    "filename": "crime 40.pdf",
+    "file_type": "pdf",
+    "record_count": 241,
+    "upload_date": "2026-07-25 21:58",
+    "status": "Indexed & Active",
+    "size_str": "5033.5 KB"
+  },
+  {
+    "id": "ds-1784996881",
+    "filename": "crime 4.pdf",
+    "file_type": "pdf",
+    "record_count": 279,
+    "upload_date": "2026-07-25 21:58",
+    "status": "Indexed & Active",
+    "size_str": "5905.5 KB"
+  },
+  {
+    "id": "ds-1784996879",
+    "filename": "crime 39.pdf",
+    "file_type": "pdf",
+    "record_count": 266,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "5847.9 KB"
+  },
+  {
+    "id": "ds-1784996878",
+    "filename": "crime 38.pdf",
+    "file_type": "pdf",
+    "record_count": 262,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "5477.9 KB"
+  },
+  {
+    "id": "ds-1784996876",
+    "filename": "crime 37.pdf",
+    "file_type": "pdf",
+    "record_count": 272,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "3155.5 KB"
+  },
+  {
+    "id": "ds-1784996875",
+    "filename": "crime 36.pdf",
+    "file_type": "pdf",
+    "record_count": 271,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "619.1 KB"
+  },
+  {
+    "id": "ds-1784996874",
+    "filename": "crime 35.pdf",
+    "file_type": "pdf",
+    "record_count": 270,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "621.8 KB"
+  },
+  {
+    "id": "ds-1784996873",
+    "filename": "crime 34.pdf",
+    "file_type": "pdf",
+    "record_count": 535,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "815.4 KB"
+  },
+  {
+    "id": "ds-1784996871",
+    "filename": "crime 33.pdf",
+    "file_type": "pdf",
+    "record_count": 269,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "623.9 KB"
+  },
+  {
+    "id": "ds-1784996870",
+    "filename": "crime 32.pdf",
+    "file_type": "pdf",
+    "record_count": 271,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "617.6 KB"
+  },
+  {
+    "id": "ds-1784996870",
+    "filename": "crime 31.pdf",
+    "file_type": "pdf",
+    "record_count": 262,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "4850.6 KB"
+  },
+  {
+    "id": "ds-1784996868",
+    "filename": "crime 30.pdf",
+    "file_type": "pdf",
+    "record_count": 269,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "2009.1 KB"
+  },
+  {
+    "id": "ds-1784996866",
+    "filename": "crime 3.pdf",
+    "file_type": "pdf",
+    "record_count": 278,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "5912.9 KB"
+  },
+  {
+    "id": "ds-1784996865",
+    "filename": "crime 29.pdf",
+    "file_type": "pdf",
+    "record_count": 273,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "2932.7 KB"
+  },
+  {
+    "id": "ds-1784996863",
+    "filename": "crime 28.pdf",
+    "file_type": "pdf",
+    "record_count": 273,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "2932.7 KB"
+  },
+  {
+    "id": "ds-1784996861",
+    "filename": "crime 27.pdf",
+    "file_type": "pdf",
+    "record_count": 271,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "2127.2 KB"
+  },
+  {
+    "id": "ds-1784996860",
+    "filename": "crime 26.pdf",
+    "file_type": "pdf",
+    "record_count": 267,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "3140.8 KB"
+  },
+  {
+    "id": "ds-1784996858",
+    "filename": "crime 25.pdf",
+    "file_type": "pdf",
+    "record_count": 265,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "2787.6 KB"
+  },
+  {
+    "id": "ds-1784996856",
+    "filename": "crime 24.pdf",
+    "file_type": "pdf",
+    "record_count": 266,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "2825.6 KB"
+  },
+  {
+    "id": "ds-1784996854",
+    "filename": "crime 23.pdf",
+    "file_type": "pdf",
+    "record_count": 265,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "2772.6 KB"
+  },
+  {
+    "id": "ds-1784996853",
+    "filename": "crime 22.pdf",
+    "file_type": "pdf",
+    "record_count": 264,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "7460.3 KB"
+  },
+  {
+    "id": "ds-1784996851",
+    "filename": "crime 21.pdf",
+    "file_type": "pdf",
+    "record_count": 266,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "2634.9 KB"
+  },
+  {
+    "id": "ds-1784996850",
+    "filename": "crime 20.pdf",
+    "file_type": "pdf",
+    "record_count": 265,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "6057.2 KB"
+  },
+  {
+    "id": "ds-1784996848",
+    "filename": "crime 2.pdf",
+    "file_type": "pdf",
+    "record_count": 278,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "6058.7 KB"
+  },
+  {
+    "id": "ds-1784996846",
+    "filename": "crime 19.pdf",
+    "file_type": "pdf",
+    "record_count": 264,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "5869.4 KB"
+  },
+  {
+    "id": "ds-1784996845",
+    "filename": "crime 18.pdf",
+    "file_type": "pdf",
+    "record_count": 263,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "5797.8 KB"
+  },
+  {
+    "id": "ds-1784996843",
+    "filename": "crime 17.pdf",
+    "file_type": "pdf",
+    "record_count": 285,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "5924.6 KB"
+  },
+  {
+    "id": "ds-1784996841",
+    "filename": "crime 16.pdf",
+    "file_type": "pdf",
+    "record_count": 283,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "6266.5 KB"
+  },
+  {
+    "id": "ds-1784996839",
+    "filename": "crime 15.pdf",
+    "file_type": "pdf",
+    "record_count": 282,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "5956.0 KB"
+  },
+  {
+    "id": "ds-1784996838",
+    "filename": "crime 14.pdf",
+    "file_type": "pdf",
+    "record_count": 560,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "12563.0 KB"
+  },
+  {
+    "id": "ds-1784996834",
+    "filename": "crime 13.pdf",
+    "file_type": "pdf",
+    "record_count": 279,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "6297.6 KB"
+  },
+  {
+    "id": "ds-1784996832",
+    "filename": "crime 12.pdf",
+    "file_type": "pdf",
+    "record_count": 277,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "5970.9 KB"
+  },
+  {
+    "id": "ds-1784996831",
+    "filename": "crime 11.pdf",
+    "file_type": "pdf",
+    "record_count": 276,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "6281.4 KB"
+  },
+  {
+    "id": "ds-1784996829",
+    "filename": "crime 10.pdf",
+    "file_type": "pdf",
+    "record_count": 271,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "2417.9 KB"
+  },
+  {
+    "id": "ds-1784996827",
+    "filename": "crime 1.pdf",
+    "file_type": "pdf",
+    "record_count": 275,
+    "upload_date": "2026-07-25 21:57",
+    "status": "Indexed & Active",
+    "size_str": "5912.3 KB"
+  },
+  {
+    "id": "ds-1784952620",
+    "filename": "FIR-GOLDEN-015_Belagavi.txt",
+    "file_type": "txt",
+    "record_count": 2,
+    "upload_date": "2026-07-25 09:40",
+    "status": "Indexed & Active",
+    "size_str": "0.4 KB"
+  },
+  {
+    "id": "ds-1784952620",
+    "filename": "FIR-GOLDEN-014_Belagavi.txt",
+    "file_type": "txt",
+    "record_count": 2,
+    "upload_date": "2026-07-25 09:40",
+    "status": "Indexed & Active",
+    "size_str": "0.4 KB"
+  },
+  {
+    "id": "ds-1784952620",
+    "filename": "FIR-GOLDEN-013_Belagavi.txt",
+    "file_type": "txt",
+    "record_count": 2,
+    "upload_date": "2026-07-25 09:40",
+    "status": "Indexed & Active",
+    "size_str": "0.4 KB"
+  },
+  {
+    "id": "ds-1784952620",
+    "filename": "FIR-GOLDEN-012_Tumakuru.txt",
+    "file_type": "txt",
+    "record_count": 2,
+    "upload_date": "2026-07-25 09:40",
+    "status": "Indexed & Active",
+    "size_str": "0.4 KB"
+  },
+  {
+    "id": "ds-1784952620",
+    "filename": "FIR-GOLDEN-011_Tumakuru.txt",
+    "file_type": "txt",
+    "record_count": 2,
+    "upload_date": "2026-07-25 09:40",
+    "status": "Indexed & Active",
+    "size_str": "0.4 KB"
+  },
+  {
+    "id": "ds-1784952620",
+    "filename": "FIR-GOLDEN-010_Tumakuru.txt",
+    "file_type": "txt",
+    "record_count": 2,
+    "upload_date": "2026-07-25 09:40",
+    "status": "Indexed & Active",
+    "size_str": "0.4 KB"
+  },
+  {
+    "id": "ds-1784952620",
+    "filename": "FIR-GOLDEN-009_Hubballi.txt",
+    "file_type": "txt",
+    "record_count": 2,
+    "upload_date": "2026-07-25 09:40",
+    "status": "Indexed & Active",
+    "size_str": "0.4 KB"
+  },
+  {
+    "id": "ds-1784952620",
+    "filename": "FIR-GOLDEN-008_Hubballi.txt",
+    "file_type": "txt",
+    "record_count": 2,
+    "upload_date": "2026-07-25 09:40",
+    "status": "Indexed & Active",
+    "size_str": "0.4 KB"
+  },
+  {
+    "id": "ds-1784952620",
+    "filename": "FIR-GOLDEN-007_Hubballi.txt",
+    "file_type": "txt",
+    "record_count": 2,
+    "upload_date": "2026-07-25 09:40",
+    "status": "Indexed & Active",
+    "size_str": "0.4 KB"
+  },
+  {
+    "id": "ds-1784952620",
+    "filename": "FIR-GOLDEN-006_Mysuru.txt",
+    "file_type": "txt",
+    "record_count": 2,
+    "upload_date": "2026-07-25 09:40",
+    "status": "Indexed & Active",
+    "size_str": "0.4 KB"
+  },
+  {
+    "id": "ds-1784952620",
+    "filename": "FIR-GOLDEN-005_Mysuru.txt",
+    "file_type": "txt",
+    "record_count": 2,
+    "upload_date": "2026-07-25 09:40",
+    "status": "Indexed & Active",
+    "size_str": "0.4 KB"
+  },
+  {
+    "id": "ds-1784952619",
+    "filename": "FIR-GOLDEN-004_Mysuru.txt",
+    "file_type": "txt",
+    "record_count": 2,
+    "upload_date": "2026-07-25 09:40",
+    "status": "Indexed & Active",
+    "size_str": "0.4 KB"
+  },
+  {
+    "id": "ds-1784952619",
+    "filename": "FIR-GOLDEN-003_Bengaluru.txt",
+    "file_type": "txt",
+    "record_count": 2,
+    "upload_date": "2026-07-25 09:40",
+    "status": "Indexed & Active",
+    "size_str": "0.4 KB"
+  },
+  {
+    "id": "ds-1784952619",
+    "filename": "FIR-GOLDEN-002_Bengaluru.txt",
+    "file_type": "txt",
+    "record_count": 2,
+    "upload_date": "2026-07-25 09:40",
+    "status": "Indexed & Active",
+    "size_str": "0.4 KB"
+  },
+  {
+    "id": "ds-1784952619",
+    "filename": "FIR-GOLDEN-001_Bengaluru.txt",
+    "file_type": "txt",
+    "record_count": 2,
+    "upload_date": "2026-07-25 09:40",
+    "status": "Indexed & Active",
+    "size_str": "0.4 KB"
+  },
+  {
+    "id": "ds-001",
+    "filename": "KSP_Cyber_Crime_SOP_2026.pdf",
+    "file_type": "pdf",
+    "record_count": 3,
+    "upload_date": "2026-07-21",
+    "status": "Indexed & Active",
+    "size_str": "145 KB"
+  }
+]

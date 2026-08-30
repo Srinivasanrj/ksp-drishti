@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "belagavi_dist",
+        "name": "BELAGAVI DISTRICT",
+        "color": "#059669",
+        "fillColor": "#059669",
+        "center": [
+          15.8497,
+          74.4977
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.05,
+              15.35
+            ],
+            [
+              73.9,
+              15.75
+            ],
+            [
+              74.05,
+              16.15
+            ],
+            [
+              74.55,
+              16.6
+            ],
+            [
+              75.05,
+              16.45
+            ],
+            [
+              75.0,
+              15.85
+            ],
+            [
+              74.65,
+              15.55
+            ],
+            [
+              74.05,
+              15.35
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bagalkote",
+        "name": "BAGALKOTE SECTOR",
+        "color": "#0284c7",
+        "fillColor": "#0284c7",
+        "center": [
+          16.1855,
+          75.6968
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.05,
+              15.9
+            ],
+            [
+              75.05,
+              16.45
+            ],
+            [
+              75.65,
+              16.55
+            ],
+            [
+              76.15,
+              16.4
+            ],
+            [
+              76.05,
+              15.85
+            ],
+            [
+              75.5,
+              15.8
+            ],
+            [
+              75.05,
+              15.9
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dharwad",
+        "name": "DHARWAD (HUBLI-DHARWAD)",
+        "color": "#7c3aed",
+        "fillColor": "#7c3aed",
+        "center": [
+          15.4589,
+          75.0078
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.75,
+              15.2
+            ],
+            [
+              74.65,
+              15.55
+            ],
+            [
+              75.0,
+              15.85
+            ],
+            [
+              75.35,
+              15.7
+            ],
+            [
+              75.3,
+              15.25
+            ],
+            [
+              74.75,
+              15.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "gadag",
+        "name": "GADAG SECTOR",
+        "color": "#eab308",
+        "fillColor": "#eab308",
+        "center": [
+          15.4317,
+          75.6355
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.35,
+              15.0
+            ],
+            [
+              75.35,
+              15.7
+            ],
+            [
+              75.5,
+              15.8
+            ],
+            [
+              76.05,
+              15.85
+            ],
+            [
+              76.0,
+              15.4
+            ],
+            [
+              75.75,
+              15.0
+            ],
+            [
+              75.35,
+              15.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "haveri",
+        "name": "HAVERI SECTOR",
+        "color": "#ec4899",
+        "fillColor": "#ec4899",
+        "center": [
+          14.7937,
+          75.4014
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.0,
+              14.45
+            ],
+            [
+              74.75,
+              15.2
+            ],
+            [
+              75.3,
+              15.25
+            ],
+            [
+              75.75,
+              15.0
+            ],
+            [
+              75.7,
+              14.6
+            ],
+            [
+              75.3,
+              14.45
+            ],
+            [
+              75.0,
+              14.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "uttara_kannada",
+        "name": "UTTARA KANNADA (KARWAR)",
+        "color": "#10b981",
+        "fillColor": "#10b981",
+        "center": [
+          14.8184,
+          74.1354
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.5,
+              13.85
+            ],
+            [
+              74.1,
+              13.9
+            ],
+            [
+              74.0,
+              14.85
+            ],
+            [
+              74.05,
+              15.35
+            ],
+            [
+              74.75,
+              15.2
+            ],
+            [
+              75.0,
+              14.45
+            ],
+            [
+              74.5,
+              13.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vijayapura",
+        "name": "VIJAYAPURA SECTOR",
+        "color": "#f97316",
+        "fillColor": "#f97316",
+        "center": [
+          16.8302,
+          75.71
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.05,
+              16.45
+            ],
+            [
+              74.55,
+              16.6
+            ],
+            [
+              75.25,
+              17.25
+            ],
+            [
+              76.15,
+              17.4
+            ],
+            [
+              76.25,
+              16.7
+            ],
+            [
+              75.65,
+              16.55
+            ],
+            [
+              75.05,
+              16.45
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

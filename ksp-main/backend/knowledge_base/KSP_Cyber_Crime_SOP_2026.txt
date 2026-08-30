@@ -1,0 +1,13 @@
+KARNATAKA STATE POLICE (KSP) - CYBER CRIME STANDARD OPERATING PROCEDURE (SOP) 2026:
+1. Incident Response for Financial Phishing & UPI Fraud:
+- Immediate freeze on suspect beneficiary bank accounts within the 2-hour Golden Window.
+- Extraction of target UPI IDs, transaction hashes, IP logs, and ISP ASN routing tables.
+- Electronic evidence must be hashed with SHA-256 immediately upon acquisition.
+
+2. Indian Evidence Act Section 65B Certificate Mandate:
+- All digital evidence (screenshots, web portal dumps, network trace logs) requires a Section 65B certificate for court admissibility.
+- The certificate must specify device specifications, timestamp logs, and system integrity audits.
+
+3. Zero FIR & Anonymous Reporting Protocol:
+- Victims are entitled to file a Zero FIR at any Karnataka Police station without jurisdictional restriction.
+- Citizens reporting cyber extortion, harassment, or financial scams may opt for anonymous filing with state level SCRB audit tracking.

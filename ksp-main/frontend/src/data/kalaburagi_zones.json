@@ -1,0 +1,333 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kalaburagi_dist",
+        "name": "KALABURAGI DISTRICT",
+        "color": "#d97706",
+        "fillColor": "#d97706",
+        "center": [
+          17.3297,
+          76.8343
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.2,
+              16.9
+            ],
+            [
+              76.15,
+              17.4
+            ],
+            [
+              76.75,
+              17.75
+            ],
+            [
+              77.4,
+              17.65
+            ],
+            [
+              77.3,
+              17.05
+            ],
+            [
+              76.75,
+              16.95
+            ],
+            [
+              76.2,
+              16.9
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ballari",
+        "name": "BALLARI SECTOR",
+        "color": "#ef4444",
+        "fillColor": "#ef4444",
+        "center": [
+          15.1394,
+          76.9214
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.45,
+              14.7
+            ],
+            [
+              76.45,
+              15.2
+            ],
+            [
+              76.75,
+              15.65
+            ],
+            [
+              77.3,
+              15.6
+            ],
+            [
+              77.25,
+              14.95
+            ],
+            [
+              76.85,
+              14.7
+            ],
+            [
+              76.45,
+              14.7
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bidar",
+        "name": "BIDAR NORTH SECTOR",
+        "color": "#8b5cf6",
+        "fillColor": "#8b5cf6",
+        "center": [
+          17.9104,
+          77.5199
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.0,
+              17.65
+            ],
+            [
+              76.75,
+              17.75
+            ],
+            [
+              76.8,
+              18.15
+            ],
+            [
+              77.45,
+              18.45
+            ],
+            [
+              77.75,
+              18.15
+            ],
+            [
+              77.4,
+              17.65
+            ],
+            [
+              77.0,
+              17.65
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "koppal",
+        "name": "KOPPAL SECTOR",
+        "color": "#06b6d4",
+        "fillColor": "#06b6d4",
+        "center": [
+          15.3499,
+          76.1557
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.75,
+              15.05
+            ],
+            [
+              76.0,
+              15.4
+            ],
+            [
+              75.95,
+              15.85
+            ],
+            [
+              76.35,
+              15.75
+            ],
+            [
+              76.3,
+              15.2
+            ],
+            [
+              75.75,
+              15.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "raichur",
+        "name": "RAICHUR SECTOR",
+        "color": "#10b981",
+        "fillColor": "#10b981",
+        "center": [
+          16.2076,
+          77.3463
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.35,
+              15.85
+            ],
+            [
+              76.5,
+              16.45
+            ],
+            [
+              77.35,
+              16.6
+            ],
+            [
+              77.6,
+              16.4
+            ],
+            [
+              77.2,
+              15.75
+            ],
+            [
+              76.35,
+              15.85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vijayanagara",
+        "name": "VIJAYANAGARA (HOSAPETE)",
+        "color": "#f59e0b",
+        "fillColor": "#f59e0b",
+        "center": [
+          15.2689,
+          76.3909
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.7,
+              14.65
+            ],
+            [
+              75.75,
+              15.05
+            ],
+            [
+              76.3,
+              15.2
+            ],
+            [
+              76.25,
+              15.65
+            ],
+            [
+              76.45,
+              15.2
+            ],
+            [
+              76.45,
+              14.7
+            ],
+            [
+              75.7,
+              14.65
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "yadgir",
+        "name": "YADGIR SECTOR",
+        "color": "#ec4899",
+        "fillColor": "#ec4899",
+        "center": [
+          16.77,
+          77.1378
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.55,
+              16.35
+            ],
+            [
+              76.2,
+              16.9
+            ],
+            [
+              76.75,
+              16.95
+            ],
+            [
+              77.3,
+              17.05
+            ],
+            [
+              77.35,
+              16.6
+            ],
+            [
+              76.5,
+              16.45
+            ],
+            [
+              76.55,
+              16.35
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

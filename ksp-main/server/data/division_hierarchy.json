@@ -1,0 +1,38 @@
+{
+  "Bengaluru": {
+    "displayName": "Bengaluru Division",
+    "aliases": ["bengaluru", "bangalore", "bglr"],
+    "subDivisions": ["Bengaluru Urban", "Bengaluru Rural", "Whitefield", "Electronic City", "Indiranagar", "Koramangala", "Jayanagar"],
+    "defaultCoords": [12.9716, 77.5946]
+  },
+  "Mysuru": {
+    "displayName": "Mysuru Division",
+    "aliases": ["mysuru", "mysore"],
+    "subDivisions": ["Devaraja", "Vijayanagar", "Nazarbad", "VV Mohalla", "KRS Road"],
+    "defaultCoords": [12.2958, 76.6394]
+  },
+  "Belagavi": {
+    "displayName": "Belagavi Division",
+    "aliases": ["belagavi", "belgaum"],
+    "subDivisions": ["Khade Bazar", "Shahapur", "Camp", "Udyambag", "Tilakwadi"],
+    "defaultCoords": [15.8497, 74.4977]
+  },
+  "Kalaburagi": {
+    "displayName": "Kalaburagi Division",
+    "aliases": ["kalaburagi", "gulbarga"],
+    "subDivisions": ["Station Bazar", "Brahampur", "Raghavendra Nagar", "University", "Chowk"],
+    "defaultCoords": [17.3297, 76.8343]
+  },
+  "Kolar": {
+    "displayName": "Kolar Division",
+    "aliases": ["kolar", "kgf"],
+    "subDivisions": ["Ambedkar Nagar", "Old Bus Stand", "Robertsonpet", "KGF"],
+    "defaultCoords": [13.1367, 78.1292]
+  },
+  "State HQ": {
+    "displayName": "State HQ",
+    "aliases": ["state", "hq", "dgp", "statewide"],
+    "subDivisions": ["State Command", "CID HQ", "Cyber Command"],
+    "defaultCoords": [12.9716, 77.5946]
+  }
+}

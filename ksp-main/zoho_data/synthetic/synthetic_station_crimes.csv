@@ -1,0 +1,1501 @@
+FIR_Number,Date,District,Police_Station,Latitude,Longitude,Crime_Head,Status
+FIR-936/2025-f20d,2025-09-11,Mysuru City,Kuvempunagar PS,12.33916,76.64708,Cyber Crime,Pending Trial
+FIR-392/2026-e99d,2025-01-05,Tumakuru,Tumakuru Town PS,13.30259,77.05937,Theft,Charge Sheeted
+FIR-883/2025-9372,2025-12-11,Mysuru City,Saraswathipuram PS,12.30228,76.68786,Theft,Under Investigation
+FIR-632/2025-ed77,2025-06-10,Mysuru City,Kuvempunagar PS,12.28115,76.59382,Theft,Closed
+FIR-502/2025-a39c,2025-08-27,Tumakuru,Tumakuru Town PS,13.35436,77.10336,Cheating,Charge Sheeted
+FIR-961/2025-e510,2025-10-18,Tumakuru,Kyathasandra PS,13.35858,77.1331,NDPS,Closed
+FIR-609/2025-6bae,2025-09-30,Mysuru City,Devaraja PS,12.31677,76.66109,Assault,Charge Sheeted
+FIR-698/2026-84ab,2025-11-13,Belagavi Dist,Tilakwadi PS,15.84485,74.51183,Cheating,Closed
+FIR-749/2025-abc6,2025-08-02,Tumakuru,Tumakuru Town PS,13.36107,77.14219,Theft,Closed
+FIR-187/2026-d91c,2025-09-08,Bengaluru City,Malleswaram PS,12.94672,77.64043,Cheating,Charge Sheeted
+FIR-472/2026-23d2,2025-02-12,Belagavi Dist,Tilakwadi PS,15.80206,74.54293,Theft,Charge Sheeted
+FIR-666/2025-fd4a,2025-07-01,Belagavi Dist,Khadebazar PS,15.8264,74.47985,NDPS,Closed
+FIR-591/2026-6de4,2025-06-08,Mysuru City,Kuvempunagar PS,12.29779,76.6307,Murder,Closed
+FIR-623/2025-a466,2025-09-17,Bengaluru City,Malleswaram PS,12.95775,77.64416,Robbery,Charge Sheeted
+FIR-555/2026-e0c8,2025-02-01,Mysuru City,Kuvempunagar PS,12.33554,76.59682,Robbery,Under Investigation
+FIR-988/2026-b66d,2025-01-21,Belagavi Dist,Belagavi Camp PS,15.83054,74.48784,NDPS,Closed
+FIR-918/2025-1e99,2025-02-03,Bengaluru City,Koramangala PS,13.00945,77.61027,Robbery,Pending Trial
+FIR-450/2025-c5b1,2025-11-15,Belagavi Dist,Belagavi Camp PS,15.80571,74.46903,Robbery,Charge Sheeted
+FIR-891/2025-d1fe,2025-07-12,Tumakuru,Kyathasandra PS,13.32587,77.06183,POCSO,Under Investigation
+FIR-881/2026-058b,2025-07-12,Hubballi Dharwad City,Vidyanagar PS,15.35694,75.13191,Cyber Crime,Pending Trial
+FIR-455/2026-5480,2025-08-13,Tumakuru,Kyathasandra PS,13.32434,77.15049,Murder,Charge Sheeted
+FIR-402/2026-b05e,2025-05-23,Mysuru City,Devaraja PS,12.25498,76.68925,Assault,Under Investigation
+FIR-842/2026-7c37,2025-05-30,Tumakuru,Kyathasandra PS,13.36196,77.13747,Murder,Charge Sheeted
+FIR-150/2025-9737,2025-03-31,Bengaluru City,Koramangala PS,12.93063,77.56031,Theft,Closed
+FIR-556/2025-4e07,2025-01-18,Tumakuru,Kyathasandra PS,13.30037,77.11961,Murder,Under Investigation
+FIR-429/2026-2d47,2025-10-18,Tumakuru,Kyathasandra PS,13.34118,77.14082,Cheating,Pending Trial
+FIR-862/2026-b187,2025-07-05,Mysuru City,Saraswathipuram PS,12.278,76.68771,Murder,Charge Sheeted
+FIR-327/2025-a4db,2025-02-12,Mysuru City,Saraswathipuram PS,12.32478,76.61914,Theft,Closed
+FIR-980/2025-7d33,2025-06-11,Belagavi Dist,Khadebazar PS,15.88502,74.53212,POCSO,Closed
+FIR-809/2026-a581,2025-10-23,Hubballi Dharwad City,Dharwad Suburban PS,15.35589,75.14237,Cheating,Pending Trial
+FIR-231/2025-e7b6,2025-12-21,Hubballi Dharwad City,Vidyanagar PS,15.3491,75.12863,Robbery,Pending Trial
+FIR-101/2026-c5f2,2025-06-20,Belagavi Dist,Tilakwadi PS,15.82795,74.4836,Cheating,Pending Trial
+FIR-826/2026-4ce8,2025-01-17,Hubballi Dharwad City,Hubballi Town PS,15.40693,75.14582,Murder,Under Investigation
+FIR-219/2026-7aee,2025-10-03,Mysuru City,Saraswathipuram PS,12.34166,76.64232,Assault,Pending Trial
+FIR-686/2025-d1d1,2025-08-16,Tumakuru,Kyathasandra PS,13.36178,77.06584,Theft,Charge Sheeted
+FIR-148/2026-c25b,2025-11-30,Hubballi Dharwad City,Dharwad Suburban PS,15.40868,75.16671,Cheating,Closed
+FIR-579/2025-7427,2025-03-23,Belagavi Dist,Belagavi Camp PS,15.88075,74.50902,POCSO,Pending Trial
+FIR-163/2026-4e19,2025-08-06,Tumakuru,Tumakuru Town PS,13.35465,77.06299,Cheating,Pending Trial
+FIR-777/2025-bca3,2025-02-26,Hubballi Dharwad City,Dharwad Suburban PS,15.34789,75.1181,Robbery,Charge Sheeted
+FIR-873/2025-ddc3,2025-12-21,Tumakuru,Kyathasandra PS,13.35246,77.11028,Cyber Crime,Under Investigation
+FIR-883/2026-2d06,2025-04-01,Hubballi Dharwad City,Dharwad Suburban PS,15.3718,75.08689,Murder,Under Investigation
+FIR-305/2026-0f29,2025-12-11,Hubballi Dharwad City,Vidyanagar PS,15.38492,75.09823,Theft,Charge Sheeted
+FIR-552/2026-349d,2025-11-20,Mysuru City,Saraswathipuram PS,12.31844,76.66034,Theft,Closed
+FIR-933/2025-02dd,2025-01-08,Mysuru City,Saraswathipuram PS,12.31763,76.62812,Theft,Under Investigation
+FIR-976/2026-1b2e,2025-03-28,Hubballi Dharwad City,Vidyanagar PS,15.35942,75.0905,Murder,Charge Sheeted
+FIR-235/2026-62a2,2025-10-16,Belagavi Dist,Tilakwadi PS,15.83663,74.54276,Robbery,Pending Trial
+FIR-519/2026-da4a,2025-12-16,Tumakuru,Tumakuru Town PS,13.29285,77.12722,Cheating,Pending Trial
+FIR-766/2026-5fa4,2025-03-24,Hubballi Dharwad City,Dharwad Suburban PS,15.41088,75.14877,POCSO,Closed
+FIR-330/2025-0539,2025-02-26,Bengaluru City,Indiranagar PS,12.9914,77.57176,Cheating,Closed
+FIR-933/2026-7624,2025-04-09,Hubballi Dharwad City,Dharwad Suburban PS,15.38943,75.16006,Cheating,Closed
+FIR-170/2025-84a9,2025-05-17,Hubballi Dharwad City,Hubballi Town PS,15.35993,75.10237,NDPS,Pending Trial
+FIR-248/2026-c3ae,2025-12-07,Mysuru City,Kuvempunagar PS,12.24812,76.59187,Assault,Pending Trial
+FIR-629/2026-660f,2025-10-07,Bengaluru City,Koramangala PS,13.01692,77.56591,Assault,Closed
+FIR-442/2025-1864,2025-06-09,Belagavi Dist,Belagavi Camp PS,15.84013,74.49518,Assault,Under Investigation
+FIR-721/2026-18b6,2025-10-04,Belagavi Dist,Khadebazar PS,15.83182,74.49901,Assault,Pending Trial
+FIR-481/2026-9c42,2025-07-12,Mysuru City,Devaraja PS,12.24942,76.67667,Cheating,Charge Sheeted
+FIR-383/2025-4873,2025-03-19,Bengaluru City,Cubbon Park PS,12.92852,77.5917,Assault,Closed
+FIR-953/2025-9233,2025-01-16,Hubballi Dharwad City,Vidyanagar PS,15.40355,75.14606,NDPS,Pending Trial
+FIR-340/2025-96fa,2025-08-12,Mysuru City,Devaraja PS,12.25516,76.63795,Cheating,Pending Trial
+FIR-587/2025-f705,2025-03-23,Belagavi Dist,Belagavi Camp PS,15.84656,74.46016,Murder,Under Investigation
+FIR-966/2025-70c1,2025-02-06,Hubballi Dharwad City,Dharwad Suburban PS,15.37552,75.11144,Assault,Closed
+FIR-580/2025-11aa,2025-12-31,Hubballi Dharwad City,Hubballi Town PS,15.3402,75.0889,Assault,Closed
+FIR-692/2026-d6ca,2025-08-31,Hubballi Dharwad City,Dharwad Suburban PS,15.3997,75.11391,Murder,Charge Sheeted
+FIR-520/2026-74af,2025-06-12,Belagavi Dist,Khadebazar PS,15.88898,74.50137,Murder,Under Investigation
+FIR-260/2025-21f8,2025-01-08,Mysuru City,Saraswathipuram PS,12.3242,76.62202,Robbery,Charge Sheeted
+FIR-635/2025-7d8d,2025-08-21,Bengaluru City,Cubbon Park PS,12.97607,77.63936,Murder,Under Investigation
+FIR-493/2025-2072,2025-01-15,Belagavi Dist,Khadebazar PS,15.83779,74.54344,NDPS,Closed
+FIR-387/2025-d678,2025-07-08,Hubballi Dharwad City,Hubballi Town PS,15.32561,75.11782,POCSO,Closed
+FIR-147/2026-0e4b,2025-03-17,Mysuru City,Saraswathipuram PS,12.33438,76.59608,POCSO,Under Investigation
+FIR-883/2025-13ac,2025-09-30,Bengaluru City,Indiranagar PS,12.98611,77.60771,Cheating,Closed
+FIR-156/2026-6826,2025-10-06,Belagavi Dist,Tilakwadi PS,15.85044,74.51635,Cheating,Closed
+FIR-547/2026-d604,2025-01-23,Bengaluru City,Indiranagar PS,12.99574,77.59245,Cyber Crime,Closed
+FIR-661/2025-15b5,2025-01-19,Belagavi Dist,Tilakwadi PS,15.80684,74.5052,Robbery,Closed
+FIR-930/2026-2f6e,2025-01-07,Hubballi Dharwad City,Vidyanagar PS,15.37933,75.09281,Assault,Pending Trial
+FIR-135/2025-d214,2025-06-25,Hubballi Dharwad City,Dharwad Suburban PS,15.35267,75.09737,Murder,Closed
+FIR-578/2025-10a9,2025-12-28,Bengaluru City,Indiranagar PS,12.94166,77.5944,Murder,Charge Sheeted
+FIR-960/2026-9f7a,2025-01-13,Tumakuru,Tumakuru Town PS,13.32992,77.10953,Murder,Pending Trial
+FIR-119/2025-2f42,2025-07-27,Bengaluru City,Malleswaram PS,12.97967,77.63682,Murder,Charge Sheeted
+FIR-564/2025-1571,2025-05-22,Hubballi Dharwad City,Dharwad Suburban PS,15.33562,75.12665,Cheating,Closed
+FIR-645/2026-a233,2025-05-05,Belagavi Dist,Khadebazar PS,15.82179,74.49913,NDPS,Under Investigation
+FIR-278/2025-9aa8,2025-08-13,Belagavi Dist,Tilakwadi PS,15.81155,74.45372,Cheating,Closed
+FIR-162/2025-a950,2025-03-08,Bengaluru City,Koramangala PS,13.00883,77.59702,Cheating,Under Investigation
+FIR-691/2026-c157,2025-03-17,Belagavi Dist,Tilakwadi PS,15.84978,74.47901,Murder,Under Investigation
+FIR-594/2026-17de,2025-08-14,Tumakuru,Tumakuru Town PS,13.33565,77.07243,Murder,Pending Trial
+FIR-516/2026-c501,2025-08-08,Belagavi Dist,Belagavi Camp PS,15.84331,74.50642,Murder,Under Investigation
+FIR-309/2025-34a7,2025-10-07,Tumakuru,Kyathasandra PS,13.33284,77.11117,Theft,Charge Sheeted
+FIR-786/2025-3115,2025-05-22,Mysuru City,Saraswathipuram PS,12.31688,76.66226,Cyber Crime,Closed
+FIR-623/2025-3a24,2025-07-21,Hubballi Dharwad City,Dharwad Suburban PS,15.36919,75.07821,NDPS,Under Investigation
+FIR-746/2025-4a6d,2025-09-30,Belagavi Dist,Khadebazar PS,15.81998,74.49866,Cyber Crime,Charge Sheeted
+FIR-706/2025-a0f0,2025-11-30,Belagavi Dist,Tilakwadi PS,15.88965,74.45092,Cyber Crime,Charge Sheeted
+FIR-950/2026-0951,2025-07-23,Bengaluru City,Cubbon Park PS,12.99094,77.60731,Theft,Charge Sheeted
+FIR-219/2026-e5f7,2025-12-13,Bengaluru City,Koramangala PS,12.95291,77.54611,Murder,Under Investigation
+FIR-544/2026-63c2,2025-10-28,Belagavi Dist,Khadebazar PS,15.83474,74.54027,Theft,Under Investigation
+FIR-443/2026-42c5,2025-09-06,Tumakuru,Kyathasandra PS,13.34728,77.10774,NDPS,Under Investigation
+FIR-725/2026-eb73,2025-03-07,Bengaluru City,Koramangala PS,12.93215,77.60665,Robbery,Charge Sheeted
+FIR-916/2026-4590,2025-06-05,Bengaluru City,Indiranagar PS,12.92655,77.61446,Murder,Charge Sheeted
+FIR-276/2025-e4e2,2025-03-16,Bengaluru City,Indiranagar PS,12.97439,77.5862,Assault,Charge Sheeted
+FIR-158/2026-79f5,2025-05-06,Tumakuru,Tumakuru Town PS,13.33571,77.06216,Robbery,Charge Sheeted
+FIR-281/2025-f461,2025-03-04,Bengaluru City,Indiranagar PS,13.00817,77.61692,Cyber Crime,Under Investigation
+FIR-181/2026-e83e,2025-05-20,Tumakuru,Tumakuru Town PS,13.3718,77.10567,NDPS,Charge Sheeted
+FIR-665/2026-9bc3,2025-01-14,Mysuru City,Saraswathipuram PS,12.3338,76.59325,Robbery,Charge Sheeted
+FIR-222/2026-7bf7,2025-06-08,Hubballi Dharwad City,Dharwad Suburban PS,15.34393,75.16307,NDPS,Under Investigation
+FIR-258/2025-b0db,2025-05-20,Mysuru City,Devaraja PS,12.34442,76.66863,Cyber Crime,Pending Trial
+FIR-345/2025-c33b,2025-03-27,Belagavi Dist,Belagavi Camp PS,15.80818,74.54206,Murder,Charge Sheeted
+FIR-787/2026-642f,2025-08-01,Mysuru City,Devaraja PS,12.33686,76.6556,Murder,Pending Trial
+FIR-227/2026-2e71,2025-11-03,Tumakuru,Kyathasandra PS,13.30902,77.08008,Assault,Charge Sheeted
+FIR-217/2026-e953,2025-05-08,Belagavi Dist,Tilakwadi PS,15.82374,74.53737,Cheating,Closed
+FIR-254/2026-d576,2025-08-03,Belagavi Dist,Khadebazar PS,15.87441,74.51781,NDPS,Pending Trial
+FIR-590/2025-fb67,2025-09-07,Belagavi Dist,Belagavi Camp PS,15.85595,74.53808,Cheating,Pending Trial
+FIR-414/2026-d68c,2025-04-15,Tumakuru,Kyathasandra PS,13.30092,77.08923,Assault,Pending Trial
+FIR-285/2026-1c4e,2025-02-27,Bengaluru City,Koramangala PS,13.00948,77.62559,Cyber Crime,Closed
+FIR-895/2025-2c04,2025-03-09,Mysuru City,Devaraja PS,12.25921,76.61851,NDPS,Under Investigation
+FIR-453/2025-ad0a,2025-02-17,Tumakuru,Tumakuru Town PS,13.31608,77.10493,Robbery,Under Investigation
+FIR-266/2026-e172,2025-10-31,Mysuru City,Kuvempunagar PS,12.27213,76.61827,Assault,Charge Sheeted
+FIR-223/2025-e63e,2025-11-08,Mysuru City,Devaraja PS,12.30915,76.59808,Murder,Under Investigation
+FIR-701/2026-49eb,2025-04-23,Belagavi Dist,Tilakwadi PS,15.87434,74.51683,Assault,Closed
+FIR-101/2026-c4fc,2025-09-15,Belagavi Dist,Belagavi Camp PS,15.87738,74.52668,Theft,Pending Trial
+FIR-474/2026-e4dd,2025-04-08,Mysuru City,Saraswathipuram PS,12.25548,76.61554,Cheating,Pending Trial
+FIR-462/2026-32cb,2025-12-28,Hubballi Dharwad City,Hubballi Town PS,15.34846,75.15275,Theft,Charge Sheeted
+FIR-107/2026-8908,2025-06-18,Hubballi Dharwad City,Hubballi Town PS,15.35865,75.12518,Cyber Crime,Pending Trial
+FIR-515/2025-323c,2025-11-27,Bengaluru City,Malleswaram PS,13.01338,77.57996,Cheating,Closed
+FIR-427/2026-082d,2025-03-10,Mysuru City,Devaraja PS,12.29655,76.59719,Robbery,Closed
+FIR-838/2025-5f1c,2025-01-17,Tumakuru,Kyathasandra PS,13.35033,77.11539,Robbery,Closed
+FIR-931/2025-1041,2025-12-07,Mysuru City,Saraswathipuram PS,12.27859,76.67669,Cheating,Under Investigation
+FIR-906/2026-e3cf,2025-11-15,Tumakuru,Kyathasandra PS,13.35732,77.08121,Murder,Closed
+FIR-762/2025-8b5f,2025-10-23,Tumakuru,Kyathasandra PS,13.34588,77.05224,POCSO,Charge Sheeted
+FIR-761/2026-2233,2025-08-15,Tumakuru,Kyathasandra PS,13.34112,77.09914,Robbery,Closed
+FIR-580/2025-47d9,2025-11-06,Mysuru City,Devaraja PS,12.34372,76.61158,Cyber Crime,Under Investigation
+FIR-776/2026-0385,2025-02-14,Tumakuru,Tumakuru Town PS,13.36199,77.08873,Assault,Charge Sheeted
+FIR-767/2025-32b8,2025-04-01,Mysuru City,Devaraja PS,12.32291,76.67404,Cheating,Pending Trial
+FIR-768/2026-1612,2025-09-19,Hubballi Dharwad City,Vidyanagar PS,15.37004,75.15651,Cyber Crime,Closed
+FIR-821/2025-3852,2025-06-28,Hubballi Dharwad City,Vidyanagar PS,15.35566,75.14215,Cyber Crime,Charge Sheeted
+FIR-502/2025-32d4,2025-01-01,Hubballi Dharwad City,Dharwad Suburban PS,15.40176,75.14077,Theft,Pending Trial
+FIR-259/2025-ff15,2025-10-06,Mysuru City,Devaraja PS,12.2466,76.66436,Theft,Closed
+FIR-267/2025-f8ef,2025-01-26,Tumakuru,Kyathasandra PS,13.36837,77.13287,Cheating,Under Investigation
+FIR-593/2025-c081,2025-03-31,Belagavi Dist,Khadebazar PS,15.84021,74.45083,POCSO,Closed
+FIR-683/2025-872c,2025-07-17,Hubballi Dharwad City,Dharwad Suburban PS,15.38567,75.16208,NDPS,Under Investigation
+FIR-702/2026-f443,2025-12-20,Mysuru City,Kuvempunagar PS,12.27592,76.68246,Assault,Closed
+FIR-766/2026-60f9,2025-07-26,Bengaluru City,Cubbon Park PS,12.95183,77.55057,Assault,Pending Trial
+FIR-825/2025-0bca,2025-03-22,Bengaluru City,Koramangala PS,12.96076,77.61668,Cheating,Pending Trial
+FIR-999/2026-28ee,2025-08-25,Tumakuru,Kyathasandra PS,13.33366,77.12396,Assault,Pending Trial
+FIR-392/2026-8d8b,2025-01-07,Tumakuru,Kyathasandra PS,13.34655,77.07685,Robbery,Charge Sheeted
+FIR-796/2025-4ec1,2025-12-14,Hubballi Dharwad City,Vidyanagar PS,15.33465,75.16224,Assault,Charge Sheeted
+FIR-358/2025-0ecf,2025-09-26,Tumakuru,Tumakuru Town PS,13.36098,77.12855,Cyber Crime,Closed
+FIR-935/2026-33cc,2025-03-28,Belagavi Dist,Khadebazar PS,15.87966,74.48312,NDPS,Closed
+FIR-234/2026-7ba1,2025-07-20,Tumakuru,Kyathasandra PS,13.35188,77.09939,Cheating,Pending Trial
+FIR-431/2026-16a4,2025-07-23,Belagavi Dist,Khadebazar PS,15.81158,74.48029,NDPS,Under Investigation
+FIR-677/2026-27d3,2025-09-02,Bengaluru City,Malleswaram PS,12.93806,77.64036,Theft,Closed
+FIR-344/2025-a6a2,2025-12-12,Bengaluru City,Cubbon Park PS,12.92395,77.62348,Theft,Under Investigation
+FIR-973/2025-df50,2025-04-21,Tumakuru,Kyathasandra PS,13.37578,77.07665,Theft,Under Investigation
+FIR-718/2025-81d1,2025-02-04,Belagavi Dist,Khadebazar PS,15.82418,74.50127,POCSO,Pending Trial
+FIR-224/2026-6a65,2025-02-11,Hubballi Dharwad City,Dharwad Suburban PS,15.31591,75.1268,Murder,Closed
+FIR-207/2026-eee6,2025-11-29,Tumakuru,Tumakuru Town PS,13.31939,77.12758,Cheating,Pending Trial
+FIR-873/2026-de59,2025-06-11,Mysuru City,Kuvempunagar PS,12.30654,76.68806,Murder,Under Investigation
+FIR-410/2026-c1f3,2025-05-01,Bengaluru City,Cubbon Park PS,12.98495,77.60742,Assault,Charge Sheeted
+FIR-340/2025-2bca,2025-12-10,Hubballi Dharwad City,Vidyanagar PS,15.36085,75.0766,NDPS,Closed
+FIR-139/2025-4081,2025-11-11,Bengaluru City,Koramangala PS,12.97033,77.598,POCSO,Closed
+FIR-269/2025-352a,2025-06-01,Belagavi Dist,Belagavi Camp PS,15.84457,74.50581,Robbery,Pending Trial
+FIR-372/2025-d776,2025-06-11,Belagavi Dist,Tilakwadi PS,15.84197,74.48565,Cyber Crime,Closed
+FIR-718/2026-ee88,2025-01-06,Mysuru City,Devaraja PS,12.27919,76.59504,Cyber Crime,Pending Trial
+FIR-552/2025-fe6a,2025-12-08,Hubballi Dharwad City,Hubballi Town PS,15.3905,75.08491,Assault,Charge Sheeted
+FIR-824/2026-b51d,2025-03-17,Hubballi Dharwad City,Hubballi Town PS,15.32555,75.1653,Cheating,Charge Sheeted
+FIR-927/2026-0931,2025-02-07,Hubballi Dharwad City,Vidyanagar PS,15.39217,75.09708,NDPS,Closed
+FIR-738/2026-7647,2025-01-02,Tumakuru,Tumakuru Town PS,13.34126,77.05371,NDPS,Pending Trial
+FIR-728/2025-e0fd,2025-12-15,Tumakuru,Tumakuru Town PS,13.35572,77.05526,Cyber Crime,Charge Sheeted
+FIR-511/2026-0cda,2025-07-15,Mysuru City,Devaraja PS,12.28501,76.61969,Cheating,Under Investigation
+FIR-527/2026-6596,2025-03-06,Hubballi Dharwad City,Vidyanagar PS,15.36762,75.08082,Theft,Pending Trial
+FIR-617/2025-2ed6,2025-04-19,Mysuru City,Saraswathipuram PS,12.27215,76.6793,Theft,Pending Trial
+FIR-134/2025-f059,2025-09-23,Tumakuru,Kyathasandra PS,13.30106,77.13895,Robbery,Under Investigation
+FIR-412/2025-6487,2025-08-07,Mysuru City,Devaraja PS,12.33235,76.59807,NDPS,Pending Trial
+FIR-116/2025-3302,2025-10-21,Mysuru City,Devaraja PS,12.26725,76.6365,Cyber Crime,Under Investigation
+FIR-621/2025-8b46,2025-07-24,Tumakuru,Tumakuru Town PS,13.31642,77.07061,NDPS,Closed
+FIR-543/2025-6c4e,2025-05-11,Bengaluru City,Koramangala PS,12.98047,77.6213,POCSO,Under Investigation
+FIR-256/2025-d4d0,2025-05-27,Mysuru City,Kuvempunagar PS,12.3375,76.65269,Murder,Pending Trial
+FIR-704/2025-4b0b,2025-12-27,Tumakuru,Tumakuru Town PS,13.35783,77.08663,POCSO,Pending Trial
+FIR-201/2025-d2d4,2025-03-27,Bengaluru City,Indiranagar PS,12.96278,77.60864,NDPS,Charge Sheeted
+FIR-812/2025-3f14,2025-02-20,Tumakuru,Kyathasandra PS,13.38462,77.14209,NDPS,Under Investigation
+FIR-626/2025-785e,2025-12-26,Hubballi Dharwad City,Dharwad Suburban PS,15.36972,75.1394,Cyber Crime,Charge Sheeted
+FIR-217/2025-7a7e,2025-05-18,Bengaluru City,Malleswaram PS,12.98992,77.56958,Robbery,Charge Sheeted
+FIR-450/2025-7a7c,2025-09-03,Bengaluru City,Malleswaram PS,12.95807,77.56598,Theft,Closed
+FIR-519/2026-7fc9,2025-10-07,Belagavi Dist,Khadebazar PS,15.89475,74.51968,Robbery,Closed
+FIR-485/2026-5a68,2025-04-20,Hubballi Dharwad City,Vidyanagar PS,15.32081,75.09878,Cheating,Closed
+FIR-720/2025-da61,2025-07-22,Bengaluru City,Indiranagar PS,13.00945,77.619,POCSO,Closed
+FIR-692/2025-0ddf,2025-08-15,Tumakuru,Kyathasandra PS,13.36607,77.12725,Cheating,Under Investigation
+FIR-342/2025-59f4,2025-05-28,Tumakuru,Tumakuru Town PS,13.33089,77.1124,NDPS,Closed
+FIR-231/2025-3876,2025-01-04,Hubballi Dharwad City,Hubballi Town PS,15.34992,75.12508,Assault,Pending Trial
+FIR-838/2025-2ecd,2025-07-18,Tumakuru,Tumakuru Town PS,13.3033,77.06572,NDPS,Pending Trial
+FIR-352/2025-cb33,2025-07-11,Bengaluru City,Malleswaram PS,12.96406,77.55304,Robbery,Charge Sheeted
+FIR-926/2025-d181,2025-01-05,Belagavi Dist,Khadebazar PS,15.85367,74.49908,NDPS,Charge Sheeted
+FIR-802/2026-17a3,2025-10-02,Belagavi Dist,Belagavi Camp PS,15.84053,74.5151,POCSO,Under Investigation
+FIR-336/2026-7009,2025-05-17,Hubballi Dharwad City,Vidyanagar PS,15.39464,75.11177,Murder,Charge Sheeted
+FIR-879/2025-53c5,2025-06-20,Mysuru City,Kuvempunagar PS,12.31427,76.67036,NDPS,Charge Sheeted
+FIR-346/2026-3f46,2025-01-29,Bengaluru City,Koramangala PS,12.92458,77.60486,Assault,Pending Trial
+FIR-746/2025-c30c,2025-09-17,Bengaluru City,Cubbon Park PS,12.96341,77.63249,NDPS,Charge Sheeted
+FIR-675/2026-5287,2025-05-28,Tumakuru,Kyathasandra PS,13.35678,77.10244,Cheating,Charge Sheeted
+FIR-115/2025-eebe,2025-06-01,Mysuru City,Devaraja PS,12.32076,76.61275,POCSO,Closed
+FIR-638/2025-6e45,2025-07-19,Bengaluru City,Koramangala PS,12.96582,77.64422,Cheating,Charge Sheeted
+FIR-471/2026-5063,2025-11-15,Mysuru City,Devaraja PS,12.28476,76.66838,POCSO,Charge Sheeted
+FIR-983/2025-6e69,2025-02-28,Tumakuru,Tumakuru Town PS,13.34968,77.08106,Assault,Closed
+FIR-674/2026-a0d2,2025-12-20,Mysuru City,Saraswathipuram PS,12.33936,76.6403,POCSO,Pending Trial
+FIR-602/2026-263f,2025-01-21,Bengaluru City,Indiranagar PS,12.97323,77.63953,Theft,Closed
+FIR-906/2025-3a0a,2025-11-05,Hubballi Dharwad City,Hubballi Town PS,15.34994,75.16844,NDPS,Pending Trial
+FIR-512/2025-cefc,2025-11-27,Belagavi Dist,Tilakwadi PS,15.81862,74.45924,Cyber Crime,Charge Sheeted
+FIR-307/2026-51d0,2025-05-18,Tumakuru,Kyathasandra PS,13.32421,77.08567,NDPS,Under Investigation
+FIR-892/2026-b2bd,2025-05-19,Bengaluru City,Cubbon Park PS,12.96161,77.54696,Cyber Crime,Under Investigation
+FIR-715/2026-5fa8,2025-02-03,Mysuru City,Saraswathipuram PS,12.32797,76.65406,NDPS,Pending Trial
+FIR-550/2026-77e1,2025-09-02,Bengaluru City,Malleswaram PS,12.93433,77.62362,Cheating,Under Investigation
+FIR-805/2026-63f0,2025-03-02,Mysuru City,Devaraja PS,12.29113,76.68667,Assault,Closed
+FIR-672/2026-7b4d,2025-02-22,Tumakuru,Tumakuru Town PS,13.28931,77.07244,Cyber Crime,Pending Trial
+FIR-215/2025-0f6f,2025-02-22,Mysuru City,Kuvempunagar PS,12.26178,76.59076,NDPS,Closed
+FIR-412/2025-63e4,2025-08-26,Belagavi Dist,Tilakwadi PS,15.80978,74.46516,Cheating,Closed
+FIR-961/2025-71c6,2025-04-06,Bengaluru City,Koramangala PS,12.99825,77.56166,Cyber Crime,Under Investigation
+FIR-277/2026-7390,2025-09-18,Belagavi Dist,Tilakwadi PS,15.88904,74.50476,NDPS,Closed
+FIR-194/2025-a3f7,2025-06-05,Hubballi Dharwad City,Dharwad Suburban PS,15.3967,75.12056,Cheating,Closed
+FIR-296/2026-a143,2025-07-23,Bengaluru City,Koramangala PS,13.01425,77.63539,Robbery,Pending Trial
+FIR-668/2025-938d,2025-12-03,Hubballi Dharwad City,Dharwad Suburban PS,15.36266,75.15006,Theft,Charge Sheeted
+FIR-588/2025-5611,2025-11-03,Belagavi Dist,Belagavi Camp PS,15.86077,74.54591,Robbery,Under Investigation
+FIR-823/2026-65c9,2025-10-31,Belagavi Dist,Khadebazar PS,15.80047,74.54722,Assault,Under Investigation
+FIR-693/2026-f287,2025-07-17,Belagavi Dist,Tilakwadi PS,15.84293,74.48197,Murder,Charge Sheeted
+FIR-996/2025-ac63,2025-08-27,Tumakuru,Tumakuru Town PS,13.33895,77.06966,Murder,Pending Trial
+FIR-892/2025-cc7a,2025-07-15,Bengaluru City,Koramangala PS,12.96981,77.56883,POCSO,Charge Sheeted
+FIR-601/2025-c1ac,2025-06-17,Mysuru City,Saraswathipuram PS,12.24803,76.6544,POCSO,Pending Trial
+FIR-793/2025-7a21,2025-06-27,Belagavi Dist,Belagavi Camp PS,15.85993,74.53095,POCSO,Charge Sheeted
+FIR-113/2025-747a,2025-09-14,Tumakuru,Tumakuru Town PS,13.29584,77.06379,Assault,Under Investigation
+FIR-912/2026-f715,2025-06-21,Belagavi Dist,Khadebazar PS,15.85005,74.53044,Assault,Closed
+FIR-223/2026-becb,2025-01-03,Tumakuru,Kyathasandra PS,13.29446,77.08304,Cyber Crime,Charge Sheeted
+FIR-558/2026-4d37,2025-10-07,Mysuru City,Devaraja PS,12.29859,76.59014,Murder,Charge Sheeted
+FIR-778/2025-7c89,2025-03-16,Mysuru City,Devaraja PS,12.30116,76.66357,Cheating,Pending Trial
+FIR-864/2026-0803,2025-10-19,Hubballi Dharwad City,Dharwad Suburban PS,15.37864,75.13941,Robbery,Charge Sheeted
+FIR-359/2026-5722,2025-12-13,Bengaluru City,Indiranagar PS,13.01738,77.58325,NDPS,Under Investigation
+FIR-136/2025-c1d5,2025-10-09,Tumakuru,Tumakuru Town PS,13.36297,77.11362,Assault,Pending Trial
+FIR-353/2025-267b,2025-05-13,Tumakuru,Kyathasandra PS,13.32643,77.08004,Robbery,Charge Sheeted
+FIR-198/2026-c6f9,2025-09-30,Mysuru City,Saraswathipuram PS,12.26756,76.65734,Murder,Closed
+FIR-552/2026-b42c,2025-09-21,Belagavi Dist,Tilakwadi PS,15.84818,74.52143,Assault,Under Investigation
+FIR-814/2025-a98d,2025-02-03,Belagavi Dist,Khadebazar PS,15.80134,74.45647,Cyber Crime,Closed
+FIR-290/2025-da06,2025-09-04,Belagavi Dist,Tilakwadi PS,15.89209,74.46242,Murder,Charge Sheeted
+FIR-818/2026-8754,2025-02-06,Mysuru City,Kuvempunagar PS,12.3279,76.60146,Assault,Under Investigation
+FIR-905/2025-b826,2025-09-20,Tumakuru,Kyathasandra PS,13.33851,77.06263,Robbery,Closed
+FIR-346/2025-6642,2025-12-08,Mysuru City,Kuvempunagar PS,12.24787,76.61307,NDPS,Charge Sheeted
+FIR-176/2026-406a,2025-09-27,Bengaluru City,Koramangala PS,12.96163,77.5617,Murder,Pending Trial
+FIR-331/2026-131a,2025-12-15,Mysuru City,Kuvempunagar PS,12.30912,76.62807,Assault,Under Investigation
+FIR-925/2025-1730,2025-08-23,Tumakuru,Tumakuru Town PS,13.31721,77.05259,NDPS,Under Investigation
+FIR-375/2025-1bdf,2025-07-16,Belagavi Dist,Khadebazar PS,15.8705,74.51065,Theft,Closed
+FIR-463/2026-8e38,2025-11-14,Belagavi Dist,Tilakwadi PS,15.80904,74.48237,Cyber Crime,Under Investigation
+FIR-950/2026-73fb,2025-01-08,Hubballi Dharwad City,Dharwad Suburban PS,15.40763,75.15998,Murder,Charge Sheeted
+FIR-576/2025-0aef,2025-04-16,Belagavi Dist,Belagavi Camp PS,15.79975,74.46029,Assault,Pending Trial
+FIR-467/2026-25e1,2025-03-17,Bengaluru City,Indiranagar PS,12.95619,77.63426,Assault,Under Investigation
+FIR-681/2026-8c54,2025-09-25,Tumakuru,Kyathasandra PS,13.32699,77.07365,Cyber Crime,Closed
+FIR-869/2026-60f0,2025-02-25,Tumakuru,Kyathasandra PS,13.30762,77.09359,NDPS,Charge Sheeted
+FIR-443/2025-9eca,2025-12-29,Hubballi Dharwad City,Dharwad Suburban PS,15.33095,75.09565,Cyber Crime,Charge Sheeted
+FIR-812/2026-fa3c,2025-01-17,Belagavi Dist,Khadebazar PS,15.86822,74.51897,Theft,Under Investigation
+FIR-327/2025-1830,2025-06-22,Bengaluru City,Malleswaram PS,12.92851,77.56098,NDPS,Under Investigation
+FIR-377/2025-a6c6,2025-09-26,Hubballi Dharwad City,Hubballi Town PS,15.39853,75.17352,Cyber Crime,Under Investigation
+FIR-398/2025-520d,2025-01-03,Bengaluru City,Cubbon Park PS,12.98424,77.56564,Cheating,Pending Trial
+FIR-348/2025-90ac,2025-04-27,Belagavi Dist,Khadebazar PS,15.84958,74.53058,Cheating,Pending Trial
+FIR-440/2026-9f06,2025-12-27,Belagavi Dist,Belagavi Camp PS,15.87969,74.50579,Cyber Crime,Closed
+FIR-947/2025-823d,2025-04-06,Tumakuru,Tumakuru Town PS,13.38184,77.07011,Murder,Pending Trial
+FIR-909/2025-d173,2025-09-16,Belagavi Dist,Khadebazar PS,15.81042,74.54237,Murder,Closed
+FIR-135/2026-1e7b,2025-07-05,Bengaluru City,Koramangala PS,12.98603,77.60362,Murder,Charge Sheeted
+FIR-648/2025-2cd7,2025-12-13,Mysuru City,Kuvempunagar PS,12.3141,76.62467,POCSO,Under Investigation
+FIR-300/2025-4311,2025-11-20,Tumakuru,Kyathasandra PS,13.29773,77.09905,Murder,Pending Trial
+FIR-103/2026-ae90,2025-02-26,Hubballi Dharwad City,Dharwad Suburban PS,15.33808,75.07746,Assault,Under Investigation
+FIR-435/2026-adfd,2025-03-03,Mysuru City,Devaraja PS,12.33159,76.62814,Cheating,Pending Trial
+FIR-401/2026-0af9,2025-02-07,Hubballi Dharwad City,Vidyanagar PS,15.33177,75.09112,Robbery,Closed
+FIR-674/2025-d84d,2025-03-16,Hubballi Dharwad City,Hubballi Town PS,15.32706,75.14751,Robbery,Closed
+FIR-123/2026-3ae9,2025-06-05,Mysuru City,Kuvempunagar PS,12.28285,76.65054,Murder,Pending Trial
+FIR-202/2025-cd90,2026-01-01,Tumakuru,Kyathasandra PS,13.37375,77.12985,Assault,Charge Sheeted
+FIR-220/2026-0988,2025-06-20,Hubballi Dharwad City,Hubballi Town PS,15.37154,75.1541,Cheating,Under Investigation
+FIR-648/2025-51a5,2025-07-18,Tumakuru,Kyathasandra PS,13.34001,77.11522,Theft,Closed
+FIR-544/2026-13dd,2025-08-03,Bengaluru City,Indiranagar PS,13.00505,77.63475,NDPS,Under Investigation
+FIR-256/2026-5a04,2025-03-09,Tumakuru,Tumakuru Town PS,13.34238,77.05954,Robbery,Pending Trial
+FIR-659/2026-0dda,2025-01-12,Mysuru City,Saraswathipuram PS,12.32407,76.60353,Cyber Crime,Under Investigation
+FIR-878/2026-88f4,2025-07-02,Tumakuru,Kyathasandra PS,13.2931,77.06682,Murder,Closed
+FIR-937/2026-23e3,2025-04-12,Mysuru City,Saraswathipuram PS,12.29374,76.67649,Cyber Crime,Charge Sheeted
+FIR-647/2026-2c94,2025-05-28,Tumakuru,Kyathasandra PS,13.29258,77.05395,NDPS,Charge Sheeted
+FIR-102/2026-3979,2025-11-02,Mysuru City,Devaraja PS,12.26499,76.64469,Assault,Pending Trial
+FIR-631/2025-a09d,2025-06-21,Bengaluru City,Koramangala PS,12.98424,77.64265,Cheating,Charge Sheeted
+FIR-830/2026-f4ab,2025-12-22,Tumakuru,Kyathasandra PS,13.32088,77.14402,POCSO,Pending Trial
+FIR-122/2026-3ad9,2025-05-28,Hubballi Dharwad City,Vidyanagar PS,15.39706,75.10221,NDPS,Under Investigation
+FIR-396/2025-dd1c,2025-01-25,Hubballi Dharwad City,Hubballi Town PS,15.37693,75.15206,Cheating,Closed
+FIR-602/2025-03bf,2025-04-22,Mysuru City,Kuvempunagar PS,12.32539,76.65772,POCSO,Under Investigation
+FIR-409/2025-0c4d,2025-07-19,Mysuru City,Saraswathipuram PS,12.24981,76.64311,NDPS,Under Investigation
+FIR-533/2025-5371,2025-01-11,Belagavi Dist,Tilakwadi PS,15.88084,74.4479,Cheating,Pending Trial
+FIR-998/2025-dff5,2025-06-21,Bengaluru City,Malleswaram PS,12.956,77.57708,POCSO,Pending Trial
+FIR-584/2026-ce39,2025-09-16,Bengaluru City,Malleswaram PS,12.9749,77.60057,Cheating,Charge Sheeted
+FIR-654/2025-742f,2025-11-17,Belagavi Dist,Belagavi Camp PS,15.88432,74.52755,Cheating,Closed
+FIR-788/2025-d619,2025-06-03,Bengaluru City,Malleswaram PS,12.93656,77.56579,Cyber Crime,Charge Sheeted
+FIR-474/2026-2558,2025-08-07,Bengaluru City,Malleswaram PS,12.96941,77.54834,Murder,Closed
+FIR-284/2025-2a8a,2025-11-21,Hubballi Dharwad City,Dharwad Suburban PS,15.41459,75.16742,NDPS,Under Investigation
+FIR-119/2026-e341,2025-10-24,Hubballi Dharwad City,Vidyanagar PS,15.41045,75.16889,Robbery,Pending Trial
+FIR-893/2026-a837,2025-06-10,Hubballi Dharwad City,Vidyanagar PS,15.33933,75.11475,NDPS,Pending Trial
+FIR-165/2025-8a31,2025-11-23,Mysuru City,Saraswathipuram PS,12.32164,76.59438,NDPS,Under Investigation
+FIR-185/2026-4fdf,2025-01-06,Hubballi Dharwad City,Dharwad Suburban PS,15.41451,75.14553,POCSO,Closed
+FIR-356/2026-0f2c,2025-12-14,Bengaluru City,Malleswaram PS,13.01611,77.59835,Theft,Under Investigation
+FIR-207/2026-4d4f,2025-02-28,Tumakuru,Kyathasandra PS,13.32929,77.09559,Cyber Crime,Under Investigation
+FIR-357/2026-9de5,2025-05-07,Bengaluru City,Indiranagar PS,12.99438,77.55213,Cyber Crime,Closed
+FIR-509/2026-fd13,2025-11-23,Tumakuru,Kyathasandra PS,13.30625,77.0621,POCSO,Under Investigation
+FIR-263/2026-e8e7,2025-01-12,Mysuru City,Saraswathipuram PS,12.28675,76.59789,Cheating,Charge Sheeted
+FIR-812/2025-a714,2025-08-26,Bengaluru City,Koramangala PS,12.96126,77.61297,Cheating,Pending Trial
+FIR-789/2025-708a,2025-08-23,Bengaluru City,Malleswaram PS,12.99956,77.5778,Robbery,Under Investigation
+FIR-976/2025-009c,2025-08-09,Belagavi Dist,Belagavi Camp PS,15.80482,74.49237,Cheating,Charge Sheeted
+FIR-448/2026-5370,2025-08-05,Belagavi Dist,Khadebazar PS,15.85768,74.48535,Robbery,Under Investigation
+FIR-777/2025-98fa,2025-04-07,Mysuru City,Kuvempunagar PS,12.28046,76.63599,POCSO,Charge Sheeted
+FIR-904/2026-10ee,2025-01-22,Hubballi Dharwad City,Vidyanagar PS,15.37541,75.14045,Murder,Charge Sheeted
+FIR-975/2025-f584,2025-01-01,Bengaluru City,Cubbon Park PS,12.98187,77.55691,Theft,Charge Sheeted
+FIR-971/2026-f0f6,2025-08-16,Bengaluru City,Cubbon Park PS,12.98125,77.54637,POCSO,Pending Trial
+FIR-861/2026-4f4d,2025-12-22,Tumakuru,Kyathasandra PS,13.32872,77.08763,NDPS,Charge Sheeted
+FIR-603/2026-6ec7,2025-12-09,Mysuru City,Saraswathipuram PS,12.25827,76.67583,Cyber Crime,Pending Trial
+FIR-703/2026-62a4,2025-10-22,Mysuru City,Kuvempunagar PS,12.34524,76.67199,NDPS,Pending Trial
+FIR-480/2025-0597,2025-10-16,Tumakuru,Tumakuru Town PS,13.29968,77.11533,Murder,Pending Trial
+FIR-698/2025-74bb,2025-11-25,Mysuru City,Saraswathipuram PS,12.29226,76.5906,Assault,Charge Sheeted
+FIR-319/2026-0498,2025-12-18,Tumakuru,Kyathasandra PS,13.33847,77.09805,POCSO,Charge Sheeted
+FIR-349/2026-2373,2025-07-13,Belagavi Dist,Belagavi Camp PS,15.82209,74.53695,Theft,Charge Sheeted
+FIR-743/2025-f25f,2025-05-23,Mysuru City,Saraswathipuram PS,12.26049,76.64042,Assault,Closed
+FIR-733/2026-1ee2,2025-05-02,Hubballi Dharwad City,Hubballi Town PS,15.3658,75.12475,Cyber Crime,Pending Trial
+FIR-168/2025-e6cd,2025-04-14,Bengaluru City,Indiranagar PS,12.98279,77.62796,Cyber Crime,Under Investigation
+FIR-983/2026-bfac,2025-02-18,Mysuru City,Saraswathipuram PS,12.28825,76.65752,Robbery,Closed
+FIR-380/2026-c9aa,2025-08-09,Hubballi Dharwad City,Hubballi Town PS,15.38172,75.12727,NDPS,Under Investigation
+FIR-819/2025-cdf5,2025-08-01,Tumakuru,Tumakuru Town PS,13.37135,77.114,POCSO,Under Investigation
+FIR-144/2026-2c1c,2025-08-07,Hubballi Dharwad City,Dharwad Suburban PS,15.35921,75.10143,Assault,Closed
+FIR-421/2025-8d60,2025-05-20,Mysuru City,Saraswathipuram PS,12.33094,76.65116,Robbery,Closed
+FIR-375/2026-bacb,2025-11-29,Bengaluru City,Indiranagar PS,12.97272,77.55222,Cyber Crime,Under Investigation
+FIR-746/2026-efd3,2025-09-21,Bengaluru City,Koramangala PS,13.01457,77.58083,NDPS,Closed
+FIR-849/2026-567d,2025-05-10,Belagavi Dist,Tilakwadi PS,15.88994,74.47388,Cheating,Under Investigation
+FIR-966/2026-fdb7,2025-09-08,Hubballi Dharwad City,Dharwad Suburban PS,15.39484,75.15011,NDPS,Closed
+FIR-413/2026-5dd4,2025-03-28,Tumakuru,Tumakuru Town PS,13.3695,77.06217,Assault,Under Investigation
+FIR-663/2025-53ac,2025-09-18,Bengaluru City,Koramangala PS,12.98906,77.54642,Murder,Closed
+FIR-847/2026-921c,2025-05-29,Hubballi Dharwad City,Dharwad Suburban PS,15.34553,75.07866,Robbery,Pending Trial
+FIR-363/2025-ded5,2025-06-13,Belagavi Dist,Khadebazar PS,15.81492,74.53972,Cyber Crime,Under Investigation
+FIR-556/2026-a7e0,2025-04-21,Belagavi Dist,Khadebazar PS,15.86791,74.50243,Theft,Pending Trial
+FIR-764/2026-f46e,2025-11-30,Tumakuru,Tumakuru Town PS,13.33638,77.12333,Assault,Closed
+FIR-170/2026-e52e,2025-09-03,Belagavi Dist,Khadebazar PS,15.88305,74.49092,POCSO,Under Investigation
+FIR-402/2025-690d,2025-11-23,Mysuru City,Saraswathipuram PS,12.3055,76.5928,Robbery,Pending Trial
+FIR-821/2026-430c,2025-11-08,Tumakuru,Kyathasandra PS,13.34191,77.12066,Theft,Pending Trial
+FIR-724/2026-bc25,2025-05-17,Mysuru City,Kuvempunagar PS,12.32804,76.68074,Robbery,Charge Sheeted
+FIR-251/2025-3bcf,2025-07-10,Tumakuru,Kyathasandra PS,13.3173,77.13606,POCSO,Charge Sheeted
+FIR-192/2025-428b,2025-10-20,Hubballi Dharwad City,Dharwad Suburban PS,15.33582,75.14117,Cheating,Pending Trial
+FIR-382/2026-3109,2025-06-17,Belagavi Dist,Belagavi Camp PS,15.81666,74.46116,Robbery,Under Investigation
+FIR-116/2026-b83f,2025-12-18,Belagavi Dist,Tilakwadi PS,15.87518,74.51615,Cheating,Under Investigation
+FIR-140/2025-68d7,2025-09-19,Tumakuru,Tumakuru Town PS,13.33055,77.11734,Cheating,Under Investigation
+FIR-914/2025-e8d5,2025-03-20,Tumakuru,Tumakuru Town PS,13.30293,77.05163,Cheating,Under Investigation
+FIR-985/2026-be74,2025-05-14,Belagavi Dist,Tilakwadi PS,15.87489,74.47543,Cheating,Closed
+FIR-112/2026-29bf,2025-11-12,Mysuru City,Kuvempunagar PS,12.2796,76.6835,Assault,Pending Trial
+FIR-266/2025-3c01,2025-11-26,Hubballi Dharwad City,Vidyanagar PS,15.41114,75.10956,Assault,Under Investigation
+FIR-675/2025-157c,2025-07-13,Mysuru City,Kuvempunagar PS,12.28578,76.65369,NDPS,Under Investigation
+FIR-169/2026-4b1f,2025-01-25,Tumakuru,Tumakuru Town PS,13.36537,77.09488,Assault,Pending Trial
+FIR-547/2025-6414,2025-02-19,Bengaluru City,Indiranagar PS,12.99052,77.61996,Robbery,Under Investigation
+FIR-505/2026-5c15,2025-05-21,Belagavi Dist,Tilakwadi PS,15.86873,74.51486,Cheating,Pending Trial
+FIR-850/2025-96c8,2025-08-19,Hubballi Dharwad City,Vidyanagar PS,15.3495,75.11164,Cheating,Charge Sheeted
+FIR-900/2026-0338,2025-02-24,Bengaluru City,Cubbon Park PS,12.97104,77.59281,NDPS,Under Investigation
+FIR-938/2025-c372,2025-03-06,Belagavi Dist,Tilakwadi PS,15.88486,74.47871,Cheating,Closed
+FIR-977/2025-fdc5,2025-10-22,Bengaluru City,Malleswaram PS,12.95716,77.55638,POCSO,Closed
+FIR-276/2026-083a,2025-09-04,Mysuru City,Kuvempunagar PS,12.29054,76.67197,POCSO,Pending Trial
+FIR-900/2025-64c9,2025-05-06,Mysuru City,Devaraja PS,12.28473,76.68354,Cyber Crime,Under Investigation
+FIR-557/2026-396c,2025-01-18,Tumakuru,Tumakuru Town PS,13.32452,77.07732,Cheating,Under Investigation
+FIR-915/2026-2a05,2025-03-27,Belagavi Dist,Belagavi Camp PS,15.85518,74.467,Robbery,Under Investigation
+FIR-710/2025-b925,2025-06-26,Bengaluru City,Cubbon Park PS,12.97451,77.64015,POCSO,Pending Trial
+FIR-516/2025-883e,2025-12-02,Tumakuru,Tumakuru Town PS,13.30225,77.10833,Assault,Under Investigation
+FIR-296/2026-9573,2025-11-29,Hubballi Dharwad City,Vidyanagar PS,15.3308,75.16774,POCSO,Under Investigation
+FIR-799/2026-4650,2025-04-20,Mysuru City,Saraswathipuram PS,12.28098,76.60269,Theft,Under Investigation
+FIR-969/2026-7011,2025-10-27,Tumakuru,Kyathasandra PS,13.3356,77.06937,Cyber Crime,Under Investigation
+FIR-389/2026-f33e,2025-01-09,Tumakuru,Kyathasandra PS,13.2945,77.06226,Cheating,Charge Sheeted
+FIR-779/2025-330c,2025-08-20,Mysuru City,Saraswathipuram PS,12.2709,76.68354,POCSO,Under Investigation
+FIR-369/2026-e468,2025-08-28,Belagavi Dist,Khadebazar PS,15.83952,74.44779,Cheating,Under Investigation
+FIR-870/2026-237a,2025-05-03,Tumakuru,Tumakuru Town PS,13.30661,77.0568,Robbery,Charge Sheeted
+FIR-814/2025-6d0e,2025-01-30,Hubballi Dharwad City,Dharwad Suburban PS,15.31549,75.15483,Robbery,Charge Sheeted
+FIR-164/2025-c01b,2025-05-18,Belagavi Dist,Khadebazar PS,15.87178,74.45978,Cheating,Closed
+FIR-347/2026-97bd,2025-10-09,Belagavi Dist,Khadebazar PS,15.83097,74.4654,POCSO,Closed
+FIR-270/2026-deda,2025-12-24,Belagavi Dist,Khadebazar PS,15.83379,74.45449,Theft,Charge Sheeted
+FIR-619/2026-c18c,2025-08-29,Tumakuru,Tumakuru Town PS,13.33569,77.06131,Theft,Closed
+FIR-291/2026-0d52,2025-03-16,Hubballi Dharwad City,Dharwad Suburban PS,15.38419,75.11598,Theft,Pending Trial
+FIR-277/2026-2582,2025-03-06,Mysuru City,Saraswathipuram PS,12.30352,76.60647,POCSO,Under Investigation
+FIR-284/2026-863f,2025-02-04,Hubballi Dharwad City,Dharwad Suburban PS,15.40614,75.15891,NDPS,Under Investigation
+FIR-616/2026-2a02,2025-07-31,Hubballi Dharwad City,Vidyanagar PS,15.31793,75.0936,NDPS,Charge Sheeted
+FIR-992/2026-edbd,2025-07-30,Hubballi Dharwad City,Hubballi Town PS,15.34527,75.16224,Cyber Crime,Charge Sheeted
+FIR-730/2026-66bf,2025-05-15,Belagavi Dist,Khadebazar PS,15.85134,74.54108,Robbery,Under Investigation
+FIR-421/2025-d634,2025-09-17,Bengaluru City,Cubbon Park PS,12.99878,77.60922,Robbery,Under Investigation
+FIR-673/2026-d1da,2025-12-04,Mysuru City,Devaraja PS,12.24736,76.61166,Murder,Charge Sheeted
+FIR-903/2026-0a49,2025-08-21,Tumakuru,Tumakuru Town PS,13.32683,77.13546,Robbery,Charge Sheeted
+FIR-757/2026-8ba6,2025-06-10,Mysuru City,Saraswathipuram PS,12.2461,76.61221,Assault,Under Investigation
+FIR-491/2025-d108,2025-04-17,Mysuru City,Saraswathipuram PS,12.29008,76.64646,Assault,Pending Trial
+FIR-880/2025-d24c,2025-09-24,Mysuru City,Devaraja PS,12.30371,76.66378,Murder,Pending Trial
+FIR-897/2026-6b95,2025-12-01,Belagavi Dist,Tilakwadi PS,15.83511,74.51529,POCSO,Pending Trial
+FIR-765/2025-df90,2025-03-13,Mysuru City,Saraswathipuram PS,12.3021,76.67903,Cheating,Under Investigation
+FIR-992/2026-9028,2025-08-10,Mysuru City,Kuvempunagar PS,12.27532,76.66935,POCSO,Pending Trial
+FIR-127/2026-f6d0,2025-01-05,Bengaluru City,Cubbon Park PS,12.96452,77.54927,Robbery,Closed
+FIR-905/2026-7636,2025-08-23,Mysuru City,Kuvempunagar PS,12.26833,76.67208,Cheating,Under Investigation
+FIR-553/2026-4a39,2025-12-18,Belagavi Dist,Khadebazar PS,15.8459,74.49616,Theft,Pending Trial
+FIR-538/2025-1eed,2025-08-15,Tumakuru,Kyathasandra PS,13.35439,77.09876,Cyber Crime,Pending Trial
+FIR-858/2026-8a33,2025-03-24,Bengaluru City,Indiranagar PS,12.972,77.6331,Cheating,Under Investigation
+FIR-614/2026-0f05,2025-05-19,Tumakuru,Tumakuru Town PS,13.35985,77.07262,POCSO,Charge Sheeted
+FIR-178/2026-3c05,2025-11-22,Tumakuru,Tumakuru Town PS,13.34585,77.07703,POCSO,Pending Trial
+FIR-722/2025-b8ae,2025-05-12,Bengaluru City,Cubbon Park PS,12.98978,77.60383,Assault,Closed
+FIR-960/2026-2cf2,2025-07-11,Mysuru City,Devaraja PS,12.28773,76.59488,Murder,Closed
+FIR-615/2025-9b0f,2025-07-23,Belagavi Dist,Khadebazar PS,15.83152,74.45787,Assault,Charge Sheeted
+FIR-185/2025-920d,2025-05-17,Belagavi Dist,Tilakwadi PS,15.85206,74.51774,NDPS,Charge Sheeted
+FIR-628/2025-5479,2025-03-27,Hubballi Dharwad City,Dharwad Suburban PS,15.3407,75.15373,Murder,Under Investigation
+FIR-474/2025-cb9a,2025-09-15,Hubballi Dharwad City,Dharwad Suburban PS,15.34744,75.13173,Robbery,Pending Trial
+FIR-890/2025-b9ae,2025-06-06,Mysuru City,Saraswathipuram PS,12.32806,76.68126,Cheating,Pending Trial
+FIR-329/2026-67be,2025-02-25,Bengaluru City,Indiranagar PS,12.9863,77.56539,POCSO,Pending Trial
+FIR-114/2025-2b3d,2025-09-06,Belagavi Dist,Belagavi Camp PS,15.83247,74.52295,Theft,Charge Sheeted
+FIR-940/2025-a722,2025-01-09,Bengaluru City,Cubbon Park PS,12.92756,77.63399,NDPS,Closed
+FIR-184/2025-c0b2,2025-03-04,Tumakuru,Tumakuru Town PS,13.34797,77.09172,NDPS,Pending Trial
+FIR-855/2025-aa61,2025-07-20,Mysuru City,Kuvempunagar PS,12.27962,76.60703,Assault,Closed
+FIR-497/2026-3897,2025-04-26,Bengaluru City,Indiranagar PS,13.0164,77.57608,Theft,Under Investigation
+FIR-784/2026-911d,2025-03-11,Mysuru City,Devaraja PS,12.2796,76.61395,Cyber Crime,Closed
+FIR-759/2025-1da3,2025-03-22,Mysuru City,Devaraja PS,12.2693,76.68343,Cheating,Pending Trial
+FIR-208/2025-063f,2025-04-04,Hubballi Dharwad City,Hubballi Town PS,15.32782,75.14893,NDPS,Pending Trial
+FIR-449/2025-4996,2025-04-14,Bengaluru City,Indiranagar PS,12.96409,77.62098,Assault,Charge Sheeted
+FIR-654/2025-3407,2025-05-31,Hubballi Dharwad City,Dharwad Suburban PS,15.35254,75.07406,Cyber Crime,Charge Sheeted
+FIR-101/2026-2861,2025-06-13,Hubballi Dharwad City,Dharwad Suburban PS,15.3186,75.10101,Theft,Closed
+FIR-123/2025-e6b3,2025-11-17,Belagavi Dist,Tilakwadi PS,15.86819,74.48389,Robbery,Under Investigation
+FIR-760/2026-ceaa,2025-10-26,Bengaluru City,Koramangala PS,12.98754,77.55115,Murder,Charge Sheeted
+FIR-660/2026-1eae,2025-04-13,Mysuru City,Kuvempunagar PS,12.27586,76.61445,Murder,Charge Sheeted
+FIR-505/2025-ff7b,2025-11-08,Hubballi Dharwad City,Hubballi Town PS,15.34476,75.08923,Robbery,Closed
+FIR-757/2026-ac4f,2025-08-29,Belagavi Dist,Tilakwadi PS,15.80156,74.45999,Cheating,Closed
+FIR-918/2025-92fe,2025-05-27,Tumakuru,Kyathasandra PS,13.2951,77.07989,Murder,Charge Sheeted
+FIR-592/2025-e836,2025-07-23,Hubballi Dharwad City,Vidyanagar PS,15.37598,75.1494,Theft,Pending Trial
+FIR-856/2025-6050,2025-03-05,Belagavi Dist,Khadebazar PS,15.89481,74.5389,Robbery,Under Investigation
+FIR-880/2026-abad,2025-05-20,Tumakuru,Kyathasandra PS,13.3126,77.12074,Cheating,Closed
+FIR-304/2025-5954,2025-05-11,Tumakuru,Kyathasandra PS,13.30914,77.14243,Murder,Closed
+FIR-264/2025-eabd,2025-09-03,Belagavi Dist,Tilakwadi PS,15.82437,74.48001,Robbery,Under Investigation
+FIR-826/2025-13b7,2025-11-17,Mysuru City,Devaraja PS,12.25883,76.61233,Robbery,Under Investigation
+FIR-255/2026-a93c,2025-01-13,Tumakuru,Kyathasandra PS,13.38895,77.08422,Assault,Pending Trial
+FIR-421/2026-fcdf,2025-07-29,Bengaluru City,Koramangala PS,12.93866,77.61512,NDPS,Charge Sheeted
+FIR-583/2025-26c6,2025-08-04,Mysuru City,Kuvempunagar PS,12.27151,76.66455,POCSO,Under Investigation
+FIR-833/2025-284f,2025-06-28,Hubballi Dharwad City,Vidyanagar PS,15.40106,75.08032,NDPS,Closed
+FIR-773/2025-f435,2025-07-31,Hubballi Dharwad City,Dharwad Suburban PS,15.41004,75.15191,NDPS,Pending Trial
+FIR-826/2026-d5f5,2025-01-15,Hubballi Dharwad City,Hubballi Town PS,15.36509,75.10343,Theft,Pending Trial
+FIR-108/2026-0713,2025-04-26,Belagavi Dist,Tilakwadi PS,15.8297,74.4867,Murder,Charge Sheeted
+FIR-741/2025-dcf8,2025-10-09,Bengaluru City,Indiranagar PS,12.98975,77.58769,Assault,Pending Trial
+FIR-156/2025-7fc4,2025-06-04,Bengaluru City,Cubbon Park PS,12.98525,77.60387,Cyber Crime,Charge Sheeted
+FIR-609/2025-ca2f,2025-04-02,Bengaluru City,Malleswaram PS,12.93696,77.60555,Assault,Pending Trial
+FIR-641/2025-8e75,2025-05-25,Bengaluru City,Cubbon Park PS,12.98494,77.5676,Murder,Pending Trial
+FIR-613/2026-3b7f,2025-10-31,Mysuru City,Kuvempunagar PS,12.26129,76.68875,Cheating,Closed
+FIR-327/2025-5554,2025-07-02,Hubballi Dharwad City,Hubballi Town PS,15.34287,75.1641,Robbery,Under Investigation
+FIR-905/2025-3a53,2025-11-08,Belagavi Dist,Tilakwadi PS,15.89583,74.45921,Theft,Closed
+FIR-711/2026-6cc1,2025-11-23,Hubballi Dharwad City,Hubballi Town PS,15.34584,75.08278,Cheating,Closed
+FIR-530/2026-aef4,2025-03-23,Mysuru City,Saraswathipuram PS,12.31575,76.67812,Theft,Pending Trial
+FIR-526/2025-c7e1,2025-10-06,Mysuru City,Saraswathipuram PS,12.28148,76.6785,Murder,Closed
+FIR-477/2026-240f,2025-02-08,Hubballi Dharwad City,Vidyanagar PS,15.40845,75.14021,Cyber Crime,Pending Trial
+FIR-619/2026-e3cc,2025-07-24,Hubballi Dharwad City,Hubballi Town PS,15.39874,75.16877,POCSO,Under Investigation
+FIR-469/2026-d205,2025-07-12,Bengaluru City,Koramangala PS,12.95333,77.61981,Theft,Closed
+FIR-403/2026-5c89,2025-02-05,Belagavi Dist,Khadebazar PS,15.87748,74.53799,NDPS,Under Investigation
+FIR-677/2025-5071,2025-05-04,Belagavi Dist,Tilakwadi PS,15.81886,74.45132,Theft,Closed
+FIR-270/2026-ee28,2025-02-16,Bengaluru City,Indiranagar PS,13.01392,77.61833,Robbery,Under Investigation
+FIR-257/2025-86a9,2025-08-05,Belagavi Dist,Belagavi Camp PS,15.88637,74.49391,Robbery,Charge Sheeted
+FIR-347/2026-b8c1,2025-12-26,Belagavi Dist,Khadebazar PS,15.86072,74.51657,Assault,Under Investigation
+FIR-287/2026-c1cb,2025-07-07,Bengaluru City,Koramangala PS,13.01082,77.60483,Cheating,Charge Sheeted
+FIR-301/2025-3032,2025-03-22,Belagavi Dist,Tilakwadi PS,15.8135,74.4735,Theft,Charge Sheeted
+FIR-737/2026-9d51,2025-08-27,Belagavi Dist,Tilakwadi PS,15.8264,74.47443,Murder,Charge Sheeted
+FIR-625/2026-71a0,2025-11-11,Bengaluru City,Indiranagar PS,12.96091,77.62516,Cheating,Pending Trial
+FIR-738/2025-6f14,2025-07-22,Tumakuru,Kyathasandra PS,13.35733,77.10379,Assault,Charge Sheeted
+FIR-233/2025-efe3,2025-04-03,Belagavi Dist,Tilakwadi PS,15.84407,74.46475,Assault,Closed
+FIR-442/2025-0cba,2025-05-18,Bengaluru City,Cubbon Park PS,12.97656,77.61269,Assault,Under Investigation
+FIR-995/2025-90df,2025-05-04,Belagavi Dist,Tilakwadi PS,15.86656,74.4843,Theft,Under Investigation
+FIR-258/2026-ac26,2025-02-25,Belagavi Dist,Belagavi Camp PS,15.80318,74.49439,Murder,Closed
+FIR-444/2025-6021,2025-06-16,Bengaluru City,Malleswaram PS,12.98665,77.6292,Assault,Under Investigation
+FIR-632/2025-d5aa,2025-10-03,Bengaluru City,Malleswaram PS,12.96515,77.61444,Cheating,Charge Sheeted
+FIR-868/2026-b9e4,2025-12-05,Belagavi Dist,Belagavi Camp PS,15.8652,74.45278,Theft,Charge Sheeted
+FIR-104/2025-2922,2025-03-06,Tumakuru,Tumakuru Town PS,13.37618,77.06139,Assault,Closed
+FIR-497/2026-d93d,2025-06-10,Tumakuru,Tumakuru Town PS,13.33766,77.05601,Theft,Under Investigation
+FIR-575/2025-9f0b,2025-03-10,Bengaluru City,Indiranagar PS,12.9538,77.62586,Robbery,Pending Trial
+FIR-218/2026-1dbc,2025-11-28,Belagavi Dist,Khadebazar PS,15.87666,74.536,NDPS,Charge Sheeted
+FIR-255/2026-170c,2025-08-19,Bengaluru City,Cubbon Park PS,13.01138,77.60145,Robbery,Pending Trial
+FIR-316/2025-221c,2025-11-01,Mysuru City,Saraswathipuram PS,12.24618,76.59906,Cyber Crime,Closed
+FIR-738/2025-3bd8,2025-08-06,Belagavi Dist,Belagavi Camp PS,15.84848,74.5184,Cyber Crime,Under Investigation
+FIR-222/2025-e7e9,2025-04-19,Belagavi Dist,Belagavi Camp PS,15.80545,74.48825,Robbery,Pending Trial
+FIR-750/2025-7d7a,2025-09-07,Bengaluru City,Malleswaram PS,12.92719,77.62916,Theft,Closed
+FIR-464/2025-65a9,2025-11-24,Hubballi Dharwad City,Vidyanagar PS,15.35681,75.1301,NDPS,Under Investigation
+FIR-376/2026-951d,2025-12-17,Mysuru City,Saraswathipuram PS,12.28652,76.68877,Theft,Under Investigation
+FIR-155/2026-1ccc,2025-11-18,Belagavi Dist,Belagavi Camp PS,15.83087,74.46534,Assault,Closed
+FIR-787/2025-102f,2025-09-04,Mysuru City,Devaraja PS,12.31178,76.6327,Murder,Closed
+FIR-554/2025-0575,2025-01-28,Tumakuru,Kyathasandra PS,13.38287,77.09034,Robbery,Under Investigation
+FIR-812/2025-59d1,2025-06-29,Mysuru City,Kuvempunagar PS,12.29042,76.60304,Robbery,Pending Trial
+FIR-381/2025-c2ce,2025-10-17,Belagavi Dist,Tilakwadi PS,15.80362,74.51767,Cyber Crime,Closed
+FIR-741/2026-c30e,2025-01-30,Belagavi Dist,Belagavi Camp PS,15.80397,74.52543,POCSO,Closed
+FIR-604/2026-c1a2,2025-05-17,Bengaluru City,Koramangala PS,13.01865,77.57805,POCSO,Charge Sheeted
+FIR-223/2026-6d7b,2025-12-12,Tumakuru,Tumakuru Town PS,13.29718,77.10459,Cyber Crime,Charge Sheeted
+FIR-224/2026-2915,2025-02-22,Mysuru City,Kuvempunagar PS,12.25366,76.68732,Robbery,Under Investigation
+FIR-338/2026-f877,2025-07-24,Tumakuru,Tumakuru Town PS,13.36493,77.06641,Cyber Crime,Under Investigation
+FIR-984/2025-6380,2025-04-01,Hubballi Dharwad City,Vidyanagar PS,15.35419,75.09208,Robbery,Closed
+FIR-331/2026-e026,2025-05-07,Hubballi Dharwad City,Dharwad Suburban PS,15.38798,75.10506,NDPS,Closed
+FIR-429/2026-e0bd,2025-05-10,Hubballi Dharwad City,Vidyanagar PS,15.40121,75.1012,Cyber Crime,Pending Trial
+FIR-287/2025-e0e5,2025-11-21,Bengaluru City,Koramangala PS,12.96985,77.64095,Theft,Closed
+FIR-618/2026-d339,2025-02-01,Mysuru City,Saraswathipuram PS,12.30042,76.64342,Theft,Under Investigation
+FIR-827/2025-4ec9,2025-02-23,Tumakuru,Tumakuru Town PS,13.3219,77.14518,Murder,Charge Sheeted
+FIR-307/2025-bc33,2025-08-01,Tumakuru,Tumakuru Town PS,13.28986,77.06163,NDPS,Pending Trial
+FIR-785/2025-534f,2025-12-25,Tumakuru,Kyathasandra PS,13.38443,77.13749,Theft,Charge Sheeted
+FIR-808/2025-6c76,2025-02-02,Belagavi Dist,Belagavi Camp PS,15.81263,74.54012,Cyber Crime,Pending Trial
+FIR-150/2025-0fe2,2025-12-23,Hubballi Dharwad City,Dharwad Suburban PS,15.37224,75.07462,Assault,Closed
+FIR-875/2026-a09e,2025-11-07,Bengaluru City,Cubbon Park PS,13.00781,77.57656,POCSO,Closed
+FIR-862/2026-190f,2025-05-02,Hubballi Dharwad City,Vidyanagar PS,15.35655,75.13544,Cyber Crime,Closed
+FIR-996/2025-b9b4,2025-11-12,Belagavi Dist,Tilakwadi PS,15.80291,74.53441,Robbery,Pending Trial
+FIR-408/2025-d6dd,2025-09-05,Bengaluru City,Indiranagar PS,12.95117,77.59089,Cheating,Under Investigation
+FIR-260/2026-d90a,2025-01-24,Belagavi Dist,Tilakwadi PS,15.84584,74.52586,Theft,Charge Sheeted
+FIR-324/2026-419c,2025-01-13,Bengaluru City,Koramangala PS,13.00933,77.56039,Assault,Pending Trial
+FIR-195/2026-af66,2025-09-27,Belagavi Dist,Belagavi Camp PS,15.83533,74.52706,Murder,Charge Sheeted
+FIR-875/2025-c571,2025-06-29,Mysuru City,Saraswathipuram PS,12.31941,76.62685,Murder,Charge Sheeted
+FIR-319/2025-2a2d,2025-09-20,Mysuru City,Devaraja PS,12.34195,76.59099,Assault,Closed
+FIR-175/2025-5ded,2025-10-10,Bengaluru City,Malleswaram PS,12.98514,77.62089,Theft,Pending Trial
+FIR-856/2025-ecac,2025-10-27,Tumakuru,Tumakuru Town PS,13.3154,77.09381,Cyber Crime,Charge Sheeted
+FIR-791/2025-6421,2025-12-11,Belagavi Dist,Belagavi Camp PS,15.81014,74.48469,Assault,Charge Sheeted
+FIR-619/2025-7c1a,2025-08-24,Tumakuru,Tumakuru Town PS,13.38789,77.11407,Robbery,Charge Sheeted
+FIR-750/2025-7744,2025-03-26,Mysuru City,Kuvempunagar PS,12.31883,76.63207,Robbery,Under Investigation
+FIR-855/2025-8153,2025-01-29,Bengaluru City,Cubbon Park PS,13.00266,77.62054,Theft,Pending Trial
+FIR-841/2025-2cba,2025-09-01,Bengaluru City,Indiranagar PS,12.99774,77.60218,Theft,Pending Trial
+FIR-838/2025-d739,2025-05-12,Tumakuru,Kyathasandra PS,13.3148,77.13653,Theft,Closed
+FIR-254/2025-20d6,2025-09-27,Mysuru City,Saraswathipuram PS,12.26044,76.63856,Cyber Crime,Pending Trial
+FIR-449/2026-5906,2025-08-02,Bengaluru City,Malleswaram PS,13.01947,77.61504,Murder,Pending Trial
+FIR-691/2026-e6e2,2025-06-12,Tumakuru,Kyathasandra PS,13.35664,77.15054,Assault,Pending Trial
+FIR-917/2026-3f59,2025-03-10,Bengaluru City,Malleswaram PS,12.98163,77.61421,POCSO,Under Investigation
+FIR-556/2026-20d4,2025-08-27,Bengaluru City,Koramangala PS,12.98241,77.59872,Theft,Pending Trial
+FIR-526/2025-06aa,2025-03-07,Hubballi Dharwad City,Hubballi Town PS,15.32349,75.17336,Robbery,Pending Trial
+FIR-390/2025-727d,2025-12-14,Hubballi Dharwad City,Dharwad Suburban PS,15.38577,75.15954,Assault,Pending Trial
+FIR-141/2025-a3b2,2025-12-24,Mysuru City,Devaraja PS,12.3301,76.60484,NDPS,Closed
+FIR-800/2025-6ca9,2025-09-04,Hubballi Dharwad City,Dharwad Suburban PS,15.32349,75.12021,Cheating,Closed
+FIR-200/2025-94f8,2025-05-28,Bengaluru City,Indiranagar PS,12.93344,77.5486,POCSO,Under Investigation
+FIR-690/2026-f927,2025-05-20,Tumakuru,Kyathasandra PS,13.32897,77.07898,Robbery,Charge Sheeted
+FIR-610/2026-19d1,2025-01-09,Belagavi Dist,Belagavi Camp PS,15.81548,74.52921,NDPS,Closed
+FIR-338/2026-f872,2025-05-24,Mysuru City,Saraswathipuram PS,12.28251,76.68356,Cheating,Closed
+FIR-142/2026-8b17,2025-10-24,Mysuru City,Kuvempunagar PS,12.2596,76.59199,Theft,Pending Trial
+FIR-846/2026-ee2b,2025-04-10,Hubballi Dharwad City,Vidyanagar PS,15.36995,75.08354,NDPS,Charge Sheeted
+FIR-756/2025-ffad,2025-04-21,Bengaluru City,Indiranagar PS,13.01571,77.62147,Murder,Closed
+FIR-583/2026-70ad,2025-04-19,Mysuru City,Saraswathipuram PS,12.29475,76.66009,Cheating,Charge Sheeted
+FIR-411/2025-6daf,2025-07-12,Bengaluru City,Indiranagar PS,12.9405,77.57255,Cheating,Closed
+FIR-124/2026-6099,2025-02-17,Tumakuru,Kyathasandra PS,13.30196,77.13156,Murder,Charge Sheeted
+FIR-535/2025-d1d4,2025-01-21,Belagavi Dist,Belagavi Camp PS,15.82116,74.52669,NDPS,Under Investigation
+FIR-784/2025-a314,2025-10-15,Tumakuru,Kyathasandra PS,13.36479,77.08829,Cyber Crime,Closed
+FIR-977/2026-c37e,2025-11-01,Bengaluru City,Malleswaram PS,12.92654,77.60265,Assault,Under Investigation
+FIR-358/2025-c30e,2025-05-03,Belagavi Dist,Tilakwadi PS,15.84911,74.46579,NDPS,Under Investigation
+FIR-251/2026-5096,2025-06-25,Bengaluru City,Cubbon Park PS,13.01627,77.63074,NDPS,Pending Trial
+FIR-293/2025-c297,2025-04-30,Hubballi Dharwad City,Vidyanagar PS,15.34822,75.1633,NDPS,Pending Trial
+FIR-179/2026-b1d1,2025-09-12,Tumakuru,Kyathasandra PS,13.30901,77.10099,Cheating,Pending Trial
+FIR-612/2025-29aa,2025-02-26,Tumakuru,Kyathasandra PS,13.35873,77.10517,Assault,Pending Trial
+FIR-164/2026-14cf,2025-10-12,Belagavi Dist,Tilakwadi PS,15.82443,74.45185,Cheating,Under Investigation
+FIR-554/2025-8a69,2025-07-07,Belagavi Dist,Tilakwadi PS,15.87593,74.49065,Theft,Under Investigation
+FIR-471/2026-f7d7,2025-10-14,Mysuru City,Devaraja PS,12.25237,76.62988,Robbery,Under Investigation
+FIR-146/2026-76b6,2025-05-19,Belagavi Dist,Khadebazar PS,15.85966,74.5374,Cheating,Under Investigation
+FIR-246/2026-7c96,2025-04-05,Mysuru City,Kuvempunagar PS,12.27966,76.59872,Assault,Under Investigation
+FIR-568/2025-5d73,2025-08-21,Bengaluru City,Koramangala PS,12.9842,77.61016,Cheating,Charge Sheeted
+FIR-260/2025-6f89,2025-03-25,Bengaluru City,Cubbon Park PS,13.00885,77.62843,Robbery,Closed
+FIR-900/2025-cb03,2025-08-21,Hubballi Dharwad City,Dharwad Suburban PS,15.32746,75.0808,NDPS,Closed
+FIR-274/2026-6347,2025-10-09,Hubballi Dharwad City,Dharwad Suburban PS,15.35635,75.15896,Assault,Under Investigation
+FIR-165/2025-a31b,2025-03-01,Belagavi Dist,Tilakwadi PS,15.85874,74.52784,Robbery,Charge Sheeted
+FIR-164/2025-87bb,2025-01-09,Belagavi Dist,Tilakwadi PS,15.86496,74.47764,Murder,Pending Trial
+FIR-248/2025-5af9,2025-12-15,Tumakuru,Kyathasandra PS,13.34882,77.06093,Cyber Crime,Closed
+FIR-795/2025-e0d0,2025-06-19,Hubballi Dharwad City,Hubballi Town PS,15.38854,75.13696,Robbery,Closed
+FIR-752/2025-5ea1,2025-12-29,Tumakuru,Tumakuru Town PS,13.28979,77.10163,Cyber Crime,Charge Sheeted
+FIR-135/2025-9f6c,2025-01-22,Tumakuru,Kyathasandra PS,13.34051,77.13719,POCSO,Charge Sheeted
+FIR-882/2025-3f87,2025-11-18,Tumakuru,Kyathasandra PS,13.35727,77.07317,POCSO,Charge Sheeted
+FIR-429/2026-9fc7,2025-03-22,Tumakuru,Kyathasandra PS,13.31817,77.05393,Assault,Closed
+FIR-302/2026-7737,2025-07-06,Bengaluru City,Indiranagar PS,12.97798,77.58578,Cheating,Closed
+FIR-196/2025-708d,2025-02-19,Hubballi Dharwad City,Hubballi Town PS,15.38364,75.0862,POCSO,Charge Sheeted
+FIR-405/2026-1969,2025-11-03,Belagavi Dist,Khadebazar PS,15.83711,74.52283,Murder,Pending Trial
+FIR-585/2025-1b7e,2025-11-10,Belagavi Dist,Tilakwadi PS,15.8503,74.53604,Robbery,Under Investigation
+FIR-904/2026-04ad,2025-09-11,Hubballi Dharwad City,Hubballi Town PS,15.35367,75.15543,Cyber Crime,Closed
+FIR-883/2026-b356,2025-01-22,Tumakuru,Kyathasandra PS,13.35682,77.1327,Murder,Pending Trial
+FIR-283/2026-54d4,2025-12-27,Mysuru City,Kuvempunagar PS,12.29186,76.63715,Cheating,Pending Trial
+FIR-851/2026-dfd6,2025-07-25,Hubballi Dharwad City,Dharwad Suburban PS,15.35018,75.11507,Cheating,Under Investigation
+FIR-995/2026-3e36,2025-01-15,Tumakuru,Kyathasandra PS,13.35003,77.0771,NDPS,Charge Sheeted
+FIR-454/2025-022c,2025-02-18,Tumakuru,Tumakuru Town PS,13.35803,77.08683,Theft,Closed
+FIR-824/2026-1040,2025-01-18,Bengaluru City,Koramangala PS,12.92718,77.64447,Theft,Under Investigation
+FIR-306/2026-507e,2025-08-03,Mysuru City,Saraswathipuram PS,12.25327,76.67057,Cheating,Charge Sheeted
+FIR-511/2025-006a,2025-07-28,Tumakuru,Tumakuru Town PS,13.34633,77.12209,Assault,Charge Sheeted
+FIR-366/2026-2a7a,2025-08-20,Mysuru City,Saraswathipuram PS,12.26871,76.64187,Cyber Crime,Pending Trial
+FIR-136/2026-9ad6,2025-07-15,Hubballi Dharwad City,Hubballi Town PS,15.33253,75.15114,Cyber Crime,Closed
+FIR-559/2025-583a,2025-09-26,Belagavi Dist,Tilakwadi PS,15.87984,74.54354,Robbery,Closed
+FIR-248/2026-e4e2,2025-03-30,Tumakuru,Kyathasandra PS,13.33131,77.1057,POCSO,Pending Trial
+FIR-936/2026-6693,2025-08-11,Tumakuru,Kyathasandra PS,13.38305,77.11923,Cyber Crime,Charge Sheeted
+FIR-179/2026-eb9a,2025-08-07,Hubballi Dharwad City,Dharwad Suburban PS,15.41209,75.12803,Theft,Pending Trial
+FIR-913/2025-b25c,2025-02-15,Hubballi Dharwad City,Dharwad Suburban PS,15.37581,75.10012,Assault,Charge Sheeted
+FIR-573/2026-f6e0,2025-10-12,Tumakuru,Tumakuru Town PS,13.34588,77.07603,Robbery,Closed
+FIR-883/2025-fc4e,2025-11-05,Hubballi Dharwad City,Hubballi Town PS,15.32564,75.15344,NDPS,Pending Trial
+FIR-447/2025-cf39,2025-10-17,Belagavi Dist,Tilakwadi PS,15.83849,74.47747,Cyber Crime,Closed
+FIR-599/2025-01be,2025-07-30,Tumakuru,Tumakuru Town PS,13.31254,77.14836,Cheating,Pending Trial
+FIR-343/2026-9a6c,2025-05-05,Belagavi Dist,Khadebazar PS,15.81328,74.50928,NDPS,Closed
+FIR-658/2025-e6a5,2025-12-15,Hubballi Dharwad City,Dharwad Suburban PS,15.35245,75.09372,NDPS,Charge Sheeted
+FIR-752/2025-6350,2025-05-10,Tumakuru,Tumakuru Town PS,13.34679,77.0592,NDPS,Charge Sheeted
+FIR-801/2026-c73c,2025-01-30,Belagavi Dist,Belagavi Camp PS,15.88077,74.51924,Cyber Crime,Under Investigation
+FIR-298/2026-3a5f,2025-03-31,Tumakuru,Kyathasandra PS,13.37724,77.06389,Assault,Under Investigation
+FIR-959/2026-40f3,2025-02-24,Bengaluru City,Koramangala PS,13.00156,77.57126,Cyber Crime,Pending Trial
+FIR-838/2026-d88d,2025-03-18,Tumakuru,Tumakuru Town PS,13.33121,77.1315,NDPS,Closed
+FIR-130/2026-cc9a,2025-04-25,Belagavi Dist,Belagavi Camp PS,15.80156,74.45028,Assault,Charge Sheeted
+FIR-429/2026-dade,2025-11-25,Bengaluru City,Indiranagar PS,12.98047,77.5496,Cyber Crime,Pending Trial
+FIR-535/2026-ea71,2025-08-04,Hubballi Dharwad City,Dharwad Suburban PS,15.41117,75.17114,POCSO,Charge Sheeted
+FIR-177/2025-d570,2025-12-03,Belagavi Dist,Tilakwadi PS,15.89359,74.49556,POCSO,Pending Trial
+FIR-136/2026-920b,2025-06-01,Hubballi Dharwad City,Hubballi Town PS,15.37257,75.16695,Assault,Pending Trial
+FIR-156/2025-fe2b,2025-02-18,Belagavi Dist,Tilakwadi PS,15.82358,74.44975,Assault,Under Investigation
+FIR-800/2026-25a6,2025-07-31,Tumakuru,Tumakuru Town PS,13.37011,77.05996,Theft,Under Investigation
+FIR-465/2026-f5aa,2025-01-04,Hubballi Dharwad City,Vidyanagar PS,15.33291,75.15385,POCSO,Pending Trial
+FIR-219/2025-ec71,2025-04-12,Mysuru City,Devaraja PS,12.31895,76.68363,Theft,Under Investigation
+FIR-520/2025-8a34,2025-12-02,Tumakuru,Tumakuru Town PS,13.31208,77.07688,NDPS,Charge Sheeted
+FIR-184/2026-ad83,2025-08-25,Tumakuru,Kyathasandra PS,13.29197,77.09745,Assault,Under Investigation
+FIR-176/2026-8675,2025-04-23,Tumakuru,Kyathasandra PS,13.29601,77.13145,Theft,Closed
+FIR-471/2025-21ba,2025-10-11,Hubballi Dharwad City,Dharwad Suburban PS,15.37522,75.14052,Robbery,Pending Trial
+FIR-531/2026-7d98,2025-02-19,Hubballi Dharwad City,Dharwad Suburban PS,15.39904,75.0994,Cheating,Closed
+FIR-553/2025-02bc,2025-07-24,Hubballi Dharwad City,Hubballi Town PS,15.3166,75.14667,Murder,Under Investigation
+FIR-690/2026-5eca,2025-04-28,Tumakuru,Tumakuru Town PS,13.33631,77.12024,Assault,Closed
+FIR-664/2025-dbe2,2025-12-25,Belagavi Dist,Belagavi Camp PS,15.81328,74.45938,Cyber Crime,Closed
+FIR-499/2025-06a2,2025-09-03,Belagavi Dist,Tilakwadi PS,15.86427,74.49476,Assault,Charge Sheeted
+FIR-704/2025-8112,2025-12-02,Tumakuru,Tumakuru Town PS,13.32664,77.08658,Cheating,Pending Trial
+FIR-288/2026-d412,2025-12-18,Tumakuru,Kyathasandra PS,13.36673,77.09071,Theft,Charge Sheeted
+FIR-277/2025-4441,2025-05-05,Tumakuru,Tumakuru Town PS,13.31596,77.12695,Theft,Pending Trial
+FIR-761/2026-6dfd,2025-12-09,Tumakuru,Kyathasandra PS,13.30207,77.11334,Murder,Pending Trial
+FIR-626/2026-1128,2025-05-27,Belagavi Dist,Tilakwadi PS,15.82846,74.52631,Assault,Closed
+FIR-837/2025-84f9,2025-05-20,Bengaluru City,Cubbon Park PS,12.96573,77.61548,NDPS,Under Investigation
+FIR-655/2025-7230,2025-05-05,Tumakuru,Tumakuru Town PS,13.32785,77.13618,Murder,Under Investigation
+FIR-478/2026-877e,2025-01-14,Tumakuru,Tumakuru Town PS,13.34058,77.08125,Cheating,Charge Sheeted
+FIR-160/2025-4393,2025-12-10,Hubballi Dharwad City,Vidyanagar PS,15.36251,75.10536,POCSO,Charge Sheeted
+FIR-516/2025-aebf,2025-04-19,Bengaluru City,Malleswaram PS,12.96111,77.54935,NDPS,Pending Trial
+FIR-968/2025-e28c,2025-06-02,Bengaluru City,Indiranagar PS,13.01074,77.55815,Theft,Charge Sheeted
+FIR-374/2025-4c68,2025-11-16,Hubballi Dharwad City,Dharwad Suburban PS,15.33654,75.08155,Cheating,Under Investigation
+FIR-684/2026-c590,2025-11-14,Bengaluru City,Cubbon Park PS,12.92979,77.61722,Robbery,Charge Sheeted
+FIR-950/2026-a4e4,2025-11-28,Belagavi Dist,Tilakwadi PS,15.83179,74.49147,Robbery,Pending Trial
+FIR-358/2025-7250,2025-01-14,Hubballi Dharwad City,Dharwad Suburban PS,15.39906,75.09155,Murder,Pending Trial
+FIR-744/2025-63cd,2025-02-05,Belagavi Dist,Belagavi Camp PS,15.82417,74.45278,Murder,Pending Trial
+FIR-483/2025-849a,2025-12-27,Hubballi Dharwad City,Vidyanagar PS,15.32155,75.10761,Cheating,Under Investigation
+FIR-552/2026-9f61,2025-01-30,Tumakuru,Tumakuru Town PS,13.35041,77.11949,POCSO,Under Investigation
+FIR-136/2026-19b3,2025-01-10,Bengaluru City,Malleswaram PS,12.96221,77.5617,Murder,Pending Trial
+FIR-598/2025-b505,2025-01-22,Belagavi Dist,Tilakwadi PS,15.86755,74.51265,Cyber Crime,Charge Sheeted
+FIR-994/2025-7ff3,2025-07-09,Bengaluru City,Malleswaram PS,13.001,77.63989,Cyber Crime,Pending Trial
+FIR-424/2026-2777,2025-06-30,Belagavi Dist,Tilakwadi PS,15.8873,74.51237,Murder,Closed
+FIR-346/2025-b37a,2025-10-07,Tumakuru,Tumakuru Town PS,13.31235,77.06421,Cyber Crime,Closed
+FIR-649/2026-4bdc,2025-10-15,Mysuru City,Devaraja PS,12.29424,76.59026,NDPS,Closed
+FIR-993/2026-a480,2025-08-29,Mysuru City,Kuvempunagar PS,12.28901,76.61033,POCSO,Closed
+FIR-914/2025-937d,2025-10-30,Bengaluru City,Malleswaram PS,12.98547,77.60801,POCSO,Pending Trial
+FIR-366/2026-6075,2025-10-10,Tumakuru,Kyathasandra PS,13.32755,77.07352,Assault,Closed
+FIR-174/2026-cc51,2025-08-22,Bengaluru City,Koramangala PS,12.9709,77.59744,Murder,Pending Trial
+FIR-477/2025-d404,2025-04-20,Tumakuru,Kyathasandra PS,13.30108,77.05565,Robbery,Pending Trial
+FIR-323/2025-e4c0,2025-07-18,Hubballi Dharwad City,Hubballi Town PS,15.38711,75.13201,Theft,Under Investigation
+FIR-158/2025-cd1e,2025-12-09,Hubballi Dharwad City,Hubballi Town PS,15.41273,75.15685,Assault,Closed
+FIR-677/2026-c345,2025-08-14,Tumakuru,Tumakuru Town PS,13.31528,77.09102,NDPS,Under Investigation
+FIR-662/2026-ecc5,2025-01-23,Bengaluru City,Koramangala PS,12.95418,77.57353,POCSO,Under Investigation
+FIR-284/2025-b13c,2025-09-15,Bengaluru City,Malleswaram PS,13.00589,77.59989,Robbery,Closed
+FIR-965/2025-6253,2025-05-07,Bengaluru City,Cubbon Park PS,12.95493,77.63896,Theft,Closed
+FIR-539/2025-6789,2025-01-29,Hubballi Dharwad City,Vidyanagar PS,15.40893,75.08485,Cyber Crime,Pending Trial
+FIR-273/2026-3e63,2025-12-07,Belagavi Dist,Khadebazar PS,15.89375,74.50677,NDPS,Under Investigation
+FIR-840/2026-6d42,2025-06-20,Belagavi Dist,Tilakwadi PS,15.8329,74.50926,NDPS,Closed
+FIR-159/2026-b407,2025-01-17,Belagavi Dist,Tilakwadi PS,15.82475,74.5314,Murder,Pending Trial
+FIR-758/2026-2b76,2025-08-01,Belagavi Dist,Khadebazar PS,15.88668,74.47825,Robbery,Closed
+FIR-828/2026-80fa,2025-04-05,Tumakuru,Kyathasandra PS,13.29794,77.08842,Cyber Crime,Closed
+FIR-482/2026-947a,2025-01-19,Mysuru City,Saraswathipuram PS,12.28287,76.63484,POCSO,Pending Trial
+FIR-680/2025-bd9d,2025-04-07,Tumakuru,Tumakuru Town PS,13.29443,77.12512,Theft,Closed
+FIR-580/2025-7295,2025-01-07,Tumakuru,Tumakuru Town PS,13.31764,77.07037,Murder,Pending Trial
+FIR-346/2025-3afb,2025-05-28,Belagavi Dist,Tilakwadi PS,15.89579,74.46898,NDPS,Charge Sheeted
+FIR-543/2025-69f9,2025-03-30,Mysuru City,Kuvempunagar PS,12.28951,76.68211,NDPS,Charge Sheeted
+FIR-126/2025-8463,2025-01-27,Mysuru City,Devaraja PS,12.27238,76.6669,Theft,Under Investigation
+FIR-574/2025-7c04,2025-06-24,Hubballi Dharwad City,Dharwad Suburban PS,15.3486,75.10195,Murder,Closed
+FIR-269/2025-831b,2025-02-19,Bengaluru City,Indiranagar PS,12.95494,77.62763,Assault,Under Investigation
+FIR-120/2026-652b,2025-12-03,Hubballi Dharwad City,Dharwad Suburban PS,15.38482,75.10177,POCSO,Charge Sheeted
+FIR-375/2025-7a6b,2025-04-02,Tumakuru,Tumakuru Town PS,13.2933,77.12458,POCSO,Charge Sheeted
+FIR-752/2026-e2e4,2025-12-03,Belagavi Dist,Belagavi Camp PS,15.88284,74.51525,POCSO,Under Investigation
+FIR-508/2025-b1fb,2025-07-27,Hubballi Dharwad City,Hubballi Town PS,15.41243,75.13269,Robbery,Charge Sheeted
+FIR-606/2025-894a,2025-10-31,Hubballi Dharwad City,Dharwad Suburban PS,15.35544,75.17192,Murder,Under Investigation
+FIR-597/2025-72ad,2025-08-11,Bengaluru City,Koramangala PS,12.9487,77.61715,Cheating,Under Investigation
+FIR-117/2025-bab3,2025-03-08,Hubballi Dharwad City,Vidyanagar PS,15.36219,75.13516,Assault,Under Investigation
+FIR-884/2025-c8eb,2025-09-15,Tumakuru,Kyathasandra PS,13.34622,77.11619,NDPS,Charge Sheeted
+FIR-665/2025-bab9,2025-06-11,Bengaluru City,Cubbon Park PS,13.01527,77.63902,Theft,Closed
+FIR-302/2025-44f2,2025-11-18,Hubballi Dharwad City,Hubballi Town PS,15.31932,75.13537,Assault,Charge Sheeted
+FIR-447/2026-58b0,2025-09-18,Hubballi Dharwad City,Hubballi Town PS,15.39713,75.17213,Murder,Under Investigation
+FIR-253/2025-0124,2025-02-28,Bengaluru City,Cubbon Park PS,12.99751,77.55174,Cheating,Closed
+FIR-636/2026-39bd,2025-09-05,Bengaluru City,Malleswaram PS,12.9544,77.56319,Assault,Charge Sheeted
+FIR-571/2026-90f2,2025-04-10,Tumakuru,Kyathasandra PS,13.31505,77.05851,POCSO,Pending Trial
+FIR-393/2026-16b6,2025-10-23,Hubballi Dharwad City,Dharwad Suburban PS,15.38706,75.13338,Murder,Pending Trial
+FIR-188/2025-8182,2025-12-06,Bengaluru City,Koramangala PS,12.95988,77.61514,Cyber Crime,Charge Sheeted
+FIR-173/2025-5b5c,2025-10-07,Bengaluru City,Indiranagar PS,12.98673,77.58871,Murder,Under Investigation
+FIR-417/2026-b10a,2025-11-18,Hubballi Dharwad City,Dharwad Suburban PS,15.3742,75.15422,Theft,Under Investigation
+FIR-996/2026-05c6,2025-08-04,Belagavi Dist,Belagavi Camp PS,15.83237,74.49754,Cyber Crime,Under Investigation
+FIR-864/2026-42c5,2025-10-25,Mysuru City,Saraswathipuram PS,12.33847,76.61297,POCSO,Under Investigation
+FIR-504/2025-b0f6,2025-06-22,Bengaluru City,Cubbon Park PS,12.93332,77.63821,POCSO,Charge Sheeted
+FIR-233/2026-aa2a,2025-03-12,Belagavi Dist,Belagavi Camp PS,15.80256,74.54754,Cheating,Charge Sheeted
+FIR-896/2025-4473,2025-08-17,Bengaluru City,Koramangala PS,12.94798,77.57045,Theft,Charge Sheeted
+FIR-658/2025-d810,2025-10-10,Belagavi Dist,Belagavi Camp PS,15.80792,74.54242,Cheating,Closed
+FIR-378/2025-e0be,2025-04-04,Mysuru City,Kuvempunagar PS,12.28069,76.68444,Robbery,Closed
+FIR-528/2026-3d5b,2025-07-02,Belagavi Dist,Khadebazar PS,15.86354,74.48714,POCSO,Closed
+FIR-419/2025-ea3c,2025-09-25,Belagavi Dist,Khadebazar PS,15.87452,74.5241,Murder,Under Investigation
+FIR-432/2025-7b1f,2025-04-26,Belagavi Dist,Belagavi Camp PS,15.82175,74.51117,POCSO,Charge Sheeted
+FIR-661/2026-6ccc,2025-02-03,Hubballi Dharwad City,Hubballi Town PS,15.32015,75.12223,Robbery,Closed
+FIR-857/2025-edcb,2025-05-27,Belagavi Dist,Belagavi Camp PS,15.81026,74.50427,Murder,Closed
+FIR-284/2026-cdd6,2025-01-01,Hubballi Dharwad City,Vidyanagar PS,15.3334,75.15464,Assault,Under Investigation
+FIR-628/2025-c60f,2025-10-22,Hubballi Dharwad City,Hubballi Town PS,15.38923,75.09224,POCSO,Closed
+FIR-780/2026-bbc9,2025-05-03,Belagavi Dist,Tilakwadi PS,15.89721,74.53381,POCSO,Pending Trial
+FIR-311/2025-120e,2025-04-11,Tumakuru,Tumakuru Town PS,13.35731,77.13848,Murder,Charge Sheeted
+FIR-592/2025-dd78,2025-01-10,Tumakuru,Kyathasandra PS,13.30651,77.15118,Robbery,Charge Sheeted
+FIR-537/2025-c880,2025-04-05,Belagavi Dist,Tilakwadi PS,15.86388,74.52949,NDPS,Charge Sheeted
+FIR-678/2026-1dbd,2025-07-17,Hubballi Dharwad City,Hubballi Town PS,15.33844,75.09493,Robbery,Closed
+FIR-125/2026-5196,2025-07-31,Mysuru City,Devaraja PS,12.24631,76.68409,Cyber Crime,Pending Trial
+FIR-698/2025-45a8,2025-05-24,Bengaluru City,Cubbon Park PS,12.95273,77.56098,Cyber Crime,Charge Sheeted
+FIR-468/2026-7ab6,2025-07-26,Tumakuru,Tumakuru Town PS,13.35297,77.06246,NDPS,Closed
+FIR-315/2025-21c5,2025-01-04,Bengaluru City,Koramangala PS,12.97646,77.62071,NDPS,Charge Sheeted
+FIR-739/2025-6d6d,2025-10-01,Bengaluru City,Koramangala PS,12.98597,77.54765,NDPS,Pending Trial
+FIR-361/2026-627d,2025-10-05,Mysuru City,Devaraja PS,12.29588,76.59508,POCSO,Closed
+FIR-574/2026-7645,2025-10-07,Bengaluru City,Indiranagar PS,12.93293,77.62702,Cheating,Pending Trial
+FIR-561/2026-4f3c,2025-04-28,Tumakuru,Tumakuru Town PS,13.33604,77.0583,NDPS,Charge Sheeted
+FIR-787/2026-f63f,2025-12-31,Tumakuru,Kyathasandra PS,13.30714,77.06651,Cheating,Charge Sheeted
+FIR-334/2026-c7bf,2025-05-16,Belagavi Dist,Tilakwadi PS,15.81042,74.53147,POCSO,Pending Trial
+FIR-626/2026-73d4,2025-04-29,Tumakuru,Tumakuru Town PS,13.3596,77.12159,Theft,Under Investigation
+FIR-187/2025-72e9,2025-04-17,Hubballi Dharwad City,Hubballi Town PS,15.32349,75.16449,POCSO,Charge Sheeted
+FIR-358/2025-3563,2025-10-24,Tumakuru,Kyathasandra PS,13.37416,77.11198,Murder,Pending Trial
+FIR-341/2025-d3df,2025-11-04,Mysuru City,Devaraja PS,12.33584,76.68077,NDPS,Closed
+FIR-902/2025-fb9f,2025-03-15,Mysuru City,Saraswathipuram PS,12.27405,76.67769,Theft,Closed
+FIR-205/2026-6dcf,2025-11-26,Belagavi Dist,Belagavi Camp PS,15.84712,74.46093,Assault,Closed
+FIR-803/2026-966d,2025-03-01,Mysuru City,Kuvempunagar PS,12.28181,76.65299,Assault,Under Investigation
+FIR-885/2026-105d,2025-03-19,Belagavi Dist,Khadebazar PS,15.84417,74.47607,Assault,Under Investigation
+FIR-368/2026-b07b,2025-03-04,Hubballi Dharwad City,Dharwad Suburban PS,15.33132,75.08457,POCSO,Pending Trial
+FIR-713/2025-3362,2025-03-14,Mysuru City,Devaraja PS,12.25802,76.67839,Robbery,Charge Sheeted
+FIR-609/2026-afc2,2025-06-11,Hubballi Dharwad City,Vidyanagar PS,15.36785,75.13369,Robbery,Under Investigation
+FIR-916/2026-0a39,2026-01-01,Hubballi Dharwad City,Dharwad Suburban PS,15.3352,75.1318,NDPS,Closed
+FIR-577/2026-a531,2025-08-14,Mysuru City,Kuvempunagar PS,12.2772,76.59031,Cyber Crime,Under Investigation
+FIR-549/2026-c507,2025-02-28,Belagavi Dist,Khadebazar PS,15.82253,74.47887,NDPS,Closed
+FIR-363/2025-dda5,2025-11-04,Bengaluru City,Koramangala PS,12.93257,77.61236,Murder,Closed
+FIR-457/2026-762c,2025-09-22,Hubballi Dharwad City,Dharwad Suburban PS,15.35883,75.16686,Cyber Crime,Pending Trial
+FIR-146/2026-ec45,2025-07-04,Tumakuru,Kyathasandra PS,13.3742,77.12602,POCSO,Pending Trial
+FIR-522/2025-12aa,2025-06-02,Belagavi Dist,Khadebazar PS,15.84588,74.49559,Theft,Under Investigation
+FIR-263/2025-b508,2025-11-09,Mysuru City,Devaraja PS,12.33773,76.65934,Cyber Crime,Pending Trial
+FIR-887/2026-3464,2025-12-26,Hubballi Dharwad City,Dharwad Suburban PS,15.34157,75.15788,NDPS,Charge Sheeted
+FIR-447/2025-f1c4,2025-09-08,Hubballi Dharwad City,Dharwad Suburban PS,15.38533,75.09724,Cheating,Charge Sheeted
+FIR-960/2025-2b89,2025-06-11,Hubballi Dharwad City,Hubballi Town PS,15.341,75.14799,POCSO,Closed
+FIR-116/2025-bf18,2025-05-22,Tumakuru,Kyathasandra PS,13.35592,77.14302,Robbery,Closed
+FIR-863/2025-304e,2025-09-25,Belagavi Dist,Belagavi Camp PS,15.83586,74.50618,Theft,Closed
+FIR-360/2025-4b97,2025-01-14,Belagavi Dist,Tilakwadi PS,15.84886,74.53258,NDPS,Charge Sheeted
+FIR-127/2026-dda4,2025-11-28,Tumakuru,Tumakuru Town PS,13.38425,77.13426,Assault,Under Investigation
+FIR-108/2026-3f24,2025-07-21,Bengaluru City,Cubbon Park PS,12.9222,77.58235,Cyber Crime,Charge Sheeted
+FIR-353/2026-15cd,2025-01-04,Mysuru City,Devaraja PS,12.26954,76.63009,POCSO,Pending Trial
+FIR-461/2025-cbcd,2025-09-05,Belagavi Dist,Khadebazar PS,15.82059,74.46194,Cyber Crime,Pending Trial
+FIR-436/2025-3462,2025-01-20,Belagavi Dist,Tilakwadi PS,15.87863,74.50656,Assault,Under Investigation
+FIR-224/2025-af39,2025-12-17,Bengaluru City,Cubbon Park PS,13.01751,77.63062,Theft,Pending Trial
+FIR-567/2026-f3c3,2025-07-05,Mysuru City,Kuvempunagar PS,12.32271,76.59983,Cyber Crime,Pending Trial
+FIR-943/2025-29e2,2025-02-10,Hubballi Dharwad City,Hubballi Town PS,15.34,75.15376,Murder,Under Investigation
+FIR-199/2025-93e7,2025-09-06,Hubballi Dharwad City,Vidyanagar PS,15.39236,75.14265,NDPS,Pending Trial
+FIR-817/2026-6de4,2025-03-15,Tumakuru,Tumakuru Town PS,13.33016,77.07271,Cheating,Under Investigation
+FIR-862/2026-e033,2025-10-09,Hubballi Dharwad City,Vidyanagar PS,15.38484,75.11426,POCSO,Under Investigation
+FIR-722/2025-80c0,2025-06-12,Mysuru City,Saraswathipuram PS,12.29928,76.66812,Robbery,Charge Sheeted
+FIR-703/2025-35b4,2025-09-07,Bengaluru City,Malleswaram PS,12.97421,77.60928,Theft,Under Investigation
+FIR-675/2025-0e6f,2025-06-17,Belagavi Dist,Tilakwadi PS,15.86922,74.4483,POCSO,Charge Sheeted
+FIR-976/2025-0244,2025-03-27,Belagavi Dist,Belagavi Camp PS,15.88573,74.49968,Cheating,Closed
+FIR-122/2026-e0d1,2025-01-27,Belagavi Dist,Khadebazar PS,15.8634,74.50779,NDPS,Pending Trial
+FIR-242/2025-a83c,2025-10-13,Belagavi Dist,Khadebazar PS,15.82316,74.4728,NDPS,Pending Trial
+FIR-400/2026-6126,2025-06-17,Mysuru City,Saraswathipuram PS,12.31443,76.6476,Robbery,Pending Trial
+FIR-386/2025-43ff,2025-09-06,Bengaluru City,Koramangala PS,12.98745,77.6208,NDPS,Pending Trial
+FIR-454/2026-39c4,2025-12-31,Mysuru City,Devaraja PS,12.32412,76.64724,NDPS,Pending Trial
+FIR-456/2026-383d,2025-02-11,Tumakuru,Tumakuru Town PS,13.33373,77.07559,Theft,Pending Trial
+FIR-522/2026-c35e,2025-10-25,Bengaluru City,Malleswaram PS,12.98466,77.5679,Cyber Crime,Closed
+FIR-216/2025-e3c5,2025-07-13,Mysuru City,Kuvempunagar PS,12.27519,76.67858,Theft,Charge Sheeted
+FIR-646/2026-c00a,2025-02-06,Bengaluru City,Malleswaram PS,12.99848,77.545,Murder,Closed
+FIR-395/2026-9253,2025-07-31,Tumakuru,Kyathasandra PS,13.31938,77.10393,NDPS,Pending Trial
+FIR-720/2025-78bc,2025-01-22,Belagavi Dist,Belagavi Camp PS,15.87831,74.50144,Assault,Closed
+FIR-516/2026-74d5,2025-08-24,Belagavi Dist,Belagavi Camp PS,15.85423,74.52052,Theft,Pending Trial
+FIR-825/2026-8644,2025-10-09,Belagavi Dist,Belagavi Camp PS,15.80738,74.47028,Cyber Crime,Pending Trial
+FIR-469/2025-55dd,2025-08-30,Hubballi Dharwad City,Vidyanagar PS,15.3502,75.13731,Cheating,Under Investigation
+FIR-456/2025-be19,2025-02-20,Hubballi Dharwad City,Hubballi Town PS,15.40792,75.10876,POCSO,Under Investigation
+FIR-289/2026-2faf,2025-01-14,Belagavi Dist,Khadebazar PS,15.82879,74.47514,Cyber Crime,Pending Trial
+FIR-876/2025-169f,2025-12-31,Mysuru City,Devaraja PS,12.26477,76.64361,Robbery,Under Investigation
+FIR-205/2026-d042,2025-08-08,Belagavi Dist,Belagavi Camp PS,15.87438,74.50631,Murder,Under Investigation
+FIR-644/2026-9c0e,2025-09-24,Bengaluru City,Indiranagar PS,12.94846,77.61479,Theft,Charge Sheeted
+FIR-299/2026-a405,2025-12-06,Tumakuru,Kyathasandra PS,13.30369,77.10606,Theft,Closed
+FIR-233/2025-2f47,2025-09-04,Mysuru City,Devaraja PS,12.29639,76.68643,POCSO,Pending Trial
+FIR-906/2025-ec35,2025-01-27,Mysuru City,Saraswathipuram PS,12.28042,76.64252,Robbery,Under Investigation
+FIR-987/2025-2c6d,2025-04-07,Bengaluru City,Indiranagar PS,12.96352,77.6361,Assault,Pending Trial
+FIR-636/2025-1be3,2025-10-26,Tumakuru,Kyathasandra PS,13.36586,77.07385,Murder,Under Investigation
+FIR-668/2026-11b4,2025-07-31,Hubballi Dharwad City,Vidyanagar PS,15.37221,75.17019,Cyber Crime,Closed
+FIR-871/2026-210b,2025-04-28,Bengaluru City,Malleswaram PS,12.97886,77.57648,Cheating,Pending Trial
+FIR-267/2026-f321,2025-03-04,Tumakuru,Tumakuru Town PS,13.36604,77.06429,Theft,Closed
+FIR-972/2025-d90d,2025-05-24,Bengaluru City,Indiranagar PS,13.00447,77.62761,Theft,Charge Sheeted
+FIR-578/2025-8618,2025-02-18,Tumakuru,Tumakuru Town PS,13.33809,77.08465,POCSO,Pending Trial
+FIR-396/2025-b2fd,2025-06-05,Mysuru City,Devaraja PS,12.25935,76.65994,Robbery,Under Investigation
+FIR-176/2025-0b6c,2025-08-17,Belagavi Dist,Khadebazar PS,15.8789,74.51416,POCSO,Charge Sheeted
+FIR-327/2025-4918,2025-04-14,Bengaluru City,Malleswaram PS,12.93002,77.54763,Murder,Charge Sheeted
+FIR-406/2025-d3a1,2025-06-05,Mysuru City,Saraswathipuram PS,12.32004,76.68934,Theft,Under Investigation
+FIR-771/2026-be7e,2025-11-09,Hubballi Dharwad City,Hubballi Town PS,15.36665,75.16515,Robbery,Charge Sheeted
+FIR-516/2025-c998,2025-07-20,Tumakuru,Kyathasandra PS,13.38253,77.11694,Cheating,Closed
+FIR-538/2026-27ed,2025-08-31,Tumakuru,Tumakuru Town PS,13.31933,77.135,Assault,Charge Sheeted
+FIR-624/2025-03f9,2025-02-12,Bengaluru City,Koramangala PS,12.93069,77.60821,Cheating,Closed
+FIR-226/2025-51ec,2025-08-20,Bengaluru City,Indiranagar PS,13.00548,77.64366,Cyber Crime,Closed
+FIR-550/2025-6ffd,2025-12-22,Hubballi Dharwad City,Vidyanagar PS,15.35054,75.1209,Cheating,Charge Sheeted
+FIR-135/2025-a46e,2025-07-04,Hubballi Dharwad City,Dharwad Suburban PS,15.35057,75.16277,POCSO,Pending Trial
+FIR-397/2026-1f77,2025-09-14,Hubballi Dharwad City,Vidyanagar PS,15.32816,75.17051,POCSO,Under Investigation
+FIR-479/2026-9e60,2025-07-10,Bengaluru City,Koramangala PS,12.94675,77.55352,Cyber Crime,Closed
+FIR-628/2025-7f0a,2025-05-06,Tumakuru,Kyathasandra PS,13.35741,77.05972,Murder,Charge Sheeted
+FIR-576/2026-12f9,2025-08-20,Hubballi Dharwad City,Dharwad Suburban PS,15.34153,75.1584,POCSO,Under Investigation
+FIR-449/2026-8a78,2025-09-20,Hubballi Dharwad City,Vidyanagar PS,15.37334,75.11812,Cyber Crime,Charge Sheeted
+FIR-386/2025-b6b8,2025-04-18,Bengaluru City,Cubbon Park PS,12.9886,77.55818,POCSO,Pending Trial
+FIR-940/2025-9063,2025-12-08,Bengaluru City,Cubbon Park PS,13.00125,77.58812,Cyber Crime,Pending Trial
+FIR-485/2025-9c71,2025-11-30,Tumakuru,Tumakuru Town PS,13.37721,77.08964,Cheating,Charge Sheeted
+FIR-524/2025-cb4d,2025-02-04,Tumakuru,Tumakuru Town PS,13.38174,77.0996,Cyber Crime,Pending Trial
+FIR-254/2026-6633,2025-10-06,Mysuru City,Saraswathipuram PS,12.30266,76.65649,Assault,Pending Trial
+FIR-688/2025-06cd,2025-03-30,Hubballi Dharwad City,Vidyanagar PS,15.33676,75.14059,Assault,Closed
+FIR-892/2026-7bd0,2025-03-28,Tumakuru,Tumakuru Town PS,13.36332,77.06487,Cyber Crime,Charge Sheeted
+FIR-576/2025-996e,2025-09-01,Tumakuru,Kyathasandra PS,13.34773,77.09359,POCSO,Under Investigation
+FIR-980/2025-f5fb,2025-06-19,Belagavi Dist,Belagavi Camp PS,15.87389,74.53312,Robbery,Pending Trial
+FIR-623/2025-0f4e,2025-10-11,Mysuru City,Kuvempunagar PS,12.29025,76.63369,Theft,Charge Sheeted
+FIR-114/2026-5ca8,2025-03-29,Belagavi Dist,Tilakwadi PS,15.87476,74.44803,NDPS,Charge Sheeted
+FIR-847/2026-9cdb,2025-10-25,Tumakuru,Kyathasandra PS,13.29986,77.0614,Cyber Crime,Closed
+FIR-917/2026-86ac,2025-07-31,Bengaluru City,Malleswaram PS,12.99932,77.55146,Murder,Under Investigation
+FIR-344/2026-c866,2025-11-12,Belagavi Dist,Khadebazar PS,15.84298,74.54064,Cheating,Charge Sheeted
+FIR-783/2025-8154,2025-09-17,Bengaluru City,Cubbon Park PS,13.00654,77.62077,Theft,Closed
+FIR-400/2025-979b,2025-08-24,Tumakuru,Kyathasandra PS,13.37975,77.06845,Theft,Closed
+FIR-967/2026-107a,2025-07-21,Belagavi Dist,Khadebazar PS,15.89391,74.48913,Assault,Closed
+FIR-107/2025-8837,2025-12-03,Bengaluru City,Malleswaram PS,12.95307,77.58754,Murder,Under Investigation
+FIR-731/2025-e9dd,2025-04-19,Belagavi Dist,Khadebazar PS,15.81109,74.46074,Murder,Pending Trial
+FIR-178/2026-7572,2025-01-06,Belagavi Dist,Belagavi Camp PS,15.89131,74.47406,Cyber Crime,Under Investigation
+FIR-587/2026-f807,2025-07-09,Belagavi Dist,Belagavi Camp PS,15.88074,74.46275,Assault,Under Investigation
+FIR-354/2026-c5f6,2025-09-26,Bengaluru City,Indiranagar PS,12.92194,77.56401,Robbery,Under Investigation
+FIR-616/2025-0993,2025-04-14,Bengaluru City,Cubbon Park PS,12.97288,77.63464,Assault,Charge Sheeted
+FIR-786/2026-5c91,2025-10-05,Tumakuru,Kyathasandra PS,13.354,77.13354,Cheating,Under Investigation
+FIR-926/2025-7d25,2025-09-08,Belagavi Dist,Belagavi Camp PS,15.89267,74.5323,Assault,Charge Sheeted
+FIR-671/2025-da9c,2025-04-28,Hubballi Dharwad City,Dharwad Suburban PS,15.31485,75.14934,Cyber Crime,Closed
+FIR-245/2026-8804,2025-07-02,Tumakuru,Tumakuru Town PS,13.33173,77.08523,Theft,Under Investigation
+FIR-949/2025-9e44,2025-12-05,Belagavi Dist,Belagavi Camp PS,15.88419,74.50091,NDPS,Under Investigation
+FIR-759/2026-c007,2025-03-19,Tumakuru,Tumakuru Town PS,13.34191,77.05862,Cheating,Closed
+FIR-447/2025-4c77,2025-12-31,Mysuru City,Saraswathipuram PS,12.28642,76.65228,Cyber Crime,Charge Sheeted
+FIR-977/2026-c01d,2025-11-21,Mysuru City,Devaraja PS,12.336,76.68561,NDPS,Closed
+FIR-570/2026-e218,2025-06-25,Bengaluru City,Indiranagar PS,12.96109,77.62719,Murder,Charge Sheeted
+FIR-166/2025-d44f,2025-05-06,Belagavi Dist,Tilakwadi PS,15.88397,74.51278,NDPS,Under Investigation
+FIR-332/2025-9e60,2025-02-06,Belagavi Dist,Belagavi Camp PS,15.89949,74.51447,Robbery,Pending Trial
+FIR-277/2025-199c,2025-07-13,Mysuru City,Devaraja PS,12.27759,76.68098,Assault,Closed
+FIR-110/2026-7d79,2025-01-20,Belagavi Dist,Khadebazar PS,15.87636,74.46308,Cheating,Pending Trial
+FIR-272/2025-2e41,2025-09-03,Bengaluru City,Koramangala PS,13.01827,77.62894,POCSO,Pending Trial
+FIR-138/2025-d3f0,2025-10-05,Belagavi Dist,Tilakwadi PS,15.86319,74.53333,Assault,Pending Trial
+FIR-316/2026-ba4b,2025-01-31,Belagavi Dist,Belagavi Camp PS,15.84693,74.47978,Assault,Closed
+FIR-288/2026-97de,2025-05-23,Tumakuru,Kyathasandra PS,13.34856,77.06807,Cheating,Charge Sheeted
+FIR-345/2025-9282,2025-12-22,Hubballi Dharwad City,Dharwad Suburban PS,15.3203,75.15792,Robbery,Closed
+FIR-956/2026-d1ad,2025-09-10,Tumakuru,Kyathasandra PS,13.3743,77.12993,Robbery,Charge Sheeted
+FIR-853/2025-2f3c,2025-11-22,Tumakuru,Tumakuru Town PS,13.32773,77.08962,NDPS,Pending Trial
+FIR-257/2026-55e8,2025-11-25,Tumakuru,Tumakuru Town PS,13.34411,77.13529,Murder,Closed
+FIR-404/2025-f42c,2025-06-11,Mysuru City,Saraswathipuram PS,12.33623,76.63827,POCSO,Pending Trial
+FIR-725/2026-3f28,2025-05-09,Tumakuru,Tumakuru Town PS,13.36505,77.11885,NDPS,Closed
+FIR-629/2025-eae2,2025-08-13,Mysuru City,Kuvempunagar PS,12.3432,76.66653,Cheating,Under Investigation
+FIR-242/2025-8d09,2025-06-20,Belagavi Dist,Belagavi Camp PS,15.84406,74.51928,Cyber Crime,Pending Trial
+FIR-754/2026-be8c,2025-02-18,Mysuru City,Devaraja PS,12.30765,76.67131,Robbery,Charge Sheeted
+FIR-683/2026-cd2e,2025-10-22,Hubballi Dharwad City,Dharwad Suburban PS,15.41057,75.09022,Cyber Crime,Under Investigation
+FIR-910/2026-3e80,2025-06-15,Belagavi Dist,Belagavi Camp PS,15.87265,74.47039,POCSO,Charge Sheeted
+FIR-628/2026-5c0b,2025-05-11,Bengaluru City,Indiranagar PS,12.97269,77.59321,Theft,Under Investigation
+FIR-186/2026-1118,2025-02-14,Hubballi Dharwad City,Dharwad Suburban PS,15.39689,75.1664,Cheating,Under Investigation
+FIR-212/2026-9c79,2025-01-10,Tumakuru,Kyathasandra PS,13.34127,77.09906,Robbery,Charge Sheeted
+FIR-832/2025-7af7,2025-08-30,Tumakuru,Tumakuru Town PS,13.32762,77.15072,NDPS,Pending Trial
+FIR-687/2025-e419,2025-05-02,Tumakuru,Kyathasandra PS,13.2994,77.09246,POCSO,Closed
+FIR-640/2025-9680,2025-07-14,Belagavi Dist,Tilakwadi PS,15.81699,74.45678,NDPS,Pending Trial
+FIR-769/2026-7031,2025-07-25,Belagavi Dist,Tilakwadi PS,15.82631,74.48045,Theft,Pending Trial
+FIR-715/2025-6bb2,2025-03-04,Hubballi Dharwad City,Hubballi Town PS,15.35766,75.08867,NDPS,Under Investigation
+FIR-200/2025-bd1d,2025-02-24,Mysuru City,Kuvempunagar PS,12.32779,76.62299,Assault,Closed
+FIR-472/2026-7637,2025-04-27,Belagavi Dist,Tilakwadi PS,15.80084,74.44835,Murder,Pending Trial
+FIR-953/2025-dfea,2025-07-04,Belagavi Dist,Belagavi Camp PS,15.8927,74.46444,POCSO,Charge Sheeted
+FIR-689/2025-7617,2025-05-27,Belagavi Dist,Tilakwadi PS,15.857,74.51536,Cyber Crime,Charge Sheeted
+FIR-318/2026-1e6f,2025-06-14,Belagavi Dist,Khadebazar PS,15.83119,74.4716,NDPS,Pending Trial
+FIR-573/2025-2414,2025-07-25,Tumakuru,Tumakuru Town PS,13.33021,77.1334,Cyber Crime,Charge Sheeted
+FIR-804/2026-1693,2025-10-05,Tumakuru,Tumakuru Town PS,13.31437,77.13596,Murder,Closed
+FIR-824/2025-f178,2025-04-28,Hubballi Dharwad City,Hubballi Town PS,15.40567,75.14255,Cheating,Under Investigation
+FIR-980/2026-d9c0,2025-09-11,Bengaluru City,Cubbon Park PS,12.94766,77.54868,Cheating,Pending Trial
+FIR-181/2026-59bd,2025-11-09,Belagavi Dist,Khadebazar PS,15.82822,74.50038,Theft,Charge Sheeted
+FIR-990/2025-d349,2025-08-15,Belagavi Dist,Khadebazar PS,15.86969,74.48621,Cheating,Closed
+FIR-989/2026-f1b8,2025-12-26,Mysuru City,Kuvempunagar PS,12.33223,76.6347,Assault,Closed
+FIR-371/2026-5057,2025-10-16,Bengaluru City,Koramangala PS,13.02081,77.6031,Theft,Under Investigation
+FIR-641/2026-0dda,2025-12-17,Mysuru City,Devaraja PS,12.2986,76.63522,Robbery,Charge Sheeted
+FIR-891/2025-8e0a,2025-03-05,Belagavi Dist,Belagavi Camp PS,15.80053,74.53488,Assault,Under Investigation
+FIR-569/2026-072b,2025-02-25,Bengaluru City,Cubbon Park PS,12.92991,77.56467,Murder,Under Investigation
+FIR-268/2026-ffd6,2025-02-11,Mysuru City,Devaraja PS,12.26903,76.64233,POCSO,Pending Trial
+FIR-812/2025-a40c,2025-10-08,Belagavi Dist,Tilakwadi PS,15.83898,74.45647,Theft,Pending Trial
+FIR-594/2026-8ef6,2025-12-17,Hubballi Dharwad City,Vidyanagar PS,15.32032,75.17045,Assault,Under Investigation
+FIR-146/2025-e3c8,2025-03-28,Tumakuru,Tumakuru Town PS,13.3161,77.14455,Theft,Under Investigation
+FIR-284/2025-503d,2025-12-21,Hubballi Dharwad City,Vidyanagar PS,15.38525,75.14642,Theft,Under Investigation
+FIR-310/2026-1d47,2025-04-19,Tumakuru,Tumakuru Town PS,13.34337,77.13268,Cyber Crime,Pending Trial
+FIR-822/2025-3196,2025-08-09,Bengaluru City,Indiranagar PS,13.01438,77.60452,Assault,Under Investigation
+FIR-381/2025-e573,2025-01-14,Mysuru City,Kuvempunagar PS,12.30692,76.60318,POCSO,Under Investigation
+FIR-443/2025-81d1,2025-09-24,Mysuru City,Kuvempunagar PS,12.33965,76.61042,Theft,Charge Sheeted
+FIR-455/2026-2b7e,2025-09-08,Hubballi Dharwad City,Hubballi Town PS,15.38698,75.11976,Murder,Charge Sheeted
+FIR-228/2025-391a,2025-01-11,Belagavi Dist,Khadebazar PS,15.85725,74.5389,Murder,Charge Sheeted
+FIR-486/2026-6b09,2025-08-14,Bengaluru City,Koramangala PS,12.92214,77.55676,POCSO,Charge Sheeted
+FIR-401/2025-7a68,2025-06-27,Belagavi Dist,Khadebazar PS,15.8165,74.50003,Robbery,Charge Sheeted
+FIR-247/2025-d3e0,2025-08-25,Mysuru City,Saraswathipuram PS,12.2915,76.58967,POCSO,Under Investigation
+FIR-571/2026-2d46,2025-09-27,Hubballi Dharwad City,Hubballi Town PS,15.41367,75.1342,Theft,Closed
+FIR-364/2026-719e,2025-01-08,Tumakuru,Kyathasandra PS,13.33936,77.10403,Murder,Pending Trial
+FIR-706/2026-b6de,2025-01-07,Bengaluru City,Cubbon Park PS,12.98307,77.59023,Cyber Crime,Under Investigation
+FIR-298/2025-1bcc,2025-07-23,Bengaluru City,Malleswaram PS,12.92722,77.61476,Robbery,Closed
+FIR-523/2026-fc54,2025-10-03,Belagavi Dist,Belagavi Camp PS,15.81345,74.49408,Cheating,Charge Sheeted
+FIR-855/2025-47f1,2025-07-07,Mysuru City,Kuvempunagar PS,12.327,76.63144,Cyber Crime,Charge Sheeted
+FIR-304/2026-1938,2025-06-05,Tumakuru,Tumakuru Town PS,13.29021,77.06849,Assault,Closed
+FIR-515/2026-ce74,2025-12-07,Hubballi Dharwad City,Vidyanagar PS,15.39526,75.12488,Assault,Under Investigation
+FIR-836/2025-2332,2025-02-21,Hubballi Dharwad City,Dharwad Suburban PS,15.33662,75.09564,Cyber Crime,Charge Sheeted
+FIR-920/2025-164c,2025-03-02,Mysuru City,Saraswathipuram PS,12.33754,76.6839,Cheating,Charge Sheeted
+FIR-387/2025-797f,2025-01-20,Hubballi Dharwad City,Vidyanagar PS,15.3746,75.14367,Cheating,Charge Sheeted
+FIR-574/2026-d025,2025-04-25,Mysuru City,Saraswathipuram PS,12.28207,76.66774,Cyber Crime,Charge Sheeted
+FIR-777/2026-d365,2025-04-16,Belagavi Dist,Tilakwadi PS,15.86628,74.47226,POCSO,Under Investigation
+FIR-514/2025-b993,2025-04-16,Hubballi Dharwad City,Hubballi Town PS,15.35602,75.1621,Cyber Crime,Charge Sheeted
+FIR-412/2026-452e,2025-05-01,Mysuru City,Kuvempunagar PS,12.34026,76.61499,Cheating,Charge Sheeted
+FIR-126/2025-5f66,2025-08-08,Bengaluru City,Malleswaram PS,13.01073,77.63878,Cyber Crime,Pending Trial
+FIR-109/2026-8104,2025-04-04,Tumakuru,Kyathasandra PS,13.38794,77.12568,Assault,Pending Trial
+FIR-154/2026-5fca,2025-07-29,Belagavi Dist,Tilakwadi PS,15.83106,74.48098,Assault,Pending Trial
+FIR-170/2025-9438,2025-11-12,Mysuru City,Devaraja PS,12.33126,76.64264,Theft,Charge Sheeted
+FIR-803/2026-a6b3,2025-04-12,Hubballi Dharwad City,Vidyanagar PS,15.40239,75.1619,Cheating,Charge Sheeted
+FIR-996/2025-7d0d,2025-02-17,Mysuru City,Kuvempunagar PS,12.27884,76.67495,Robbery,Under Investigation
+FIR-411/2026-6544,2025-05-20,Mysuru City,Saraswathipuram PS,12.28385,76.62508,Murder,Charge Sheeted
+FIR-354/2025-e5c9,2025-11-26,Belagavi Dist,Belagavi Camp PS,15.85118,74.54341,Murder,Charge Sheeted
+FIR-112/2025-1d87,2025-12-31,Bengaluru City,Malleswaram PS,12.92451,77.54505,Robbery,Under Investigation
+FIR-180/2025-9800,2025-01-20,Tumakuru,Tumakuru Town PS,13.36645,77.0537,Assault,Pending Trial
+FIR-164/2026-a73f,2025-04-18,Bengaluru City,Malleswaram PS,13.01602,77.63663,Robbery,Charge Sheeted
+FIR-461/2026-7cd7,2025-06-02,Tumakuru,Tumakuru Town PS,13.36027,77.10935,NDPS,Charge Sheeted
+FIR-407/2026-91f3,2025-04-23,Bengaluru City,Cubbon Park PS,12.99767,77.64051,Theft,Charge Sheeted
+FIR-120/2026-3141,2025-07-01,Hubballi Dharwad City,Vidyanagar PS,15.40846,75.11679,Cyber Crime,Charge Sheeted
+FIR-142/2026-445d,2025-03-01,Belagavi Dist,Tilakwadi PS,15.81406,74.49699,Cheating,Closed
+FIR-636/2025-4514,2025-03-28,Bengaluru City,Malleswaram PS,12.96658,77.60177,Robbery,Charge Sheeted
+FIR-574/2026-d519,2025-11-05,Tumakuru,Kyathasandra PS,13.3296,77.11377,Theft,Closed
+FIR-559/2025-54a6,2025-12-13,Belagavi Dist,Khadebazar PS,15.89171,74.52747,Cheating,Pending Trial
+FIR-297/2026-c16a,2025-07-14,Tumakuru,Kyathasandra PS,13.36084,77.09987,Assault,Charge Sheeted
+FIR-912/2025-4a22,2025-07-20,Hubballi Dharwad City,Vidyanagar PS,15.39237,75.16285,Cyber Crime,Charge Sheeted
+FIR-708/2026-43a7,2025-07-15,Belagavi Dist,Tilakwadi PS,15.87458,74.51916,NDPS,Pending Trial
+FIR-719/2026-11f7,2025-11-24,Bengaluru City,Malleswaram PS,12.97111,77.64216,Robbery,Charge Sheeted
+FIR-963/2026-779b,2025-10-07,Bengaluru City,Cubbon Park PS,12.99458,77.59408,Cheating,Under Investigation
+FIR-955/2025-e7aa,2025-02-15,Bengaluru City,Cubbon Park PS,13.02103,77.61608,Assault,Charge Sheeted
+FIR-831/2026-220d,2025-09-19,Belagavi Dist,Belagavi Camp PS,15.83885,74.48724,POCSO,Under Investigation
+FIR-987/2025-cc50,2025-02-04,Hubballi Dharwad City,Dharwad Suburban PS,15.35694,75.17377,POCSO,Charge Sheeted
+FIR-269/2026-c6a1,2025-08-24,Bengaluru City,Cubbon Park PS,12.99828,77.59715,Assault,Pending Trial
+FIR-754/2026-7c81,2025-08-07,Hubballi Dharwad City,Dharwad Suburban PS,15.32525,75.08478,Cyber Crime,Under Investigation
+FIR-365/2025-9424,2025-12-25,Hubballi Dharwad City,Vidyanagar PS,15.39918,75.17346,Murder,Closed
+FIR-907/2025-82c8,2025-05-26,Belagavi Dist,Khadebazar PS,15.86006,74.54065,Murder,Under Investigation
+FIR-791/2025-4e71,2025-09-02,Hubballi Dharwad City,Dharwad Suburban PS,15.39794,75.12537,POCSO,Under Investigation
+FIR-750/2026-9b81,2025-04-20,Hubballi Dharwad City,Hubballi Town PS,15.39906,75.15978,POCSO,Charge Sheeted
+FIR-308/2026-2547,2025-01-26,Hubballi Dharwad City,Dharwad Suburban PS,15.37622,75.0796,Theft,Closed
+FIR-350/2025-62cf,2025-12-23,Hubballi Dharwad City,Vidyanagar PS,15.40866,75.11327,POCSO,Under Investigation
+FIR-447/2026-a1ba,2025-08-06,Belagavi Dist,Tilakwadi PS,15.85758,74.50512,Cyber Crime,Pending Trial
+FIR-167/2025-9d8f,2025-03-21,Belagavi Dist,Belagavi Camp PS,15.83898,74.51724,POCSO,Under Investigation
+FIR-561/2025-cbe4,2025-01-29,Hubballi Dharwad City,Dharwad Suburban PS,15.3859,75.10917,Cheating,Charge Sheeted
+FIR-445/2026-6b15,2025-11-10,Bengaluru City,Indiranagar PS,13.01044,77.56345,NDPS,Under Investigation
+FIR-498/2025-17a8,2025-07-21,Bengaluru City,Indiranagar PS,12.95033,77.57972,Cheating,Pending Trial
+FIR-596/2025-85f7,2025-08-09,Hubballi Dharwad City,Vidyanagar PS,15.37643,75.0984,Robbery,Under Investigation
+FIR-714/2025-ff56,2025-04-20,Hubballi Dharwad City,Dharwad Suburban PS,15.37306,75.13285,Cheating,Under Investigation
+FIR-808/2026-bd22,2025-01-19,Belagavi Dist,Belagavi Camp PS,15.85549,74.48595,Murder,Under Investigation
+FIR-937/2025-6047,2025-02-27,Hubballi Dharwad City,Hubballi Town PS,15.31654,75.15075,Cyber Crime,Charge Sheeted
+FIR-683/2025-d4f7,2025-07-31,Hubballi Dharwad City,Vidyanagar PS,15.32758,75.17161,Assault,Charge Sheeted
+FIR-745/2026-3828,2025-09-24,Belagavi Dist,Khadebazar PS,15.80425,74.5326,Murder,Pending Trial
+FIR-885/2025-f409,2025-05-08,Tumakuru,Tumakuru Town PS,13.33792,77.14165,NDPS,Closed
+FIR-673/2026-db0f,2025-12-18,Mysuru City,Kuvempunagar PS,12.31331,76.63354,Theft,Pending Trial
+FIR-400/2026-92d6,2025-03-16,Tumakuru,Tumakuru Town PS,13.34697,77.07157,Assault,Closed
+FIR-795/2025-1109,2025-11-30,Belagavi Dist,Tilakwadi PS,15.8627,74.49161,Murder,Under Investigation
+FIR-977/2026-638f,2025-12-18,Bengaluru City,Indiranagar PS,12.92794,77.63797,POCSO,Charge Sheeted
+FIR-693/2025-e0d7,2025-05-02,Hubballi Dharwad City,Dharwad Suburban PS,15.38289,75.12612,Theft,Under Investigation
+FIR-770/2026-4707,2025-05-20,Bengaluru City,Koramangala PS,12.98948,77.60155,POCSO,Charge Sheeted
+FIR-959/2026-9c50,2025-10-05,Bengaluru City,Indiranagar PS,12.93622,77.55268,Murder,Closed
+FIR-561/2026-06d7,2025-01-02,Hubballi Dharwad City,Dharwad Suburban PS,15.32077,75.11598,NDPS,Pending Trial
+FIR-244/2026-44b3,2025-05-10,Mysuru City,Kuvempunagar PS,12.34103,76.67204,Assault,Charge Sheeted
+FIR-314/2026-3577,2025-08-26,Bengaluru City,Malleswaram PS,12.9221,77.55761,Theft,Charge Sheeted
+FIR-212/2026-7a19,2025-07-19,Belagavi Dist,Tilakwadi PS,15.81859,74.44898,POCSO,Charge Sheeted
+FIR-198/2026-5742,2025-03-02,Tumakuru,Tumakuru Town PS,13.30259,77.10483,POCSO,Under Investigation
+FIR-260/2025-bc02,2025-05-08,Bengaluru City,Malleswaram PS,12.92884,77.60127,POCSO,Under Investigation
+FIR-369/2026-7030,2025-09-07,Bengaluru City,Malleswaram PS,13.00572,77.56844,Robbery,Charge Sheeted
+FIR-779/2026-3dd0,2025-03-29,Mysuru City,Devaraja PS,12.2533,76.67734,POCSO,Charge Sheeted
+FIR-940/2025-2ec5,2025-10-23,Mysuru City,Saraswathipuram PS,12.30669,76.63226,Murder,Closed
+FIR-942/2026-bad5,2025-08-26,Mysuru City,Devaraja PS,12.30201,76.61952,Assault,Charge Sheeted
+FIR-545/2026-d77e,2025-06-30,Mysuru City,Kuvempunagar PS,12.25241,76.64362,Assault,Pending Trial
+FIR-458/2025-7ef8,2025-06-04,Bengaluru City,Koramangala PS,12.93884,77.63002,Murder,Charge Sheeted
+FIR-481/2025-d11f,2025-07-02,Belagavi Dist,Khadebazar PS,15.82258,74.47834,Cyber Crime,Charge Sheeted
+FIR-476/2025-0e75,2025-01-07,Mysuru City,Kuvempunagar PS,12.25836,76.63955,POCSO,Charge Sheeted
+FIR-429/2025-8101,2025-02-26,Belagavi Dist,Tilakwadi PS,15.81903,74.49827,Cyber Crime,Pending Trial
+FIR-403/2026-c8af,2025-05-04,Tumakuru,Tumakuru Town PS,13.29711,77.12886,POCSO,Closed
+FIR-384/2026-beba,2025-12-24,Belagavi Dist,Tilakwadi PS,15.82743,74.46867,Theft,Charge Sheeted
+FIR-764/2026-a223,2025-08-13,Bengaluru City,Cubbon Park PS,12.99345,77.61434,Theft,Closed
+FIR-920/2025-4f70,2025-04-16,Mysuru City,Kuvempunagar PS,12.31952,76.67584,Cheating,Charge Sheeted
+FIR-105/2025-583c,2025-07-30,Bengaluru City,Koramangala PS,12.97125,77.62012,Cheating,Closed
+FIR-577/2026-0437,2025-03-24,Tumakuru,Kyathasandra PS,13.35279,77.09641,Cheating,Charge Sheeted
+FIR-932/2026-1f03,2025-10-27,Tumakuru,Tumakuru Town PS,13.36008,77.08288,Assault,Pending Trial
+FIR-960/2025-0558,2025-04-08,Mysuru City,Saraswathipuram PS,12.29625,76.63729,Theft,Pending Trial
+FIR-601/2026-65df,2025-12-26,Hubballi Dharwad City,Hubballi Town PS,15.41201,75.17199,Assault,Under Investigation
+FIR-464/2025-ed5d,2025-06-05,Belagavi Dist,Belagavi Camp PS,15.88742,74.45673,NDPS,Pending Trial
+FIR-717/2026-f93f,2025-02-15,Hubballi Dharwad City,Dharwad Suburban PS,15.37905,75.15791,Theft,Under Investigation
+FIR-467/2026-2778,2025-09-14,Tumakuru,Kyathasandra PS,13.30941,77.08902,Cyber Crime,Charge Sheeted
+FIR-248/2026-e0de,2025-01-17,Hubballi Dharwad City,Vidyanagar PS,15.34747,75.1071,Cheating,Closed
+FIR-563/2026-fdbf,2025-08-13,Tumakuru,Kyathasandra PS,13.30234,77.07312,Cheating,Pending Trial
+FIR-337/2026-8611,2025-09-11,Tumakuru,Tumakuru Town PS,13.2894,77.07815,Robbery,Pending Trial
+FIR-142/2025-8d13,2025-02-04,Hubballi Dharwad City,Vidyanagar PS,15.37763,75.1,Cheating,Closed
+FIR-272/2026-2fbe,2025-07-30,Hubballi Dharwad City,Vidyanagar PS,15.34123,75.16743,Assault,Pending Trial
+FIR-172/2025-8e6d,2025-12-26,Tumakuru,Tumakuru Town PS,13.33897,77.05285,Robbery,Pending Trial
+FIR-203/2025-8ce4,2025-10-03,Tumakuru,Kyathasandra PS,13.32563,77.06523,Robbery,Under Investigation
+FIR-610/2026-0c8b,2025-09-08,Mysuru City,Devaraja PS,12.3122,76.59154,Murder,Closed
+FIR-258/2026-9024,2025-04-26,Hubballi Dharwad City,Dharwad Suburban PS,15.34787,75.08967,Cheating,Closed
+FIR-495/2026-730f,2025-10-04,Hubballi Dharwad City,Dharwad Suburban PS,15.40958,75.17098,NDPS,Pending Trial
+FIR-941/2026-fafd,2025-05-16,Hubballi Dharwad City,Vidyanagar PS,15.31952,75.09168,Murder,Closed
+FIR-901/2025-8a5e,2025-09-16,Belagavi Dist,Tilakwadi PS,15.83663,74.47949,Murder,Pending Trial
+FIR-850/2025-8c1d,2025-04-19,Bengaluru City,Koramangala PS,13.01752,77.54993,NDPS,Closed
+FIR-371/2026-e398,2025-08-16,Belagavi Dist,Belagavi Camp PS,15.86321,74.50053,Murder,Closed
+FIR-382/2025-2800,2025-10-05,Hubballi Dharwad City,Vidyanagar PS,15.40775,75.08509,Robbery,Closed
+FIR-465/2025-20a1,2025-04-11,Tumakuru,Tumakuru Town PS,13.33911,77.09055,Murder,Charge Sheeted
+FIR-517/2025-c012,2025-07-15,Hubballi Dharwad City,Vidyanagar PS,15.35039,75.14561,Robbery,Under Investigation
+FIR-839/2026-e99e,2025-06-29,Mysuru City,Devaraja PS,12.25583,76.63144,Cyber Crime,Pending Trial
+FIR-917/2025-3f58,2025-07-05,Belagavi Dist,Belagavi Camp PS,15.83487,74.45857,Assault,Pending Trial
+FIR-624/2026-5b45,2025-04-14,Tumakuru,Kyathasandra PS,13.36358,77.11989,NDPS,Closed
+FIR-367/2026-b837,2025-06-07,Mysuru City,Devaraja PS,12.25488,76.59196,NDPS,Closed
+FIR-313/2025-ce40,2025-10-27,Mysuru City,Saraswathipuram PS,12.34268,76.59648,Cheating,Pending Trial
+FIR-455/2025-3c66,2025-04-15,Tumakuru,Kyathasandra PS,13.29365,77.11329,NDPS,Pending Trial
+FIR-346/2025-9008,2025-11-22,Bengaluru City,Indiranagar PS,12.92259,77.6029,Cyber Crime,Closed
+FIR-157/2026-3b6b,2025-03-22,Hubballi Dharwad City,Dharwad Suburban PS,15.38868,75.15341,Cheating,Closed
+FIR-437/2025-14ec,2025-07-08,Hubballi Dharwad City,Vidyanagar PS,15.33424,75.08974,Assault,Charge Sheeted
+FIR-932/2026-c84a,2025-09-29,Hubballi Dharwad City,Hubballi Town PS,15.40179,75.16924,POCSO,Closed
+FIR-321/2025-4516,2025-01-12,Mysuru City,Devaraja PS,12.26668,76.63607,Murder,Closed
+FIR-658/2025-2468,2025-02-18,Tumakuru,Kyathasandra PS,13.30663,77.09491,Cheating,Pending Trial
+FIR-661/2026-d679,2025-01-30,Belagavi Dist,Tilakwadi PS,15.87691,74.48582,Murder,Under Investigation
+FIR-348/2025-91e9,2025-05-11,Tumakuru,Tumakuru Town PS,13.36984,77.14716,Robbery,Pending Trial
+FIR-345/2025-32c7,2025-04-23,Belagavi Dist,Khadebazar PS,15.88413,74.47511,NDPS,Charge Sheeted
+FIR-211/2025-80c4,2025-04-24,Hubballi Dharwad City,Dharwad Suburban PS,15.3578,75.13437,Robbery,Charge Sheeted
+FIR-942/2025-8a06,2025-08-08,Tumakuru,Tumakuru Town PS,13.3463,77.13474,Cyber Crime,Under Investigation
+FIR-532/2026-da6f,2025-11-16,Hubballi Dharwad City,Hubballi Town PS,15.33982,75.08943,Cyber Crime,Under Investigation
+FIR-329/2026-59a1,2025-08-11,Hubballi Dharwad City,Dharwad Suburban PS,15.36507,75.09095,Cyber Crime,Charge Sheeted
+FIR-527/2025-c264,2025-09-12,Belagavi Dist,Khadebazar PS,15.88349,74.53635,Murder,Closed
+FIR-683/2026-698d,2025-08-28,Bengaluru City,Cubbon Park PS,12.95831,77.58808,Murder,Closed
+FIR-811/2026-bf29,2025-07-04,Hubballi Dharwad City,Hubballi Town PS,15.35253,75.13656,Cheating,Pending Trial
+FIR-840/2025-0fe6,2025-07-06,Belagavi Dist,Khadebazar PS,15.85746,74.5228,POCSO,Charge Sheeted
+FIR-143/2026-e1cd,2025-03-30,Belagavi Dist,Tilakwadi PS,15.86933,74.50064,Cyber Crime,Pending Trial
+FIR-584/2025-8ecf,2025-09-13,Belagavi Dist,Belagavi Camp PS,15.82002,74.4802,Theft,Under Investigation
+FIR-391/2026-2b84,2025-07-29,Mysuru City,Kuvempunagar PS,12.31143,76.59314,Theft,Pending Trial
+FIR-411/2025-37eb,2025-07-13,Mysuru City,Devaraja PS,12.26755,76.63875,Cheating,Closed
+FIR-676/2026-d312,2025-08-18,Tumakuru,Kyathasandra PS,13.29339,77.14178,Theft,Under Investigation
+FIR-908/2025-3516,2025-09-28,Mysuru City,Saraswathipuram PS,12.28485,76.59364,Theft,Closed
+FIR-618/2025-a2d0,2025-06-23,Belagavi Dist,Belagavi Camp PS,15.80756,74.46408,Murder,Pending Trial
+FIR-872/2026-d85b,2025-02-13,Bengaluru City,Koramangala PS,12.96391,77.58417,Cyber Crime,Pending Trial
+FIR-441/2026-d7ff,2025-08-21,Mysuru City,Devaraja PS,12.29703,76.64269,Cyber Crime,Charge Sheeted
+FIR-653/2026-ae83,2025-11-04,Mysuru City,Saraswathipuram PS,12.31897,76.60373,NDPS,Pending Trial
+FIR-394/2025-10f5,2025-04-19,Tumakuru,Tumakuru Town PS,13.36401,77.11642,Robbery,Closed
+FIR-127/2026-9289,2025-03-30,Mysuru City,Saraswathipuram PS,12.26821,76.59311,NDPS,Closed
+FIR-214/2025-8aca,2025-03-13,Mysuru City,Devaraja PS,12.25733,76.63568,NDPS,Closed
+FIR-660/2025-e9c9,2025-05-25,Hubballi Dharwad City,Hubballi Town PS,15.39053,75.14663,Murder,Under Investigation
+FIR-712/2026-b8f5,2025-04-18,Belagavi Dist,Tilakwadi PS,15.83806,74.52498,Murder,Charge Sheeted
+FIR-213/2026-0606,2025-04-29,Belagavi Dist,Tilakwadi PS,15.86246,74.46785,POCSO,Charge Sheeted
+FIR-836/2026-3a47,2025-08-21,Tumakuru,Tumakuru Town PS,13.34915,77.09778,Cheating,Under Investigation
+FIR-503/2026-1825,2025-02-06,Hubballi Dharwad City,Hubballi Town PS,15.36424,75.13076,Murder,Charge Sheeted
+FIR-170/2026-4eaf,2025-12-19,Mysuru City,Kuvempunagar PS,12.31247,76.64789,NDPS,Pending Trial
+FIR-673/2026-f709,2025-08-21,Belagavi Dist,Belagavi Camp PS,15.84193,74.54518,POCSO,Charge Sheeted
+FIR-222/2025-a604,2025-10-17,Bengaluru City,Indiranagar PS,12.92829,77.57313,Robbery,Pending Trial
+FIR-452/2026-1bfc,2025-01-13,Tumakuru,Tumakuru Town PS,13.28967,77.06129,Cyber Crime,Closed
+FIR-651/2025-59b6,2025-06-27,Belagavi Dist,Khadebazar PS,15.86889,74.53866,Cyber Crime,Under Investigation
+FIR-854/2026-f6ae,2025-06-14,Belagavi Dist,Khadebazar PS,15.81024,74.52965,NDPS,Pending Trial
+FIR-469/2026-feff,2025-09-02,Tumakuru,Kyathasandra PS,13.37146,77.07272,NDPS,Under Investigation
+FIR-327/2026-d28d,2025-12-05,Tumakuru,Tumakuru Town PS,13.35212,77.06949,Cyber Crime,Charge Sheeted
+FIR-309/2025-8d4a,2025-02-13,Tumakuru,Tumakuru Town PS,13.3176,77.09323,Murder,Charge Sheeted
+FIR-339/2025-ee3a,2025-01-14,Bengaluru City,Indiranagar PS,13.01596,77.61687,Theft,Under Investigation
+FIR-401/2026-a690,2025-12-17,Tumakuru,Kyathasandra PS,13.3527,77.10829,Theft,Pending Trial
+FIR-408/2026-a122,2025-01-31,Tumakuru,Tumakuru Town PS,13.34083,77.0938,Cheating,Charge Sheeted
+FIR-840/2026-73fb,2025-11-11,Bengaluru City,Koramangala PS,12.93063,77.57358,Assault,Closed
+FIR-773/2025-6a87,2025-01-08,Tumakuru,Tumakuru Town PS,13.33103,77.05293,Theft,Charge Sheeted
+FIR-163/2025-ef3f,2025-11-16,Bengaluru City,Koramangala PS,12.93852,77.61202,Cheating,Pending Trial
+FIR-846/2026-2c58,2025-03-03,Hubballi Dharwad City,Hubballi Town PS,15.40627,75.09395,Theft,Pending Trial
+FIR-768/2026-6569,2025-02-11,Bengaluru City,Koramangala PS,13.00118,77.58118,Assault,Pending Trial
+FIR-844/2026-c680,2025-01-07,Tumakuru,Kyathasandra PS,13.37144,77.09485,Cheating,Closed
+FIR-286/2026-a312,2025-07-01,Hubballi Dharwad City,Vidyanagar PS,15.414,75.13833,Cheating,Under Investigation
+FIR-268/2025-a4c3,2025-12-06,Bengaluru City,Koramangala PS,12.96009,77.56937,NDPS,Pending Trial
+FIR-155/2026-ce2b,2025-01-29,Bengaluru City,Koramangala PS,12.95873,77.64145,Robbery,Under Investigation
+FIR-536/2025-cb43,2025-03-11,Belagavi Dist,Tilakwadi PS,15.80413,74.45451,Cyber Crime,Under Investigation
+FIR-740/2025-cce6,2025-07-19,Tumakuru,Tumakuru Town PS,13.32548,77.08561,Assault,Under Investigation
+FIR-384/2025-7603,2025-09-02,Belagavi Dist,Khadebazar PS,15.80707,74.49214,Robbery,Closed
+FIR-642/2026-55a4,2025-10-19,Bengaluru City,Koramangala PS,12.96233,77.60179,Theft,Closed
+FIR-197/2026-9a21,2025-07-03,Tumakuru,Tumakuru Town PS,13.37091,77.05292,Theft,Pending Trial
+FIR-791/2026-575b,2025-10-16,Tumakuru,Tumakuru Town PS,13.35719,77.12885,Robbery,Pending Trial
+FIR-953/2025-9503,2025-06-18,Mysuru City,Saraswathipuram PS,12.3307,76.67664,Murder,Charge Sheeted
+FIR-859/2026-0a80,2025-02-08,Hubballi Dharwad City,Hubballi Town PS,15.31936,75.11452,Robbery,Charge Sheeted
+FIR-404/2026-bd20,2025-11-02,Belagavi Dist,Khadebazar PS,15.8478,74.513,Cheating,Charge Sheeted
+FIR-103/2025-682a,2025-04-09,Belagavi Dist,Tilakwadi PS,15.88091,74.49405,Murder,Charge Sheeted
+FIR-919/2026-6a9d,2025-05-31,Hubballi Dharwad City,Vidyanagar PS,15.38158,75.11047,NDPS,Under Investigation
+FIR-313/2025-63c6,2025-02-02,Belagavi Dist,Tilakwadi PS,15.84989,74.49435,NDPS,Pending Trial
+FIR-609/2025-b461,2025-03-12,Hubballi Dharwad City,Hubballi Town PS,15.35366,75.10159,POCSO,Closed
+FIR-788/2025-ed3e,2025-01-08,Belagavi Dist,Khadebazar PS,15.83424,74.50535,Theft,Charge Sheeted
+FIR-419/2026-c6fa,2025-12-24,Bengaluru City,Cubbon Park PS,12.95803,77.60539,Theft,Charge Sheeted
+FIR-812/2025-3cd1,2025-04-06,Hubballi Dharwad City,Vidyanagar PS,15.32724,75.10318,Murder,Charge Sheeted
+FIR-790/2026-b195,2025-05-02,Bengaluru City,Malleswaram PS,12.97416,77.63175,Cheating,Under Investigation
+FIR-368/2026-7214,2025-11-30,Tumakuru,Tumakuru Town PS,13.32816,77.15074,Assault,Closed
+FIR-785/2025-8e5d,2025-10-28,Hubballi Dharwad City,Hubballi Town PS,15.40971,75.12738,Theft,Under Investigation
+FIR-969/2026-4e2d,2025-09-02,Mysuru City,Devaraja PS,12.27518,76.60187,Cheating,Under Investigation
+FIR-479/2026-e086,2025-04-13,Mysuru City,Kuvempunagar PS,12.28529,76.64309,Theft,Pending Trial
+FIR-927/2025-b3f2,2025-07-05,Tumakuru,Tumakuru Town PS,13.30348,77.09933,Theft,Pending Trial
+FIR-989/2025-d7db,2025-11-22,Bengaluru City,Cubbon Park PS,12.94132,77.54858,Theft,Closed
+FIR-864/2026-39f0,2025-05-06,Tumakuru,Tumakuru Town PS,13.29346,77.08138,POCSO,Pending Trial
+FIR-758/2026-e275,2025-08-06,Belagavi Dist,Belagavi Camp PS,15.87471,74.54296,Theft,Pending Trial
+FIR-453/2026-0ee7,2025-01-25,Mysuru City,Devaraja PS,12.28079,76.63941,Murder,Closed
+FIR-607/2025-ff7a,2025-11-30,Bengaluru City,Koramangala PS,12.92704,77.56645,Robbery,Charge Sheeted
+FIR-891/2026-7777,2025-09-05,Tumakuru,Kyathasandra PS,13.296,77.08538,Theft,Charge Sheeted
+FIR-828/2025-10d9,2025-09-15,Tumakuru,Kyathasandra PS,13.32845,77.10468,Robbery,Closed
+FIR-690/2025-a9d4,2025-11-28,Mysuru City,Saraswathipuram PS,12.24989,76.68655,NDPS,Pending Trial
+FIR-824/2025-c639,2025-07-13,Belagavi Dist,Belagavi Camp PS,15.8625,74.51421,Theft,Under Investigation
+FIR-458/2025-63f5,2025-04-14,Bengaluru City,Cubbon Park PS,12.95455,77.63462,NDPS,Pending Trial
+FIR-725/2026-df09,2025-12-06,Belagavi Dist,Tilakwadi PS,15.86275,74.5396,Cheating,Closed
+FIR-463/2026-c8db,2025-03-03,Tumakuru,Kyathasandra PS,13.33448,77.1492,Cheating,Closed
+FIR-374/2025-79b9,2025-02-09,Belagavi Dist,Khadebazar PS,15.80753,74.54466,Cyber Crime,Pending Trial
+FIR-866/2026-629f,2025-05-10,Hubballi Dharwad City,Vidyanagar PS,15.35283,75.14819,POCSO,Closed
+FIR-163/2026-03f5,2025-02-13,Mysuru City,Devaraja PS,12.32074,76.64608,NDPS,Closed
+FIR-413/2026-7557,2025-08-18,Mysuru City,Kuvempunagar PS,12.3027,76.67155,Theft,Charge Sheeted
+FIR-402/2026-54c4,2025-05-15,Tumakuru,Tumakuru Town PS,13.3014,77.07781,Robbery,Under Investigation
+FIR-589/2025-7987,2025-02-23,Mysuru City,Saraswathipuram PS,12.29805,76.65372,POCSO,Closed
+FIR-443/2026-8db4,2025-03-21,Mysuru City,Devaraja PS,12.34004,76.68635,NDPS,Closed
+FIR-659/2026-8431,2025-03-14,Mysuru City,Saraswathipuram PS,12.30989,76.64839,Cheating,Closed
+FIR-663/2025-2b9f,2025-03-29,Mysuru City,Devaraja PS,12.27337,76.67531,POCSO,Under Investigation
+FIR-131/2025-d683,2025-11-21,Mysuru City,Kuvempunagar PS,12.33422,76.68937,NDPS,Closed
+FIR-321/2026-6478,2025-01-15,Tumakuru,Kyathasandra PS,13.29788,77.09676,Murder,Closed
+FIR-103/2026-f3cc,2025-02-22,Belagavi Dist,Tilakwadi PS,15.87634,74.4743,Cyber Crime,Charge Sheeted
+FIR-355/2026-0819,2025-04-21,Hubballi Dharwad City,Hubballi Town PS,15.35755,75.08231,Cyber Crime,Pending Trial
+FIR-252/2026-665c,2025-10-29,Tumakuru,Kyathasandra PS,13.35727,77.08764,NDPS,Closed
+FIR-547/2026-1d17,2025-09-05,Bengaluru City,Cubbon Park PS,12.96948,77.60064,Assault,Charge Sheeted
+FIR-132/2025-9dc3,2025-02-27,Bengaluru City,Indiranagar PS,12.93619,77.56848,Cyber Crime,Closed
+FIR-415/2025-94c9,2025-11-10,Hubballi Dharwad City,Hubballi Town PS,15.3233,75.10348,Theft,Pending Trial
+FIR-702/2025-b313,2025-01-05,Mysuru City,Kuvempunagar PS,12.29334,76.67454,NDPS,Under Investigation
+FIR-972/2025-f942,2025-04-03,Mysuru City,Kuvempunagar PS,12.29649,76.61959,Robbery,Under Investigation
+FIR-190/2026-b4a0,2025-03-02,Hubballi Dharwad City,Hubballi Town PS,15.34919,75.15373,Robbery,Pending Trial
+FIR-255/2025-cf3b,2025-03-29,Belagavi Dist,Khadebazar PS,15.81055,74.46974,Theft,Pending Trial
+FIR-683/2026-bf0f,2025-11-05,Bengaluru City,Cubbon Park PS,12.95182,77.56468,NDPS,Charge Sheeted
+FIR-470/2025-2d41,2025-05-11,Bengaluru City,Malleswaram PS,12.96976,77.63034,Murder,Closed
+FIR-723/2026-4d02,2025-10-24,Belagavi Dist,Tilakwadi PS,15.82236,74.46711,Cheating,Under Investigation
+FIR-921/2025-0388,2025-02-24,Hubballi Dharwad City,Vidyanagar PS,15.40574,75.10163,Murder,Closed
+FIR-725/2025-f2cd,2025-05-24,Hubballi Dharwad City,Dharwad Suburban PS,15.3374,75.14728,Cheating,Pending Trial
+FIR-898/2026-2d0f,2025-12-25,Bengaluru City,Cubbon Park PS,12.94612,77.61475,NDPS,Under Investigation
+FIR-886/2026-be0c,2025-08-30,Tumakuru,Tumakuru Town PS,13.35348,77.10749,Murder,Under Investigation
+FIR-436/2026-b729,2025-05-12,Mysuru City,Devaraja PS,12.26345,76.64737,POCSO,Closed
+FIR-635/2025-c7ea,2025-02-17,Hubballi Dharwad City,Vidyanagar PS,15.31776,75.14817,Murder,Charge Sheeted
+FIR-444/2025-f55d,2025-06-02,Hubballi Dharwad City,Hubballi Town PS,15.32328,75.14244,Robbery,Pending Trial
+FIR-783/2026-0895,2025-09-18,Hubballi Dharwad City,Dharwad Suburban PS,15.32729,75.10155,NDPS,Charge Sheeted
+FIR-447/2025-f04a,2025-11-05,Hubballi Dharwad City,Dharwad Suburban PS,15.33323,75.12667,NDPS,Pending Trial
+FIR-339/2026-220e,2025-07-25,Belagavi Dist,Belagavi Camp PS,15.86586,74.46442,Robbery,Closed
+FIR-497/2026-6750,2025-09-19,Bengaluru City,Indiranagar PS,12.96051,77.55811,Cyber Crime,Pending Trial
+FIR-569/2026-4cc4,2025-06-18,Hubballi Dharwad City,Vidyanagar PS,15.35091,75.11712,Robbery,Pending Trial
+FIR-510/2026-858d,2025-09-20,Hubballi Dharwad City,Hubballi Town PS,15.38675,75.07948,Theft,Charge Sheeted
+FIR-312/2025-71eb,2025-06-09,Mysuru City,Saraswathipuram PS,12.29091,76.6087,Murder,Under Investigation
+FIR-534/2026-b2d7,2025-05-30,Belagavi Dist,Tilakwadi PS,15.87901,74.49014,Cyber Crime,Closed
+FIR-701/2025-a16e,2025-11-26,Tumakuru,Kyathasandra PS,13.34294,77.13499,POCSO,Charge Sheeted
+FIR-145/2025-f27c,2025-05-10,Belagavi Dist,Khadebazar PS,15.85305,74.54643,NDPS,Pending Trial
+FIR-183/2025-ef70,2025-08-23,Bengaluru City,Indiranagar PS,13.01699,77.61792,Assault,Charge Sheeted
+FIR-202/2025-7ba9,2025-01-18,Mysuru City,Saraswathipuram PS,12.28661,76.65761,NDPS,Closed
+FIR-870/2026-495e,2025-10-26,Hubballi Dharwad City,Hubballi Town PS,15.39907,75.14471,Cheating,Charge Sheeted
+FIR-991/2026-fe86,2025-04-27,Hubballi Dharwad City,Vidyanagar PS,15.38353,75.10292,Theft,Under Investigation
+FIR-843/2025-e717,2025-02-11,Belagavi Dist,Belagavi Camp PS,15.89887,74.50908,Theft,Pending Trial
+FIR-975/2026-c245,2025-10-01,Mysuru City,Devaraja PS,12.27238,76.62572,Robbery,Under Investigation
+FIR-414/2026-6b1c,2025-08-05,Tumakuru,Tumakuru Town PS,13.36494,77.1229,Cheating,Closed
+FIR-408/2025-f67d,2025-10-31,Belagavi Dist,Khadebazar PS,15.83907,74.49677,Cyber Crime,Charge Sheeted
+FIR-639/2025-4d2b,2025-08-21,Belagavi Dist,Khadebazar PS,15.80063,74.4863,Murder,Pending Trial
+FIR-956/2026-52b4,2025-09-29,Bengaluru City,Indiranagar PS,12.95623,77.55148,Assault,Closed
+FIR-672/2025-1ce5,2025-02-06,Mysuru City,Saraswathipuram PS,12.25007,76.60293,Murder,Closed
+FIR-499/2026-352a,2025-11-06,Hubballi Dharwad City,Dharwad Suburban PS,15.32493,75.15021,Cheating,Charge Sheeted
+FIR-144/2026-2879,2025-07-20,Belagavi Dist,Khadebazar PS,15.89451,74.5145,Assault,Closed
+FIR-365/2025-e16a,2025-03-08,Belagavi Dist,Belagavi Camp PS,15.8125,74.5196,Theft,Closed
+FIR-681/2026-1e96,2025-10-07,Bengaluru City,Malleswaram PS,13.00042,77.60302,Murder,Under Investigation
+FIR-183/2026-15cd,2025-02-12,Belagavi Dist,Khadebazar PS,15.80598,74.53629,Murder,Closed
+FIR-199/2026-26ae,2025-02-03,Hubballi Dharwad City,Hubballi Town PS,15.3388,75.09772,NDPS,Under Investigation
+FIR-252/2025-3453,2025-03-07,Hubballi Dharwad City,Dharwad Suburban PS,15.35296,75.15084,Murder,Under Investigation
+FIR-593/2025-4155,2025-04-06,Belagavi Dist,Belagavi Camp PS,15.89031,74.46852,Robbery,Closed
+FIR-518/2026-7422,2025-11-18,Mysuru City,Saraswathipuram PS,12.33005,76.65556,Cyber Crime,Closed
+FIR-145/2026-a8fc,2025-11-13,Mysuru City,Kuvempunagar PS,12.28102,76.59282,Assault,Pending Trial
+FIR-941/2026-e8dc,2025-09-08,Hubballi Dharwad City,Hubballi Town PS,15.37735,75.1631,Robbery,Charge Sheeted
+FIR-364/2026-138c,2025-03-19,Hubballi Dharwad City,Dharwad Suburban PS,15.38298,75.10467,Murder,Under Investigation
+FIR-577/2025-25d4,2025-07-11,Tumakuru,Kyathasandra PS,13.32534,77.1333,POCSO,Under Investigation
+FIR-736/2026-10e7,2025-10-04,Belagavi Dist,Belagavi Camp PS,15.828,74.49032,Robbery,Under Investigation
+FIR-868/2025-3903,2025-03-14,Hubballi Dharwad City,Vidyanagar PS,15.38962,75.13418,Theft,Pending Trial
+FIR-864/2025-4696,2025-03-20,Bengaluru City,Cubbon Park PS,12.9299,77.61838,Cheating,Charge Sheeted
+FIR-776/2026-697a,2025-09-17,Tumakuru,Kyathasandra PS,13.29843,77.09565,Robbery,Under Investigation
+FIR-855/2026-faa3,2025-08-02,Bengaluru City,Koramangala PS,12.92844,77.61975,Cyber Crime,Pending Trial
+FIR-906/2025-8cac,2025-05-19,Belagavi Dist,Belagavi Camp PS,15.8366,74.51467,Theft,Pending Trial
+FIR-267/2026-70ff,2025-10-10,Belagavi Dist,Tilakwadi PS,15.86118,74.49425,NDPS,Pending Trial
+FIR-329/2025-c88f,2025-03-22,Tumakuru,Tumakuru Town PS,13.32968,77.05949,Theft,Pending Trial
+FIR-777/2025-908d,2025-04-30,Mysuru City,Saraswathipuram PS,12.2621,76.66945,POCSO,Closed
+FIR-391/2026-731b,2025-03-24,Belagavi Dist,Tilakwadi PS,15.88948,74.47995,Cyber Crime,Under Investigation
+FIR-596/2025-e3db,2025-03-30,Hubballi Dharwad City,Dharwad Suburban PS,15.41139,75.10041,Cyber Crime,Pending Trial
+FIR-750/2025-91ea,2025-07-06,Belagavi Dist,Tilakwadi PS,15.89158,74.49998,Robbery,Pending Trial
+FIR-987/2026-a7fe,2025-06-11,Belagavi Dist,Belagavi Camp PS,15.85811,74.51262,Cyber Crime,Closed
+FIR-147/2025-c9a1,2025-11-27,Tumakuru,Kyathasandra PS,13.29724,77.05251,Robbery,Pending Trial
+FIR-103/2025-dccb,2025-12-23,Tumakuru,Kyathasandra PS,13.31131,77.13095,Theft,Charge Sheeted
+FIR-774/2025-6346,2025-11-23,Hubballi Dharwad City,Hubballi Town PS,15.35052,75.17056,Assault,Under Investigation
+FIR-645/2026-aa8b,2025-04-22,Tumakuru,Kyathasandra PS,13.31532,77.09485,Assault,Under Investigation
+FIR-797/2026-e13d,2025-08-23,Hubballi Dharwad City,Dharwad Suburban PS,15.32313,75.16887,Cyber Crime,Closed
+FIR-639/2025-37db,2025-07-22,Hubballi Dharwad City,Vidyanagar PS,15.34055,75.07685,Cheating,Closed
+FIR-596/2025-3db1,2025-01-15,Hubballi Dharwad City,Hubballi Town PS,15.3981,75.15146,POCSO,Closed
+FIR-742/2025-0e5c,2025-08-22,Tumakuru,Tumakuru Town PS,13.33277,77.13065,NDPS,Closed
+FIR-331/2025-0151,2025-10-24,Hubballi Dharwad City,Dharwad Suburban PS,15.3879,75.08637,POCSO,Charge Sheeted
+FIR-665/2026-029f,2025-06-26,Hubballi Dharwad City,Hubballi Town PS,15.3845,75.1462,Cyber Crime,Closed
+FIR-897/2025-f213,2025-01-11,Belagavi Dist,Khadebazar PS,15.89643,74.53221,Cheating,Under Investigation
+FIR-871/2025-a1a3,2025-08-12,Bengaluru City,Malleswaram PS,12.94359,77.61421,Cyber Crime,Under Investigation
+FIR-638/2025-e44e,2025-06-21,Bengaluru City,Cubbon Park PS,12.9662,77.60887,POCSO,Charge Sheeted
+FIR-512/2026-b734,2025-07-22,Tumakuru,Tumakuru Town PS,13.32015,77.11948,Murder,Closed
+FIR-716/2026-84f3,2025-11-01,Tumakuru,Tumakuru Town PS,13.38077,77.12263,NDPS,Charge Sheeted
+FIR-473/2025-bfdc,2025-08-22,Belagavi Dist,Tilakwadi PS,15.8251,74.46955,NDPS,Charge Sheeted
+FIR-942/2026-d5d8,2025-06-30,Belagavi Dist,Belagavi Camp PS,15.8207,74.51912,Theft,Pending Trial
+FIR-320/2026-3002,2025-05-07,Mysuru City,Kuvempunagar PS,12.26932,76.6875,POCSO,Under Investigation
+FIR-753/2026-1419,2025-02-04,Hubballi Dharwad City,Dharwad Suburban PS,15.33867,75.15691,POCSO,Under Investigation
+FIR-545/2026-0fe8,2025-06-01,Belagavi Dist,Belagavi Camp PS,15.817,74.50631,Theft,Under Investigation
+FIR-729/2025-1f63,2025-05-28,Mysuru City,Devaraja PS,12.33414,76.59337,POCSO,Closed
+FIR-860/2026-fae2,2025-03-22,Belagavi Dist,Khadebazar PS,15.83476,74.47188,NDPS,Under Investigation
+FIR-187/2026-b242,2025-06-30,Mysuru City,Devaraja PS,12.33851,76.65595,Assault,Under Investigation
+FIR-485/2026-9697,2025-08-15,Mysuru City,Devaraja PS,12.29597,76.68403,Murder,Pending Trial
+FIR-742/2025-d9e6,2025-04-03,Mysuru City,Devaraja PS,12.31895,76.6066,Murder,Closed
+FIR-227/2025-090a,2025-06-01,Bengaluru City,Koramangala PS,13.00787,77.60905,Cheating,Pending Trial
+FIR-605/2025-6e0e,2025-12-26,Tumakuru,Kyathasandra PS,13.29072,77.0796,Cyber Crime,Closed
+FIR-638/2026-caf1,2025-07-25,Belagavi Dist,Tilakwadi PS,15.87266,74.5259,Robbery,Closed
+FIR-320/2026-4636,2025-06-13,Hubballi Dharwad City,Hubballi Town PS,15.36579,75.10293,Theft,Pending Trial
+FIR-636/2026-6d7c,2025-10-12,Tumakuru,Tumakuru Town PS,13.36878,77.14649,Assault,Pending Trial
+FIR-405/2026-6920,2025-07-05,Mysuru City,Saraswathipuram PS,12.29713,76.67217,NDPS,Under Investigation
+FIR-645/2025-3c8a,2025-12-03,Hubballi Dharwad City,Vidyanagar PS,15.37751,75.07791,Assault,Closed
+FIR-423/2025-f376,2025-06-23,Hubballi Dharwad City,Hubballi Town PS,15.31936,75.1076,Robbery,Charge Sheeted
+FIR-736/2026-b070,2025-08-12,Mysuru City,Kuvempunagar PS,12.27731,76.64486,Cyber Crime,Closed
+FIR-705/2025-15dc,2025-04-30,Hubballi Dharwad City,Vidyanagar PS,15.39103,75.14376,NDPS,Under Investigation
+FIR-636/2026-85f9,2025-02-25,Mysuru City,Kuvempunagar PS,12.30675,76.6209,Theft,Under Investigation
+FIR-395/2025-f7b4,2025-08-30,Mysuru City,Devaraja PS,12.30624,76.62974,Murder,Pending Trial
+FIR-955/2026-d778,2025-04-04,Bengaluru City,Koramangala PS,12.9447,77.64234,Cheating,Charge Sheeted
+FIR-620/2025-0e17,2025-04-21,Belagavi Dist,Tilakwadi PS,15.8964,74.45189,Assault,Pending Trial
+FIR-596/2026-f185,2025-10-18,Belagavi Dist,Tilakwadi PS,15.87797,74.54155,Cyber Crime,Under Investigation
+FIR-903/2025-3a65,2025-05-12,Tumakuru,Kyathasandra PS,13.36019,77.08686,Theft,Under Investigation
+FIR-158/2025-4440,2025-10-13,Bengaluru City,Malleswaram PS,12.94862,77.57645,Cheating,Charge Sheeted
+FIR-679/2026-bb0e,2025-08-29,Belagavi Dist,Belagavi Camp PS,15.80632,74.49164,NDPS,Under Investigation
+FIR-822/2025-90dd,2025-08-31,Bengaluru City,Cubbon Park PS,12.97829,77.59058,Assault,Under Investigation
+FIR-454/2025-30c6,2025-06-05,Hubballi Dharwad City,Dharwad Suburban PS,15.33345,75.141,Robbery,Closed
+FIR-567/2025-8f31,2025-03-29,Tumakuru,Kyathasandra PS,13.3605,77.09404,Cyber Crime,Under Investigation
+FIR-598/2025-4d2c,2025-08-08,Tumakuru,Kyathasandra PS,13.29294,77.14686,Cheating,Closed
+FIR-986/2025-9710,2025-08-12,Tumakuru,Tumakuru Town PS,13.35674,77.07329,Murder,Charge Sheeted
+FIR-221/2025-89e7,2025-07-14,Mysuru City,Kuvempunagar PS,12.32531,76.66729,Cheating,Closed
+FIR-951/2026-70fc,2025-09-05,Belagavi Dist,Khadebazar PS,15.87447,74.53023,NDPS,Charge Sheeted
+FIR-614/2026-eb64,2025-05-09,Tumakuru,Kyathasandra PS,13.34392,77.11422,NDPS,Charge Sheeted
+FIR-996/2026-d2f7,2025-02-26,Mysuru City,Devaraja PS,12.31188,76.6128,Cyber Crime,Charge Sheeted
+FIR-200/2025-3dd2,2025-02-26,Tumakuru,Kyathasandra PS,13.29264,77.05228,Cheating,Pending Trial
+FIR-106/2025-04aa,2025-01-21,Bengaluru City,Cubbon Park PS,12.92261,77.60501,Assault,Pending Trial
+FIR-424/2025-a9cf,2025-12-08,Hubballi Dharwad City,Dharwad Suburban PS,15.37066,75.09465,Robbery,Under Investigation
+FIR-423/2026-49e4,2025-01-05,Bengaluru City,Cubbon Park PS,12.93256,77.57898,Assault,Charge Sheeted
+FIR-256/2026-3379,2025-05-21,Hubballi Dharwad City,Dharwad Suburban PS,15.32112,75.11286,Murder,Pending Trial
+FIR-163/2026-e396,2025-11-15,Tumakuru,Kyathasandra PS,13.33196,77.13338,NDPS,Under Investigation
+FIR-520/2026-baf8,2025-08-08,Mysuru City,Devaraja PS,12.28665,76.67174,Assault,Closed
+FIR-158/2025-bba8,2025-04-14,Belagavi Dist,Khadebazar PS,15.83516,74.53553,Murder,Charge Sheeted
+FIR-673/2026-8c51,2025-06-14,Hubballi Dharwad City,Dharwad Suburban PS,15.37244,75.08747,POCSO,Under Investigation
+FIR-765/2026-2748,2025-11-04,Hubballi Dharwad City,Hubballi Town PS,15.39716,75.11578,POCSO,Pending Trial
+FIR-693/2025-2d30,2025-11-12,Belagavi Dist,Khadebazar PS,15.84128,74.51532,Robbery,Under Investigation
+FIR-139/2025-190b,2025-12-25,Mysuru City,Saraswathipuram PS,12.30556,76.6374,Murder,Under Investigation
+FIR-495/2026-5fdb,2025-12-02,Belagavi Dist,Belagavi Camp PS,15.89475,74.45916,POCSO,Pending Trial
+FIR-870/2025-7423,2025-11-19,Tumakuru,Kyathasandra PS,13.36201,77.09789,Cyber Crime,Closed
+FIR-455/2026-29d1,2025-10-05,Mysuru City,Devaraja PS,12.27513,76.65107,Assault,Pending Trial
+FIR-524/2025-61e6,2025-09-11,Tumakuru,Kyathasandra PS,13.37401,77.14353,Murder,Closed
+FIR-229/2025-5490,2025-05-25,Belagavi Dist,Khadebazar PS,15.89394,74.50127,POCSO,Under Investigation
+FIR-412/2026-02f1,2025-03-18,Mysuru City,Saraswathipuram PS,12.30434,76.63195,Cheating,Closed
+FIR-256/2025-d1a4,2025-03-04,Hubballi Dharwad City,Vidyanagar PS,15.32526,75.13107,Assault,Closed
+FIR-637/2025-8164,2025-04-06,Mysuru City,Saraswathipuram PS,12.25065,76.61602,Assault,Closed
+FIR-130/2026-8653,2025-03-04,Mysuru City,Kuvempunagar PS,12.26218,76.58999,Assault,Under Investigation
+FIR-593/2026-edb5,2025-07-31,Hubballi Dharwad City,Vidyanagar PS,15.40902,75.15863,Cyber Crime,Pending Trial
+FIR-168/2026-1287,2025-06-05,Belagavi Dist,Khadebazar PS,15.86475,74.47286,Murder,Pending Trial
+FIR-449/2025-6ec1,2025-04-06,Mysuru City,Devaraja PS,12.30497,76.60552,Assault,Under Investigation
+FIR-182/2025-8524,2025-04-24,Hubballi Dharwad City,Dharwad Suburban PS,15.32522,75.1523,POCSO,Under Investigation
+FIR-686/2026-86d0,2025-10-30,Bengaluru City,Indiranagar PS,13.00837,77.59416,Theft,Closed
+FIR-819/2025-aaa9,2025-05-04,Hubballi Dharwad City,Hubballi Town PS,15.36716,75.15256,Robbery,Pending Trial
+FIR-916/2026-6165,2025-03-19,Belagavi Dist,Belagavi Camp PS,15.86005,74.52536,Cyber Crime,Under Investigation
+FIR-347/2026-e2bd,2025-04-19,Bengaluru City,Cubbon Park PS,12.92738,77.61624,Assault,Charge Sheeted
+FIR-186/2025-d185,2025-11-18,Bengaluru City,Koramangala PS,12.99933,77.59669,Robbery,Pending Trial
+FIR-494/2025-cf1b,2025-02-18,Belagavi Dist,Khadebazar PS,15.86015,74.46486,Theft,Closed
+FIR-920/2026-9191,2025-08-02,Bengaluru City,Indiranagar PS,12.96193,77.64152,NDPS,Charge Sheeted
+FIR-250/2026-c6a3,2025-07-30,Hubballi Dharwad City,Vidyanagar PS,15.39841,75.14564,POCSO,Closed
+FIR-225/2025-6ab1,2025-12-22,Mysuru City,Kuvempunagar PS,12.29239,76.65263,Assault,Under Investigation
+FIR-340/2026-ceba,2025-02-21,Tumakuru,Kyathasandra PS,13.32523,77.1491,Robbery,Closed
+FIR-557/2026-3b81,2025-03-24,Hubballi Dharwad City,Hubballi Town PS,15.40868,75.09682,Theft,Under Investigation
+FIR-510/2025-903d,2025-06-24,Mysuru City,Saraswathipuram PS,12.26948,76.60728,Cheating,Pending Trial
+FIR-261/2026-ea9b,2025-10-24,Mysuru City,Devaraja PS,12.28398,76.62832,NDPS,Under Investigation
+FIR-421/2026-226a,2025-11-18,Belagavi Dist,Belagavi Camp PS,15.86686,74.48808,Assault,Charge Sheeted
+FIR-786/2026-28e3,2025-05-05,Bengaluru City,Indiranagar PS,12.96341,77.60218,NDPS,Pending Trial
+FIR-780/2025-3bcc,2025-04-07,Mysuru City,Kuvempunagar PS,12.30116,76.62141,Robbery,Under Investigation
+FIR-776/2025-362a,2025-01-12,Mysuru City,Saraswathipuram PS,12.25367,76.65989,Murder,Under Investigation
+FIR-167/2025-08ff,2025-10-19,Hubballi Dharwad City,Hubballi Town PS,15.38066,75.07797,POCSO,Closed
+FIR-842/2026-b759,2025-12-29,Bengaluru City,Koramangala PS,13.02065,77.60547,Cheating,Closed
+FIR-372/2025-3495,2025-12-15,Tumakuru,Kyathasandra PS,13.34797,77.05719,Cyber Crime,Pending Trial
+FIR-793/2025-570e,2025-12-25,Mysuru City,Devaraja PS,12.24618,76.6554,Cheating,Pending Trial
+FIR-732/2025-c2a5,2025-05-16,Tumakuru,Tumakuru Town PS,13.36021,77.14174,Robbery,Pending Trial
+FIR-935/2025-4955,2025-07-31,Tumakuru,Kyathasandra PS,13.37944,77.12867,Cheating,Pending Trial
+FIR-608/2025-86a7,2025-09-24,Bengaluru City,Koramangala PS,12.9824,77.55314,Murder,Charge Sheeted
+FIR-938/2026-15f9,2025-09-14,Belagavi Dist,Tilakwadi PS,15.83702,74.49361,POCSO,Closed
+FIR-580/2025-a516,2025-01-18,Belagavi Dist,Belagavi Camp PS,15.85398,74.47917,Cyber Crime,Under Investigation
+FIR-194/2026-62c1,2025-01-31,Bengaluru City,Malleswaram PS,13.00285,77.59356,Assault,Charge Sheeted
+FIR-225/2025-bc30,2025-02-11,Mysuru City,Kuvempunagar PS,12.34083,76.6774,Robbery,Closed
+FIR-892/2026-6ff3,2025-06-11,Belagavi Dist,Tilakwadi PS,15.88581,74.47135,POCSO,Pending Trial
+FIR-378/2025-3096,2025-06-16,Hubballi Dharwad City,Vidyanagar PS,15.32917,75.10162,NDPS,Pending Trial
+FIR-634/2025-8755,2025-12-28,Tumakuru,Tumakuru Town PS,13.29761,77.07109,POCSO,Under Investigation
+FIR-597/2026-0856,2025-08-11,Tumakuru,Tumakuru Town PS,13.34431,77.12051,POCSO,Under Investigation
+FIR-463/2026-7ed8,2025-04-10,Bengaluru City,Indiranagar PS,13.00686,77.59049,Cyber Crime,Under Investigation
+FIR-258/2025-fb78,2025-08-26,Tumakuru,Kyathasandra PS,13.3503,77.09202,Assault,Under Investigation
+FIR-109/2025-431f,2025-08-09,Mysuru City,Kuvempunagar PS,12.33378,76.62488,POCSO,Pending Trial
+FIR-597/2025-23dd,2025-01-05,Tumakuru,Tumakuru Town PS,13.30146,77.06787,Theft,Pending Trial
+FIR-620/2026-c235,2025-12-07,Mysuru City,Kuvempunagar PS,12.25261,76.59579,Cyber Crime,Charge Sheeted
+FIR-577/2025-522e,2025-03-06,Bengaluru City,Cubbon Park PS,12.96189,77.6311,Cyber Crime,Under Investigation
+FIR-765/2025-0ee1,2025-09-04,Bengaluru City,Indiranagar PS,12.996,77.60391,POCSO,Pending Trial
+FIR-227/2026-c4b0,2025-11-20,Bengaluru City,Malleswaram PS,12.94526,77.61354,Theft,Closed
+FIR-381/2026-07a2,2025-09-25,Tumakuru,Tumakuru Town PS,13.38106,77.06667,Theft,Under Investigation
+FIR-936/2025-f8b9,2025-03-08,Hubballi Dharwad City,Vidyanagar PS,15.35198,75.10222,Cheating,Pending Trial
+FIR-228/2026-77ac,2025-03-07,Belagavi Dist,Khadebazar PS,15.8726,74.50563,NDPS,Pending Trial
+FIR-146/2025-466c,2025-03-11,Bengaluru City,Indiranagar PS,12.95738,77.57052,Cheating,Under Investigation
+FIR-631/2025-a0ea,2025-08-21,Tumakuru,Tumakuru Town PS,13.31103,77.11712,Cyber Crime,Pending Trial
+FIR-313/2026-b05b,2025-02-01,Belagavi Dist,Tilakwadi PS,15.89414,74.48561,POCSO,Pending Trial
+FIR-795/2026-980d,2025-01-13,Tumakuru,Tumakuru Town PS,13.35737,77.14624,Cyber Crime,Under Investigation
+FIR-896/2026-deb0,2025-12-03,Mysuru City,Devaraja PS,12.29362,76.66514,NDPS,Charge Sheeted
+FIR-311/2026-4984,2025-07-07,Bengaluru City,Indiranagar PS,12.92477,77.63844,Murder,Closed
+FIR-552/2025-fcd7,2025-03-09,Hubballi Dharwad City,Hubballi Town PS,15.39789,75.15,Cheating,Under Investigation
+FIR-218/2025-e70e,2025-11-30,Tumakuru,Kyathasandra PS,13.38218,77.11816,Assault,Under Investigation
+FIR-603/2025-58f7,2025-10-02,Bengaluru City,Koramangala PS,12.95004,77.5863,Robbery,Charge Sheeted
+FIR-625/2026-e514,2025-11-22,Tumakuru,Tumakuru Town PS,13.34278,77.06298,Theft,Charge Sheeted
+FIR-599/2025-9c54,2025-07-08,Mysuru City,Devaraja PS,12.25719,76.66181,NDPS,Pending Trial
+FIR-922/2025-db4c,2025-12-02,Mysuru City,Devaraja PS,12.34153,76.64581,Cyber Crime,Under Investigation
+FIR-301/2025-5887,2025-05-18,Mysuru City,Kuvempunagar PS,12.32543,76.67921,Robbery,Charge Sheeted
+FIR-857/2026-ea12,2025-03-06,Hubballi Dharwad City,Vidyanagar PS,15.39717,75.08795,Cheating,Pending Trial
+FIR-424/2026-428c,2025-04-29,Belagavi Dist,Khadebazar PS,15.84044,74.46925,Murder,Closed
+FIR-502/2025-7ae1,2025-11-21,Belagavi Dist,Tilakwadi PS,15.87263,74.45446,Robbery,Pending Trial
+FIR-116/2025-8381,2025-07-15,Hubballi Dharwad City,Vidyanagar PS,15.39756,75.16371,Murder,Pending Trial
+FIR-589/2026-f507,2025-01-21,Hubballi Dharwad City,Dharwad Suburban PS,15.38795,75.1079,Cyber Crime,Closed
+FIR-198/2026-471c,2025-03-09,Tumakuru,Kyathasandra PS,13.34881,77.14511,Robbery,Under Investigation
+FIR-544/2026-c5b4,2025-01-27,Bengaluru City,Indiranagar PS,12.96685,77.62539,Cyber Crime,Charge Sheeted
+FIR-172/2026-fbb9,2025-03-26,Belagavi Dist,Khadebazar PS,15.86433,74.4915,Murder,Pending Trial
+FIR-121/2026-1adf,2025-03-14,Belagavi Dist,Tilakwadi PS,15.8608,74.52291,Cheating,Under Investigation
+FIR-842/2025-a3c2,2025-04-01,Tumakuru,Tumakuru Town PS,13.38909,77.10049,Murder,Pending Trial
+FIR-248/2025-aca7,2025-03-17,Belagavi Dist,Khadebazar PS,15.80986,74.51173,Cyber Crime,Charge Sheeted
+FIR-258/2026-6c4b,2025-04-25,Tumakuru,Kyathasandra PS,13.35794,77.11564,Assault,Pending Trial
+FIR-614/2025-23f6,2025-02-26,Mysuru City,Kuvempunagar PS,12.3157,76.62822,Assault,Pending Trial
+FIR-347/2026-513a,2025-06-05,Belagavi Dist,Khadebazar PS,15.80209,74.51421,Assault,Under Investigation
+FIR-999/2025-f4d5,2025-04-02,Mysuru City,Devaraja PS,12.32482,76.59818,Cyber Crime,Charge Sheeted
+FIR-314/2025-9a85,2025-12-06,Bengaluru City,Koramangala PS,12.95783,77.62609,Cheating,Charge Sheeted
+FIR-592/2026-8bb2,2025-01-20,Mysuru City,Saraswathipuram PS,12.28176,76.67026,NDPS,Pending Trial
+FIR-350/2026-4ae6,2025-12-15,Bengaluru City,Indiranagar PS,12.92641,77.59028,NDPS,Charge Sheeted
+FIR-207/2025-e5d1,2025-05-24,Tumakuru,Kyathasandra PS,13.29319,77.1138,Theft,Under Investigation
+FIR-475/2026-da20,2025-08-04,Mysuru City,Devaraja PS,12.30832,76.62962,Cheating,Under Investigation
+FIR-444/2026-b716,2025-05-18,Hubballi Dharwad City,Dharwad Suburban PS,15.33031,75.09536,Assault,Under Investigation
+FIR-212/2026-5a59,2025-08-18,Belagavi Dist,Khadebazar PS,15.89106,74.51955,Cheating,Charge Sheeted
+FIR-217/2025-db13,2025-03-22,Belagavi Dist,Khadebazar PS,15.88754,74.45316,POCSO,Pending Trial
+FIR-282/2025-9edd,2025-11-01,Mysuru City,Kuvempunagar PS,12.29867,76.68298,POCSO,Under Investigation
+FIR-270/2026-d299,2025-08-24,Bengaluru City,Koramangala PS,13.00029,77.54974,NDPS,Under Investigation
+FIR-330/2026-2c1a,2025-04-04,Tumakuru,Kyathasandra PS,13.30469,77.10056,NDPS,Charge Sheeted
+FIR-481/2026-15ce,2025-07-16,Mysuru City,Devaraja PS,12.27486,76.63788,Robbery,Under Investigation
+FIR-182/2025-057f,2025-06-14,Hubballi Dharwad City,Hubballi Town PS,15.37554,75.09421,Cheating,Charge Sheeted
+FIR-663/2026-318d,2025-04-28,Tumakuru,Tumakuru Town PS,13.34981,77.12854,NDPS,Closed
+FIR-260/2026-2515,2025-07-24,Belagavi Dist,Tilakwadi PS,15.8282,74.45573,Murder,Charge Sheeted
+FIR-755/2026-4172,2025-09-26,Hubballi Dharwad City,Hubballi Town PS,15.36281,75.11528,Theft,Under Investigation
+FIR-317/2026-7e90,2025-05-08,Mysuru City,Saraswathipuram PS,12.24983,76.61782,Assault,Pending Trial
+FIR-581/2026-369e,2025-04-16,Tumakuru,Kyathasandra PS,13.3225,77.08322,Theft,Charge Sheeted
+FIR-102/2025-9f4f,2025-11-30,Hubballi Dharwad City,Vidyanagar PS,15.38169,75.11772,Cyber Crime,Pending Trial
+FIR-582/2025-392c,2025-10-18,Bengaluru City,Cubbon Park PS,12.97931,77.63082,Cyber Crime,Closed
+FIR-539/2025-47fc,2025-05-31,Bengaluru City,Indiranagar PS,12.94181,77.63275,Murder,Under Investigation
+FIR-661/2026-e32c,2025-04-11,Belagavi Dist,Belagavi Camp PS,15.88184,74.47327,Cheating,Under Investigation
+FIR-215/2026-1ce8,2025-02-20,Tumakuru,Kyathasandra PS,13.29663,77.10883,Robbery,Charge Sheeted
+FIR-724/2026-e98c,2025-11-27,Mysuru City,Kuvempunagar PS,12.26045,76.67304,Assault,Charge Sheeted
+FIR-421/2026-5306,2025-02-22,Belagavi Dist,Belagavi Camp PS,15.83015,74.49132,Assault,Pending Trial
+FIR-268/2026-4a36,2025-06-23,Tumakuru,Kyathasandra PS,13.37265,77.05918,Cheating,Under Investigation
+FIR-210/2026-351d,2025-05-28,Belagavi Dist,Tilakwadi PS,15.87911,74.54034,NDPS,Under Investigation
+FIR-100/2025-a89a,2025-04-14,Mysuru City,Kuvempunagar PS,12.26165,76.62064,NDPS,Pending Trial
+FIR-877/2025-edab,2025-11-01,Belagavi Dist,Tilakwadi PS,15.89267,74.52451,POCSO,Pending Trial
+FIR-102/2025-a913,2025-10-21,Tumakuru,Tumakuru Town PS,13.36088,77.07848,Cheating,Charge Sheeted
+FIR-217/2025-e480,2025-04-29,Bengaluru City,Indiranagar PS,12.95948,77.56318,Cyber Crime,Pending Trial
+FIR-762/2025-3fba,2025-08-22,Hubballi Dharwad City,Dharwad Suburban PS,15.37457,75.08113,Assault,Under Investigation
+FIR-665/2026-8b21,2025-02-16,Bengaluru City,Koramangala PS,12.99489,77.55411,Robbery,Charge Sheeted
+FIR-302/2026-319a,2025-06-23,Mysuru City,Devaraja PS,12.27187,76.63188,NDPS,Pending Trial
+FIR-309/2026-22c8,2025-03-11,Hubballi Dharwad City,Hubballi Town PS,15.34658,75.11011,NDPS,Closed
+FIR-976/2025-b299,2025-12-18,Hubballi Dharwad City,Vidyanagar PS,15.39387,75.1294,POCSO,Charge Sheeted
+FIR-643/2025-25b8,2025-07-01,Belagavi Dist,Khadebazar PS,15.87769,74.4717,NDPS,Charge Sheeted
+FIR-687/2026-95b1,2025-09-12,Bengaluru City,Indiranagar PS,12.96905,77.64046,Cheating,Under Investigation
+FIR-112/2025-f649,2025-05-19,Belagavi Dist,Khadebazar PS,15.83254,74.50803,Murder,Under Investigation
+FIR-945/2025-e74b,2025-05-22,Bengaluru City,Koramangala PS,12.93895,77.59684,POCSO,Pending Trial
+FIR-282/2026-1a84,2025-09-27,Mysuru City,Devaraja PS,12.3448,76.6666,Robbery,Closed
+FIR-521/2025-40e3,2025-05-03,Mysuru City,Kuvempunagar PS,12.28184,76.64369,Murder,Charge Sheeted
+FIR-418/2026-5344,2025-01-30,Bengaluru City,Cubbon Park PS,12.96841,77.55507,Cyber Crime,Under Investigation
+FIR-428/2025-1cec,2025-06-22,Hubballi Dharwad City,Vidyanagar PS,15.31574,75.11126,Murder,Charge Sheeted
+FIR-102/2026-41d9,2025-06-02,Belagavi Dist,Khadebazar PS,15.8075,74.45989,Theft,Under Investigation
+FIR-533/2025-114d,2025-10-20,Belagavi Dist,Belagavi Camp PS,15.85666,74.52131,Cyber Crime,Closed
+FIR-919/2026-4b8a,2025-09-25,Mysuru City,Devaraja PS,12.32481,76.6031,Theft,Pending Trial
+FIR-104/2026-b7ee,2025-12-05,Tumakuru,Kyathasandra PS,13.30599,77.05759,Assault,Pending Trial
+FIR-438/2025-e420,2025-01-04,Hubballi Dharwad City,Vidyanagar PS,15.38797,75.16172,POCSO,Under Investigation
+FIR-923/2025-dc5e,2025-03-30,Mysuru City,Kuvempunagar PS,12.33808,76.64703,POCSO,Under Investigation
+FIR-676/2026-9680,2025-05-12,Belagavi Dist,Tilakwadi PS,15.83003,74.44953,Theft,Under Investigation
+FIR-605/2026-f8ad,2025-02-08,Hubballi Dharwad City,Vidyanagar PS,15.35674,75.08051,Cheating,Pending Trial
+FIR-610/2026-ea8e,2025-02-17,Tumakuru,Kyathasandra PS,13.34663,77.13828,Cyber Crime,Under Investigation
+FIR-636/2025-6ce1,2025-02-05,Mysuru City,Devaraja PS,12.3363,76.66431,Theft,Pending Trial
+FIR-490/2026-2a47,2025-11-12,Tumakuru,Kyathasandra PS,13.35056,77.10453,Theft,Charge Sheeted
+FIR-549/2025-aa97,2025-07-23,Hubballi Dharwad City,Hubballi Town PS,15.37142,75.14532,Assault,Closed
+FIR-388/2026-c371,2025-10-03,Tumakuru,Kyathasandra PS,13.38239,77.05787,Robbery,Pending Trial
+FIR-784/2025-7ff3,2025-10-20,Bengaluru City,Malleswaram PS,12.95986,77.64154,Cyber Crime,Charge Sheeted
+FIR-976/2025-656c,2025-09-22,Tumakuru,Kyathasandra PS,13.32633,77.12919,Assault,Under Investigation
+FIR-587/2026-1a4c,2025-08-09,Tumakuru,Tumakuru Town PS,13.37875,77.14446,POCSO,Closed
+FIR-371/2026-1687,2025-03-31,Hubballi Dharwad City,Hubballi Town PS,15.33377,75.07975,Theft,Under Investigation
+FIR-327/2025-39db,2025-10-11,Tumakuru,Tumakuru Town PS,13.33318,77.14539,POCSO,Charge Sheeted
+FIR-278/2025-c350,2025-10-24,Tumakuru,Tumakuru Town PS,13.36266,77.11861,POCSO,Closed
+FIR-163/2026-eace,2025-03-12,Tumakuru,Kyathasandra PS,13.35441,77.05434,Theft,Charge Sheeted
+FIR-147/2026-a5c4,2025-12-19,Tumakuru,Kyathasandra PS,13.34703,77.10648,POCSO,Under Investigation
+FIR-301/2025-7eba,2025-06-01,Tumakuru,Kyathasandra PS,13.3234,77.06792,NDPS,Closed
+FIR-340/2025-4196,2025-09-28,Tumakuru,Kyathasandra PS,13.36459,77.13646,NDPS,Under Investigation
+FIR-917/2025-6412,2025-09-02,Mysuru City,Kuvempunagar PS,12.28423,76.66873,Cyber Crime,Closed
+FIR-656/2026-7f5e,2025-11-01,Belagavi Dist,Belagavi Camp PS,15.8983,74.5194,Assault,Charge Sheeted
+FIR-956/2025-f7e4,2025-08-20,Mysuru City,Kuvempunagar PS,12.26301,76.67849,Theft,Under Investigation
+FIR-412/2026-6bd7,2025-07-17,Belagavi Dist,Tilakwadi PS,15.89236,74.4895,Cyber Crime,Charge Sheeted
+FIR-963/2026-e006,2025-10-08,Bengaluru City,Indiranagar PS,13.01532,77.55348,Murder,Charge Sheeted
+FIR-276/2026-dc76,2025-11-11,Belagavi Dist,Belagavi Camp PS,15.8973,74.49766,Robbery,Under Investigation
+FIR-870/2025-08cb,2025-08-23,Belagavi Dist,Belagavi Camp PS,15.82922,74.52145,NDPS,Under Investigation
+FIR-731/2025-1b98,2025-10-06,Tumakuru,Tumakuru Town PS,13.37445,77.12362,POCSO,Closed
+FIR-368/2025-65e9,2025-09-22,Hubballi Dharwad City,Vidyanagar PS,15.38345,75.1624,Murder,Pending Trial
+FIR-814/2025-0cbc,2025-09-05,Belagavi Dist,Khadebazar PS,15.89768,74.53431,NDPS,Under Investigation
+FIR-543/2026-a24c,2025-11-10,Tumakuru,Kyathasandra PS,13.3753,77.11074,Cheating,Closed
+FIR-641/2026-f213,2025-06-15,Belagavi Dist,Khadebazar PS,15.87626,74.49184,POCSO,Pending Trial
+FIR-756/2025-9ec2,2025-09-27,Belagavi Dist,Tilakwadi PS,15.80162,74.47891,Robbery,Pending Trial
+FIR-387/2025-7305,2025-05-22,Tumakuru,Kyathasandra PS,13.29892,77.07206,Cyber Crime,Under Investigation
+FIR-751/2026-3256,2025-07-03,Belagavi Dist,Belagavi Camp PS,15.80896,74.51839,Assault,Charge Sheeted
+FIR-253/2026-8ac7,2025-04-24,Tumakuru,Tumakuru Town PS,13.29497,77.14417,Cheating,Pending Trial
+FIR-733/2025-621d,2025-10-13,Mysuru City,Saraswathipuram PS,12.3233,76.68189,Robbery,Closed
+FIR-225/2025-a1ab,2025-03-02,Belagavi Dist,Khadebazar PS,15.86457,74.47996,Theft,Charge Sheeted
+FIR-904/2026-043c,2025-06-02,Bengaluru City,Cubbon Park PS,12.97942,77.58733,Cheating,Pending Trial
+FIR-887/2026-7182,2025-02-07,Bengaluru City,Malleswaram PS,12.98481,77.57167,POCSO,Charge Sheeted
+FIR-474/2026-4d10,2025-09-25,Hubballi Dharwad City,Vidyanagar PS,15.36086,75.13424,Cheating,Under Investigation
+FIR-846/2025-b78b,2025-11-07,Belagavi Dist,Belagavi Camp PS,15.87663,74.49469,Cyber Crime,Closed
+FIR-289/2026-28a6,2025-01-15,Belagavi Dist,Khadebazar PS,15.88372,74.48195,Murder,Closed
+FIR-855/2026-ef4c,2025-04-28,Bengaluru City,Malleswaram PS,13.01109,77.5899,Cyber Crime,Under Investigation
+FIR-999/2026-6af1,2025-07-18,Belagavi Dist,Tilakwadi PS,15.88088,74.52725,Assault,Pending Trial
+FIR-828/2026-29a0,2025-02-18,Tumakuru,Tumakuru Town PS,13.35083,77.13909,Theft,Closed
+FIR-357/2025-4d9a,2025-03-04,Bengaluru City,Indiranagar PS,13.01333,77.62656,Cheating,Charge Sheeted
+FIR-461/2026-ea95,2025-08-23,Belagavi Dist,Khadebazar PS,15.88948,74.52373,Assault,Charge Sheeted
+FIR-583/2025-4ca3,2025-03-22,Tumakuru,Tumakuru Town PS,13.31632,77.13914,Cheating,Charge Sheeted
+FIR-671/2026-cfe1,2025-08-28,Bengaluru City,Malleswaram PS,12.93759,77.62711,POCSO,Closed
+FIR-830/2026-a42e,2025-01-22,Mysuru City,Saraswathipuram PS,12.30821,76.6533,Theft,Charge Sheeted
+FIR-450/2026-d344,2025-11-22,Bengaluru City,Cubbon Park PS,12.94698,77.63741,Assault,Under Investigation
+FIR-397/2025-a821,2025-05-20,Tumakuru,Tumakuru Town PS,13.30599,77.06215,Murder,Pending Trial
+FIR-790/2025-5cb4,2025-02-06,Tumakuru,Tumakuru Town PS,13.37937,77.14885,Cheating,Pending Trial
+FIR-246/2025-c15f,2025-12-07,Tumakuru,Kyathasandra PS,13.29918,77.07708,NDPS,Closed
+FIR-341/2025-1b44,2025-03-06,Hubballi Dharwad City,Hubballi Town PS,15.33474,75.15962,Theft,Under Investigation
+FIR-720/2026-a20d,2025-04-11,Tumakuru,Tumakuru Town PS,13.33099,77.09864,Murder,Pending Trial
+FIR-981/2025-1683,2025-12-24,Bengaluru City,Indiranagar PS,12.97096,77.58645,NDPS,Under Investigation
+FIR-406/2026-66a7,2025-11-27,Belagavi Dist,Khadebazar PS,15.8054,74.47487,Robbery,Closed
+FIR-422/2026-efdf,2025-01-20,Mysuru City,Saraswathipuram PS,12.28811,76.63378,Cheating,Closed
+FIR-122/2025-dac2,2025-07-21,Tumakuru,Kyathasandra PS,13.35465,77.05796,Assault,Charge Sheeted
+FIR-909/2026-d5a7,2025-10-20,Hubballi Dharwad City,Hubballi Town PS,15.36049,75.12085,Murder,Under Investigation
+FIR-872/2025-37fe,2025-06-20,Bengaluru City,Malleswaram PS,12.99393,77.55761,Murder,Pending Trial
+FIR-608/2026-cb8d,2025-11-10,Belagavi Dist,Khadebazar PS,15.82849,74.54477,Murder,Closed
+FIR-358/2025-1fff,2025-07-01,Mysuru City,Saraswathipuram PS,12.26205,76.67241,Cyber Crime,Pending Trial
+FIR-457/2026-0b41,2025-09-03,Mysuru City,Kuvempunagar PS,12.31198,76.60234,Robbery,Charge Sheeted
+FIR-523/2026-18ea,2025-03-04,Bengaluru City,Koramangala PS,12.92642,77.62837,Murder,Pending Trial
+FIR-809/2026-53a1,2025-10-23,Tumakuru,Kyathasandra PS,13.38048,77.11172,Assault,Charge Sheeted
+FIR-932/2026-27ac,2025-06-22,Belagavi Dist,Belagavi Camp PS,15.81034,74.52968,Murder,Under Investigation
+FIR-683/2026-9eed,2025-04-07,Tumakuru,Tumakuru Town PS,13.34662,77.13445,Murder,Pending Trial
+FIR-258/2025-c995,2025-01-19,Bengaluru City,Koramangala PS,12.95843,77.58898,POCSO,Charge Sheeted
+FIR-485/2026-b9ad,2025-05-11,Tumakuru,Tumakuru Town PS,13.30099,77.07088,Theft,Under Investigation
+FIR-485/2026-b39f,2025-11-09,Belagavi Dist,Khadebazar PS,15.84972,74.4863,Cyber Crime,Closed
+FIR-757/2026-ba84,2025-05-15,Tumakuru,Tumakuru Town PS,13.30548,77.12594,Robbery,Under Investigation
+FIR-676/2025-5fc9,2025-02-18,Bengaluru City,Indiranagar PS,12.95722,77.63991,Assault,Charge Sheeted
+FIR-674/2026-2559,2025-11-17,Belagavi Dist,Tilakwadi PS,15.8591,74.49032,Theft,Pending Trial
+FIR-732/2025-e8c3,2025-08-29,Belagavi Dist,Khadebazar PS,15.83688,74.46239,Theft,Closed
+FIR-964/2026-1c16,2025-05-14,Belagavi Dist,Belagavi Camp PS,15.81495,74.47821,NDPS,Closed
+FIR-773/2025-ca2a,2025-04-05,Tumakuru,Kyathasandra PS,13.38472,77.13326,Robbery,Closed
+FIR-351/2026-674a,2025-11-12,Mysuru City,Saraswathipuram PS,12.25983,76.66459,Theft,Under Investigation
+FIR-263/2025-a4a4,2025-07-22,Tumakuru,Kyathasandra PS,13.29518,77.1062,Cheating,Pending Trial
+FIR-579/2025-b854,2025-05-26,Mysuru City,Saraswathipuram PS,12.29878,76.64894,Theft,Charge Sheeted
+FIR-201/2025-5e3f,2025-01-20,Mysuru City,Kuvempunagar PS,12.34201,76.64855,Cheating,Charge Sheeted
+FIR-424/2026-7c71,2025-09-22,Hubballi Dharwad City,Dharwad Suburban PS,15.32334,75.13199,Cheating,Closed
+FIR-812/2025-eb19,2025-10-06,Tumakuru,Kyathasandra PS,13.30849,77.11567,POCSO,Pending Trial
+FIR-658/2025-c766,2025-10-26,Hubballi Dharwad City,Hubballi Town PS,15.39021,75.12384,Theft,Closed
+FIR-384/2026-42b9,2025-01-23,Mysuru City,Devaraja PS,12.31353,76.65076,Murder,Charge Sheeted
+FIR-557/2026-0796,2025-03-11,Hubballi Dharwad City,Vidyanagar PS,15.38487,75.10821,Murder,Under Investigation
+FIR-301/2025-48c1,2025-10-23,Belagavi Dist,Khadebazar PS,15.86954,74.49501,NDPS,Pending Trial
+FIR-145/2026-286b,2025-08-30,Hubballi Dharwad City,Hubballi Town PS,15.40268,75.11465,Murder,Closed
+FIR-125/2026-1d77,2025-01-15,Tumakuru,Kyathasandra PS,13.35121,77.08931,NDPS,Under Investigation
+FIR-626/2025-d7e8,2025-10-27,Bengaluru City,Cubbon Park PS,13.00234,77.58595,Assault,Charge Sheeted
+FIR-206/2026-745c,2025-05-14,Bengaluru City,Malleswaram PS,12.97368,77.61603,Cheating,Closed
+FIR-899/2025-c759,2025-07-24,Mysuru City,Saraswathipuram PS,12.28495,76.68148,POCSO,Pending Trial
+FIR-393/2025-03a0,2025-06-14,Mysuru City,Kuvempunagar PS,12.31865,76.60261,NDPS,Charge Sheeted
+FIR-409/2026-9197,2025-06-07,Mysuru City,Saraswathipuram PS,12.28031,76.61389,Cyber Crime,Pending Trial
+FIR-999/2025-ab89,2025-06-02,Bengaluru City,Cubbon Park PS,12.94026,77.58355,Assault,Under Investigation
+FIR-660/2025-520f,2025-04-06,Belagavi Dist,Khadebazar PS,15.82535,74.53333,Cyber Crime,Closed
+FIR-576/2026-1ab9,2025-03-21,Bengaluru City,Malleswaram PS,13.0037,77.62737,POCSO,Pending Trial
+FIR-919/2025-fee4,2025-04-06,Belagavi Dist,Khadebazar PS,15.88293,74.49806,Theft,Closed
+FIR-503/2025-c7aa,2025-11-18,Tumakuru,Tumakuru Town PS,13.31576,77.1271,Assault,Under Investigation
+FIR-931/2025-8453,2025-12-01,Belagavi Dist,Tilakwadi PS,15.82438,74.53901,Cheating,Under Investigation
+FIR-354/2026-1a33,2025-01-16,Belagavi Dist,Khadebazar PS,15.88805,74.45401,NDPS,Under Investigation
+FIR-401/2026-d516,2025-06-10,Belagavi Dist,Khadebazar PS,15.88689,74.46259,Assault,Under Investigation
+FIR-409/2026-b298,2025-01-25,Mysuru City,Kuvempunagar PS,12.27431,76.61941,Theft,Closed
+FIR-252/2026-d663,2025-03-10,Mysuru City,Devaraja PS,12.29288,76.67668,Assault,Under Investigation
+FIR-205/2025-a9b5,2025-06-13,Bengaluru City,Koramangala PS,12.96608,77.57449,Assault,Closed
+FIR-577/2026-9b9e,2025-06-18,Belagavi Dist,Khadebazar PS,15.82511,74.47871,Robbery,Closed
+FIR-873/2025-ce7f,2025-04-12,Mysuru City,Kuvempunagar PS,12.30368,76.65599,Robbery,Closed
+FIR-215/2025-6fbe,2025-12-12,Hubballi Dharwad City,Vidyanagar PS,15.41188,75.08809,Robbery,Pending Trial
+FIR-641/2025-347e,2025-12-30,Tumakuru,Tumakuru Town PS,13.38126,77.07735,Murder,Charge Sheeted
+FIR-111/2026-73cf,2025-09-06,Tumakuru,Tumakuru Town PS,13.38697,77.14792,Robbery,Closed
+FIR-577/2026-8835,2025-05-11,Belagavi Dist,Tilakwadi PS,15.83616,74.48121,Robbery,Charge Sheeted
+FIR-880/2025-1db6,2025-05-15,Mysuru City,Devaraja PS,12.27139,76.6315,Cheating,Closed
+FIR-952/2026-098a,2025-10-21,Hubballi Dharwad City,Vidyanagar PS,15.38715,75.08787,Robbery,Closed
+FIR-407/2025-a651,2025-06-04,Hubballi Dharwad City,Vidyanagar PS,15.35469,75.13577,NDPS,Under Investigation
+FIR-356/2026-75ea,2025-03-31,Hubballi Dharwad City,Vidyanagar PS,15.36868,75.16819,Cheating,Under Investigation
+FIR-535/2026-6110,2025-09-27,Tumakuru,Tumakuru Town PS,13.36852,77.08875,Murder,Closed
+FIR-319/2025-2a5c,2025-05-08,Bengaluru City,Cubbon Park PS,12.92427,77.56997,Theft,Closed
+FIR-889/2026-2a19,2025-04-09,Hubballi Dharwad City,Dharwad Suburban PS,15.38769,75.15344,NDPS,Charge Sheeted
+FIR-394/2026-65b6,2025-03-04,Mysuru City,Devaraja PS,12.28147,76.63575,Cheating,Under Investigation
+FIR-847/2025-04d5,2025-05-09,Belagavi Dist,Belagavi Camp PS,15.80502,74.543,Cyber Crime,Under Investigation
+FIR-700/2025-3af0,2025-03-21,Hubballi Dharwad City,Dharwad Suburban PS,15.37601,75.14368,Theft,Pending Trial
+FIR-696/2025-8498,2025-07-09,Hubballi Dharwad City,Dharwad Suburban PS,15.39139,75.13853,Assault,Under Investigation
+FIR-915/2026-23a6,2025-09-01,Hubballi Dharwad City,Hubballi Town PS,15.32441,75.1256,NDPS,Closed
+FIR-637/2026-94d4,2025-12-12,Mysuru City,Kuvempunagar PS,12.32557,76.68134,NDPS,Under Investigation
+FIR-963/2026-da85,2025-09-16,Bengaluru City,Indiranagar PS,12.99484,77.6052,POCSO,Pending Trial
+FIR-829/2026-a273,2025-08-03,Bengaluru City,Indiranagar PS,12.99594,77.58327,Cyber Crime,Charge Sheeted
+FIR-425/2026-90af,2025-09-24,Tumakuru,Kyathasandra PS,13.36748,77.08589,Cyber Crime,Pending Trial
+FIR-358/2026-0290,2025-10-24,Hubballi Dharwad City,Hubballi Town PS,15.31792,75.08064,POCSO,Pending Trial
+FIR-654/2026-922d,2025-05-09,Bengaluru City,Malleswaram PS,13.00889,77.59162,Robbery,Closed
+FIR-337/2025-878f,2025-03-13,Belagavi Dist,Belagavi Camp PS,15.85408,74.50475,Theft,Charge Sheeted
+FIR-131/2025-fb49,2025-03-19,Belagavi Dist,Khadebazar PS,15.87412,74.46042,NDPS,Pending Trial
+FIR-913/2026-27f2,2025-04-18,Belagavi Dist,Tilakwadi PS,15.85664,74.53997,Robbery,Charge Sheeted
+FIR-499/2026-f97d,2025-05-09,Tumakuru,Tumakuru Town PS,13.36404,77.12934,NDPS,Closed
+FIR-458/2025-3619,2025-12-02,Tumakuru,Kyathasandra PS,13.31356,77.14526,Robbery,Under Investigation
+FIR-771/2025-10af,2025-04-07,Bengaluru City,Indiranagar PS,12.97448,77.57279,Cheating,Closed
+FIR-528/2026-4758,2025-08-30,Belagavi Dist,Tilakwadi PS,15.80954,74.51634,Murder,Charge Sheeted
+FIR-428/2025-9b42,2025-10-30,Belagavi Dist,Tilakwadi PS,15.84518,74.45393,Murder,Charge Sheeted
+FIR-946/2025-888e,2025-07-12,Hubballi Dharwad City,Dharwad Suburban PS,15.35794,75.09458,Murder,Under Investigation
+FIR-477/2025-100e,2025-04-23,Mysuru City,Devaraja PS,12.29864,76.62182,NDPS,Charge Sheeted
+FIR-611/2026-1b75,2025-11-15,Belagavi Dist,Tilakwadi PS,15.85935,74.50645,NDPS,Under Investigation
+FIR-821/2026-24b0,2025-08-31,Mysuru City,Saraswathipuram PS,12.2464,76.68924,Cheating,Closed
+FIR-892/2025-f033,2025-08-31,Hubballi Dharwad City,Hubballi Town PS,15.40429,75.10874,Assault,Pending Trial
+FIR-550/2026-f94d,2025-11-26,Bengaluru City,Indiranagar PS,13.01804,77.62366,Theft,Charge Sheeted
+FIR-369/2026-e232,2025-01-14,Hubballi Dharwad City,Vidyanagar PS,15.38699,75.1134,Theft,Charge Sheeted
+FIR-557/2026-3cea,2025-11-24,Mysuru City,Saraswathipuram PS,12.28356,76.68856,Murder,Pending Trial
+FIR-430/2025-fb33,2025-04-05,Hubballi Dharwad City,Dharwad Suburban PS,15.36248,75.07692,Cheating,Charge Sheeted

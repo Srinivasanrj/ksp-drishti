@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bengaluru_urban",
+        "name": "BENGALURU URBAN",
+        "color": "#2563eb",
+        "fillColor": "#2563eb",
+        "center": [12.9716, 77.5946]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [77.45, 12.88], [77.45, 13.05], [77.65, 13.10], [77.72, 13.05],
+          [77.75, 12.95], [77.70, 12.82], [77.55, 12.78], [77.45, 12.88]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bengaluru_rural",
+        "name": "BENGALURU RURAL",
+        "color": "#0284c7",
+        "fillColor": "#0284c7",
+        "center": [13.0827, 77.5877]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [77.40, 13.05], [77.40, 13.22], [77.60, 13.28], [77.75, 13.22],
+          [77.80, 13.10], [77.72, 13.05], [77.65, 13.10], [77.45, 13.05], [77.40, 13.05]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chikkaballapura",
+        "name": "CHIKKABALLAPURA",
+        "color": "#059669",
+        "fillColor": "#059669",
+        "center": [13.4355, 77.7315]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [77.55, 13.22], [77.55, 13.58], [77.80, 13.65], [78.00, 13.58],
+          [78.05, 13.35], [77.90, 13.20], [77.75, 13.22], [77.60, 13.28], [77.55, 13.22]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chitradurga",
+        "name": "CHITRADURGA",
+        "color": "#d97706",
+        "fillColor": "#d97706",
+        "center": [14.2251, 76.3980]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [76.00, 13.85], [76.00, 14.55], [76.55, 14.65], [76.80, 14.55],
+          [76.85, 14.10], [76.60, 13.85], [76.30, 13.78], [76.00, 13.85]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "davanagere",
+        "name": "DAVANAGERE",
+        "color": "#7c3aed",
+        "fillColor": "#7c3aed",
+        "center": [14.4644, 75.9218]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [75.55, 14.15], [75.55, 14.80], [76.00, 14.85], [76.20, 14.75],
+          [76.20, 14.35], [76.00, 14.10], [75.80, 14.05], [75.55, 14.15]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kolar",
+        "name": "KOLAR",
+        "color": "#ec4899",
+        "fillColor": "#ec4899",
+        "center": [13.1367, 78.1292]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [77.90, 12.90], [77.90, 13.35], [78.20, 13.40], [78.50, 13.30],
+          [78.55, 13.00], [78.35, 12.80], [78.05, 12.78], [77.90, 12.90]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kgf",
+        "name": "KOLAR GOLD FIELDS",
+        "color": "#dc2626",
+        "fillColor": "#dc2626",
+        "center": [12.9598, 78.2711]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.05, 12.78], [78.05, 13.00], [78.35, 13.00], [78.50, 12.88],
+          [78.45, 12.70], [78.25, 12.65], [78.05, 12.78]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ramanagara",
+        "name": "RAMANAGARA",
+        "color": "#84cc16",
+        "fillColor": "#84cc16",
+        "center": [12.7209, 77.2799]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [77.00, 12.52], [77.00, 12.90], [77.45, 12.92], [77.55, 12.78],
+          [77.50, 12.55], [77.30, 12.45], [77.10, 12.48], [77.00, 12.52]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "tumakuru",
+        "name": "TUMAKURU",
+        "color": "#eab308",
+        "fillColor": "#eab308",
+        "center": [13.3379, 77.1173]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [76.80, 13.00], [76.80, 13.65], [77.15, 13.72], [77.45, 13.58],
+          [77.45, 13.22], [77.40, 13.05], [77.20, 12.98], [76.95, 12.95], [76.80, 13.00]
+        ]]
+      }
+    }
+  ]
+}

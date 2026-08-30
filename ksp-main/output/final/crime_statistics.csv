@@ -1,0 +1,3355 @@
+Month,Year,Crime_Category,Subcategory,Cases,Source_File,Page_Number,Table_Number
+May,2025,Murder,Murder for gain,4,crime_10.pdf,3,1
+April,2025,Murder,Murder for gain,3,crime_10.pdf,3,1
+May,2024,Murder,Murder for gain,5,crime_10.pdf,3,1
+May,2025,Murder,Other Murders,101,crime_10.pdf,3,1
+April,2025,Murder,Other Murders,117,crime_10.pdf,3,1
+May,2024,Murder,Other Murders,100,crime_10.pdf,3,1
+May,2025,Murder,Total Murder,105,crime_10.pdf,3,1
+April,2025,Murder,Total Murder,120,crime_10.pdf,3,1
+May,2024,Murder,Total Murder,105,crime_10.pdf,3,1
+May,2025,Dacoity,Dacoity Cases,6,crime_10.pdf,4,1
+April,2025,Dacoity,Dacoity Cases,8,crime_10.pdf,4,1
+May,2024,Dacoity,Dacoity Cases,9,crime_10.pdf,4,1
+May,2025,Robbery,Chain Snatching,38,crime_10.pdf,5,1
+April,2025,Robbery,Chain Snatching,39,crime_10.pdf,5,1
+May,2024,Robbery,Chain Snatching,58,crime_10.pdf,5,1
+May,2025,Robbery,Robbery (Except Chain Snatching),47,crime_10.pdf,5,1
+April,2025,Robbery,Robbery (Except Chain Snatching),44,crime_10.pdf,5,1
+May,2024,Robbery,Robbery (Except Chain Snatching),121,crime_10.pdf,5,1
+May,2025,Robbery,Total Robbery,85,crime_10.pdf,5,1
+April,2025,Robbery,Total Robbery,83,crime_10.pdf,5,1
+May,2024,Robbery,Total Robbery,179,crime_10.pdf,5,1
+May,2025,Burglary,Burglary Night,331,crime_10.pdf,6,1
+April,2025,Burglary,Burglary Night,317,crime_10.pdf,6,1
+May,2024,Burglary,Burglary Night,399,crime_10.pdf,6,1
+May,2025,Burglary,Burglary Day,87,crime_10.pdf,6,1
+April,2025,Burglary,Burglary Day,91,crime_10.pdf,6,1
+May,2024,Burglary,Burglary Day,104,crime_10.pdf,6,1
+May,2025,Burglary,Total,418,crime_10.pdf,6,1
+April,2025,Burglary,Total,408,crime_10.pdf,6,1
+May,2024,Burglary,Total,503,crime_10.pdf,6,1
+May,2025,Theft,Reported,1729,crime_10.pdf,7,1
+April,2025,Theft,Reported,1784,crime_10.pdf,7,1
+May,2024,Theft,Reported,2119,crime_10.pdf,7,1
+May,2025,Riots,Riots,293,crime_10.pdf,8,1
+April,2025,Riots,Riots,295,crime_10.pdf,8,1
+May,2024,Riots,Riots,398,crime_10.pdf,8,1
+May,2025,Hurt,Cases of Hurt,1394,crime_10.pdf,9,1
+April,2025,Hurt,Cases of Hurt,1528,crime_10.pdf,9,1
+May,2024,Hurt,Cases of Hurt,1850,crime_10.pdf,9,1
+May,2025,Special & Local Laws,Special & Local Laws,5350,crime_10.pdf,10,1
+April,2025,Special & Local Laws,Special & Local Laws,5130,crime_10.pdf,10,1
+May,2024,Special & Local Laws,Special & Local Laws,4921,crime_10.pdf,10,1
+May,2025,Crime against Women,Rape,92,crime_10.pdf,11,1
+April,2025,Crime against Women,Rape,79,crime_10.pdf,11,1
+May,2024,Crime against Women,Rape,88,crime_10.pdf,11,1
+May,2025,Crime against Women,Dowry Death,3,crime_10.pdf,11,1
+April,2025,Crime against Women,Dowry Death,16,crime_10.pdf,11,1
+May,2024,Crime against Women,Dowry Death,11,crime_10.pdf,11,1
+May,2025,POCSO,POCSO,344,crime_10.pdf,12,1
+April,2025,POCSO,POCSO,349,crime_10.pdf,12,1
+May,2024,POCSO,POCSO,404,crime_10.pdf,12,1
+May,2025,SC/ST POA Act,SC/ST POA Act,178,crime_10.pdf,13,1
+April,2025,SC/ST POA Act,SC/ST POA Act,192,crime_10.pdf,13,1
+May,2024,SC/ST POA Act,SC/ST POA Act,173,crime_10.pdf,13,1
+May,2025.0,Security Cases,Security Cases,3759,crime_10.pdf,14,1
+April,2025.0,Security Cases,Security Cases,2848,crime_10.pdf,14,1
+May,2024.0,Security Cases,Security Cases,1654,crime_10.pdf,14,1
+May,2025.0,Security Cases,Total,7755,crime_10.pdf,14,1
+April,2025.0,Security Cases,Total,4858,crime_10.pdf,14,1
+May,2024.0,Security Cases,Total,2209,crime_10.pdf,14,1
+May,2025,Cyber Crimes,Cyber Crimes,1193,crime_10.pdf,15,1
+April,2025,Cyber Crimes,Cyber Crimes,1007,crime_10.pdf,15,1
+May,2024,Cyber Crimes,Cyber Crimes,2341,crime_10.pdf,15,1
+May,2025,Economic Offences,Economic Offences,536,crime_10.pdf,16,1
+April,2025,Economic Offences,Economic Offences,509,crime_10.pdf,16,1
+May,2024,Economic Offences,Economic Offences,574,crime_10.pdf,16,1
+May,2025,MMDR & KMMCR,MMDR Act,0,crime_10.pdf,17,1
+April,2025,MMDR & KMMCR,MMDR Act,0,crime_10.pdf,17,1
+May,2024,MMDR & KMMCR,MMDR Act,0,crime_10.pdf,17,1
+May,2025,MMDR & KMMCR,KMMC Rules,1,crime_10.pdf,17,1
+April,2025,MMDR & KMMCR,KMMC Rules,0,crime_10.pdf,17,1
+May,2024,MMDR & KMMCR,KMMC Rules,4,crime_10.pdf,17,1
+May,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,781,crime_10.pdf,18,1
+April,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,815,crime_10.pdf,18,1
+May,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1123,crime_10.pdf,18,1
+May,2025,NDPS Cases,NDPS Cases,374,crime_10.pdf,19,1
+April,2025,NDPS Cases,NDPS Cases,517,crime_10.pdf,19,1
+May,2024,NDPS Cases,NDPS Cases,243,crime_10.pdf,19,1
+June,2025,Murder,Murder for gain,1,crime_11.pdf,3,1
+May,2025,Murder,Murder for gain,4,crime_11.pdf,3,1
+June,2024,Murder,Murder for gain,2,crime_11.pdf,3,1
+June,2025,Murder,Other Murders,98,crime_11.pdf,3,1
+May,2025,Murder,Other Murders,109,crime_11.pdf,3,1
+June,2024,Murder,Other Murders,90,crime_11.pdf,3,1
+June,2025,Murder,Total Murder,99,crime_11.pdf,3,1
+May,2025,Murder,Total Murder,113,crime_11.pdf,3,1
+June,2024,Murder,Total Murder,92,crime_11.pdf,3,1
+June,2025,Dacoity,Dacoity Cases,7,crime_11.pdf,4,1
+May,2025,Dacoity,Dacoity Cases,8,crime_11.pdf,4,1
+June,2024,Dacoity,Dacoity Cases,11,crime_11.pdf,4,1
+June,2025,Robbery,Chain Snatching,52,crime_11.pdf,5,1
+May,2025,Robbery,Chain Snatching,39,crime_11.pdf,5,1
+June,2024,Robbery,Chain Snatching,63,crime_11.pdf,5,1
+June,2025,Robbery,Robbery (Except Chain Snatching),45,crime_11.pdf,5,1
+May,2025,Robbery,Robbery (Except Chain Snatching),46,crime_11.pdf,5,1
+June,2024,Robbery,Robbery (Except Chain Snatching),91,crime_11.pdf,5,1
+June,2025,Robbery,Total Robbery,97,crime_11.pdf,5,1
+May,2025,Robbery,Total Robbery,85,crime_11.pdf,5,1
+June,2024,Robbery,Total Robbery,154,crime_11.pdf,5,1
+June,2025,Burglary,Burglary Night,315,crime_11.pdf,6,1
+May,2025,Burglary,Burglary Night,334,crime_11.pdf,6,1
+June,2024,Burglary,Burglary Night,415,crime_11.pdf,6,1
+June,2025,Burglary,Burglary Day,97,crime_11.pdf,6,1
+May,2025,Burglary,Burglary Day,85,crime_11.pdf,6,1
+June,2024,Burglary,Burglary Day,154,crime_11.pdf,6,1
+June,2025,Burglary,Total,412,crime_11.pdf,6,1
+May,2025,Burglary,Total,419,crime_11.pdf,6,1
+June,2024,Burglary,Total,569,crime_11.pdf,6,1
+June,2025,Theft,Reported,1684,crime_11.pdf,7,1
+May,2025,Theft,Reported,1725,crime_11.pdf,7,1
+June,2024,Theft,Reported,2020,crime_11.pdf,7,1
+June,2025,Riots,Riots,352,crime_11.pdf,8,1
+May,2025,Riots,Riots,297,crime_11.pdf,8,1
+June,2024,Riots,Riots,362,crime_11.pdf,8,1
+June,2025,Hurt,Cases of Hurt,1436,crime_11.pdf,9,1
+May,2025,Hurt,Cases of Hurt,1390,crime_11.pdf,9,1
+June,2024,Hurt,Cases of Hurt,1483,crime_11.pdf,9,1
+June,2025,Special & Local Laws,Special & Local Laws,6800,crime_11.pdf,10,1
+May,2025,Special & Local Laws,Special & Local Laws,5392,crime_11.pdf,10,1
+June,2024,Special & Local Laws,Special & Local Laws,5113,crime_11.pdf,10,1
+June,2025,Crime against Women,Rape,78,crime_11.pdf,11,1
+May,2025,Crime against Women,Rape,90,crime_11.pdf,11,1
+June,2024,Crime against Women,Rape,63,crime_11.pdf,11,1
+June,2025,Crime against Women,Dowry Death,7,crime_11.pdf,11,1
+May,2025,Crime against Women,Dowry Death,6,crime_11.pdf,11,1
+June,2024,Crime against Women,Dowry Death,10,crime_11.pdf,11,1
+June,2025,POCSO,POCSO,309,crime_11.pdf,12,1
+May,2025,POCSO,POCSO,374,crime_11.pdf,12,1
+June,2024,POCSO,POCSO,342,crime_11.pdf,12,1
+June,2025,SC/ST POA Act,SC/ST POA Act,190,crime_11.pdf,13,1
+May,2025,SC/ST POA Act,SC/ST POA Act,177,crime_11.pdf,13,1
+June,2024,SC/ST POA Act,SC/ST POA Act,152,crime_11.pdf,13,1
+June,2025.0,Security Cases,Security Cases,2948,crime_11.pdf,14,1
+May,2025.0,Security Cases,Security Cases,3782,crime_11.pdf,14,1
+June,2024.0,Security Cases,Security Cases,2661,crime_11.pdf,14,1
+June,2025.0,Security Cases,Total,4426,crime_11.pdf,14,1
+May,2025.0,Security Cases,Total,7826,crime_11.pdf,14,1
+June,2024.0,Security Cases,Total,3287,crime_11.pdf,14,1
+June,2025,Cyber Crimes,Cyber Crimes,1246,crime_11.pdf,15,1
+May,2025,Cyber Crimes,Cyber Crimes,1194,crime_11.pdf,15,1
+June,2024,Cyber Crimes,Cyber Crimes,2059,crime_11.pdf,15,1
+June,2025,Economic Offences,Economic Offences,524,crime_11.pdf,16,1
+May,2025,Economic Offences,Economic Offences,534,crime_11.pdf,16,1
+June,2024,Economic Offences,Economic Offences,709,crime_11.pdf,16,1
+June,2025,MMDR & KMMCR,MMDR Act,11,crime_11.pdf,17,1
+May,2025,MMDR & KMMCR,MMDR Act,3,crime_11.pdf,17,1
+June,2024,MMDR & KMMCR,MMDR Act,9,crime_11.pdf,17,1
+June,2025,MMDR & KMMCR,KMMC Rules,4,crime_11.pdf,17,1
+May,2025,MMDR & KMMCR,KMMC Rules,1,crime_11.pdf,17,1
+June,2024,MMDR & KMMCR,KMMC Rules,0,crime_11.pdf,17,1
+June,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,836,crime_11.pdf,18,1
+May,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,779,crime_11.pdf,18,1
+June,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1085,crime_11.pdf,18,1
+June,2025,NDPS Cases,NDPS Cases,662,crime_11.pdf,19,1
+May,2025,NDPS Cases,NDPS Cases,374,crime_11.pdf,19,1
+June,2024,NDPS Cases,NDPS Cases,321,crime_11.pdf,19,1
+July,2025,Murder,Murder for gain,1,crime_12.pdf,3,1
+June,2025,Murder,Murder for gain,1,crime_12.pdf,3,1
+July,2024,Murder,Murder for gain,1,crime_12.pdf,3,1
+July,2025,Murder,Other Murders,81,crime_12.pdf,3,1
+June,2025,Murder,Other Murders,100,crime_12.pdf,3,1
+July,2024,Murder,Other Murders,91,crime_12.pdf,3,1
+July,2025,Murder,Total Murder,82,crime_12.pdf,3,1
+June,2025,Murder,Total Murder,101,crime_12.pdf,3,1
+July,2024,Murder,Total Murder,92,crime_12.pdf,3,1
+July,2025,Dacoity,Dacoity Cases,14,crime_12.pdf,4,1
+June,2025,Dacoity,Dacoity Cases,5,crime_12.pdf,4,1
+July,2024,Dacoity,Dacoity Cases,21,crime_12.pdf,4,1
+July,2025,Robbery,Chain Snatching,40,crime_12.pdf,5,1
+June,2025,Robbery,Chain Snatching,50,crime_12.pdf,5,1
+July,2024,Robbery,Chain Snatching,54,crime_12.pdf,5,1
+July,2025,Robbery,Robbery (Except Chain Snatching),55,crime_12.pdf,5,1
+June,2025,Robbery,Robbery (Except Chain Snatching),46,crime_12.pdf,5,1
+July,2024,Robbery,Robbery (Except Chain Snatching),68,crime_12.pdf,5,1
+July,2025,Robbery,Total Robbery,95,crime_12.pdf,5,1
+June,2025,Robbery,Total Robbery,96,crime_12.pdf,5,1
+July,2024,Robbery,Total Robbery,122,crime_12.pdf,5,1
+July,2025,Burglary,Burglary Night,346,crime_12.pdf,6,1
+June,2025,Burglary,Burglary Night,319,crime_12.pdf,6,1
+July,2024,Burglary,Burglary Night,432,crime_12.pdf,6,1
+July,2025,Burglary,Burglary Day,96,crime_12.pdf,6,1
+June,2025,Burglary,Burglary Day,88,crime_12.pdf,6,1
+July,2024,Burglary,Burglary Day,77,crime_12.pdf,6,1
+July,2025,Burglary,Total,442,crime_12.pdf,6,1
+June,2025,Burglary,Total,407,crime_12.pdf,6,1
+July,2024,Burglary,Total,509,crime_12.pdf,6,1
+July,2025,Theft,Reported,1679,crime_12.pdf,7,1
+June,2025,Theft,Reported,1664,crime_12.pdf,7,1
+July,2024,Theft,Reported,1994,crime_12.pdf,7,1
+July,2025,Riots,Riots,263,crime_12.pdf,8,1
+June,2025,Riots,Riots,358,crime_12.pdf,8,1
+July,2024,Riots,Riots,240,crime_12.pdf,8,1
+July,2025,Hurt,Cases of Hurt,1354,crime_12.pdf,9,1
+June,2025,Hurt,Cases of Hurt,1436,crime_12.pdf,9,1
+July,2024,Hurt,Cases of Hurt,1185,crime_12.pdf,9,1
+July,2025,Special & Local Laws,Special & Local Laws,5229,crime_12.pdf,10,1
+June,2025,Special & Local Laws,Special & Local Laws,6848,crime_12.pdf,10,1
+July,2024,Special & Local Laws,Special & Local Laws,5007,crime_12.pdf,10,1
+July,2025,Crime against Women,Rape,69,crime_12.pdf,11,1
+June,2025,Crime against Women,Rape,79,crime_12.pdf,11,1
+July,2024,Crime against Women,Rape,67,crime_12.pdf,11,1
+July,2025,Crime against Women,Dowry Death,12,crime_12.pdf,11,1
+June,2025,Crime against Women,Dowry Death,7,crime_12.pdf,11,1
+July,2024,Crime against Women,Dowry Death,10,crime_12.pdf,11,1
+July,2025,POCSO,POCSO,337,crime_12.pdf,12,1
+June,2025,POCSO,POCSO,347,crime_12.pdf,12,1
+July,2024,POCSO,POCSO,335,crime_12.pdf,12,1
+July,2025,SC/ST POA Act,SC/ST POA Act,218,crime_12.pdf,13,1
+June,2025,SC/ST POA Act,SC/ST POA Act,192,crime_12.pdf,13,1
+July,2024,SC/ST POA Act,SC/ST POA Act,161,crime_12.pdf,13,1
+July,2025.0,Security Cases,Security Cases,1841,crime_12.pdf,14,1
+June,2025.0,Security Cases,Security Cases,1490,crime_12.pdf,14,1
+July,2024.0,Security Cases,Security Cases,1337,crime_12.pdf,14,1
+July,2025.0,Security Cases,Total,3047,crime_12.pdf,14,1
+June,2025.0,Security Cases,Total,2989,crime_12.pdf,14,1
+July,2024.0,Security Cases,Total,2165,crime_12.pdf,14,1
+July,2025,Cyber Crimes,Cyber Crimes,1317,crime_12.pdf,15,1
+June,2025,Cyber Crimes,Cyber Crimes,1248,crime_12.pdf,15,1
+July,2024,Cyber Crimes,Cyber Crimes,2117,crime_12.pdf,15,1
+July,2025,Economic Offences,Economic Offences,573,crime_12.pdf,16,1
+June,2025,Economic Offences,Economic Offences,512,crime_12.pdf,16,1
+July,2024,Economic Offences,Economic Offences,665,crime_12.pdf,16,1
+July,2025,MMDR & KMMCR,MMDR Act,11,crime_12.pdf,17,1
+June,2025,MMDR & KMMCR,MMDR Act,14,crime_12.pdf,17,1
+July,2024,MMDR & KMMCR,MMDR Act,2,crime_12.pdf,17,1
+July,2025,MMDR & KMMCR,KMMC Rules,1,crime_12.pdf,17,1
+June,2025,MMDR & KMMCR,KMMC Rules,4,crime_12.pdf,17,1
+July,2024,MMDR & KMMCR,KMMC Rules,3,crime_12.pdf,17,1
+July,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,824,crime_12.pdf,18,1
+June,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,836,crime_12.pdf,18,1
+July,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1068,crime_12.pdf,18,1
+July,2025,NDPS Cases,NDPS Cases,701,crime_12.pdf,19,1
+June,2025,NDPS Cases,NDPS Cases,662,crime_12.pdf,19,1
+July,2024,NDPS Cases,NDPS Cases,354,crime_12.pdf,19,1
+August,2025,Murder,Murder for gain,3,crime_13.pdf,3,1
+July,2025,Murder,Murder for gain,3,crime_13.pdf,3,1
+August,2024,Murder,Murder for gain,4,crime_13.pdf,3,1
+August,2025,Murder,Other Murders,94,crime_13.pdf,3,1
+July,2025,Murder,Other Murders,82,crime_13.pdf,3,1
+August,2024,Murder,Other Murders,87,crime_13.pdf,3,1
+August,2025,Murder,Total Murder,97,crime_13.pdf,3,1
+July,2025,Murder,Total Murder,85,crime_13.pdf,3,1
+August,2024,Murder,Total Murder,91,crime_13.pdf,3,1
+August,2025,Dacoity,Dacoity Cases,10,crime_13.pdf,4,1
+July,2025,Dacoity,Dacoity Cases,14,crime_13.pdf,4,1
+August,2024,Dacoity,Dacoity Cases,14,crime_13.pdf,4,1
+August,2025,Robbery,Chain Snatching,25,crime_13.pdf,5,1
+July,2025,Robbery,Chain Snatching,42,crime_13.pdf,5,1
+August,2024,Robbery,Chain Snatching,51,crime_13.pdf,5,1
+August,2025,Robbery,Robbery (Except Chain Snatching),55,crime_13.pdf,5,1
+July,2025,Robbery,Robbery (Except Chain Snatching),53,crime_13.pdf,5,1
+August,2024,Robbery,Robbery (Except Chain Snatching),66,crime_13.pdf,5,1
+August,2025,Robbery,Total Robbery,80,crime_13.pdf,5,1
+July,2025,Robbery,Total Robbery,95,crime_13.pdf,5,1
+August,2024,Robbery,Total Robbery,117,crime_13.pdf,5,1
+August,2025,Burglary,Burglary Night,347,crime_13.pdf,6,1
+July,2025,Burglary,Burglary Night,349,crime_13.pdf,6,1
+August,2024,Burglary,Burglary Night,322,crime_13.pdf,6,1
+August,2025,Burglary,Burglary Day,91,crime_13.pdf,6,1
+July,2025,Burglary,Burglary Day,95,crime_13.pdf,6,1
+August,2024,Burglary,Burglary Day,110,crime_13.pdf,6,1
+August,2025,Burglary,Total,438,crime_13.pdf,6,1
+July,2025,Burglary,Total,444,crime_13.pdf,6,1
+August,2024,Burglary,Total,432,crime_13.pdf,6,1
+August,2025,Theft,Reported,1569,crime_13.pdf,7,1
+July,2025,Theft,Reported,1673,crime_13.pdf,7,1
+August,2024,Theft,Reported,1802,crime_13.pdf,7,1
+August,2025,Riots,Riots,287,crime_13.pdf,8,1
+July,2025,Riots,Riots,267,crime_13.pdf,8,1
+August,2024,Riots,Riots,222,crime_13.pdf,8,1
+August,2025,Hurt,Cases of Hurt,1235,crime_13.pdf,9,1
+July,2025,Hurt,Cases of Hurt,1353,crime_13.pdf,9,1
+August,2024,Hurt,Cases of Hurt,1260,crime_13.pdf,9,1
+August,2025,Special & Local Laws,Special & Local Laws,4812,crime_13.pdf,10,1
+July,2025,Special & Local Laws,Special & Local Laws,5291,crime_13.pdf,10,1
+August,2024,Special & Local Laws,Special & Local Laws,5103,crime_13.pdf,10,1
+August,2025,Crime against Women,Rape,82,crime_13.pdf,11,1
+July,2025,Crime against Women,Rape,69,crime_13.pdf,11,1
+August,2024,Crime against Women,Rape,61,crime_13.pdf,11,1
+August,2025,Crime against Women,Dowry Death,10,crime_13.pdf,11,1
+July,2025,Crime against Women,Dowry Death,12,crime_13.pdf,11,1
+August,2024,Crime against Women,Dowry Death,9,crime_13.pdf,11,1
+August,2025,POCSO,POCSO,332,crime_13.pdf,12,1
+July,2025,POCSO,POCSO,376,crime_13.pdf,12,1
+August,2024,POCSO,POCSO,354,crime_13.pdf,12,1
+August,2025,SC/ST POA Act,SC/ST POA Act,168,crime_13.pdf,13,1
+July,2025,SC/ST POA Act,SC/ST POA Act,219,crime_13.pdf,13,1
+August,2024,SC/ST POA Act,SC/ST POA Act,168,crime_13.pdf,13,1
+August,2025.0,Security Cases,Security Cases,3870,crime_13.pdf,14,1
+July,2025.0,Security Cases,Security Cases,1855,crime_13.pdf,14,1
+August,2024.0,Security Cases,Security Cases,1665,crime_13.pdf,14,1
+August,2025.0,Security Cases,Total,6750,crime_13.pdf,14,1
+July,2025.0,Security Cases,Total,3075,crime_13.pdf,14,1
+August,2024.0,Security Cases,Total,2421,crime_13.pdf,14,1
+August,2025,Cyber Crimes,Cyber Crimes,1264,crime_13.pdf,15,1
+July,2025,Cyber Crimes,Cyber Crimes,1320,crime_13.pdf,15,1
+August,2024,Cyber Crimes,Cyber Crimes,1823,crime_13.pdf,15,1
+August,2025,Economic Offences,Economic Offences,442,crime_13.pdf,16,1
+July,2025,Economic Offences,Economic Offences,571,crime_13.pdf,16,1
+August,2024,Economic Offences,Economic Offences,580,crime_13.pdf,16,1
+August,2025,MMDR & KMMCR,MMDR Act,4,crime_13.pdf,17,1
+July,2025,MMDR & KMMCR,MMDR Act,12,crime_13.pdf,17,1
+August,2024,MMDR & KMMCR,MMDR Act,2,crime_13.pdf,17,1
+August,2025,MMDR & KMMCR,KMMC Rules,4,crime_13.pdf,17,1
+July,2025,MMDR & KMMCR,KMMC Rules,1,crime_13.pdf,17,1
+August,2024,MMDR & KMMCR,KMMC Rules,2,crime_13.pdf,17,1
+August,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,699,crime_13.pdf,18,1
+July,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,823,crime_13.pdf,18,1
+August,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,940,crime_13.pdf,18,1
+August,2025,NDPS Cases,NDPS Cases,739,crime_13.pdf,19,1
+July,2025,NDPS Cases,NDPS Cases,701,crime_13.pdf,19,1
+August,2024,NDPS Cases,NDPS Cases,437,crime_13.pdf,19,1
+September,2025,Murder,Murder for gain,4,crime_14.pdf,3,1
+August,2025,Murder,Murder for gain,3,crime_14.pdf,3,1
+September,2024,Murder,Murder for gain,2,crime_14.pdf,3,1
+September,2025,Murder,Other Murders,96,crime_14.pdf,3,1
+August,2025,Murder,Other Murders,94,crime_14.pdf,3,1
+September,2024,Murder,Other Murders,90,crime_14.pdf,3,1
+September,2025,Murder,Total Murder,100,crime_14.pdf,3,1
+August,2025,Murder,Total Murder,97,crime_14.pdf,3,1
+September,2024,Murder,Total Murder,92,crime_14.pdf,3,1
+September,2025,Dacoity,Dacoity Cases,12,crime_14.pdf,4,1
+August,2025,Dacoity,Dacoity Cases,8,crime_14.pdf,4,1
+September,2024,Dacoity,Dacoity Cases,11,crime_14.pdf,4,1
+September,2025,Robbery,Chain Snatching,27,crime_14.pdf,5,1
+August,2025,Robbery,Chain Snatching,30,crime_14.pdf,5,1
+September,2024,Robbery,Chain Snatching,38,crime_14.pdf,5,1
+September,2025,Robbery,Robbery (Except Chain Snatching),63,crime_14.pdf,5,1
+August,2025,Robbery,Robbery (Except Chain Snatching),54,crime_14.pdf,5,1
+September,2024,Robbery,Robbery (Except Chain Snatching),54,crime_14.pdf,5,1
+September,2025,Robbery,Total Robbery,90,crime_14.pdf,5,1
+August,2025,Robbery,Total Robbery,84,crime_14.pdf,5,1
+September,2024,Robbery,Total Robbery,92,crime_14.pdf,5,1
+September,2025,Burglary,Burglary Night,302,crime_14.pdf,6,1
+August,2025,Burglary,Burglary Night,350,crime_14.pdf,6,1
+September,2024,Burglary,Burglary Night,284,crime_14.pdf,6,1
+September,2025,Burglary,Burglary Day,97,crime_14.pdf,6,1
+August,2025,Burglary,Burglary Day,91,crime_14.pdf,6,1
+September,2024,Burglary,Burglary Day,97,crime_14.pdf,6,1
+September,2025,Burglary,Total,399,crime_14.pdf,6,1
+August,2025,Burglary,Total,441,crime_14.pdf,6,1
+September,2024,Burglary,Total,381,crime_14.pdf,6,1
+September,2025,Theft,Reported,1613,crime_14.pdf,7,1
+August,2025,Theft,Reported,1560,crime_14.pdf,7,1
+September,2024,Theft,Reported,1747,crime_14.pdf,7,1
+September,2025,Riots,Riots,261,crime_14.pdf,8,1
+August,2025,Riots,Riots,285,crime_14.pdf,8,1
+September,2024,Riots,Riots,284,crime_14.pdf,8,1
+September,2025,Hurt,Cases of Hurt,1323,crime_14.pdf,9,1
+August,2025,Hurt,Cases of Hurt,1223,crime_14.pdf,9,1
+September,2024,Hurt,Cases of Hurt,1334,crime_14.pdf,9,1
+September,2025,Special & Local Laws,Special & Local Laws,4991,crime_14.pdf,10,1
+August,2025,Special & Local Laws,Special & Local Laws,4872,crime_14.pdf,10,1
+September,2024,Special & Local Laws,Special & Local Laws,4525,crime_14.pdf,10,1
+September,2025,Crime against Women,Rape,70,crime_14.pdf,11,1
+August,2025,Crime against Women,Rape,83,crime_14.pdf,11,1
+September,2024,Crime against Women,Rape,58,crime_14.pdf,11,1
+September,2025,Crime against Women,Dowry Death,6,crime_14.pdf,11,1
+August,2025,Crime against Women,Dowry Death,10,crime_14.pdf,11,1
+September,2024,Crime against Women,Dowry Death,15,crime_14.pdf,11,1
+September,2025,POCSO,POCSO,338,crime_14.pdf,12,1
+August,2025,POCSO,POCSO,379,crime_14.pdf,12,1
+September,2024,POCSO,POCSO,339,crime_14.pdf,12,1
+September,2025,SC/ST POA Act,SC/ST POA Act,206,crime_14.pdf,13,1
+August,2025,SC/ST POA Act,SC/ST POA Act,172,crime_14.pdf,13,1
+September,2024,SC/ST POA Act,SC/ST POA Act,180,crime_14.pdf,13,1
+September,2025.0,Security Cases,Security Cases,1028,crime_14.pdf,14,1
+August,2025.0,Security Cases,Security Cases,3932,crime_14.pdf,14,1
+September,2024.0,Security Cases,Security Cases,1875,crime_14.pdf,14,1
+September,2025.0,Security Cases,Total,1786,crime_14.pdf,14,1
+August,2025.0,Security Cases,Total,6865,crime_14.pdf,14,1
+September,2024.0,Security Cases,Total,2682,crime_14.pdf,14,1
+September,2025,Cyber Crimes,Cyber Crimes,1296,crime_14.pdf,15,1
+August,2025,Cyber Crimes,Cyber Crimes,1265,crime_14.pdf,15,1
+September,2024,Cyber Crimes,Cyber Crimes,1738,crime_14.pdf,15,1
+September,2025,Economic Offences,Economic Offences,574,crime_14.pdf,16,1
+August,2025,Economic Offences,Economic Offences,443,crime_14.pdf,16,1
+September,2024,Economic Offences,Economic Offences,577,crime_14.pdf,16,1
+September,2025,MMDR & KMMCR,MMDR Act,10,crime_14.pdf,17,1
+August,2025,MMDR & KMMCR,MMDR Act,4,crime_14.pdf,17,1
+September,2024,MMDR & KMMCR,MMDR Act,3,crime_14.pdf,17,1
+September,2025,MMDR & KMMCR,KMMC Rules,1,crime_14.pdf,17,1
+August,2025,MMDR & KMMCR,KMMC Rules,4,crime_14.pdf,17,1
+September,2024,MMDR & KMMCR,KMMC Rules,1,crime_14.pdf,17,1
+September,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,731,crime_14.pdf,18,1
+August,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,699,crime_14.pdf,18,1
+September,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,881,crime_14.pdf,18,1
+September,2025,NDPS Cases,NDPS Cases,452,crime_14.pdf,19,1
+August,2025,NDPS Cases,NDPS Cases,739,crime_14.pdf,19,1
+September,2024,NDPS Cases,NDPS Cases,340,crime_14.pdf,19,1
+September,2025,Murder,Murder for gain,4,crime_14.pdf,57,1
+August,2025,Murder,Murder for gain,3,crime_14.pdf,57,1
+September,2024,Murder,Murder for gain,2,crime_14.pdf,57,1
+September,2025,Murder,Other Murders,96,crime_14.pdf,57,1
+August,2025,Murder,Other Murders,94,crime_14.pdf,57,1
+September,2024,Murder,Other Murders,90,crime_14.pdf,57,1
+September,2025,Murder,Total Murder,100,crime_14.pdf,57,1
+August,2025,Murder,Total Murder,97,crime_14.pdf,57,1
+September,2024,Murder,Total Murder,92,crime_14.pdf,57,1
+September,2025,Dacoity,Dacoity Cases,12,crime_14.pdf,58,1
+August,2025,Dacoity,Dacoity Cases,8,crime_14.pdf,58,1
+September,2024,Dacoity,Dacoity Cases,11,crime_14.pdf,58,1
+September,2025,Robbery,Chain Snatching,27,crime_14.pdf,59,1
+August,2025,Robbery,Chain Snatching,30,crime_14.pdf,59,1
+September,2024,Robbery,Chain Snatching,38,crime_14.pdf,59,1
+September,2025,Robbery,Robbery (Except Chain Snatching),63,crime_14.pdf,59,1
+August,2025,Robbery,Robbery (Except Chain Snatching),54,crime_14.pdf,59,1
+September,2024,Robbery,Robbery (Except Chain Snatching),54,crime_14.pdf,59,1
+September,2025,Robbery,Total Robbery,90,crime_14.pdf,59,1
+August,2025,Robbery,Total Robbery,84,crime_14.pdf,59,1
+September,2024,Robbery,Total Robbery,92,crime_14.pdf,59,1
+September,2025,Burglary,Burglary Night,302,crime_14.pdf,60,1
+August,2025,Burglary,Burglary Night,350,crime_14.pdf,60,1
+September,2024,Burglary,Burglary Night,284,crime_14.pdf,60,1
+September,2025,Burglary,Burglary Day,97,crime_14.pdf,60,1
+August,2025,Burglary,Burglary Day,91,crime_14.pdf,60,1
+September,2024,Burglary,Burglary Day,47,crime_14.pdf,60,1
+September,2025,Burglary,Total,399,crime_14.pdf,60,1
+August,2025,Burglary,Total,441,crime_14.pdf,60,1
+September,2024,Burglary,Total,381,crime_14.pdf,60,1
+September,2025,Theft,Reported,1613,crime_14.pdf,61,1
+August,2025,Theft,Reported,1560,crime_14.pdf,61,1
+September,2024,Theft,Reported,1747,crime_14.pdf,61,1
+September,2025,Riots,Riots,261,crime_14.pdf,62,1
+August,2025,Riots,Riots,285,crime_14.pdf,62,1
+September,2024,Riots,Riots,284,crime_14.pdf,62,1
+September,2025,Hurt,Cases of Hurt,1323,crime_14.pdf,63,1
+August,2025,Hurt,Cases of Hurt,1223,crime_14.pdf,63,1
+September,2024,Hurt,Cases of Hurt,1334,crime_14.pdf,63,1
+September,2025,Special & Local Laws,Special & Local Laws,4991,crime_14.pdf,64,1
+August,2025,Special & Local Laws,Special & Local Laws,4872,crime_14.pdf,64,1
+September,2024,Special & Local Laws,Special & Local Laws,4525,crime_14.pdf,64,1
+September,2025,Crime against Women,Rape,70,crime_14.pdf,65,1
+August,2025,Crime against Women,Rape,83,crime_14.pdf,65,1
+September,2024,Crime against Women,Rape,58,crime_14.pdf,65,1
+September,2025,Crime against Women,Dowry Death,6,crime_14.pdf,65,1
+August,2025,Crime against Women,Dowry Death,10,crime_14.pdf,65,1
+September,2024,Crime against Women,Dowry Death,15,crime_14.pdf,65,1
+September,2025,POCSO,POCSO,338,crime_14.pdf,66,1
+August,2025,POCSO,POCSO,379,crime_14.pdf,66,1
+September,2024,POCSO,POCSO,339,crime_14.pdf,66,1
+September,2025,SC/ST POA Act,SC/ST POA Act,206,crime_14.pdf,67,1
+August,2025,SC/ST POA Act,SC/ST POA Act,172,crime_14.pdf,67,1
+September,2024,SC/ST POA Act,SC/ST POA Act,180,crime_14.pdf,67,1
+September,2025.0,Security Cases,Security Cases,1028,crime_14.pdf,68,1
+August,2025.0,Security Cases,Security Cases,3932,crime_14.pdf,68,1
+September,2024.0,Security Cases,Security Cases,1875,crime_14.pdf,68,1
+September,2025.0,Security Cases,Total,1786,crime_14.pdf,68,1
+August,2025.0,Security Cases,Total,6865,crime_14.pdf,68,1
+September,2024.0,Security Cases,Total,2682,crime_14.pdf,68,1
+September,2025,Cyber Crimes,Cyber Crimes,1296,crime_14.pdf,69,1
+August,2025,Cyber Crimes,Cyber Crimes,1265,crime_14.pdf,69,1
+September,2024,Cyber Crimes,Cyber Crimes,1738,crime_14.pdf,69,1
+September,2025,Economic Offences,Economic Offences,574,crime_14.pdf,70,1
+August,2025,Economic Offences,Economic Offences,443,crime_14.pdf,70,1
+September,2024,Economic Offences,Economic Offences,577,crime_14.pdf,70,1
+September,2025,MMDR & KMMCR,MMDR Act,10,crime_14.pdf,71,1
+August,2025,MMDR & KMMCR,MMDR Act,4,crime_14.pdf,71,1
+September,2024,MMDR & KMMCR,MMDR Act,3,crime_14.pdf,71,1
+September,2025,MMDR & KMMCR,KMMC Rules,1,crime_14.pdf,71,1
+August,2025,MMDR & KMMCR,KMMC Rules,4,crime_14.pdf,71,1
+September,2024,MMDR & KMMCR,KMMC Rules,1,crime_14.pdf,71,1
+September,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,731,crime_14.pdf,72,1
+August,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,699,crime_14.pdf,72,1
+September,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,881,crime_14.pdf,72,1
+September,2025,NDPS Cases,NDPS Cases,452,crime_14.pdf,73,1
+August,2025,NDPS Cases,NDPS Cases,739,crime_14.pdf,73,1
+September,2024,NDPS Cases,NDPS Cases,340,crime_14.pdf,73,1
+October,2025,Murder,Murder for gain,1,crime_15.pdf,3,1
+September,2025,Murder,Murder for gain,3,crime_15.pdf,3,1
+October,2024,Murder,Murder for gain,2,crime_15.pdf,3,1
+October,2025,Murder,Other Murders,105,crime_15.pdf,3,1
+September,2025,Murder,Other Murders,101,crime_15.pdf,3,1
+October,2024,Murder,Other Murders,99,crime_15.pdf,3,1
+October,2025,Murder,Total Murder,106,crime_15.pdf,3,1
+September,2025,Murder,Total Murder,104,crime_15.pdf,3,1
+October,2024,Murder,Total Murder,101,crime_15.pdf,3,1
+October,2025,Dacoity,Dacoity Cases,17,crime_15.pdf,4,1
+September,2025,Dacoity,Dacoity Cases,12,crime_15.pdf,4,1
+October,2024,Dacoity,Dacoity Cases,8,crime_15.pdf,4,1
+October,2025,Robbery,Chain Snatching,36,crime_15.pdf,5,1
+September,2025,Robbery,Chain Snatching,28,crime_15.pdf,5,1
+October,2024,Robbery,Chain Snatching,36,crime_15.pdf,5,1
+October,2025,Robbery,Robbery (Except Chain Snatching),63,crime_15.pdf,5,1
+September,2025,Robbery,Robbery (Except Chain Snatching),62,crime_15.pdf,5,1
+October,2024,Robbery,Robbery (Except Chain Snatching),60,crime_15.pdf,5,1
+October,2025,Robbery,Total Robbery,99,crime_15.pdf,5,1
+September,2025,Robbery,Total Robbery,90,crime_15.pdf,5,1
+October,2024,Robbery,Total Robbery,96,crime_15.pdf,5,1
+October,2025,Burglary,Burglary Night,375,crime_15.pdf,6,1
+September,2025,Burglary,Burglary Night,306,crime_15.pdf,6,1
+October,2024,Burglary,Burglary Night,388,crime_15.pdf,6,1
+October,2025,Burglary,Burglary Day,78,crime_15.pdf,6,1
+September,2025,Burglary,Burglary Day,96,crime_15.pdf,6,1
+October,2024,Burglary,Burglary Day,100,crime_15.pdf,6,1
+October,2025,Burglary,Total,453,crime_15.pdf,6,1
+September,2025,Burglary,Total,402,crime_15.pdf,6,1
+October,2024,Burglary,Total,488,crime_15.pdf,6,1
+October,2025,Theft,Reported,1804,crime_15.pdf,7,1
+September,2025,Theft,Reported,1608,crime_15.pdf,7,1
+October,2024,Theft,Reported,1766,crime_15.pdf,7,1
+October,2025,Riots,Riots,275,crime_15.pdf,8,1
+September,2025,Riots,Riots,264,crime_15.pdf,8,1
+October,2024,Riots,Riots,206,crime_15.pdf,8,1
+October,2025,Hurt,Cases of Hurt,1407,crime_15.pdf,9,1
+September,2025,Hurt,Cases of Hurt,1318,crime_15.pdf,9,1
+October,2024,Hurt,Cases of Hurt,1280,crime_15.pdf,9,1
+October,2025,Special & Local Laws,Special & Local Laws,5192,crime_15.pdf,10,1
+September,2025,Special & Local Laws,Special & Local Laws,5048,crime_15.pdf,10,1
+October,2024,Special & Local Laws,Special & Local Laws,4355,crime_15.pdf,10,1
+October,2025,Crime against Women,Rape,50,crime_15.pdf,11,1
+September,2025,Crime against Women,Rape,44,crime_15.pdf,11,1
+October,2024,Crime against Women,Rape,54,crime_15.pdf,11,1
+October,2025,Crime against Women,Dowry Death,13,crime_15.pdf,11,1
+September,2025,Crime against Women,Dowry Death,6,crime_15.pdf,11,1
+October,2024,Crime against Women,Dowry Death,9,crime_15.pdf,11,1
+October,2025,POCSO,POCSO,320,crime_15.pdf,12,1
+September,2025,POCSO,POCSO,381,crime_15.pdf,12,1
+October,2024,POCSO,POCSO,258,crime_15.pdf,12,1
+October,2025,SC/ST POA Act,SC/ST POA Act,216,crime_15.pdf,13,1
+September,2025,SC/ST POA Act,SC/ST POA Act,209,crime_15.pdf,13,1
+October,2024,SC/ST POA Act,SC/ST POA Act,155,crime_15.pdf,13,1
+October,2025.0,Security Cases,Security Cases,1454,crime_15.pdf,14,1
+September,2025.0,Security Cases,Security Cases,1047,crime_15.pdf,14,1
+October,2024.0,Security Cases,Security Cases,1338,crime_15.pdf,14,1
+October,2025.0,Security Cases,Total,2169,crime_15.pdf,14,1
+September,2025.0,Security Cases,Total,1821,crime_15.pdf,14,1
+October,2024.0,Security Cases,Total,2523,crime_15.pdf,14,1
+October,2025,Cyber Crimes,Cyber Crimes,1204,crime_15.pdf,15,1
+September,2025,Cyber Crimes,Cyber Crimes,1298,crime_15.pdf,15,1
+October,2024,Cyber Crimes,Cyber Crimes,1688,crime_15.pdf,15,1
+October,2025,Economic Offences,Economic Offences,566,crime_15.pdf,16,1
+September,2025,Economic Offences,Economic Offences,577,crime_15.pdf,16,1
+October,2024,Economic Offences,Economic Offences,516,crime_15.pdf,16,1
+October,2025,MMDR & KMMCR,MMDR Act,4,crime_15.pdf,17,1
+September,2025,MMDR & KMMCR,MMDR Act,10,crime_15.pdf,17,1
+October,2024,MMDR & KMMCR,MMDR Act,9,crime_15.pdf,17,1
+October,2025,MMDR & KMMCR,KMMC Rules,2,crime_15.pdf,17,1
+September,2025,MMDR & KMMCR,KMMC Rules,1,crime_15.pdf,17,1
+October,2024,MMDR & KMMCR,KMMC Rules,2,crime_15.pdf,17,1
+October,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,815,crime_15.pdf,18,1
+September,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,731,crime_15.pdf,18,1
+October,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,841,crime_15.pdf,18,1
+October,2025,NDPS Cases,NDPS Cases,423,crime_15.pdf,19,1
+September,2025,NDPS Cases,NDPS Cases,453,crime_15.pdf,19,1
+October,2024,NDPS Cases,NDPS Cases,274,crime_15.pdf,19,1
+November,2025,Murder,Murder for gain,8,crime_16.pdf,3,1
+October,2025,Murder,Murder for gain,3,crime_16.pdf,3,1
+November,2024,Murder,Murder for gain,5,crime_16.pdf,3,1
+November,2025,Murder,Other Murders,91,crime_16.pdf,3,1
+October,2025,Murder,Other Murders,106,crime_16.pdf,3,1
+November,2024,Murder,Other Murders,99,crime_16.pdf,3,1
+November,2025,Murder,Total Murder,99,crime_16.pdf,3,1
+October,2025,Murder,Total Murder,109,crime_16.pdf,3,1
+November,2024,Murder,Total Murder,104,crime_16.pdf,3,1
+November,2025,Dacoity,Dacoity Cases,18,crime_16.pdf,4,1
+October,2025,Dacoity,Dacoity Cases,17,crime_16.pdf,4,1
+November,2024,Dacoity,Dacoity Cases,11,crime_16.pdf,4,1
+November,2025,Robbery,Chain Snatching,30,crime_16.pdf,5,1
+October,2025,Robbery,Chain Snatching,37,crime_16.pdf,5,1
+November,2024,Robbery,Chain Snatching,41,crime_16.pdf,5,1
+November,2025,Robbery,Robbery (Except Chain Snatching),79,crime_16.pdf,5,1
+October,2025,Robbery,Robbery (Except Chain Snatching),61,crime_16.pdf,5,1
+November,2024,Robbery,Robbery (Except Chain Snatching),40,crime_16.pdf,5,1
+November,2025,Robbery,Total Robbery,109,crime_16.pdf,5,1
+October,2025,Robbery,Total Robbery,98,crime_16.pdf,5,1
+November,2024,Robbery,Total Robbery,81,crime_16.pdf,5,1
+November,2025,Burglary,Burglary Night,284,crime_16.pdf,6,1
+October,2025,Burglary,Burglary Night,377,crime_16.pdf,6,1
+November,2024,Burglary,Burglary Night,336,crime_16.pdf,6,1
+November,2025,Burglary,Burglary Day,113,crime_16.pdf,6,1
+October,2025,Burglary,Burglary Day,80,crime_16.pdf,6,1
+November,2024,Burglary,Burglary Day,92,crime_16.pdf,6,1
+November,2025,Burglary,Total,397,crime_16.pdf,6,1
+October,2025,Burglary,Total,457,crime_16.pdf,6,1
+November,2024,Burglary,Total,428,crime_16.pdf,6,1
+November,2025,Theft,Reported,1689,crime_16.pdf,7,1
+October,2025,Theft,Reported,1799,crime_16.pdf,7,1
+November,2024,Theft,Reported,1664,crime_16.pdf,7,1
+November,2025,Riots,Riots,244,crime_16.pdf,8,1
+October,2025,Riots,Riots,277,crime_16.pdf,8,1
+November,2024,Riots,Riots,226,crime_16.pdf,8,1
+November,2025,Hurt,Cases of Hurt,1322,crime_16.pdf,9,1
+October,2025,Hurt,Cases of Hurt,1409,crime_16.pdf,9,1
+November,2024,Hurt,Cases of Hurt,1246,crime_16.pdf,9,1
+November,2025,Special & Local Laws,Special & Local Laws,5129,crime_16.pdf,10,1
+October,2025,Special & Local Laws,Special & Local Laws,5245,crime_16.pdf,10,1
+November,2024,Special & Local Laws,Special & Local Laws,5704,crime_16.pdf,10,1
+November,2025,Crime against Women,Rape,45,crime_16.pdf,11,1
+October,2025,Crime against Women,Rape,50,crime_16.pdf,11,1
+November,2024,Crime against Women,Rape,49,crime_16.pdf,11,1
+November,2025,Crime against Women,Dowry Death,12,crime_16.pdf,11,1
+October,2025,Crime against Women,Dowry Death,12,crime_16.pdf,11,1
+November,2024,Crime against Women,Dowry Death,5,crime_16.pdf,11,1
+November,2025,POCSO,POCSO,330,crime_16.pdf,12,1
+October,2025,POCSO,POCSO,356,crime_16.pdf,12,1
+November,2024,POCSO,POCSO,319,crime_16.pdf,12,1
+November,2025,SC/ST POA Act,SC/ST POA Act,216,crime_16.pdf,13,1
+October,2025,SC/ST POA Act,SC/ST POA Act,223,crime_16.pdf,13,1
+November,2024,SC/ST POA Act,SC/ST POA Act,149,crime_16.pdf,13,1
+November,2025.0,Security Cases,Security Cases,1148,crime_16.pdf,14,1
+October,2025.0,Security Cases,Security Cases,1479,crime_16.pdf,14,1
+November,2024.0,Security Cases,Security Cases,1074,crime_16.pdf,14,1
+November,2025.0,Security Cases,Total,1866,crime_16.pdf,14,1
+October,2025.0,Security Cases,Total,2215,crime_16.pdf,14,1
+November,2024.0,Security Cases,Total,1914,crime_16.pdf,14,1
+November,2025,Cyber Crimes,Cyber Crimes,1186,crime_16.pdf,15,1
+October,2025,Cyber Crimes,Cyber Crimes,1205,crime_16.pdf,15,1
+November,2024,Cyber Crimes,Cyber Crimes,1608,crime_16.pdf,15,1
+November,2025,Economic Offences,Economic Offences,554,crime_16.pdf,16,1
+October,2025,Economic Offences,Economic Offences,567,crime_16.pdf,16,1
+November,2024,Economic Offences,Economic Offences,503,crime_16.pdf,16,1
+November,2025,MMDR & KMMCR,MMDR Act,6,crime_16.pdf,17,1
+October,2025,MMDR & KMMCR,MMDR Act,5,crime_16.pdf,17,1
+November,2024,MMDR & KMMCR,MMDR Act,9,crime_16.pdf,17,1
+November,2025,MMDR & KMMCR,KMMC Rules,1,crime_16.pdf,17,1
+October,2025,MMDR & KMMCR,KMMC Rules,2,crime_16.pdf,17,1
+November,2024,MMDR & KMMCR,KMMC Rules,1,crime_16.pdf,17,1
+November,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,774,crime_16.pdf,18,1
+October,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,815,crime_16.pdf,18,1
+November,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,777,crime_16.pdf,18,1
+November,2025,NDPS Cases,NDPS Cases,772,crime_16.pdf,19,1
+October,2025,NDPS Cases,NDPS Cases,423,crime_16.pdf,19,1
+November,2024,NDPS Cases,NDPS Cases,424,crime_16.pdf,19,1
+December,2025,Murder,Murder for gain,2,crime_17.pdf,3,1
+November,2025,Murder,Murder for gain,9,crime_17.pdf,3,1
+December,2024,Murder,Murder for gain,8,crime_17.pdf,3,1
+December,2025,Murder,Other Murders,79,crime_17.pdf,3,1
+November,2025,Murder,Other Murders,90,crime_17.pdf,3,1
+December,2024,Murder,Other Murders,87,crime_17.pdf,3,1
+December,2025,Murder,Total Murder,81,crime_17.pdf,3,1
+November,2025,Murder,Total Murder,99,crime_17.pdf,3,1
+December,2024,Murder,Total Murder,95,crime_17.pdf,3,1
+December,2025,Dacoity,Dacoity Cases,14,crime_17.pdf,4,1
+November,2025,Dacoity,Dacoity Cases,16,crime_17.pdf,4,1
+December,2024,Dacoity,Dacoity Cases,10,crime_17.pdf,4,1
+December,2025,Robbery,Chain Snatching,42,crime_17.pdf,5,1
+November,2025,Robbery,Chain Snatching,31,crime_17.pdf,5,1
+December,2024,Robbery,Chain Snatching,40,crime_17.pdf,5,1
+December,2025,Robbery,Robbery (Except Chain Snatching),60,crime_17.pdf,5,1
+November,2025,Robbery,Robbery (Except Chain Snatching),77,crime_17.pdf,5,1
+December,2024,Robbery,Robbery (Except Chain Snatching),51,crime_17.pdf,5,1
+December,2025,Robbery,Total Robbery,102,crime_17.pdf,5,1
+November,2025,Robbery,Total Robbery,108,crime_17.pdf,5,1
+December,2024,Robbery,Total Robbery,91,crime_17.pdf,5,1
+December,2025,Burglary,Burglary Night,345,crime_17.pdf,6,1
+November,2025,Burglary,Burglary Night,288,crime_17.pdf,6,1
+December,2024,Burglary,Burglary Night,338,crime_17.pdf,6,1
+December,2025,Burglary,Burglary Day,105,crime_17.pdf,6,1
+November,2025,Burglary,Burglary Day,112,crime_17.pdf,6,1
+December,2024,Burglary,Burglary Day,94,crime_17.pdf,6,1
+December,2025,Burglary,Total,450,crime_17.pdf,6,1
+November,2025,Burglary,Total,400,crime_17.pdf,6,1
+December,2024,Burglary,Total,432,crime_17.pdf,6,1
+December,2025,Theft,Reported,1773,crime_17.pdf,7,1
+November,2025,Theft,Reported,1688,crime_17.pdf,7,1
+December,2024,Theft,Reported,1889,crime_17.pdf,7,1
+December,2025,Riots,Riots,283,crime_17.pdf,8,1
+November,2025,Riots,Riots,251,crime_17.pdf,8,1
+December,2024,Riots,Riots,253,crime_17.pdf,8,1
+December,2025,Hurt,Cases of Hurt,1474,crime_17.pdf,9,1
+November,2025,Hurt,Cases of Hurt,1318,crime_17.pdf,9,1
+December,2024,Hurt,Cases of Hurt,1327,crime_17.pdf,9,1
+December,2025,Special & Local Laws,Special & Local Laws,5642,crime_17.pdf,10,1
+November,2025,Special & Local Laws,Special & Local Laws,5190,crime_17.pdf,10,1
+December,2024,Special & Local Laws,Special & Local Laws,6363,crime_17.pdf,10,1
+December,2025,Crime against Women,Rape,41,crime_17.pdf,11,1
+November,2025,Crime against Women,Rape,45,crime_17.pdf,11,1
+December,2024,Crime against Women,Rape,55,crime_17.pdf,11,1
+December,2025,Crime against Women,Dowry Death,8,crime_17.pdf,11,1
+November,2025,Crime against Women,Dowry Death,11,crime_17.pdf,11,1
+December,2024,Crime against Women,Dowry Death,6,crime_17.pdf,11,1
+December,2025,POCSO,POCSO,388,crime_17.pdf,12,1
+November,2025,POCSO,POCSO,371,crime_17.pdf,12,1
+December,2024,POCSO,POCSO,346,crime_17.pdf,12,1
+December,2025,SC/ST POA Act,SC/ST POA Act,245,crime_17.pdf,13,1
+November,2025,SC/ST POA Act,SC/ST POA Act,225,crime_17.pdf,13,1
+December,2024,SC/ST POA Act,SC/ST POA Act,165,crime_17.pdf,13,1
+December,2025.0,Security Cases,Security Cases,1120,crime_17.pdf,14,1
+November,2025.0,Security Cases,Security Cases,1176,crime_17.pdf,14,1
+December,2024.0,Security Cases,Security Cases,1200,crime_17.pdf,14,1
+December,2025.0,Security Cases,Total,2022,crime_17.pdf,14,1
+November,2025.0,Security Cases,Total,1917,crime_17.pdf,14,1
+December,2024.0,Security Cases,Total,1949,crime_17.pdf,14,1
+December,2025,Cyber Crimes,Cyber Crimes,1286,crime_17.pdf,15,1
+November,2025,Cyber Crimes,Cyber Crimes,1186,crime_17.pdf,15,1
+December,2024,Cyber Crimes,Cyber Crimes,1525,crime_17.pdf,15,1
+December,2025,Economic Offences,Economic Offences,710,crime_17.pdf,16,1
+November,2025,Economic Offences,Economic Offences,554,crime_17.pdf,16,1
+December,2024,Economic Offences,Economic Offences,611,crime_17.pdf,16,1
+December,2025,MMDR & KMMCR,MMDR Act,5,crime_17.pdf,17,1
+November,2025,MMDR & KMMCR,MMDR Act,6,crime_17.pdf,17,1
+December,2024,MMDR & KMMCR,MMDR Act,5,crime_17.pdf,17,1
+December,2025,MMDR & KMMCR,KMMC Rules,3,crime_17.pdf,17,1
+November,2025,MMDR & KMMCR,KMMC Rules,1,crime_17.pdf,17,1
+December,2024,MMDR & KMMCR,KMMC Rules,2,crime_17.pdf,17,1
+December,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,795,crime_17.pdf,18,1
+November,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,773,crime_17.pdf,18,1
+December,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,922,crime_17.pdf,18,1
+December,2025,NDPS Cases,NDPS Cases,906,crime_17.pdf,19,1
+November,2025,NDPS Cases,NDPS Cases,773,crime_17.pdf,19,1
+December,2024,NDPS Cases,NDPS Cases,651,crime_17.pdf,19,1
+January,2024,Murder,Murder for gain,3,crime_18.pdf,3,1
+December,2023,Murder,Murder for gain,4,crime_18.pdf,3,1
+January,2023,Murder,Murder for gain,2,crime_18.pdf,3,1
+January,2024,Murder,Other Murders,78,crime_18.pdf,3,1
+December,2023,Murder,Other Murders,118,crime_18.pdf,3,1
+January,2023,Murder,Other Murders,102,crime_18.pdf,3,1
+January,2024,Murder,Total Murder,81,crime_18.pdf,3,1
+December,2023,Murder,Total Murder,122,crime_18.pdf,3,1
+January,2023,Murder,Total Murder,104,crime_18.pdf,3,1
+January,2024,Dacoity,Dacoity Cases,18,crime_18.pdf,4,1
+December,2023,Dacoity,Dacoity Cases,17,crime_18.pdf,4,1
+January,2023,Dacoity,Dacoity Cases,10,crime_18.pdf,4,1
+January,2024,Robbery,Chain Snatching,50,crime_18.pdf,5,1
+December,2023,Robbery,Chain Snatching,70,crime_18.pdf,5,1
+January,2023,Robbery,Chain Snatching,55,crime_18.pdf,5,1
+January,2024,Robbery,Robbery (Except Chain Snatching),126,crime_18.pdf,5,1
+December,2023,Robbery,Robbery (Except Chain Snatching),122,crime_18.pdf,5,1
+January,2023,Robbery,Robbery (Except Chain Snatching),92,crime_18.pdf,5,1
+January,2024,Robbery,Total Robbery,176,crime_18.pdf,5,1
+December,2023,Robbery,Total Robbery,192,crime_18.pdf,5,1
+January,2023,Robbery,Total Robbery,147,crime_18.pdf,5,1
+January,2024,Burglary,Burglary Night,408,crime_18.pdf,6,1
+December,2023,Burglary,Burglary Night,443,crime_18.pdf,6,1
+January,2023,Burglary,Burglary Night,372,crime_18.pdf,6,1
+January,2024,Burglary,Burglary Day,106,crime_18.pdf,6,1
+December,2023,Burglary,Burglary Day,110,crime_18.pdf,6,1
+January,2023,Burglary,Burglary Day,74,crime_18.pdf,6,1
+January,2024,Burglary,Total,514,crime_18.pdf,6,1
+December,2023,Burglary,Total,553,crime_18.pdf,6,1
+January,2023,Burglary,Total,446,crime_18.pdf,6,1
+January,2024,Theft,Reported,1943,crime_18.pdf,7,1
+December,2023,Theft,Reported,2234,crime_18.pdf,7,1
+January,2023,Theft,Reported,1641,crime_18.pdf,7,1
+January,2024,Riots,Riots,299,crime_18.pdf,8,1
+December,2023,Riots,Riots,301,crime_18.pdf,8,1
+January,2023,Riots,Riots,281,crime_18.pdf,8,1
+January,2024,Hurt,Cases of Hurt,1369,crime_18.pdf,9,1
+December,2023,Hurt,Cases of Hurt,1391,crime_18.pdf,9,1
+January,2023,Hurt,Cases of Hurt,1300,crime_18.pdf,9,1
+January,2024,Special & Local Laws,Special & Local Laws,4670,crime_18.pdf,10,1
+December,2023,Special & Local Laws,Special & Local Laws,5311,crime_18.pdf,10,1
+January,2023,Special & Local Laws,Special & Local Laws,3817,crime_18.pdf,10,1
+January,2024,Crime against Women,Rape,50,crime_18.pdf,11,1
+December,2023,Crime against Women,Rape,57,crime_18.pdf,11,1
+January,2023,Crime against Women,Rape,29,crime_18.pdf,11,1
+January,2024,Crime against Women,Dowry Death,6,crime_18.pdf,11,1
+December,2023,Crime against Women,Dowry Death,6,crime_18.pdf,11,1
+January,2023,Crime against Women,Dowry Death,7,crime_18.pdf,11,1
+January,2024,POCSO,POCSO,295,crime_18.pdf,12,1
+December,2023,POCSO,POCSO,400,crime_18.pdf,12,1
+January,2023,POCSO,POCSO,258,crime_18.pdf,12,1
+January,2024,SC/ST POA Act,SC/ST POA Act,206,crime_18.pdf,13,1
+December,2023,SC/ST POA Act,SC/ST POA Act,196,crime_18.pdf,13,1
+January,2023,SC/ST POA Act,SC/ST POA Act,159,crime_18.pdf,13,1
+January,2024.0,Security Cases,Security Cases,1690,crime_18.pdf,14,1
+December,2023.0,Security Cases,Security Cases,1293,crime_18.pdf,14,1
+January,2023.0,Security Cases,Security Cases,2541,crime_18.pdf,14,1
+January,2024.0,Security Cases,Total,3640,crime_18.pdf,14,1
+December,2023.0,Security Cases,Total,2376,crime_18.pdf,14,1
+January,2023.0,Security Cases,Total,3851,crime_18.pdf,14,1
+January,2024,Cyber Crimes,Cyber Crimes,1903,crime_18.pdf,15,1
+December,2023,Cyber Crimes,Cyber Crimes,2034,crime_18.pdf,15,1
+January,2023,Cyber Crimes,Cyber Crimes,1327,crime_18.pdf,15,1
+January,2024,Economic Offences,Economic Offences,679,crime_18.pdf,16,1
+December,2023,Economic Offences,Economic Offences,716,crime_18.pdf,16,1
+January,2023,Economic Offences,Economic Offences,552,crime_18.pdf,16,1
+January,2024,MMDR & KMMCR,MMDR Act,15,crime_18.pdf,17,1
+December,2023,MMDR & KMMCR,MMDR Act,4,crime_18.pdf,17,1
+January,2023,MMDR & KMMCR,MMDR Act,8,crime_18.pdf,17,1
+January,2024,MMDR & KMMCR,KMMC Rules,6,crime_18.pdf,17,1
+December,2023,MMDR & KMMCR,KMMC Rules,7,crime_18.pdf,17,1
+January,2023,MMDR & KMMCR,KMMC Rules,4,crime_18.pdf,17,1
+January,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1018,crime_18.pdf,18,1
+December,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1131,crime_18.pdf,18,1
+January,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,901,crime_18.pdf,18,1
+January,2024,NDPS Cases,NDPS Cases,281,crime_18.pdf,19,1
+December,2023,NDPS Cases,NDPS Cases,512,crime_18.pdf,19,1
+January,2023,NDPS Cases,NDPS Cases,363,crime_18.pdf,19,1
+February,2024,Murder,Murder for gain,2,crime_19.pdf,3,1
+January,2024,Murder,Murder for gain,3,crime_19.pdf,3,1
+February,2023,Murder,Murder for gain,4,crime_19.pdf,3,1
+February,2024,Murder,Other Murders,110,crime_19.pdf,3,1
+January,2024,Murder,Other Murders,80,crime_19.pdf,3,1
+February,2023,Murder,Other Murders,114,crime_19.pdf,3,1
+February,2024,Murder,Total Murder,112,crime_19.pdf,3,1
+January,2024,Murder,Total Murder,83,crime_19.pdf,3,1
+February,2023,Murder,Total Murder,118,crime_19.pdf,3,1
+February,2024,Dacoity,Dacoity Cases,17,crime_19.pdf,4,1
+January,2024,Dacoity,Dacoity Cases,19,crime_19.pdf,4,1
+February,2023,Dacoity,Dacoity Cases,14,crime_19.pdf,4,1
+February,2024,Robbery,Chain Snatching,67,crime_19.pdf,5,1
+January,2024,Robbery,Chain Snatching,51,crime_19.pdf,5,1
+February,2023,Robbery,Chain Snatching,49,crime_19.pdf,5,1
+February,2024,Robbery,Robbery (Except Chain Snatching),110,crime_19.pdf,5,1
+January,2024,Robbery,Robbery (Except Chain Snatching),124,crime_19.pdf,5,1
+February,2023,Robbery,Robbery (Except Chain Snatching),69,crime_19.pdf,5,1
+February,2024,Robbery,Total Robbery,177,crime_19.pdf,5,1
+January,2024,Robbery,Total Robbery,175,crime_19.pdf,5,1
+February,2023,Robbery,Total Robbery,118,crime_19.pdf,5,1
+February,2024,Burglary,Burglary Night,348,crime_19.pdf,6,1
+January,2024,Burglary,Burglary Night,408,crime_19.pdf,6,1
+February,2023,Burglary,Burglary Night,376,crime_19.pdf,6,1
+February,2024,Burglary,Burglary Day,100,crime_19.pdf,6,1
+January,2024,Burglary,Burglary Day,104,crime_19.pdf,6,1
+February,2023,Burglary,Burglary Day,77,crime_19.pdf,6,1
+February,2024,Burglary,Total,448,crime_19.pdf,6,1
+January,2024,Burglary,Total,512,crime_19.pdf,6,1
+February,2023,Burglary,Total,453,crime_19.pdf,6,1
+February,2024,Theft,Reported,2010,crime_19.pdf,7,1
+January,2024,Theft,Reported,1946,crime_19.pdf,7,1
+February,2023,Theft,Reported,1618,crime_19.pdf,7,1
+February,2024,Riots,Riots,288,crime_19.pdf,8,1
+January,2024,Riots,Riots,298,crime_19.pdf,8,1
+February,2023,Riots,Riots,299,crime_19.pdf,8,1
+February,2024,Hurt,Cases of Hurt,1465,crime_19.pdf,9,1
+January,2024,Hurt,Cases of Hurt,1367,crime_19.pdf,9,1
+February,2023,Hurt,Cases of Hurt,1224,crime_19.pdf,9,1
+February,2024,Special & Local Laws,Special & Local Laws,4742,crime_19.pdf,10,1
+January,2024,Special & Local Laws,Special & Local Laws,4702,crime_19.pdf,10,1
+February,2023,Special & Local Laws,Special & Local Laws,4093,crime_19.pdf,10,1
+February,2024,Crime against Women,Rape,40,crime_19.pdf,11,1
+January,2024,Crime against Women,Rape,51,crime_19.pdf,11,1
+February,2023,Crime against Women,Rape,54,crime_19.pdf,11,1
+February,2024,Crime against Women,Dowry Death,13,crime_19.pdf,11,1
+January,2024,Crime against Women,Dowry Death,6,crime_19.pdf,11,1
+February,2023,Crime against Women,Dowry Death,9,crime_19.pdf,11,1
+February,2024,POCSO,POCSO,278,crime_19.pdf,12,1
+January,2024,POCSO,POCSO,323,crime_19.pdf,12,1
+February,2023,POCSO,POCSO,240,crime_19.pdf,12,1
+February,2024,SC/ST POA Act,SC/ST POA Act,204,crime_19.pdf,13,1
+January,2024,SC/ST POA Act,SC/ST POA Act,208,crime_19.pdf,13,1
+February,2023,SC/ST POA Act,SC/ST POA Act,145,crime_19.pdf,13,1
+February,2024.0,Security Cases,Security Cases,8494,crime_19.pdf,14,1
+January,2024.0,Security Cases,Security Cases,1721,crime_19.pdf,14,1
+February,2023.0,Security Cases,Security Cases,5588,crime_19.pdf,14,1
+February,2024.0,Security Cases,Total,14391,crime_19.pdf,14,1
+January,2024.0,Security Cases,Total,3747,crime_19.pdf,14,1
+February,2023.0,Security Cases,Total,9864,crime_19.pdf,14,1
+February,2024,Cyber Crimes,Cyber Crimes,2004,crime_19.pdf,15,1
+January,2024,Cyber Crimes,Cyber Crimes,1904,crime_19.pdf,15,1
+February,2023,Cyber Crimes,Cyber Crimes,1372,crime_19.pdf,15,1
+February,2024,Economic Offences,Economic Offences,672,crime_19.pdf,16,1
+January,2024,Economic Offences,Economic Offences,677,crime_19.pdf,16,1
+February,2023,Economic Offences,Economic Offences,546,crime_19.pdf,16,1
+February,2024,MMDR & KMMCR,MMDR Act,8,crime_19.pdf,17,1
+January,2024,MMDR & KMMCR,MMDR Act,15,crime_19.pdf,17,1
+February,2023,MMDR & KMMCR,MMDR Act,7,crime_19.pdf,17,1
+February,2024,MMDR & KMMCR,KMMC Rules,8,crime_19.pdf,17,1
+January,2024,MMDR & KMMCR,KMMC Rules,6,crime_19.pdf,17,1
+February,2023,MMDR & KMMCR,KMMC Rules,5,crime_19.pdf,17,1
+February,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1025,crime_19.pdf,18,1
+January,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1018,crime_19.pdf,18,1
+February,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,859,crime_19.pdf,18,1
+February,2024,NDPS Cases,NDPS Cases,275,crime_19.pdf,19,1
+January,2024,NDPS Cases,NDPS Cases,281,crime_19.pdf,19,1
+February,2023,NDPS Cases,NDPS Cases,344,crime_19.pdf,19,1
+January,2026,Murder,Murder for gain,5,crime_1.pdf,3,1
+December,2025,Murder,Murder for gain,2,crime_1.pdf,3,1
+January,2025,Murder,Murder for gain,4,crime_1.pdf,3,1
+January,2026,Murder,Other Murders,93,crime_1.pdf,3,1
+December,2025,Murder,Other Murders,80,crime_1.pdf,3,1
+January,2025,Murder,Other Murders,95,crime_1.pdf,3,1
+January,2026,Murder,Total Murder,98,crime_1.pdf,3,1
+December,2025,Murder,Total Murder,82,crime_1.pdf,3,1
+January,2025,Murder,Total Murder,99,crime_1.pdf,3,1
+January,2026,Dacoity,Dacoity Cases,6,crime_1.pdf,4,1
+December,2025,Dacoity,Dacoity Cases,14,crime_1.pdf,4,1
+January,2025,Dacoity,Dacoity Cases,19,crime_1.pdf,4,1
+January,2026,Robbery,Chain Snatching,29,crime_1.pdf,5,1
+December,2025,Robbery,Chain Snatching,42,crime_1.pdf,5,1
+January,2025,Robbery,Chain Snatching,44,crime_1.pdf,5,1
+January,2026,Robbery,Robbery (Except Chain Snatching),63,crime_1.pdf,5,1
+December,2025,Robbery,Robbery (Except Chain Snatching),61,crime_1.pdf,5,1
+January,2025,Robbery,Robbery (Except Chain Snatching),45,crime_1.pdf,5,1
+January,2026,Robbery,Total Robbery,92,crime_1.pdf,5,1
+December,2025,Robbery,Total Robbery,103,crime_1.pdf,5,1
+January,2025,Robbery,Total Robbery,89,crime_1.pdf,5,1
+January,2026,Burglary,Burglary Night,356,crime_1.pdf,6,1
+December,2025,Burglary,Burglary Night,347,crime_1.pdf,6,1
+January,2025,Burglary,Burglary Night,316,crime_1.pdf,6,1
+January,2026,Burglary,Burglary Day,85,crime_1.pdf,6,1
+December,2025,Burglary,Burglary Day,105,crime_1.pdf,6,1
+January,2025,Burglary,Burglary Day,95,crime_1.pdf,6,1
+January,2026,Burglary,Total,441,crime_1.pdf,6,1
+December,2025,Burglary,Total,452,crime_1.pdf,6,1
+January,2025,Burglary,Total,411,crime_1.pdf,6,1
+January,2026,Theft,Reported,1742,crime_1.pdf,7,1
+December,2025,Theft,Reported,1771,crime_1.pdf,7,1
+January,2025,Theft,Reported,1835,crime_1.pdf,7,1
+January,2026,Riots,Riots,319,crime_1.pdf,8,1
+December,2025,Riots,Riots,292,crime_1.pdf,8,1
+January,2025,Riots,Riots,254,crime_1.pdf,8,1
+January,2026,Hurt,Cases of Hurt,1437,crime_1.pdf,9,1
+December,2025,Hurt,Cases of Hurt,1464,crime_1.pdf,9,1
+January,2025,Hurt,Cases of Hurt,1327,crime_1.pdf,9,1
+January,2026,Special & Local Laws,Special & Local Laws,5857,crime_1.pdf,10,1
+December,2025,Special & Local Laws,Special & Local Laws,5711,crime_1.pdf,10,1
+January,2025,Special & Local Laws,Special & Local Laws,4629,crime_1.pdf,10,1
+January,2026,Crime against Women,Rape,45,crime_1.pdf,11,1
+December,2025,Crime against Women,Rape,41,crime_1.pdf,11,1
+January,2025,Crime against Women,Rape,57,crime_1.pdf,11,1
+January,2026,Crime against Women,Dowry Death,11,crime_1.pdf,11,1
+December,2025,Crime against Women,Dowry Death,7,crime_1.pdf,11,1
+January,2025,Crime against Women,Dowry Death,12,crime_1.pdf,11,1
+January,2026,POCSO,POCSO,316,crime_1.pdf,12,1
+December,2025,POCSO,POCSO,440,crime_1.pdf,12,1
+January,2025,POCSO,POCSO,374,crime_1.pdf,12,1
+January,2026,SC/ST POA Act,SC/ST POA Act,223,crime_1.pdf,13,1
+December,2025,SC/ST POA Act,SC/ST POA Act,249,crime_1.pdf,13,1
+January,2025,SC/ST POA Act,SC/ST POA Act,173,crime_1.pdf,13,1
+January,2026.0,Security Cases,Security Cases,1361,crime_1.pdf,14,1
+December,2025.0,Security Cases,Security Cases,1121,crime_1.pdf,14,1
+January,2025.0,Security Cases,Security Cases,1430,crime_1.pdf,14,1
+January,2026.0,Security Cases,Total,2330,crime_1.pdf,14,1
+December,2025.0,Security Cases,Total,2033,crime_1.pdf,14,1
+January,2025.0,Security Cases,Total,2278,crime_1.pdf,14,1
+January,2026,Cyber Crimes,Cyber Crimes,1259,crime_1.pdf,15,1
+December,2025,Cyber Crimes,Cyber Crimes,1286,crime_1.pdf,15,1
+January,2025,Cyber Crimes,Cyber Crimes,1407,crime_1.pdf,15,1
+January,2026,Economic Offences,Economic Offences,470,crime_1.pdf,16,1
+December,2025,Economic Offences,Economic Offences,710,crime_1.pdf,16,1
+January,2025,Economic Offences,Economic Offences,572,crime_1.pdf,16,1
+January,2026,MMDR & KMMCR,MMDR Act,11,crime_1.pdf,17,1
+December,2025,MMDR & KMMCR,MMDR Act,4,crime_1.pdf,17,1
+January,2025,MMDR & KMMCR,MMDR Act,3,crime_1.pdf,17,1
+January,2026,MMDR & KMMCR,KMMC Rules,2,crime_1.pdf,17,1
+December,2025,MMDR & KMMCR,KMMC Rules,3,crime_1.pdf,17,1
+January,2025,MMDR & KMMCR,KMMC Rules,1,crime_1.pdf,17,1
+January,2026,Motor Vehicles Theft,Motor Vehicles Theft Cases,767,crime_1.pdf,18,1
+December,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,795,crime_1.pdf,18,1
+January,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,900,crime_1.pdf,18,1
+January,2026,NDPS Cases,NDPS Cases,1397,crime_1.pdf,19,1
+December,2025,NDPS Cases,NDPS Cases,909,crime_1.pdf,19,1
+January,2025,NDPS Cases,NDPS Cases,428,crime_1.pdf,19,1
+March,2024,Murder,Murder for gain,2,crime_20.pdf,3,1
+February,2024,Murder,Murder for gain,2,crime_20.pdf,3,1
+March,2023,Murder,Murder for gain,0,crime_20.pdf,3,1
+March,2024,Murder,Other Murders,104,crime_20.pdf,3,1
+February,2024,Murder,Other Murders,115,crime_20.pdf,3,1
+March,2023,Murder,Other Murders,112,crime_20.pdf,3,1
+March,2024,Murder,Total Murder,106,crime_20.pdf,3,1
+February,2024,Murder,Total Murder,117,crime_20.pdf,3,1
+March,2023,Murder,Total Murder,112,crime_20.pdf,3,1
+March,2024,Dacoity,Dacoity Cases,18,crime_20.pdf,4,1
+February,2024,Dacoity,Dacoity Cases,17,crime_20.pdf,4,1
+March,2023,Dacoity,Dacoity Cases,22,crime_20.pdf,4,1
+March,2024,Robbery,Chain Snatching,63,crime_20.pdf,5,1
+February,2024,Robbery,Chain Snatching,67,crime_20.pdf,5,1
+March,2023,Robbery,Chain Snatching,58,crime_20.pdf,5,1
+March,2024,Robbery,Robbery (Except Chain Snatching),117,crime_20.pdf,5,1
+February,2024,Robbery,Robbery (Except Chain Snatching),108,crime_20.pdf,5,1
+March,2023,Robbery,Robbery (Except Chain Snatching),77,crime_20.pdf,5,1
+March,2024,Robbery,Total Robbery,180,crime_20.pdf,5,1
+February,2024,Robbery,Total Robbery,175,crime_20.pdf,5,1
+March,2023,Robbery,Total Robbery,135,crime_20.pdf,5,1
+March,2024,Burglary,Burglary Night,316,crime_20.pdf,6,1
+February,2024,Burglary,Burglary Night,350,crime_20.pdf,6,1
+March,2023,Burglary,Burglary Night,309,crime_20.pdf,6,1
+March,2024,Burglary,Burglary Day,80,crime_20.pdf,6,1
+February,2024,Burglary,Burglary Day,99,crime_20.pdf,6,1
+March,2023,Burglary,Burglary Day,80,crime_20.pdf,6,1
+March,2024,Burglary,Total,396,crime_20.pdf,6,1
+February,2024,Burglary,Total,449,crime_20.pdf,6,1
+March,2023,Burglary,Total,389,crime_20.pdf,6,1
+March,2024,Theft,Reported,2126,crime_20.pdf,7,1
+February,2024,Theft,Reported,2008,crime_20.pdf,7,1
+March,2023,Theft,Reported,1651,crime_20.pdf,7,1
+March,2024,Riots,Riots,331,crime_20.pdf,8,1
+February,2024,Riots,Riots,291,crime_20.pdf,8,1
+March,2023,Riots,Riots,350,crime_20.pdf,8,1
+March,2024,Hurt,Cases of Hurt,1642,crime_20.pdf,9,1
+February,2024,Hurt,Cases of Hurt,1456,crime_20.pdf,9,1
+March,2023,Hurt,Cases of Hurt,1497,crime_20.pdf,9,1
+March,2024,Special & Local Laws,Special & Local Laws,5968,crime_20.pdf,10,1
+February,2024,Special & Local Laws,Special & Local Laws,4776,crime_20.pdf,10,1
+March,2023,Special & Local Laws,Special & Local Laws,7434,crime_20.pdf,10,1
+March,2024,Crime against Women,Rape,52,crime_20.pdf,11,1
+February,2024,Crime against Women,Rape,43,crime_20.pdf,11,1
+March,2023,Crime against Women,Rape,47,crime_20.pdf,11,1
+March,2024,Crime against Women,Dowry Death,7,crime_20.pdf,11,1
+February,2024,Crime against Women,Dowry Death,14,crime_20.pdf,11,1
+March,2023,Crime against Women,Dowry Death,17,crime_20.pdf,11,1
+March,2024,POCSO,POCSO,278,crime_20.pdf,12,1
+February,2024,POCSO,POCSO,309,crime_20.pdf,12,1
+March,2023,POCSO,POCSO,300,crime_20.pdf,12,1
+March,2024,SC/ST POA Act,SC/ST POA Act,205,crime_20.pdf,13,1
+February,2024,SC/ST POA Act,SC/ST POA Act,208,crime_20.pdf,13,1
+March,2023,SC/ST POA Act,SC/ST POA Act,163,crime_20.pdf,13,1
+March,2024.0,Security Cases,Security Cases,9658,crime_20.pdf,14,1
+February,2024.0,Security Cases,Security Cases,8557,crime_20.pdf,14,1
+March,2023.0,Security Cases,Security Cases,5710,crime_20.pdf,14,1
+March,2024.0,Security Cases,Total,14271,crime_20.pdf,14,1
+February,2024.0,Security Cases,Total,14455,crime_20.pdf,14,1
+March,2023.0,Security Cases,Total,9715,crime_20.pdf,14,1
+March,2024,Cyber Crimes,Cyber Crimes,1939,crime_20.pdf,15,1
+February,2024,Cyber Crimes,Cyber Crimes,2004,crime_20.pdf,15,1
+March,2023,Cyber Crimes,Cyber Crimes,1617,crime_20.pdf,15,1
+March,2024,Economic Offences,Economic Offences,643,crime_20.pdf,16,1
+February,2024,Economic Offences,Economic Offences,671,crime_20.pdf,16,1
+March,2023,Economic Offences,Economic Offences,559,crime_20.pdf,16,1
+March,2024,MMDR & KMMCR,MMDR Act,10,crime_20.pdf,17,1
+February,2024,MMDR & KMMCR,MMDR Act,7,crime_20.pdf,17,1
+March,2023,MMDR & KMMCR,MMDR Act,14,crime_20.pdf,17,1
+March,2024,MMDR & KMMCR,KMMC Rules,3,crime_20.pdf,17,1
+February,2024,MMDR & KMMCR,KMMC Rules,8,crime_20.pdf,17,1
+March,2023,MMDR & KMMCR,KMMC Rules,5,crime_20.pdf,17,1
+March,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1060,crime_20.pdf,18,1
+February,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1025,crime_20.pdf,18,1
+March,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,905,crime_20.pdf,18,1
+March,2024,NDPS Cases,NDPS Cases,370,crime_20.pdf,19,1
+February,2024,NDPS Cases,NDPS Cases,275,crime_20.pdf,19,1
+March,2023,NDPS Cases,NDPS Cases,757,crime_20.pdf,19,1
+April,2024,Murder,Murder for gain,3,crime_21.pdf,3,1
+March,2024,Murder,Murder for gain,2,crime_21.pdf,3,1
+April,2023,Murder,Murder for gain,3,crime_21.pdf,3,1
+April,2024,Murder,Other Murders,119,crime_21.pdf,3,1
+March,2024,Murder,Other Murders,105,crime_21.pdf,3,1
+April,2023,Murder,Other Murders,96,crime_21.pdf,3,1
+April,2024,Murder,Total Murder,122,crime_21.pdf,3,1
+March,2024,Murder,Total Murder,107,crime_21.pdf,3,1
+April,2023,Murder,Total Murder,99,crime_21.pdf,3,1
+April,2024,Dacoity,Dacoity Cases,12,crime_21.pdf,4,1
+March,2024,Dacoity,Dacoity Cases,18,crime_21.pdf,4,1
+April,2023,Dacoity,Dacoity Cases,9,crime_21.pdf,4,1
+April,2024,Robbery,Chain Snatching,51,crime_21.pdf,5,1
+March,2024,Robbery,Chain Snatching,63,crime_21.pdf,5,1
+April,2023,Robbery,Chain Snatching,41,crime_21.pdf,5,1
+April,2024,Robbery,Robbery (Except Chain Snatching),101,crime_21.pdf,5,1
+March,2024,Robbery,Robbery (Except Chain Snatching),119,crime_21.pdf,5,1
+April,2023,Robbery,Robbery (Except Chain Snatching),71,crime_21.pdf,5,1
+April,2024,Robbery,Total Robbery,152,crime_21.pdf,5,1
+March,2024,Robbery,Total Robbery,182,crime_21.pdf,5,1
+April,2023,Robbery,Total Robbery,112,crime_21.pdf,5,1
+April,2024,Burglary,Burglary Night,315,crime_21.pdf,6,1
+March,2024,Burglary,Burglary Night,317,crime_21.pdf,6,1
+April,2023,Burglary,Burglary Night,272,crime_21.pdf,6,1
+April,2024,Burglary,Burglary Day,78,crime_21.pdf,6,1
+March,2024,Burglary,Burglary Day,80,crime_21.pdf,6,1
+April,2023,Burglary,Burglary Day,69,crime_21.pdf,6,1
+April,2024,Burglary,Total,393,crime_21.pdf,6,1
+March,2024,Burglary,Total,397,crime_21.pdf,6,1
+April,2023,Burglary,Total,341,crime_21.pdf,6,1
+April,2024,Theft,Reported,1765,crime_21.pdf,7,1
+March,2024,Theft,Reported,2124,crime_21.pdf,7,1
+April,2023,Theft,Reported,1547,crime_21.pdf,7,1
+April,2024,Riots,Riots,352,crime_21.pdf,8,1
+March,2024,Riots,Riots,335,crime_21.pdf,8,1
+April,2023,Riots,Riots,295,crime_21.pdf,8,1
+April,2024,Hurt,Cases of Hurt,1606,crime_21.pdf,9,1
+March,2024,Hurt,Cases of Hurt,1636,crime_21.pdf,9,1
+April,2023,Hurt,Cases of Hurt,1359,crime_21.pdf,9,1
+April,2024,Special & Local Laws,Special & Local Laws,4914,crime_21.pdf,10,1
+March,2024,Special & Local Laws,Special & Local Laws,6014,crime_21.pdf,10,1
+April,2023,Special & Local Laws,Special & Local Laws,5822,crime_21.pdf,10,1
+April,2024,Crime against Women,Rape,49,crime_21.pdf,11,1
+March,2024,Crime against Women,Rape,53,crime_21.pdf,11,1
+April,2023,Crime against Women,Rape,45,crime_21.pdf,11,1
+April,2024,Crime against Women,Dowry Death,8,crime_21.pdf,11,1
+March,2024,Crime against Women,Dowry Death,7,crime_21.pdf,11,1
+April,2023,Crime against Women,Dowry Death,14,crime_21.pdf,11,1
+April,2024,POCSO,POCSO,277,crime_21.pdf,12,1
+March,2024,POCSO,POCSO,309,crime_21.pdf,12,1
+April,2023,POCSO,POCSO,304,crime_21.pdf,12,1
+April,2024,SC/ST POA Act,SC/ST POA Act,186,crime_21.pdf,13,1
+March,2024,SC/ST POA Act,SC/ST POA Act,211,crime_21.pdf,13,1
+April,2023,SC/ST POA Act,SC/ST POA Act,147,crime_21.pdf,13,1
+April,2024.0,Security Cases,Security Cases,2793,crime_21.pdf,14,1
+March,2024.0,Security Cases,Security Cases,9666,crime_21.pdf,14,1
+April,2023.0,Security Cases,Security Cases,2456,crime_21.pdf,14,1
+April,2024.0,Security Cases,Total,4692,crime_21.pdf,14,1
+March,2024.0,Security Cases,Total,14285,crime_21.pdf,14,1
+April,2023.0,Security Cases,Total,4654,crime_21.pdf,14,1
+April,2024,Cyber Crimes,Cyber Crimes,1574,crime_21.pdf,15,1
+March,2024,Cyber Crimes,Cyber Crimes,1939,crime_21.pdf,15,1
+April,2023,Cyber Crimes,Cyber Crimes,1710,crime_21.pdf,15,1
+April,2024,Economic Offences,Economic Offences,460,crime_21.pdf,16,1
+March,2024,Economic Offences,Economic Offences,641,crime_21.pdf,16,1
+April,2023,Economic Offences,Economic Offences,465,crime_21.pdf,16,1
+April,2024,MMDR & KMMCR,MMDR Act,5,crime_21.pdf,17,1
+March,2024,MMDR & KMMCR,MMDR Act,11,crime_21.pdf,17,1
+April,2023,MMDR & KMMCR,MMDR Act,12,crime_21.pdf,17,1
+April,2024,MMDR & KMMCR,KMMC Rules,5,crime_21.pdf,17,1
+March,2024,MMDR & KMMCR,KMMC Rules,3,crime_21.pdf,17,1
+April,2023,MMDR & KMMCR,KMMC Rules,8,crime_21.pdf,17,1
+April,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,868,crime_21.pdf,18,1
+March,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1060,crime_21.pdf,18,1
+April,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,880,crime_21.pdf,18,1
+April,2024,NDPS Cases,NDPS Cases,217,crime_21.pdf,19,1
+March,2024,NDPS Cases,NDPS Cases,370,crime_21.pdf,19,1
+April,2023,NDPS Cases,NDPS Cases,470,crime_21.pdf,19,1
+May,2024,Murder,Murder for gain,5,crime_22.pdf,3,1
+April,2024,Murder,Murder for gain,3,crime_22.pdf,3,1
+May,2023,Murder,Murder for gain,3,crime_22.pdf,3,1
+May,2024,Murder,Other Murders,108,crime_22.pdf,3,1
+April,2024,Murder,Other Murders,122,crime_22.pdf,3,1
+May,2023,Murder,Other Murders,107,crime_22.pdf,3,1
+May,2024,Murder,Total Murder,113,crime_22.pdf,3,1
+April,2024,Murder,Total Murder,125,crime_22.pdf,3,1
+May,2023,Murder,Total Murder,110,crime_22.pdf,3,1
+May,2024,Dacoity,Dacoity Cases,8,crime_22.pdf,4,1
+April,2024,Dacoity,Dacoity Cases,14,crime_22.pdf,4,1
+May,2023,Dacoity,Dacoity Cases,12,crime_22.pdf,4,1
+May,2024,Robbery,Chain Snatching,58,crime_22.pdf,5,1
+April,2024,Robbery,Chain Snatching,52,crime_22.pdf,5,1
+May,2023,Robbery,Chain Snatching,58,crime_22.pdf,5,1
+May,2024,Robbery,Robbery (Except Chain Snatching),124,crime_22.pdf,5,1
+April,2024,Robbery,Robbery (Except Chain Snatching),98,crime_22.pdf,5,1
+May,2023,Robbery,Robbery (Except Chain Snatching),89,crime_22.pdf,5,1
+May,2024,Robbery,Total Robbery,182,crime_22.pdf,5,1
+April,2024,Robbery,Total Robbery,150,crime_22.pdf,5,1
+May,2023,Robbery,Total Robbery,147,crime_22.pdf,5,1
+May,2024,Burglary,Burglary Night,391,crime_22.pdf,6,1
+April,2024,Burglary,Burglary Night,318,crime_22.pdf,6,1
+May,2023,Burglary,Burglary Night,396,crime_22.pdf,6,1
+May,2024,Burglary,Burglary Day,103,crime_22.pdf,6,1
+April,2024,Burglary,Burglary Day,76,crime_22.pdf,6,1
+May,2023,Burglary,Burglary Day,82,crime_22.pdf,6,1
+May,2024,Burglary,Total,494,crime_22.pdf,6,1
+April,2024,Burglary,Total,394,crime_22.pdf,6,1
+May,2023,Burglary,Total,478,crime_22.pdf,6,1
+May,2024,Theft,Reported,2128,crime_22.pdf,7,1
+April,2024,Theft,Reported,1763,crime_22.pdf,7,1
+May,2023,Theft,Reported,1717,crime_22.pdf,7,1
+May,2024,Riots,Riots,397,crime_22.pdf,8,1
+April,2024,Riots,Riots,346,crime_22.pdf,8,1
+May,2023,Riots,Riots,381,crime_22.pdf,8,1
+May,2024,Hurt,Cases of Hurt,1826,crime_22.pdf,9,1
+April,2024,Hurt,Cases of Hurt,1613,crime_22.pdf,9,1
+May,2023,Hurt,Cases of Hurt,1514,crime_22.pdf,9,1
+May,2024,Special & Local Laws,Special & Local Laws,4777,crime_22.pdf,10,1
+April,2024,Special & Local Laws,Special & Local Laws,4963,crime_22.pdf,10,1
+May,2023,Special & Local Laws,Special & Local Laws,4510,crime_22.pdf,10,1
+May,2024,Crime against Women,Rape,80,crime_22.pdf,11,1
+April,2024,Crime against Women,Rape,51,crime_22.pdf,11,1
+May,2023,Crime against Women,Rape,49,crime_22.pdf,11,1
+May,2024,Crime against Women,Dowry Death,9,crime_22.pdf,11,1
+April,2024,Crime against Women,Dowry Death,9,crime_22.pdf,11,1
+May,2023,Crime against Women,Dowry Death,14,crime_22.pdf,11,1
+May,2024,POCSO,POCSO,294,crime_22.pdf,12,1
+April,2024,POCSO,POCSO,317,crime_22.pdf,12,1
+May,2023,POCSO,POCSO,326,crime_22.pdf,12,1
+May,2024,SC/ST POA Act,SC/ST POA Act,170,crime_22.pdf,13,1
+April,2024,SC/ST POA Act,SC/ST POA Act,190,crime_22.pdf,13,1
+May,2023,SC/ST POA Act,SC/ST POA Act,151,crime_22.pdf,13,1
+May,2024.0,Security Cases,Security Cases,1621,crime_22.pdf,14,1
+April,2024.0,Security Cases,Security Cases,2798,crime_22.pdf,14,1
+May,2023.0,Security Cases,Security Cases,1357,crime_22.pdf,14,1
+May,2024.0,Security Cases,Total,2169,crime_22.pdf,14,1
+April,2024.0,Security Cases,Total,4700,crime_22.pdf,14,1
+May,2023.0,Security Cases,Total,1661,crime_22.pdf,14,1
+May,2024,Cyber Crimes,Cyber Crimes,2281,crime_22.pdf,15,1
+April,2024,Cyber Crimes,Cyber Crimes,1574,crime_22.pdf,15,1
+May,2023,Cyber Crimes,Cyber Crimes,1572,crime_22.pdf,15,1
+May,2024,Economic Offences,Economic Offences,584,crime_22.pdf,16,1
+April,2024,Economic Offences,Economic Offences,459,crime_22.pdf,16,1
+May,2023,Economic Offences,Economic Offences,369,crime_22.pdf,16,1
+May,2024,MMDR & KMMCR,MMDR Act,6,crime_22.pdf,17,1
+April,2024,MMDR & KMMCR,MMDR Act,5,crime_22.pdf,17,1
+May,2023,MMDR & KMMCR,MMDR Act,9,crime_22.pdf,17,1
+May,2024,MMDR & KMMCR,KMMC Rules,4,crime_22.pdf,17,1
+April,2024,MMDR & KMMCR,KMMC Rules,5,crime_22.pdf,17,1
+May,2023,MMDR & KMMCR,KMMC Rules,0,crime_22.pdf,17,1
+May,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1120,crime_22.pdf,18,1
+April,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,868,crime_22.pdf,18,1
+May,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,932,crime_22.pdf,18,1
+May,2024,NDPS Cases,NDPS Cases,243,crime_22.pdf,19,1
+April,2024,NDPS Cases,NDPS Cases,217,crime_22.pdf,19,1
+May,2023,NDPS Cases,NDPS Cases,442,crime_22.pdf,19,1
+June,2024,Murder,Murder for gain,0,crime_23.pdf,3,1
+May,2024,Murder,Murder for gain,5,crime_23.pdf,3,1
+June,2023,Murder,Murder for gain,3,crime_23.pdf,3,1
+June,2024,Murder,Other Murders,89,crime_23.pdf,3,1
+May,2024,Murder,Other Murders,110,crime_23.pdf,3,1
+June,2023,Murder,Other Murders,113,crime_23.pdf,3,1
+June,2024,Murder,Total Murder,89,crime_23.pdf,3,1
+May,2024,Murder,Total Murder,115,crime_23.pdf,3,1
+June,2023,Murder,Total Murder,116,crime_23.pdf,3,1
+June,2024,Dacoity,Dacoity Cases,11,crime_23.pdf,4,1
+May,2024,Dacoity,Dacoity Cases,8,crime_23.pdf,4,1
+June,2023,Dacoity,Dacoity Cases,12,crime_23.pdf,4,1
+June,2024,Robbery,Chain Snatching,58,crime_23.pdf,5,1
+May,2024,Robbery,Chain Snatching,58,crime_23.pdf,5,1
+June,2023,Robbery,Chain Snatching,46,crime_23.pdf,5,1
+June,2024,Robbery,Robbery (Except Chain Snatching),99,crime_23.pdf,5,1
+May,2024,Robbery,Robbery (Except Chain Snatching),125,crime_23.pdf,5,1
+June,2023,Robbery,Robbery (Except Chain Snatching),87,crime_23.pdf,5,1
+June,2024,Robbery,Total Robbery,157,crime_23.pdf,5,1
+May,2024,Robbery,Total Robbery,183,crime_23.pdf,5,1
+June,2023,Robbery,Total Robbery,133,crime_23.pdf,5,1
+June,2024,Burglary,Burglary Night,407,crime_23.pdf,6,1
+May,2024,Burglary,Burglary Night,395,crime_23.pdf,6,1
+June,2023,Burglary,Burglary Night,447,crime_23.pdf,6,1
+June,2024,Burglary,Burglary Day,106,crime_23.pdf,6,1
+May,2024,Burglary,Burglary Day,104,crime_23.pdf,6,1
+June,2023,Burglary,Burglary Day,137,crime_23.pdf,6,1
+June,2024,Burglary,Total,513,crime_23.pdf,6,1
+May,2024,Burglary,Total,499,crime_23.pdf,6,1
+June,2023,Burglary,Total,584,crime_23.pdf,6,1
+June,2024,Theft,Reported,2026,crime_23.pdf,7,1
+May,2024,Theft,Reported,2121,crime_23.pdf,7,1
+June,2023,Theft,Reported,2404,crime_23.pdf,7,1
+June,2024,Riots,Riots,363,crime_23.pdf,8,1
+May,2024,Riots,Riots,404,crime_23.pdf,8,1
+June,2023,Riots,Riots,382,crime_23.pdf,8,1
+June,2024,Hurt,Cases of Hurt,1472,crime_23.pdf,9,1
+May,2024,Hurt,Cases of Hurt,1818,crime_23.pdf,9,1
+June,2023,Hurt,Cases of Hurt,1593,crime_23.pdf,9,1
+June,2024,Special & Local Laws,Special & Local Laws,5013,crime_23.pdf,10,1
+May,2024,Special & Local Laws,Special & Local Laws,4862,crime_23.pdf,10,1
+June,2023,Special & Local Laws,Special & Local Laws,6857,crime_23.pdf,10,1
+June,2024,Crime against Women,Rape,55,crime_23.pdf,11,1
+May,2024,Crime against Women,Rape,81,crime_23.pdf,11,1
+June,2023,Crime against Women,Rape,67,crime_23.pdf,11,1
+June,2024,Crime against Women,Dowry Death,10,crime_23.pdf,11,1
+May,2024,Crime against Women,Dowry Death,10,crime_23.pdf,11,1
+June,2023,Crime against Women,Dowry Death,9,crime_23.pdf,11,1
+June,2024,POCSO,POCSO,280,crime_23.pdf,12,1
+May,2024,POCSO,POCSO,363,crime_23.pdf,12,1
+June,2023,POCSO,POCSO,336,crime_23.pdf,12,1
+June,2024,SC/ST POA Act,SC/ST POA Act,148,crime_23.pdf,13,1
+May,2024,SC/ST POA Act,SC/ST POA Act,175,crime_23.pdf,13,1
+June,2023,SC/ST POA Act,SC/ST POA Act,202,crime_23.pdf,13,1
+June,2024.0,Security Cases,Security Cases,2599,crime_23.pdf,14,1
+May,2024.0,Security Cases,Security Cases,1649,crime_23.pdf,14,1
+June,2023.0,Security Cases,Security Cases,1670,crime_23.pdf,14,1
+June,2024.0,Security Cases,Total,3218,crime_23.pdf,14,1
+May,2024.0,Security Cases,Total,2203,crime_23.pdf,14,1
+June,2023.0,Security Cases,Total,2469,crime_23.pdf,14,1
+May,2024,Cyber Crimes,Cyber Crimes,2019,crime_23.pdf,15,1
+April,2024,Cyber Crimes,Cyber Crimes,2284,crime_23.pdf,15,1
+May,2023,Cyber Crimes,Cyber Crimes,1762,crime_23.pdf,15,1
+June,2024,Economic Offences,Economic Offences,716,crime_23.pdf,16,1
+May,2024,Economic Offences,Economic Offences,577,crime_23.pdf,16,1
+June,2023,Economic Offences,Economic Offences,666,crime_23.pdf,16,1
+June,2024,MMDR & KMMCR,MMDR Act,10,crime_23.pdf,17,1
+May,2024,MMDR & KMMCR,MMDR Act,6,crime_23.pdf,17,1
+June,2023,MMDR & KMMCR,MMDR Act,17,crime_23.pdf,17,1
+June,2024,MMDR & KMMCR,KMMC Rules,0,crime_23.pdf,17,1
+May,2024,MMDR & KMMCR,KMMC Rules,4,crime_23.pdf,17,1
+June,2023,MMDR & KMMCR,KMMC Rules,17,crime_23.pdf,17,1
+June,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1081,crime_23.pdf,18,1
+May,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1121,crime_23.pdf,18,1
+June,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1288,crime_23.pdf,18,1
+June,2024,NDPS Cases,NDPS Cases,322,crime_23.pdf,19,1
+May,2024,NDPS Cases,NDPS Cases,243,crime_23.pdf,19,1
+June,2023,NDPS Cases,NDPS Cases,1290,crime_23.pdf,19,1
+July,2024,Murder,Murder for gain,1,crime_24.pdf,3,1
+June,2024,Murder,Murder for gain,1,crime_24.pdf,3,1
+July,2023,Murder,Murder for gain,0,crime_24.pdf,3,1
+July,2024,Murder,Other Murders,84,crime_24.pdf,3,1
+June,2024,Murder,Other Murders,91,crime_24.pdf,3,1
+July,2023,Murder,Other Murders,113,crime_24.pdf,3,1
+July,2024,Murder,Total Murder,85,crime_24.pdf,3,1
+June,2024,Murder,Total Murder,92,crime_24.pdf,3,1
+July,2023,Murder,Total Murder,113,crime_24.pdf,3,1
+July,2024,Dacoity,Dacoity Cases,21,crime_24.pdf,4,1
+June,2024,Dacoity,Dacoity Cases,10,crime_24.pdf,4,1
+July,2023,Dacoity,Dacoity Cases,13,crime_24.pdf,4,1
+July,2024,Robbery,Chain Snatching,49,crime_24.pdf,5,1
+June,2024,Robbery,Chain Snatching,61,crime_24.pdf,5,1
+July,2023,Robbery,Chain Snatching,48,crime_24.pdf,5,1
+July,2024,Robbery,Robbery (Except Chain Snatching),72,crime_24.pdf,5,1
+June,2024,Robbery,Robbery (Except Chain Snatching),98,crime_24.pdf,5,1
+July,2023,Robbery,Robbery (Except Chain Snatching),161,crime_24.pdf,5,1
+July,2024,Robbery,Total Robbery,121,crime_24.pdf,5,1
+June,2024,Robbery,Total Robbery,159,crime_24.pdf,5,1
+July,2023,Robbery,Total Robbery,209,crime_24.pdf,5,1
+July,2024,Burglary,Burglary Night,427,crime_24.pdf,6,1
+June,2024,Burglary,Burglary Night,413,crime_24.pdf,6,1
+July,2023,Burglary,Burglary Night,477,crime_24.pdf,6,1
+July,2024,Burglary,Burglary Day,74,crime_24.pdf,6,1
+June,2024,Burglary,Burglary Day,107,crime_24.pdf,6,1
+July,2023,Burglary,Burglary Day,135,crime_24.pdf,6,1
+July,2024,Burglary,Total,501,crime_24.pdf,6,1
+June,2024,Burglary,Total,520,crime_24.pdf,6,1
+July,2023,Burglary,Total,612,crime_24.pdf,6,1
+July,2024,Theft,Reported,1953,crime_24.pdf,7,1
+June,2024,Theft,Reported,2020,crime_24.pdf,7,1
+July,2023,Theft,Reported,2765,crime_24.pdf,7,1
+July,2024,Riots,Riots,230,crime_24.pdf,8,1
+June,2024,Riots,Riots,364,crime_24.pdf,8,1
+July,2023,Riots,Riots,317,crime_24.pdf,8,1
+July,2024,Hurt,Cases of Hurt,1166,crime_24.pdf,9,1
+June,2024,Hurt,Cases of Hurt,1465,crime_24.pdf,9,1
+July,2023,Hurt,Cases of Hurt,1467,crime_24.pdf,9,1
+July,2024,Special & Local Laws,Special & Local Laws,4927,crime_24.pdf,10,1
+June,2024,Special & Local Laws,Special & Local Laws,5062,crime_24.pdf,10,1
+July,2023,Special & Local Laws,Special & Local Laws,6105,crime_24.pdf,10,1
+July,2024,Crime against Women,Rape,58,crime_24.pdf,11,1
+June,2024,Crime against Women,Rape,55,crime_24.pdf,11,1
+July,2023,Crime against Women,Rape,47,crime_24.pdf,11,1
+July,2024,Crime against Women,Dowry Death,9,crime_24.pdf,11,1
+June,2024,Crime against Women,Dowry Death,10,crime_24.pdf,11,1
+July,2023,Crime against Women,Dowry Death,16,crime_24.pdf,11,1
+July,2024,POCSO,POCSO,285,crime_24.pdf,12,1
+June,2024,POCSO,POCSO,318,crime_24.pdf,12,1
+July,2023,POCSO,POCSO,339,crime_24.pdf,12,1
+July,2024,SC/ST POA Act,SC/ST POA Act,161,crime_24.pdf,13,1
+June,2024,SC/ST POA Act,SC/ST POA Act,148,crime_24.pdf,13,1
+July,2023,SC/ST POA Act,SC/ST POA Act,202,crime_24.pdf,13,1
+July,2024.0,Security Cases,Security Cases,221,crime_24.pdf,14,1
+June,2024.0,Security Cases,Security Cases,2619,crime_24.pdf,14,1
+July,2023.0,Security Cases,Security Cases,1521,crime_24.pdf,14,1
+July,2024.0,Security Cases,Total,334,crime_24.pdf,14,1
+June,2024.0,Security Cases,Total,3243,crime_24.pdf,14,1
+July,2023.0,Security Cases,Total,2397,crime_24.pdf,14,1
+July,2024,Cyber Crimes,Cyber Crimes,2060,crime_24.pdf,15,1
+June,2024,Cyber Crimes,Cyber Crimes,2021,crime_24.pdf,15,1
+July,2023,Cyber Crimes,Cyber Crimes,2079,crime_24.pdf,15,1
+July,2024,Economic Offences,Economic Offences,668,crime_24.pdf,16,1
+June,2024,Economic Offences,Economic Offences,715,crime_24.pdf,16,1
+July,2023,Economic Offences,Economic Offences,833,crime_24.pdf,16,1
+July,2024,MMDR & KMMCR,MMDR Act,2,crime_24.pdf,17,1
+June,2024,MMDR & KMMCR,MMDR Act,10,crime_24.pdf,17,1
+July,2023,MMDR & KMMCR,MMDR Act,17,crime_24.pdf,17,1
+July,2024,MMDR & KMMCR,KMMC Rules,3,crime_24.pdf,17,1
+June,2024,MMDR & KMMCR,KMMC Rules,0,crime_24.pdf,17,1
+July,2023,MMDR & KMMCR,KMMC Rules,2,crime_24.pdf,17,1
+July,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1062,crime_24.pdf,18,1
+June,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1081,crime_24.pdf,18,1
+July,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1463,crime_24.pdf,18,1
+July,2024,NDPS Cases,NDPS Cases,354,crime_24.pdf,19,1
+June,2024,NDPS Cases,NDPS Cases,321,crime_24.pdf,19,1
+July,2023,NDPS Cases,NDPS Cases,819,crime_24.pdf,19,1
+August,2024,Murder,Murder for gain,5,crime_25.pdf,3,1
+July,2024,Murder,Murder for gain,1,crime_25.pdf,3,1
+August,2023,Murder,Murder for gain,2,crime_25.pdf,3,1
+August,2024,Murder,Other Murders,89,crime_25.pdf,3,1
+July,2024,Murder,Other Murders,91,crime_25.pdf,3,1
+August,2023,Murder,Other Murders,98,crime_25.pdf,3,1
+August,2024,Murder,Total Murder,94,crime_25.pdf,3,1
+July,2024,Murder,Total Murder,92,crime_25.pdf,3,1
+August,2023,Murder,Total Murder,100,crime_25.pdf,3,1
+August,2024,Dacoity,Dacoity Cases,14,crime_25.pdf,4,1
+July,2024,Dacoity,Dacoity Cases,19,crime_25.pdf,4,1
+August,2023,Dacoity,Dacoity Cases,20,crime_25.pdf,4,1
+August,2024,Robbery,Chain Snatching,54,crime_25.pdf,5,1
+July,2024,Robbery,Chain Snatching,49,crime_25.pdf,5,1
+August,2023,Robbery,Chain Snatching,44,crime_25.pdf,5,1
+August,2024,Robbery,Robbery (Except Chain Snatching),67,crime_25.pdf,5,1
+July,2024,Robbery,Robbery (Except Chain Snatching),72,crime_25.pdf,5,1
+August,2023,Robbery,Robbery (Except Chain Snatching),147,crime_25.pdf,5,1
+August,2024,Robbery,Total Robbery,121,crime_25.pdf,5,1
+July,2024,Robbery,Total Robbery,121,crime_25.pdf,5,1
+August,2023,Robbery,Total Robbery,191,crime_25.pdf,5,1
+August,2024,Burglary,Burglary Night,320,crime_25.pdf,6,1
+July,2024,Burglary,Burglary Night,431,crime_25.pdf,6,1
+August,2023,Burglary,Burglary Night,512,crime_25.pdf,6,1
+August,2024,Burglary,Burglary Day,109,crime_25.pdf,6,1
+July,2024,Burglary,Burglary Day,76,crime_25.pdf,6,1
+August,2023,Burglary,Burglary Day,135,crime_25.pdf,6,1
+August,2024,Burglary,Total,429,crime_25.pdf,6,1
+July,2024,Burglary,Total,507,crime_25.pdf,6,1
+August,2023,Burglary,Total,647,crime_25.pdf,6,1
+August,2024,Theft,Reported,1751,crime_25.pdf,7,1
+July,2024,Theft,Reported,1951,crime_25.pdf,7,1
+August,2023,Theft,Reported,2862,crime_25.pdf,7,1
+August,2024,Riots,Riots,230,crime_25.pdf,8,1
+July,2024,Riots,Riots,231,crime_25.pdf,8,1
+August,2023,Riots,Riots,333,crime_25.pdf,8,1
+August,2024,Hurt,Cases of Hurt,1246,crime_25.pdf,9,1
+July,2024,Hurt,Cases of Hurt,1166,crime_25.pdf,9,1
+August,2023,Hurt,Cases of Hurt,1630,crime_25.pdf,9,1
+August,2024,Special & Local Laws,Special & Local Laws,5026,crime_25.pdf,10,1
+July,2024,Special & Local Laws,Special & Local Laws,4986,crime_25.pdf,10,1
+August,2023,Special & Local Laws,Special & Local Laws,6748,crime_25.pdf,10,1
+August,2024,Crime against Women,Rape,54,crime_25.pdf,11,1
+July,2024,Crime against Women,Rape,57,crime_25.pdf,11,1
+August,2023,Crime against Women,Rape,54,crime_25.pdf,11,1
+August,2024,Crime against Women,Dowry Death,10,crime_25.pdf,11,1
+July,2024,Crime against Women,Dowry Death,8,crime_25.pdf,11,1
+August,2023,Crime against Women,Dowry Death,13,crime_25.pdf,11,1
+August,2024,POCSO,POCSO,296,crime_25.pdf,12,1
+July,2024,POCSO,POCSO,316,crime_25.pdf,12,1
+August,2023,POCSO,POCSO,399,crime_25.pdf,12,1
+August,2024,SC/ST POA Act,SC/ST POA Act,163,crime_25.pdf,13,1
+July,2024,SC/ST POA Act,SC/ST POA Act,167,crime_25.pdf,13,1
+August,2023,SC/ST POA Act,SC/ST POA Act,208,crime_25.pdf,13,1
+August,2024.0,Security Cases,Security Cases,1940,crime_25.pdf,14,1
+July,2024.0,Security Cases,Security Cases,222,crime_25.pdf,14,1
+August,2023.0,Security Cases,Security Cases,1706,crime_25.pdf,14,1
+August,2024.0,Security Cases,Total,2491,crime_25.pdf,14,1
+July,2024.0,Security Cases,Total,335,crime_25.pdf,14,1
+August,2023.0,Security Cases,Total,2818,crime_25.pdf,14,1
+August,2024,Cyber Crimes,Cyber Crimes,1774,crime_25.pdf,15,1
+July,2024,Cyber Crimes,Cyber Crimes,2062,crime_25.pdf,15,1
+August,2023,Cyber Crimes,Cyber Crimes,2202,crime_25.pdf,15,1
+August,2024,Economic Offences,Economic Offences,583,crime_25.pdf,16,1
+July,2024,Economic Offences,Economic Offences,666,crime_25.pdf,16,1
+August,2023,Economic Offences,Economic Offences,778,crime_25.pdf,16,1
+August,2024,MMDR & KMMCR,MMDR Act,3,crime_25.pdf,17,1
+July,2024,MMDR & KMMCR,MMDR Act,2,crime_25.pdf,17,1
+August,2023,MMDR & KMMCR,MMDR Act,15,crime_25.pdf,17,1
+August,2024,MMDR & KMMCR,KMMC Rules,2,crime_25.pdf,17,1
+July,2024,MMDR & KMMCR,KMMC Rules,3,crime_25.pdf,17,1
+August,2023,MMDR & KMMCR,KMMC Rules,5,crime_25.pdf,17,1
+August,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,942,crime_25.pdf,18,1
+July,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1066,crime_25.pdf,18,1
+August,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1506,crime_25.pdf,18,1
+August,2024,NDPS Cases,NDPS Cases,436,crime_25.pdf,19,1
+July,2024,NDPS Cases,NDPS Cases,354,crime_25.pdf,19,1
+August,2023,NDPS Cases,NDPS Cases,725,crime_25.pdf,19,1
+September,2024,Murder,Murder for gain,2,crime_26.pdf,3,1
+August,2024,Murder,Murder for gain,4,crime_26.pdf,3,1
+September,2023,Murder,Murder for gain,0,crime_26.pdf,3,1
+September,2024,Murder,Other Murders,91,crime_26.pdf,3,1
+August,2024,Murder,Other Murders,91,crime_26.pdf,3,1
+September,2023,Murder,Other Murders,91,crime_26.pdf,3,1
+September,2024,Murder,Total Murder,93,crime_26.pdf,3,1
+August,2024,Murder,Total Murder,95,crime_26.pdf,3,1
+September,2023,Murder,Total Murder,91,crime_26.pdf,3,1
+September,2024,Dacoity,Dacoity Cases,9,crime_26.pdf,4,1
+August,2024,Dacoity,Dacoity Cases,13,crime_26.pdf,4,1
+September,2023,Dacoity,Dacoity Cases,22,crime_26.pdf,4,1
+September,2024,Robbery,Chain Snatching,34,crime_26.pdf,5,1
+August,2024,Robbery,Chain Snatching,54,crime_26.pdf,5,1
+September,2023,Robbery,Chain Snatching,52,crime_26.pdf,5,1
+September,2024,Robbery,Robbery (Except Chain Snatching),60,crime_26.pdf,5,1
+August,2024,Robbery,Robbery (Except Chain Snatching),65,crime_26.pdf,5,1
+September,2023,Robbery,Robbery (Except Chain Snatching),117,crime_26.pdf,5,1
+September,2024,Robbery,Total Robbery,94,crime_26.pdf,5,1
+August,2024,Robbery,Total Robbery,119,crime_26.pdf,5,1
+September,2023,Robbery,Total Robbery,169,crime_26.pdf,5,1
+September,2024,Burglary,Burglary Night,280,crime_26.pdf,6,1
+August,2024,Burglary,Burglary Night,320,crime_26.pdf,6,1
+September,2023,Burglary,Burglary Night,415,crime_26.pdf,6,1
+September,2024,Burglary,Burglary Day,93,crime_26.pdf,6,1
+August,2024,Burglary,Burglary Day,109,crime_26.pdf,6,1
+September,2023,Burglary,Burglary Day,97,crime_26.pdf,6,1
+September,2024,Burglary,Total,373,crime_26.pdf,6,1
+August,2024,Burglary,Total,429,crime_26.pdf,6,1
+September,2023,Burglary,Total,512,crime_26.pdf,6,1
+September,2024,Theft,Reported,1759,crime_26.pdf,7,1
+August,2024,Theft,Reported,1803,crime_26.pdf,7,1
+September,2023,Theft,Reported,2248,crime_26.pdf,7,1
+September,2024,Riots,Riots,277,crime_26.pdf,8,1
+August,2024,Riots,Riots,228,crime_26.pdf,8,1
+September,2023,Riots,Riots,332,crime_26.pdf,8,1
+September,2024,Hurt,Cases of Hurt,1315,crime_26.pdf,9,1
+August,2024,Hurt,Cases of Hurt,1246,crime_26.pdf,9,1
+September,2023,Hurt,Cases of Hurt,1593,crime_26.pdf,9,1
+September,2024,Special & Local Laws,Special & Local Laws,4448,crime_26.pdf,10,1
+August,2024,Special & Local Laws,Special & Local Laws,5078,crime_26.pdf,10,1
+September,2023,Special & Local Laws,Special & Local Laws,6024,crime_26.pdf,10,1
+September,2024,Crime against Women,Rape,52,crime_26.pdf,11,1
+August,2024,Crime against Women,Rape,51,crime_26.pdf,11,1
+September,2023,Crime against Women,Rape,49,crime_26.pdf,11,1
+September,2024,Crime against Women,Dowry Death,13,crime_26.pdf,11,1
+August,2024,Crime against Women,Dowry Death,10,crime_26.pdf,11,1
+September,2023,Crime against Women,Dowry Death,23,crime_26.pdf,11,1
+September,2024,POCSO,POCSO,286,crime_26.pdf,12,1
+August,2024,POCSO,POCSO,336,crime_26.pdf,12,1
+September,2023,POCSO,POCSO,322,crime_26.pdf,12,1
+September,2024,SC/ST POA Act,SC/ST POA Act,178,crime_26.pdf,13,1
+August,2024,SC/ST POA Act,SC/ST POA Act,172,crime_26.pdf,13,1
+September,2023,SC/ST POA Act,SC/ST POA Act,204,crime_26.pdf,13,1
+September,2024.0,Security Cases,Security Cases,1797,crime_26.pdf,14,1
+August,2024.0,Security Cases,Security Cases,1940,crime_26.pdf,14,1
+September,2023.0,Security Cases,Security Cases,3183,crime_26.pdf,14,1
+September,2024.0,Security Cases,Total,2155,crime_26.pdf,14,1
+August,2024.0,Security Cases,Total,2491,crime_26.pdf,14,1
+September,2023.0,Security Cases,Total,4968,crime_26.pdf,14,1
+September,2024,Cyber Crimes,Cyber Crimes,1688,crime_26.pdf,15,1
+August,2024,Cyber Crimes,Cyber Crimes,1774,crime_26.pdf,15,1
+September,2023,Cyber Crimes,Cyber Crimes,2021,crime_26.pdf,15,1
+September,2024,Economic Offences,Economic Offences,578,crime_26.pdf,16,1
+August,2024,Economic Offences,Economic Offences,580,crime_26.pdf,16,1
+September,2023,Economic Offences,Economic Offences,675,crime_26.pdf,16,1
+September,2024,MMDR & KMMCR,MMDR Act,2,crime_26.pdf,17,1
+August,2024,MMDR & KMMCR,MMDR Act,3,crime_26.pdf,17,1
+September,2023,MMDR & KMMCR,MMDR Act,15,crime_26.pdf,17,1
+September,2024,MMDR & KMMCR,KMMC Rules,1,crime_26.pdf,17,1
+August,2024,MMDR & KMMCR,KMMC Rules,2,crime_26.pdf,17,1
+September,2023,MMDR & KMMCR,KMMC Rules,2,crime_26.pdf,17,1
+September,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,876,crime_26.pdf,18,1
+August,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,941,crime_26.pdf,18,1
+September,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1158,crime_26.pdf,18,1
+September,2024,NDPS Cases,NDPS Cases,339,crime_26.pdf,19,1
+August,2024,NDPS Cases,NDPS Cases,436,crime_26.pdf,19,1
+September,2023,NDPS Cases,NDPS Cases,506,crime_26.pdf,19,1
+October,2024,Murder,Murder for gain,3,crime_27.pdf,3,1
+September,2024,Murder,Murder for gain,2,crime_27.pdf,3,1
+October,2023,Murder,Murder for gain,0,crime_27.pdf,3,1
+October,2024,Murder,Other Murders,94,crime_27.pdf,3,1
+September,2024,Murder,Other Murders,93,crime_27.pdf,3,1
+October,2023,Murder,Other Murders,115,crime_27.pdf,3,1
+October,2024,Murder,Total Murder,97,crime_27.pdf,3,1
+September,2024,Murder,Total Murder,95,crime_27.pdf,3,1
+October,2023,Murder,Total Murder,115,crime_27.pdf,3,1
+October,2024,Dacoity,Dacoity Cases,9,crime_27.pdf,4,1
+September,2024,Dacoity,Dacoity Cases,10,crime_27.pdf,4,1
+October,2023,Dacoity,Dacoity Cases,14,crime_27.pdf,4,1
+October,2024,Robbery,Chain Snatching,32,crime_27.pdf,5,1
+September,2024,Robbery,Chain Snatching,37,crime_27.pdf,5,1
+October,2023,Robbery,Chain Snatching,64,crime_27.pdf,5,1
+October,2024,Robbery,Robbery (Except Chain Snatching),61,crime_27.pdf,5,1
+September,2024,Robbery,Robbery (Except Chain Snatching),57,crime_27.pdf,5,1
+October,2023,Robbery,Robbery (Except Chain Snatching),111,crime_27.pdf,5,1
+October,2024,Robbery,Total Robbery,93,crime_27.pdf,5,1
+September,2024,Robbery,Total Robbery,94,crime_27.pdf,5,1
+October,2023,Robbery,Total Robbery,175,crime_27.pdf,5,1
+October,2024,Burglary,Burglary Night,387,crime_27.pdf,6,1
+September,2024,Burglary,Burglary Night,283,crime_27.pdf,6,1
+October,2023,Burglary,Burglary Night,460,crime_27.pdf,6,1
+October,2024,Burglary,Burglary Day,97,crime_27.pdf,6,1
+September,2024,Burglary,Burglary Day,94,crime_27.pdf,6,1
+October,2023,Burglary,Burglary Day,85,crime_27.pdf,6,1
+October,2024,Burglary,Total,484,crime_27.pdf,6,1
+September,2024,Burglary,Total,377,crime_27.pdf,6,1
+October,2023,Burglary,Total,545,crime_27.pdf,6,1
+October,2024,Theft,Reported,1769,crime_27.pdf,7,1
+September,2024,Theft,Reported,1756,crime_27.pdf,7,1
+October,2023,Theft,Reported,2387,crime_27.pdf,7,1
+October,2024,Riots,Riots,201,crime_27.pdf,8,1
+September,2024,Riots,Riots,280,crime_27.pdf,8,1
+October,2023,Riots,Riots,339,crime_27.pdf,8,1
+October,2024,Hurt,Cases of Hurt,1276,crime_27.pdf,9,1
+September,2024,Hurt,Cases of Hurt,1312,crime_27.pdf,9,1
+October,2023,Hurt,Cases of Hurt,1514,crime_27.pdf,9,1
+October,2024,Special & Local Laws,Special & Local Laws,4270,crime_27.pdf,10,1
+September,2024,Special & Local Laws,Special & Local Laws,4478,crime_27.pdf,10,1
+October,2023,Special & Local Laws,Special & Local Laws,5286,crime_27.pdf,10,1
+October,2024,Crime against Women,Rape,51,crime_27.pdf,11,1
+September,2024,Crime against Women,Rape,51,crime_27.pdf,11,1
+October,2023,Crime against Women,Rape,54,crime_27.pdf,11,1
+October,2024,Crime against Women,Dowry Death,9,crime_27.pdf,11,1
+September,2024,Crime against Women,Dowry Death,14,crime_27.pdf,11,1
+October,2023,Crime against Women,Dowry Death,14,crime_27.pdf,11,1
+October,2024,POCSO,POCSO,209,crime_27.pdf,12,1
+September,2024,POCSO,POCSO,314,crime_27.pdf,12,1
+October,2023,POCSO,POCSO,307,crime_27.pdf,12,1
+October,2024,SC/ST POA Act,SC/ST POA Act,159,crime_27.pdf,13,1
+September,2024,SC/ST POA Act,SC/ST POA Act,183,crime_27.pdf,13,1
+October,2023,SC/ST POA Act,SC/ST POA Act,207,crime_27.pdf,13,1
+October,2024.0,Security Cases,Security Cases,1310,crime_27.pdf,14,1
+September,2024.0,Security Cases,Security Cases,1797,crime_27.pdf,14,1
+October,2023.0,Security Cases,Security Cases,1266,crime_27.pdf,14,1
+October,2024.0,Security Cases,Total,2447,crime_27.pdf,14,1
+September,2024.0,Security Cases,Total,2155,crime_27.pdf,14,1
+October,2023.0,Security Cases,Total,3004,crime_27.pdf,14,1
+October,2024,Cyber Crimes,Cyber Crimes,1641,crime_27.pdf,15,1
+September,2024,Cyber Crimes,Cyber Crimes,1686,crime_27.pdf,15,1
+October,2023,Cyber Crimes,Cyber Crimes,2129,crime_27.pdf,15,1
+October,2024,Economic Offences,Economic Offences,523,crime_27.pdf,16,1
+September,2024,Economic Offences,Economic Offences,578,crime_27.pdf,16,1
+October,2023,Economic Offences,Economic Offences,701,crime_27.pdf,16,1
+October,2024,MMDR & KMMCR,MMDR Act,10,crime_27.pdf,17,1
+September,2024,MMDR & KMMCR,MMDR Act,2,crime_27.pdf,17,1
+October,2023,MMDR & KMMCR,MMDR Act,17,crime_27.pdf,17,1
+October,2024,MMDR & KMMCR,KMMC Rules,2,crime_27.pdf,17,1
+September,2024,MMDR & KMMCR,KMMC Rules,1,crime_27.pdf,17,1
+October,2023,MMDR & KMMCR,KMMC Rules,3,crime_27.pdf,17,1
+October,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,839,crime_27.pdf,18,1
+September,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,880,crime_27.pdf,18,1
+October,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1225,crime_27.pdf,18,1
+October,2024,NDPS Cases,NDPS Cases,274,crime_27.pdf,19,1
+September,2024,NDPS Cases,NDPS Cases,339,crime_27.pdf,19,1
+October,2023,NDPS Cases,NDPS Cases,225,crime_27.pdf,19,1
+November,2024,Murder,Murder for gain,4,crime_28.pdf,3,1
+October,2024,Murder,Murder for gain,3,crime_28.pdf,3,1
+November,2023,Murder,Murder for gain,4,crime_28.pdf,3,1
+November,2024,Murder,Other Murders,98,crime_28.pdf,3,1
+October,2024,Murder,Other Murders,96,crime_28.pdf,3,1
+November,2023,Murder,Other Murders,92,crime_28.pdf,3,1
+November,2024,Murder,Total Murder,102,crime_28.pdf,3,1
+October,2024,Murder,Total Murder,99,crime_28.pdf,3,1
+November,2023,Murder,Total Murder,96,crime_28.pdf,3,1
+November,2024,Dacoity,Dacoity Cases,9,crime_28.pdf,4,1
+October,2024,Dacoity,Dacoity Cases,9,crime_28.pdf,4,1
+November,2023,Dacoity,Dacoity Cases,14,crime_28.pdf,4,1
+November,2024,Robbery,Chain Snatching,40,crime_28.pdf,5,1
+October,2024,Robbery,Chain Snatching,33,crime_28.pdf,5,1
+November,2023,Robbery,Chain Snatching,54,crime_28.pdf,5,1
+November,2024,Robbery,Robbery (Except Chain Snatching),44,crime_28.pdf,5,1
+October,2024,Robbery,Robbery (Except Chain Snatching),59,crime_28.pdf,5,1
+November,2023,Robbery,Robbery (Except Chain Snatching),102,crime_28.pdf,5,1
+November,2024,Robbery,Total Robbery,84,crime_28.pdf,5,1
+October,2024,Robbery,Total Robbery,92,crime_28.pdf,5,1
+November,2023,Robbery,Total Robbery,156,crime_28.pdf,5,1
+November,2024,Burglary,Burglary Night,332,crime_28.pdf,6,1
+October,2024,Burglary,Burglary Night,388,crime_28.pdf,6,1
+November,2023,Burglary,Burglary Night,387,crime_28.pdf,6,1
+November,2024,Burglary,Burglary Day,89,crime_28.pdf,6,1
+October,2024,Burglary,Burglary Day,100,crime_28.pdf,6,1
+November,2023,Burglary,Burglary Day,92,crime_28.pdf,6,1
+November,2024,Burglary,Total,421,crime_28.pdf,6,1
+October,2024,Burglary,Total,488,crime_28.pdf,6,1
+November,2023,Burglary,Total,479,crime_28.pdf,6,1
+November,2024,Theft,Reported,1665,crime_28.pdf,7,1
+October,2024,Theft,Reported,1768,crime_28.pdf,7,1
+November,2023,Theft,Reported,2108,crime_28.pdf,7,1
+November,2024,Riots,Riots,219,crime_28.pdf,8,1
+October,2024,Riots,Riots,199,crime_28.pdf,8,1
+November,2023,Riots,Riots,293,crime_28.pdf,8,1
+November,2024,Hurt,Cases of Hurt,1228,crime_28.pdf,9,1
+October,2024,Hurt,Cases of Hurt,1276,crime_28.pdf,9,1
+November,2023,Hurt,Cases of Hurt,1360,crime_28.pdf,9,1
+November,2024,Special & Local Laws,Special & Local Laws,5620,crime_28.pdf,10,1
+October,2024,Special & Local Laws,Special & Local Laws,4321,crime_28.pdf,10,1
+November,2023,Special & Local Laws,Special & Local Laws,5689,crime_28.pdf,10,1
+November,2024,Crime against Women,Rape,46,crime_28.pdf,11,1
+October,2024,Crime against Women,Rape,50,crime_28.pdf,11,1
+November,2023,Crime against Women,Rape,52,crime_28.pdf,11,1
+November,2024,Crime against Women,Dowry Death,5,crime_28.pdf,11,1
+October,2024,Crime against Women,Dowry Death,9,crime_28.pdf,11,1
+November,2023,Crime against Women,Dowry Death,15,crime_28.pdf,11,1
+November,2024,POCSO,POCSO,260,crime_28.pdf,12,1
+October,2024,POCSO,POCSO,237,crime_28.pdf,12,1
+November,2023,POCSO,POCSO,321,crime_28.pdf,12,1
+November,2024,SC/ST POA Act,SC/ST POA Act,151,crime_28.pdf,13,1
+October,2024,SC/ST POA Act,SC/ST POA Act,164,crime_28.pdf,13,1
+November,2023,SC/ST POA Act,SC/ST POA Act,164,crime_28.pdf,13,1
+November,2024.0,Security Cases,Security Cases,1057,crime_28.pdf,14,1
+October,2024.0,Security Cases,Security Cases,1310,crime_28.pdf,14,1
+November,2023.0,Security Cases,Security Cases,2320,crime_28.pdf,14,1
+November,2024.0,Security Cases,Total,1875,crime_28.pdf,14,1
+October,2024.0,Security Cases,Total,2447,crime_28.pdf,14,1
+November,2023.0,Security Cases,Total,5951,crime_28.pdf,14,1
+November,2024,Cyber Crimes,Cyber Crimes,1568,crime_28.pdf,15,1
+October,2024,Cyber Crimes,Cyber Crimes,1643,crime_28.pdf,15,1
+November,2023,Cyber Crimes,Cyber Crimes,2067,crime_28.pdf,15,1
+November,2024,Economic Offences,Economic Offences,506,crime_28.pdf,16,1
+October,2024,Economic Offences,Economic Offences,521,crime_28.pdf,16,1
+November,2023,Economic Offences,Economic Offences,608,crime_28.pdf,16,1
+November,2024,MMDR & KMMCR,MMDR Act,9,crime_28.pdf,17,1
+October,2024,MMDR & KMMCR,MMDR Act,9,crime_28.pdf,17,1
+November,2023,MMDR & KMMCR,MMDR Act,8,crime_28.pdf,17,1
+November,2024,MMDR & KMMCR,KMMC Rules,1,crime_28.pdf,17,1
+October,2024,MMDR & KMMCR,KMMC Rules,2,crime_28.pdf,17,1
+November,2023,MMDR & KMMCR,KMMC Rules,3,crime_28.pdf,17,1
+November,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,777,crime_28.pdf,18,1
+October,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,839,crime_28.pdf,18,1
+November,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1104,crime_28.pdf,18,1
+November,2024,NDPS Cases,NDPS Cases,424,crime_28.pdf,19,1
+October,2024,NDPS Cases,NDPS Cases,274,crime_28.pdf,19,1
+November,2023,NDPS Cases,NDPS Cases,311,crime_28.pdf,19,1
+November,2024,Murder,Murder for gain,4,crime_29.pdf,3,1
+October,2024,Murder,Murder for gain,3,crime_29.pdf,3,1
+November,2023,Murder,Murder for gain,4,crime_29.pdf,3,1
+November,2024,Murder,Other Murders,98,crime_29.pdf,3,1
+October,2024,Murder,Other Murders,96,crime_29.pdf,3,1
+November,2023,Murder,Other Murders,92,crime_29.pdf,3,1
+November,2024,Murder,Total Murder,102,crime_29.pdf,3,1
+October,2024,Murder,Total Murder,99,crime_29.pdf,3,1
+November,2023,Murder,Total Murder,96,crime_29.pdf,3,1
+November,2024,Dacoity,Dacoity Cases,9,crime_29.pdf,4,1
+October,2024,Dacoity,Dacoity Cases,9,crime_29.pdf,4,1
+November,2023,Dacoity,Dacoity Cases,14,crime_29.pdf,4,1
+November,2024,Robbery,Chain Snatching,40,crime_29.pdf,5,1
+October,2024,Robbery,Chain Snatching,33,crime_29.pdf,5,1
+November,2023,Robbery,Chain Snatching,54,crime_29.pdf,5,1
+November,2024,Robbery,Robbery (Except Chain Snatching),44,crime_29.pdf,5,1
+October,2024,Robbery,Robbery (Except Chain Snatching),59,crime_29.pdf,5,1
+November,2023,Robbery,Robbery (Except Chain Snatching),102,crime_29.pdf,5,1
+November,2024,Robbery,Total Robbery,84,crime_29.pdf,5,1
+October,2024,Robbery,Total Robbery,92,crime_29.pdf,5,1
+November,2023,Robbery,Total Robbery,156,crime_29.pdf,5,1
+November,2024,Burglary,Burglary Night,332,crime_29.pdf,6,1
+October,2024,Burglary,Burglary Night,388,crime_29.pdf,6,1
+November,2023,Burglary,Burglary Night,387,crime_29.pdf,6,1
+November,2024,Burglary,Burglary Day,89,crime_29.pdf,6,1
+October,2024,Burglary,Burglary Day,100,crime_29.pdf,6,1
+November,2023,Burglary,Burglary Day,92,crime_29.pdf,6,1
+November,2024,Burglary,Total,421,crime_29.pdf,6,1
+October,2024,Burglary,Total,488,crime_29.pdf,6,1
+November,2023,Burglary,Total,479,crime_29.pdf,6,1
+November,2024,Theft,Reported,1665,crime_29.pdf,7,1
+October,2024,Theft,Reported,1768,crime_29.pdf,7,1
+November,2023,Theft,Reported,2108,crime_29.pdf,7,1
+November,2024,Riots,Riots,219,crime_29.pdf,8,1
+October,2024,Riots,Riots,199,crime_29.pdf,8,1
+November,2023,Riots,Riots,293,crime_29.pdf,8,1
+November,2024,Hurt,Cases of Hurt,1228,crime_29.pdf,9,1
+October,2024,Hurt,Cases of Hurt,1276,crime_29.pdf,9,1
+November,2023,Hurt,Cases of Hurt,1360,crime_29.pdf,9,1
+November,2024,Special & Local Laws,Special & Local Laws,5620,crime_29.pdf,10,1
+October,2024,Special & Local Laws,Special & Local Laws,4321,crime_29.pdf,10,1
+November,2023,Special & Local Laws,Special & Local Laws,5689,crime_29.pdf,10,1
+November,2024,Crime against Women,Rape,46,crime_29.pdf,11,1
+October,2024,Crime against Women,Rape,50,crime_29.pdf,11,1
+November,2023,Crime against Women,Rape,52,crime_29.pdf,11,1
+November,2024,Crime against Women,Dowry Death,5,crime_29.pdf,11,1
+October,2024,Crime against Women,Dowry Death,9,crime_29.pdf,11,1
+November,2023,Crime against Women,Dowry Death,15,crime_29.pdf,11,1
+November,2024,POCSO,POCSO,260,crime_29.pdf,12,1
+October,2024,POCSO,POCSO,237,crime_29.pdf,12,1
+November,2023,POCSO,POCSO,321,crime_29.pdf,12,1
+November,2024,SC/ST POA Act,SC/ST POA Act,151,crime_29.pdf,13,1
+October,2024,SC/ST POA Act,SC/ST POA Act,164,crime_29.pdf,13,1
+November,2023,SC/ST POA Act,SC/ST POA Act,164,crime_29.pdf,13,1
+November,2024.0,Security Cases,Security Cases,1057,crime_29.pdf,14,1
+October,2024.0,Security Cases,Security Cases,1310,crime_29.pdf,14,1
+November,2023.0,Security Cases,Security Cases,2320,crime_29.pdf,14,1
+November,2024.0,Security Cases,Total,1875,crime_29.pdf,14,1
+October,2024.0,Security Cases,Total,2447,crime_29.pdf,14,1
+November,2023.0,Security Cases,Total,5951,crime_29.pdf,14,1
+November,2024,Cyber Crimes,Cyber Crimes,1568,crime_29.pdf,15,1
+October,2024,Cyber Crimes,Cyber Crimes,1643,crime_29.pdf,15,1
+November,2023,Cyber Crimes,Cyber Crimes,2067,crime_29.pdf,15,1
+November,2024,Economic Offences,Economic Offences,506,crime_29.pdf,16,1
+October,2024,Economic Offences,Economic Offences,521,crime_29.pdf,16,1
+November,2023,Economic Offences,Economic Offences,608,crime_29.pdf,16,1
+November,2024,MMDR & KMMCR,MMDR Act,9,crime_29.pdf,17,1
+October,2024,MMDR & KMMCR,MMDR Act,9,crime_29.pdf,17,1
+November,2023,MMDR & KMMCR,MMDR Act,8,crime_29.pdf,17,1
+November,2024,MMDR & KMMCR,KMMC Rules,1,crime_29.pdf,17,1
+October,2024,MMDR & KMMCR,KMMC Rules,2,crime_29.pdf,17,1
+November,2023,MMDR & KMMCR,KMMC Rules,3,crime_29.pdf,17,1
+November,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,777,crime_29.pdf,18,1
+October,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,839,crime_29.pdf,18,1
+November,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1104,crime_29.pdf,18,1
+November,2024,NDPS Cases,NDPS Cases,424,crime_29.pdf,19,1
+October,2024,NDPS Cases,NDPS Cases,274,crime_29.pdf,19,1
+November,2023,NDPS Cases,NDPS Cases,311,crime_29.pdf,19,1
+February,2026,Murder,Murder for gain,3,crime_2.pdf,3,1
+January,2026,Murder,Murder for gain,5,crime_2.pdf,3,1
+February,2025,Murder,Murder for gain,3,crime_2.pdf,3,1
+February,2026,Murder,Other Murders,70,crime_2.pdf,3,1
+January,2026,Murder,Other Murders,95,crime_2.pdf,3,1
+February,2025,Murder,Other Murders,99,crime_2.pdf,3,1
+February,2026,Murder,Total Murder,73,crime_2.pdf,3,1
+January,2026,Murder,Total Murder,100,crime_2.pdf,3,1
+February,2025,Murder,Total Murder,102,crime_2.pdf,3,1
+February,2026,Dacoity,Dacoity Cases,14,crime_2.pdf,4,1
+January,2026,Dacoity,Dacoity Cases,6,crime_2.pdf,4,1
+February,2025,Dacoity,Dacoity Cases,9,crime_2.pdf,4,1
+February,2026,Robbery,Chain Snatching,33,crime_2.pdf,5,1
+January,2026,Robbery,Chain Snatching,27,crime_2.pdf,5,1
+February,2025,Robbery,Chain Snatching,37,crime_2.pdf,5,1
+February,2026,Robbery,Robbery (Except Chain Snatching),53,crime_2.pdf,5,1
+January,2026,Robbery,Robbery (Except Chain Snatching),64,crime_2.pdf,5,1
+February,2025,Robbery,Robbery (Except Chain Snatching),43,crime_2.pdf,5,1
+February,2026,Robbery,Total Robbery,86,crime_2.pdf,5,1
+January,2026,Robbery,Total Robbery,91,crime_2.pdf,5,1
+February,2025,Robbery,Total Robbery,80,crime_2.pdf,5,1
+February,2026,Burglary,Burglary Night,291,crime_2.pdf,6,1
+January,2026,Burglary,Burglary Night,355,crime_2.pdf,6,1
+February,2025,Burglary,Burglary Night,316,crime_2.pdf,6,1
+February,2026,Burglary,Burglary Day,89,crime_2.pdf,6,1
+January,2026,Burglary,Burglary Day,86,crime_2.pdf,6,1
+February,2025,Burglary,Burglary Day,72,crime_2.pdf,6,1
+February,2026,Burglary,Total,380,crime_2.pdf,6,1
+January,2026,Burglary,Total,441,crime_2.pdf,6,1
+February,2025,Burglary,Total,388,crime_2.pdf,6,1
+February,2026,Theft,Reported,1637,crime_2.pdf,7,1
+January,2026,Theft,Reported,1745,crime_2.pdf,7,1
+February,2025,Theft,Reported,1636,crime_2.pdf,7,1
+February,2026,Riots,Riots,268,crime_2.pdf,8,1
+January,2026,Riots,Riots,318,crime_2.pdf,8,1
+February,2025,Riots,Riots,273,crime_2.pdf,8,1
+February,2026,Hurt,Cases of Hurt,1418,crime_2.pdf,9,1
+January,2026,Hurt,Cases of Hurt,1445,crime_2.pdf,9,1
+February,2025,Hurt,Cases of Hurt,1217,crime_2.pdf,9,1
+February,2026,Special & Local Laws,Special & Local Laws,5304,crime_2.pdf,10,1
+January,2026,Special & Local Laws,Special & Local Laws,5930,crime_2.pdf,10,1
+February,2025,Special & Local Laws,Special & Local Laws,4308,crime_2.pdf,10,1
+February,2026,Crime against Women,Rape,41,crime_2.pdf,11,1
+January,2026,Crime against Women,Rape,45,crime_2.pdf,11,1
+February,2025,Crime against Women,Rape,60,crime_2.pdf,11,1
+February,2026,Crime against Women,Dowry Death,5,crime_2.pdf,11,1
+January,2026,Crime against Women,Dowry Death,12,crime_2.pdf,11,1
+February,2025,Crime against Women,Dowry Death,9,crime_2.pdf,11,1
+February,2026,POCSO,POCSO,341,crime_2.pdf,12,1
+January,2026,POCSO,POCSO,361,crime_2.pdf,12,1
+February,2025,POCSO,POCSO,348,crime_2.pdf,12,1
+February,2026,SC/ST POA Act,SC/ST POA Act,203,crime_2.pdf,13,1
+January,2026,SC/ST POA Act,SC/ST POA Act,225,crime_2.pdf,13,1
+February,2025,SC/ST POA Act,SC/ST POA Act,185,crime_2.pdf,13,1
+February,2026.0,Security Cases,Security Cases,1522,crime_2.pdf,14,1
+January,2026.0,Security Cases,Security Cases,1369,crime_2.pdf,14,1
+February,2025.0,Security Cases,Security Cases,1469,crime_2.pdf,14,1
+February,2026.0,Security Cases,Total,3155,crime_2.pdf,14,1
+January,2026.0,Security Cases,Total,2353,crime_2.pdf,14,1
+February,2025.0,Security Cases,Total,3199,crime_2.pdf,14,1
+February,2026,Cyber Crimes,Cyber Crimes,1028,crime_2.pdf,15,1
+January,2026,Cyber Crimes,Cyber Crimes,1259,crime_2.pdf,15,1
+February,2025,Cyber Crimes,Cyber Crimes,1181,crime_2.pdf,15,1
+February,2026,Economic Offences,Economic Offences,633,crime_2.pdf,16,1
+January,2026,Economic Offences,Economic Offences,471,crime_2.pdf,16,1
+February,2025,Economic Offences,Economic Offences,510,crime_2.pdf,16,1
+February,2026,MMDR & KMMCR,MMDR Act,0,crime_2.pdf,17,1
+January,2026,MMDR & KMMCR,MMDR Act,11,crime_2.pdf,17,1
+February,2025,MMDR & KMMCR,MMDR Act,4,crime_2.pdf,17,1
+February,2026,MMDR & KMMCR,KMMC Rules,1,crime_2.pdf,17,1
+January,2026,MMDR & KMMCR,KMMC Rules,0,crime_2.pdf,17,1
+February,2025,MMDR & KMMCR,KMMC Rules,3,crime_2.pdf,17,1
+February,2026,Motor Vehicles Theft,Motor Vehicles Theft Cases,683,crime_2.pdf,18,1
+January,2026,Motor Vehicles Theft,Motor Vehicles Theft Cases,766,crime_2.pdf,18,1
+February,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,739,crime_2.pdf,18,1
+February,2026,NDPS Cases,NDPS Cases,980,crime_2.pdf,19,1
+January,2026,NDPS Cases,NDPS Cases,1398,crime_2.pdf,19,1
+February,2025,NDPS Cases,NDPS Cases,416,crime_2.pdf,19,1
+December,2024,Murder,Murder for gain,7,crime_30.pdf,3,1
+November,2024,Murder,Murder for gain,4,crime_30.pdf,3,1
+December,2023,Murder,Murder for gain,6,crime_30.pdf,3,1
+December,2024,Murder,Other Murders,88,crime_30.pdf,3,1
+November,2024,Murder,Other Murders,103,crime_30.pdf,3,1
+December,2023,Murder,Other Murders,116,crime_30.pdf,3,1
+December,2024,Murder,Total Murder,95,crime_30.pdf,3,1
+November,2024,Murder,Total Murder,107,crime_30.pdf,3,1
+December,2023,Murder,Total Murder,122,crime_30.pdf,3,1
+December,2024,Dacoity,Dacoity Cases,12,crime_30.pdf,4,1
+November,2024,Dacoity,Dacoity Cases,9,crime_30.pdf,4,1
+December,2023,Dacoity,Dacoity Cases,19,crime_30.pdf,4,1
+December,2024,Robbery,Chain Snatching,40,crime_30.pdf,5,1
+November,2024,Robbery,Chain Snatching,40,crime_30.pdf,5,1
+December,2023,Robbery,Chain Snatching,71,crime_30.pdf,5,1
+December,2024,Robbery,Robbery (Except Chain Snatching),56,crime_30.pdf,5,1
+November,2024,Robbery,Robbery (Except Chain Snatching),42,crime_30.pdf,5,1
+December,2023,Robbery,Robbery (Except Chain Snatching),119,crime_30.pdf,5,1
+December,2024,Robbery,Total Robbery,96,crime_30.pdf,5,1
+November,2024,Robbery,Total Robbery,82,crime_30.pdf,5,1
+December,2023,Robbery,Total Robbery,190,crime_30.pdf,5,1
+December,2024,Burglary,Burglary Night,333,crime_30.pdf,6,1
+November,2024,Burglary,Burglary Night,334,crime_30.pdf,6,1
+December,2023,Burglary,Burglary Night,443,crime_30.pdf,6,1
+December,2024,Burglary,Burglary Day,94,crime_30.pdf,6,1
+November,2024,Burglary,Burglary Day,91,crime_30.pdf,6,1
+December,2023,Burglary,Burglary Day,110,crime_30.pdf,6,1
+December,2024,Burglary,Total,427,crime_30.pdf,6,1
+November,2024,Burglary,Total,425,crime_30.pdf,6,1
+December,2023,Burglary,Total,553,crime_30.pdf,6,1
+December,2024,Theft,Reported,1890,crime_30.pdf,7,1
+November,2024,Theft,Reported,1667,crime_30.pdf,7,1
+December,2023,Theft,Reported,2231,crime_30.pdf,7,1
+December,2024,Riots,Riots,246,crime_30.pdf,8,1
+November,2024,Riots,Riots,219,crime_30.pdf,8,1
+December,2023,Riots,Riots,299,crime_30.pdf,8,1
+December,2024,Hurt,Cases of Hurt,1300,crime_30.pdf,9,1
+November,2024,Hurt,Cases of Hurt,1230,crime_30.pdf,9,1
+December,2023,Hurt,Cases of Hurt,1405,crime_30.pdf,9,1
+December,2024,Special & Local Laws,Special & Local Laws,6274,crime_30.pdf,10,1
+November,2024,Special & Local Laws,Special & Local Laws,5666,crime_30.pdf,10,1
+December,2023,Special & Local Laws,Special & Local Laws,5342,crime_30.pdf,10,1
+December,2024,Crime against Women,Rape,50,crime_30.pdf,11,1
+November,2024,Crime against Women,Rape,45,crime_30.pdf,11,1
+December,2023,Crime against Women,Rape,56,crime_30.pdf,11,1
+December,2024,Crime against Women,Dowry Death,4,crime_30.pdf,11,1
+November,2024,Crime against Women,Dowry Death,5,crime_30.pdf,11,1
+December,2023,Crime against Women,Dowry Death,7,crime_30.pdf,11,1
+December,2024,POCSO,POCSO,279,crime_30.pdf,12,1
+November,2024,POCSO,POCSO,296,crime_30.pdf,12,1
+December,2023,POCSO,POCSO,427,crime_30.pdf,12,1
+December,2024,SC/ST POA Act,SC/ST POA Act,169,crime_30.pdf,13,1
+November,2024,SC/ST POA Act,SC/ST POA Act,154,crime_30.pdf,13,1
+December,2023,SC/ST POA Act,SC/ST POA Act,193,crime_30.pdf,13,1
+December,2024.0,Security Cases,Security Cases,1195,crime_30.pdf,14,1
+November,2024.0,Security Cases,Security Cases,1057,crime_30.pdf,14,1
+December,2023.0,Security Cases,Security Cases,1293,crime_30.pdf,14,1
+December,2024.0,Security Cases,Total,1933,crime_30.pdf,14,1
+November,2024.0,Security Cases,Total,1875,crime_30.pdf,14,1
+December,2023.0,Security Cases,Total,2376,crime_30.pdf,14,1
+December,2024,Cyber Crimes,Cyber Crimes,1492,crime_30.pdf,15,1
+November,2024,Cyber Crimes,Cyber Crimes,1569,crime_30.pdf,15,1
+December,2023,Cyber Crimes,Cyber Crimes,2036,crime_30.pdf,15,1
+December,2024,Economic Offences,Economic Offences,616,crime_30.pdf,16,1
+November,2024,Economic Offences,Economic Offences,505,crime_30.pdf,16,1
+December,2023,Economic Offences,Economic Offences,720,crime_30.pdf,16,1
+December,2024,MMDR & KMMCR,MMDR Act,6,crime_30.pdf,17,1
+November,2024,MMDR & KMMCR,MMDR Act,9,crime_30.pdf,17,1
+December,2023,MMDR & KMMCR,MMDR Act,4,crime_30.pdf,17,1
+December,2024,MMDR & KMMCR,KMMC Rules,1,crime_30.pdf,17,1
+November,2024,MMDR & KMMCR,KMMC Rules,1,crime_30.pdf,17,1
+December,2023,MMDR & KMMCR,KMMC Rules,7,crime_30.pdf,17,1
+December,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,923,crime_30.pdf,18,1
+November,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,778,crime_30.pdf,18,1
+December,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1134,crime_30.pdf,18,1
+December,2024,NDPS Cases,NDPS Cases,651,crime_30.pdf,19,1
+November,2024,NDPS Cases,NDPS Cases,424,crime_30.pdf,19,1
+December,2023,NDPS Cases,NDPS Cases,513,crime_30.pdf,19,1
+January,2023,Murder,Murder for gain,1,crime_31.pdf,3,1
+December,2022,Murder,Murder for gain,4,crime_31.pdf,3,1
+January,2022,Murder,Murder for gain,7,crime_31.pdf,3,1
+January,2023,Murder,Other Murders,103,crime_31.pdf,3,1
+December,2022,Murder,Other Murders,104,crime_31.pdf,3,1
+January,2022,Murder,Other Murders,106,crime_31.pdf,3,1
+January,2023,Murder,Total Murder,104,crime_31.pdf,3,1
+December,2022,Murder,Total Murder,108,crime_31.pdf,3,1
+January,2022,Murder,Total Murder,113,crime_31.pdf,3,1
+January,2023,Dacoity,Dacoity Cases,11,crime_31.pdf,4,1
+December,2022,Dacoity,Dacoity Cases,15,crime_31.pdf,4,1
+January,2022,Dacoity,Dacoity Cases,19,crime_31.pdf,4,1
+January,2023,Robbery,Chain Snatching,54,crime_31.pdf,5,1
+December,2022,Robbery,Chain Snatching,51,crime_31.pdf,5,1
+January,2022,Robbery,Chain Snatching,41,crime_31.pdf,5,1
+January,2023,Robbery,Robbery (Except Chain Snatching),98,crime_31.pdf,5,1
+December,2022,Robbery,Robbery (Except Chain Snatching),119,crime_31.pdf,5,1
+January,2022,Robbery,Robbery (Except Chain Snatching),70,crime_31.pdf,5,1
+January,2023,Robbery,Total Robbery,152,crime_31.pdf,5,1
+December,2022,Robbery,Total Robbery,170,crime_31.pdf,5,1
+January,2022,Robbery,Total Robbery,111,crime_31.pdf,5,1
+January,2023,Burglary,Burglary Night,366,crime_31.pdf,6,1
+December,2022,Burglary,Burglary Night,398,crime_31.pdf,6,1
+January,2022,Burglary,Burglary Night,318,crime_31.pdf,6,1
+January,2023,Burglary,Burglary Day,73,crime_31.pdf,6,1
+December,2022,Burglary,Burglary Day,77,crime_31.pdf,6,1
+January,2022,Burglary,Burglary Day,101,crime_31.pdf,6,1
+January,2023,Burglary,Total,439,crime_31.pdf,6,1
+December,2022,Burglary,Total,475,crime_31.pdf,6,1
+January,2022,Burglary,Total,419,crime_31.pdf,6,1
+January,2023,Theft,Reported,1646,crime_31.pdf,7,1
+December,2022,Theft,Reported,1952,crime_31.pdf,7,1
+January,2022,Theft,Reported,1583,crime_31.pdf,7,1
+January,2023,Riots,Riots,281,crime_31.pdf,8,1
+December,2022,Riots,Riots,317,crime_31.pdf,8,1
+January,2022,Riots,Riots,335,crime_31.pdf,8,1
+January,2023,Hurt,Cases of Hurt,1280,crime_31.pdf,9,1
+December,2022,Hurt,Cases of Hurt,1318,crime_31.pdf,9,1
+January,2022,Hurt,Cases of Hurt,1262,crime_31.pdf,9,1
+January,2023,Special & Local Laws,Special & Local Laws,3740,crime_31.pdf,10,1
+December,2022,Special & Local Laws,Special & Local Laws,4383,crime_31.pdf,10,1
+January,2022,Special & Local Laws,Special & Local Laws,3907,crime_31.pdf,10,1
+January,2023,Crime against Women,Rape,29,crime_31.pdf,11,1
+December,2022,Crime against Women,Rape,46,crime_31.pdf,11,1
+January,2022,Crime against Women,Rape,38,crime_31.pdf,11,1
+January,2023,Crime against Women,Dowry Death,5,crime_31.pdf,11,1
+December,2022,Crime against Women,Dowry Death,16,crime_31.pdf,11,1
+January,2022,Crime against Women,Dowry Death,13,crime_31.pdf,11,1
+January,2023,POCSO,POCSO,209,crime_31.pdf,12,1
+December,2022,POCSO,POCSO,272,crime_31.pdf,12,1
+January,2022,POCSO,POCSO,266,crime_31.pdf,12,1
+January,2023,SC/ST POA Act,SC/ST POA Act,152,crime_31.pdf,13,1
+December,2022,SC/ST POA Act,SC/ST POA Act,174,crime_31.pdf,13,1
+January,2022,SC/ST POA Act,SC/ST POA Act,210,crime_31.pdf,13,1
+January,2023.0,Security Cases,Security Cases,2491,crime_31.pdf,14,1
+December,2022.0,Security Cases,Security Cases,1185,crime_31.pdf,14,1
+January,2022.0,Security Cases,Security Cases,680,crime_31.pdf,14,1
+January,2023.0,Security Cases,Total,3795,crime_31.pdf,14,1
+December,2022.0,Security Cases,Total,2232,crime_31.pdf,14,1
+January,2022.0,Security Cases,Total,1071,crime_31.pdf,14,1
+January,2023,Cyber Crimes,Cyber Crimes,1325,crime_31.pdf,15,1
+December,2022,Cyber Crimes,Cyber Crimes,1232,crime_31.pdf,15,1
+January,2022,Cyber Crimes,Cyber Crimes,800,crime_31.pdf,15,1
+January,2023,Economic Offences,Economic Offences,558,crime_31.pdf,16,1
+December,2022,Economic Offences,Economic Offences,701,crime_31.pdf,16,1
+January,2022,Economic Offences,Economic Offences,521,crime_31.pdf,16,1
+January,2023,MMDR & KMMCR,MMDR Act,8,crime_31.pdf,17,1
+December,2022,MMDR & KMMCR,MMDR Act,9,crime_31.pdf,17,1
+January,2022,MMDR & KMMCR,MMDR Act,21,crime_31.pdf,17,1
+January,2023,MMDR & KMMCR,KMMC Rules,4,crime_31.pdf,17,1
+December,2022,MMDR & KMMCR,KMMC Rules,5,crime_31.pdf,17,1
+January,2022,MMDR & KMMCR,KMMC Rules,7,crime_31.pdf,17,1
+January,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,902,crime_31.pdf,18,1
+December,2022,Motor Vehicles Theft,Motor Vehicles Theft Cases,1013,crime_31.pdf,18,1
+January,2022,Motor Vehicles Theft,Motor Vehicles Theft Cases,912,crime_31.pdf,18,1
+January,2023,NDPS Cases,NDPS Cases,362,crime_31.pdf,19,1
+December,2022,NDPS Cases,NDPS Cases,779,crime_31.pdf,19,1
+January,2022,NDPS Cases,NDPS Cases,446,crime_31.pdf,19,1
+Feburary,2023,Murder,Murder for gain,5,crime_32.pdf,3,1
+January,2023,Murder,Murder for gain,1,crime_32.pdf,3,1
+February,2022,Murder,Murder for gain,7,crime_32.pdf,3,1
+Feburary,2023,Murder,Other Murders,114,crime_32.pdf,3,1
+January,2023,Murder,Other Murders,107,crime_32.pdf,3,1
+February,2022,Murder,Other Murders,96,crime_32.pdf,3,1
+Feburary,2023,Murder,Total Murder,119,crime_32.pdf,3,1
+January,2023,Murder,Total Murder,108,crime_32.pdf,3,1
+February,2022,Murder,Total Murder,103,crime_32.pdf,3,1
+February,2023,Dacoity,Dacoity Cases,14,crime_32.pdf,4,1
+January,2023,Dacoity,Dacoity Cases,12,crime_32.pdf,4,1
+February,2022,Dacoity,Dacoity Cases,17,crime_32.pdf,4,1
+February,2023,Robbery,Chain Snatching,49,crime_32.pdf,5,1
+January,2023,Robbery,Chain Snatching,54,crime_32.pdf,5,1
+February,2022,Robbery,Chain Snatching,37,crime_32.pdf,5,1
+February,2023,Robbery,Robbery (Except Chain Snatching),71,crime_32.pdf,5,1
+January,2023,Robbery,Robbery (Except Chain Snatching),96,crime_32.pdf,5,1
+February,2022,Robbery,Robbery (Except Chain Snatching),74,crime_32.pdf,5,1
+February,2023,Robbery,Total Robbery,120,crime_32.pdf,5,1
+January,2023,Robbery,Total Robbery,150,crime_32.pdf,5,1
+February,2022,Robbery,Total Robbery,111,crime_32.pdf,5,1
+February,2023,Burglary,Burglary Night,371,crime_32.pdf,6,1
+January,2023,Burglary,Burglary Night,372,crime_32.pdf,6,1
+February,2022,Burglary,Burglary Night,309,crime_32.pdf,6,1
+February,2023,Burglary,Burglary Day,77,crime_32.pdf,6,1
+January,2023,Burglary,Burglary Day,73,crime_32.pdf,6,1
+February,2022,Burglary,Burglary Day,67,crime_32.pdf,6,1
+February,2023,Burglary,Total,448,crime_32.pdf,6,1
+January,2023,Burglary,Total,445,crime_32.pdf,6,1
+February,2022,Burglary,Total,376,crime_32.pdf,6,1
+February,2023,Theft,Reported,1626,crime_32.pdf,7,1
+January,2023,Theft,Reported,1641,crime_32.pdf,7,1
+February,2022,Theft,Reported,1624,crime_32.pdf,7,1
+February,2023,Riots,Riots,296,crime_32.pdf,8,1
+January,2023,Riots,Riots,279,crime_32.pdf,8,1
+February,2022,Riots,Riots,354,crime_32.pdf,8,1
+February,2023,Hurt,Cases of Hurt,1203,crime_32.pdf,9,1
+January,2023,Hurt,Cases of Hurt,1280,crime_32.pdf,9,1
+February,2022,Hurt,Cases of Hurt,1222,crime_32.pdf,9,1
+February,2023,Special & Local Laws,Special & Local Laws,4028,crime_32.pdf,10,1
+January,2023,Special & Local Laws,Special & Local Laws,3776,crime_32.pdf,10,1
+February,2022,Special & Local Laws,Special & Local Laws,4070,crime_32.pdf,10,1
+February,2023,Crime against Women,Rape,56,crime_32.pdf,11,1
+January,2023,Crime against Women,Rape,30,crime_32.pdf,11,1
+February,2022,Crime against Women,Rape,36,crime_32.pdf,11,1
+February,2023,Crime against Women,Dowry Death,9,crime_32.pdf,11,1
+January,2023,Crime against Women,Dowry Death,6,crime_32.pdf,11,1
+February,2022,Crime against Women,Dowry Death,13,crime_32.pdf,11,1
+February,2023,POCSO,POCSO,190,crime_32.pdf,12,1
+January,2023,POCSO,POCSO,240,crime_32.pdf,12,1
+February,2022,POCSO,POCSO,237,crime_32.pdf,12,1
+February,2023,SC/ST POA Act,SC/ST POA Act,145,crime_32.pdf,13,1
+January,2023,SC/ST POA Act,SC/ST POA Act,154,crime_32.pdf,13,1
+February,2022,SC/ST POA Act,SC/ST POA Act,204,crime_32.pdf,13,1
+February,2023.0,Security Cases,Security Cases,5508,crime_32.pdf,14,1
+January,2023.0,Security Cases,Security Cases,2533,crime_32.pdf,14,1
+February,2022.0,Security Cases,Security Cases,1480,crime_32.pdf,14,1
+February,2023.0,Security Cases,Total,9690,crime_32.pdf,14,1
+January,2023.0,Security Cases,Total,3843,crime_32.pdf,14,1
+February,2022.0,Security Cases,Total,2375,crime_32.pdf,14,1
+February,2023,Cyber Crimes,Cyber Crimes,1370,crime_32.pdf,15,1
+January,2023,Cyber Crimes,Cyber Crimes,1325,crime_32.pdf,15,1
+February,2022,Cyber Crimes,Cyber Crimes,924,crime_32.pdf,15,1
+February,2023,Economic Offences,Economic Offences,553,crime_32.pdf,16,1
+January,2023,Economic Offences,Economic Offences,559,crime_32.pdf,16,1
+February,2022,Economic Offences,Economic Offences,547,crime_32.pdf,16,1
+February,2023,MMDR & KMMCR,MMDR Act,6,crime_32.pdf,17,1
+January,2023,MMDR & KMMCR,MMDR Act,8,crime_32.pdf,17,1
+February,2022,MMDR & KMMCR,MMDR Act,16,crime_32.pdf,17,1
+February,2023,MMDR & KMMCR,KMMC Rules,4,crime_32.pdf,17,1
+January,2023,MMDR & KMMCR,KMMC Rules,4,crime_32.pdf,17,1
+February,2022,MMDR & KMMCR,KMMC Rules,4,crime_32.pdf,17,1
+February,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,857,crime_32.pdf,18,1
+January,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,901,crime_32.pdf,18,1
+February,2022,Motor Vehicles Theft,Motor Vehicles Theft Cases,892,crime_32.pdf,18,1
+February,2023,NDPS Cases,NDPS Cases,344,crime_32.pdf,19,1
+January,2023,NDPS Cases,NDPS Cases,362,crime_32.pdf,19,1
+February,2022,NDPS Cases,NDPS Cases,521,crime_32.pdf,19,1
+March,2023,Murder,Murder for gain,0,crime_33.pdf,3,1
+February,2023,Murder,Murder for gain,5,crime_33.pdf,3,1
+March,2022,Murder,Murder for gain,4,crime_33.pdf,3,1
+March,2023,Murder,Other Murders,110,crime_33.pdf,3,1
+February,2023,Murder,Other Murders,114,crime_33.pdf,3,1
+March,2022,Murder,Other Murders,121,crime_33.pdf,3,1
+March,2023,Murder,Total Murder,110,crime_33.pdf,3,1
+February,2023,Murder,Total Murder,119,crime_33.pdf,3,1
+March,2022,Murder,Total Murder,125,crime_33.pdf,3,1
+March,2023,Dacoity,Dacoity Cases,20,crime_33.pdf,4,1
+February,2023,Dacoity,Dacoity Cases,16,crime_33.pdf,4,1
+March,2022,Dacoity,Dacoity Cases,17,crime_33.pdf,4,1
+March,2023,Robbery,Chain Snatching,56,crime_33.pdf,5,1
+February,2023,Robbery,Chain Snatching,49,crime_33.pdf,5,1
+March,2022,Robbery,Chain Snatching,59,crime_33.pdf,5,1
+March,2023,Robbery,Robbery (Except Chain Snatching),83,crime_33.pdf,5,1
+February,2023,Robbery,Robbery (Except Chain Snatching),73,crime_33.pdf,5,1
+March,2022,Robbery,Robbery (Except Chain Snatching),69,crime_33.pdf,5,1
+March,2023,Robbery,Total Robbery,139,crime_33.pdf,5,1
+February,2023,Robbery,Total Robbery,122,crime_33.pdf,5,1
+March,2022,Robbery,Total Robbery,128,crime_33.pdf,5,1
+March,2023,Burglary,Burglary Night,297,crime_33.pdf,6,1
+February,2023,Burglary,Burglary Night,371,crime_33.pdf,6,1
+March,2022,Burglary,Burglary Night,355,crime_33.pdf,6,1
+March,2023,Burglary,Burglary Day,84,crime_33.pdf,6,1
+February,2023,Burglary,Burglary Day,78,crime_33.pdf,6,1
+March,2022,Burglary,Burglary Day,86,crime_33.pdf,6,1
+March,2023,Burglary,Total,381,crime_33.pdf,6,1
+February,2023,Burglary,Total,449,crime_33.pdf,6,1
+March,2022,Burglary,Total,441,crime_33.pdf,6,1
+March,2023,Theft,Reported,1661,crime_33.pdf,7,1
+February,2023,Theft,Reported,1627,crime_33.pdf,7,1
+March,2022,Theft,Reported,1732,crime_33.pdf,7,1
+March,2023,Riots,Riots,336,crime_33.pdf,8,1
+February,2023,Riots,Riots,298,crime_33.pdf,8,1
+March,2022,Riots,Riots,377,crime_33.pdf,8,1
+March,2023,Hurt,Cases of Hurt,1490,crime_33.pdf,9,1
+February,2023,Hurt,Cases of Hurt,1202,crime_33.pdf,9,1
+March,2022,Hurt,Cases of Hurt,1412,crime_33.pdf,9,1
+March,2023,Special & Local Laws,Special & Local Laws,7331,crime_33.pdf,10,1
+February,2023,Special & Local Laws,Special & Local Laws,4051,crime_33.pdf,10,1
+March,2022,Special & Local Laws,Special & Local Laws,4581,crime_33.pdf,10,1
+March,2023,Crime against Women,Rape,44,crime_33.pdf,11,1
+February,2023,Crime against Women,Rape,54,crime_33.pdf,11,1
+March,2022,Crime against Women,Rape,58,crime_33.pdf,11,1
+March,2023,Crime against Women,Dowry Death,17,crime_33.pdf,11,1
+February,2023,Crime against Women,Dowry Death,9,crime_33.pdf,11,1
+March,2022,Crime against Women,Dowry Death,10,crime_33.pdf,11,1
+March,2023,POCSO,POCSO,235,crime_33.pdf,12,1
+February,2023,POCSO,POCSO,210,crime_33.pdf,12,1
+March,2022,POCSO,POCSO,277,crime_33.pdf,12,1
+March,2023,SC/ST POA Act,SC/ST POA Act,157,crime_33.pdf,13,1
+February,2023,SC/ST POA Act,SC/ST POA Act,147,crime_33.pdf,13,1
+March,2022,SC/ST POA Act,SC/ST POA Act,220,crime_33.pdf,13,1
+March,2023.0,Security Cases,Security Cases,5646,crime_33.pdf,14,1
+February,2023.0,Security Cases,Security Cases,5565,crime_33.pdf,14,1
+March,2022.0,Security Cases,Security Cases,1739,crime_33.pdf,14,1
+March,2023.0,Security Cases,Total,9622,crime_33.pdf,14,1
+February,2023.0,Security Cases,Total,9800,crime_33.pdf,14,1
+March,2022.0,Security Cases,Total,2681,crime_33.pdf,14,1
+March,2023,Cyber Crimes,Cyber Crimes,1615,crime_33.pdf,15,1
+February,2023,Cyber Crimes,Cyber Crimes,1370,crime_33.pdf,15,1
+March,2022,Cyber Crimes,Cyber Crimes,1047,crime_33.pdf,15,1
+March,2023,Economic Offences,Economic Offences,560,crime_33.pdf,16,1
+February,2023,Economic Offences,Economic Offences,551,crime_33.pdf,16,1
+March,2022,Economic Offences,Economic Offences,546,crime_33.pdf,16,1
+March,2023,MMDR & KMMCR,MMDR Act,10,crime_33.pdf,17,1
+February,2023,MMDR & KMMCR,MMDR Act,6,crime_33.pdf,17,1
+March,2022,MMDR & KMMCR,MMDR Act,18,crime_33.pdf,17,1
+March,2023,MMDR & KMMCR,KMMC Rules,5,crime_33.pdf,17,1
+February,2023,MMDR & KMMCR,KMMC Rules,4,crime_33.pdf,17,1
+March,2022,MMDR & KMMCR,KMMC Rules,7,crime_33.pdf,17,1
+March,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,907,crime_33.pdf,18,1
+February,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,859,crime_33.pdf,18,1
+March,2022,Motor Vehicles Theft,Motor Vehicles Theft Cases,983,crime_33.pdf,18,1
+March,2023,NDPS Cases,NDPS Cases,757,crime_33.pdf,19,1
+February,2023,NDPS Cases,NDPS Cases,344,crime_33.pdf,19,1
+March,2022,NDPS Cases,NDPS Cases,455,crime_33.pdf,19,1
+April,2023,Murder,Murder for gain,2,crime_34.pdf,3,1
+March,2023,Murder,Murder for gain,0,crime_34.pdf,3,1
+April,2022,Murder,Murder for gain,4,crime_34.pdf,3,1
+April,2023,Murder,Other Murders,100,crime_34.pdf,3,1
+March,2023,Murder,Other Murders,112,crime_34.pdf,3,1
+April,2022,Murder,Other Murders,123,crime_34.pdf,3,1
+April,2023,Murder,Total Murder,102,crime_34.pdf,3,1
+March,2023,Murder,Total Murder,112,crime_34.pdf,3,1
+April,2022,Murder,Total Murder,127,crime_34.pdf,3,1
+April,2023,Dacoity,Dacoity Cases,10,crime_34.pdf,4,1
+March,2023,Dacoity,Dacoity Cases,22,crime_34.pdf,4,1
+April,2022,Dacoity,Dacoity Cases,19,crime_34.pdf,4,1
+April,2023,Robbery,Chain Snatching,39,crime_34.pdf,5,1
+March,2023,Robbery,Chain Snatching,56,crime_34.pdf,5,1
+April,2022,Robbery,Chain Snatching,65,crime_34.pdf,5,1
+April,2023,Robbery,Robbery (Except Chain Snatching),75,crime_34.pdf,5,1
+March,2023,Robbery,Robbery (Except Chain Snatching),83,crime_34.pdf,5,1
+April,2022,Robbery,Robbery (Except Chain Snatching),77,crime_34.pdf,5,1
+April,2023,Robbery,Total Robbery,114,crime_34.pdf,5,1
+March,2023,Robbery,Total Robbery,139,crime_34.pdf,5,1
+April,2022,Robbery,Total Robbery,142,crime_34.pdf,5,1
+April,2023,Burglary,Burglary Night,266,crime_34.pdf,6,1
+March,2023,Burglary,Burglary Night,302,crime_34.pdf,6,1
+April,2022,Burglary,Burglary Night,352,crime_34.pdf,6,1
+April,2023,Burglary,Burglary Day,69,crime_34.pdf,6,1
+March,2023,Burglary,Burglary Day,84,crime_34.pdf,6,1
+April,2022,Burglary,Burglary Day,76,crime_34.pdf,6,1
+April,2023,Burglary,Total,335,crime_34.pdf,6,1
+March,2023,Burglary,Total,386,crime_34.pdf,6,1
+April,2022,Burglary,Total,428,crime_34.pdf,6,1
+April,2023,Theft,Reported,1560,crime_34.pdf,7,1
+March,2023,Theft,Reported,1656,crime_34.pdf,7,1
+April,2022,Theft,Reported,1704,crime_34.pdf,7,1
+April,2023,Riots,Riots,293,crime_34.pdf,8,1
+March,2023,Riots,Riots,335,crime_34.pdf,8,1
+April,2022,Riots,Riots,418,crime_34.pdf,8,1
+April,2023,Hurt,Cases of Hurt,1355,crime_34.pdf,9,1
+March,2023,Hurt,Cases of Hurt,1488,crime_34.pdf,9,1
+April,2022,Hurt,Cases of Hurt,1462,crime_34.pdf,9,1
+April,2023,Special & Local Laws,Special & Local Laws,5745,crime_34.pdf,10,1
+March,2023,Special & Local Laws,Special & Local Laws,7369,crime_34.pdf,10,1
+April,2022,Special & Local Laws,Special & Local Laws,4429,crime_34.pdf,10,1
+April,2023,Crime against Women,Rape,46,crime_34.pdf,11,1
+March,2023,Crime against Women,Rape,46,crime_34.pdf,11,1
+April,2022,Crime against Women,Rape,48,crime_34.pdf,11,1
+April,2023,Crime against Women,Dowry Death,11,crime_34.pdf,11,1
+March,2023,Crime against Women,Dowry Death,17,crime_34.pdf,11,1
+April,2022,Crime against Women,Dowry Death,9,crime_34.pdf,11,1
+April,2023,POCSO,POCSO,256,crime_34.pdf,12,1
+March,2023,POCSO,POCSO,270,crime_34.pdf,12,1
+April,2022,POCSO,POCSO,277,crime_34.pdf,12,1
+April,2023,SC/ST POA Act,SC/ST POA Act,140,crime_34.pdf,13,1
+March,2023,SC/ST POA Act,SC/ST POA Act,158,crime_34.pdf,13,1
+April,2022,SC/ST POA Act,SC/ST POA Act,197,crime_34.pdf,13,1
+April,2023.0,Security Cases,Security Cases,2346,crime_34.pdf,14,1
+March,2023.0,Security Cases,Security Cases,5688,crime_34.pdf,14,1
+April,2022.0,Security Cases,Security Cases,1035,crime_34.pdf,14,1
+April,2023.0,Security Cases,Total,4503,crime_34.pdf,14,1
+March,2023.0,Security Cases,Total,9685,crime_34.pdf,14,1
+April,2022.0,Security Cases,Total,1712,crime_34.pdf,14,1
+April,2023,Cyber Crimes,Cyber Crimes,1710,crime_34.pdf,15,1
+March,2023,Cyber Crimes,Cyber Crimes,1615,crime_34.pdf,15,1
+April,2022,Cyber Crimes,Cyber Crimes,998,crime_34.pdf,15,1
+April,2023,Economic Offences,Economic Offences,466,crime_34.pdf,16,1
+March,2023,Economic Offences,Economic Offences,562,crime_34.pdf,16,1
+April,2022,Economic Offences,Economic Offences,524,crime_34.pdf,16,1
+April,2023,MMDR & KMMCR,MMDR Act,10,crime_34.pdf,17,1
+March,2023,MMDR & KMMCR,MMDR Act,10,crime_34.pdf,17,1
+April,2022,MMDR & KMMCR,MMDR Act,9,crime_34.pdf,17,1
+April,2023,MMDR & KMMCR,KMMC Rules,6,crime_34.pdf,17,1
+March,2023,MMDR & KMMCR,KMMC Rules,5,crime_34.pdf,17,1
+April,2022,MMDR & KMMCR,KMMC Rules,10,crime_34.pdf,17,1
+April,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,877,crime_34.pdf,18,1
+March,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,906,crime_34.pdf,18,1
+April,2022,Motor Vehicles Theft,Motor Vehicles Theft Cases,950,crime_34.pdf,18,1
+April,2023,NDPS Cases,NDPS Cases,470,crime_34.pdf,19,1
+March,2023,NDPS Cases,NDPS Cases,757,crime_34.pdf,19,1
+April,2022,NDPS Cases,NDPS Cases,314,crime_34.pdf,19,1
+April,2023,Murder,Murder for gain,2,crime_34.pdf,55,1
+March,2023,Murder,Murder for gain,0,crime_34.pdf,55,1
+April,2022,Murder,Murder for gain,4,crime_34.pdf,55,1
+April,2023,Murder,Other Murders,100,crime_34.pdf,55,1
+March,2023,Murder,Other Murders,112,crime_34.pdf,55,1
+April,2022,Murder,Other Murders,123,crime_34.pdf,55,1
+April,2023,Murder,Total Murder,102,crime_34.pdf,55,1
+March,2023,Murder,Total Murder,112,crime_34.pdf,55,1
+April,2022,Murder,Total Murder,127,crime_34.pdf,55,1
+April,2023,Dacoity,Dacoity Cases,10,crime_34.pdf,56,1
+March,2023,Dacoity,Dacoity Cases,22,crime_34.pdf,56,1
+April,2022,Dacoity,Dacoity Cases,19,crime_34.pdf,56,1
+April,2023,Robbery,Chain Snatching,39,crime_34.pdf,57,1
+March,2023,Robbery,Chain Snatching,56,crime_34.pdf,57,1
+April,2022,Robbery,Chain Snatching,65,crime_34.pdf,57,1
+April,2023,Robbery,Robbery (Except Chain Snatching),75,crime_34.pdf,57,1
+March,2023,Robbery,Robbery (Except Chain Snatching),83,crime_34.pdf,57,1
+April,2022,Robbery,Robbery (Except Chain Snatching),77,crime_34.pdf,57,1
+April,2023,Robbery,Total Robbery,114,crime_34.pdf,57,1
+March,2023,Robbery,Total Robbery,139,crime_34.pdf,57,1
+April,2022,Robbery,Total Robbery,142,crime_34.pdf,57,1
+April,2023,Burglary,Burglary Night,266,crime_34.pdf,58,1
+March,2023,Burglary,Burglary Night,302,crime_34.pdf,58,1
+April,2022,Burglary,Burglary Night,352,crime_34.pdf,58,1
+April,2023,Burglary,Burglary Day,69,crime_34.pdf,58,1
+March,2023,Burglary,Burglary Day,84,crime_34.pdf,58,1
+April,2022,Burglary,Burglary Day,76,crime_34.pdf,58,1
+April,2023,Burglary,Total,335,crime_34.pdf,58,1
+March,2023,Burglary,Total,386,crime_34.pdf,58,1
+April,2022,Burglary,Total,428,crime_34.pdf,58,1
+April,2023,Theft,Reported,1560,crime_34.pdf,59,1
+March,2023,Theft,Reported,1656,crime_34.pdf,59,1
+April,2022,Theft,Reported,1704,crime_34.pdf,59,1
+April,2023,Riots,Riots,293,crime_34.pdf,60,1
+March,2023,Riots,Riots,335,crime_34.pdf,60,1
+April,2022,Riots,Riots,418,crime_34.pdf,60,1
+April,2023,Hurt,Cases of Hurt,1355,crime_34.pdf,61,1
+March,2023,Hurt,Cases of Hurt,1488,crime_34.pdf,61,1
+April,2022,Hurt,Cases of Hurt,1462,crime_34.pdf,61,1
+April,2023,Special & Local Laws,Special & Local Laws,5745,crime_34.pdf,62,1
+March,2023,Special & Local Laws,Special & Local Laws,7369,crime_34.pdf,62,1
+April,2022,Special & Local Laws,Special & Local Laws,4429,crime_34.pdf,62,1
+April,2023,Crime against Women,Rape,46,crime_34.pdf,63,1
+March,2023,Crime against Women,Rape,46,crime_34.pdf,63,1
+April,2022,Crime against Women,Rape,48,crime_34.pdf,63,1
+April,2023,Crime against Women,Dowry Death,11,crime_34.pdf,63,1
+March,2023,Crime against Women,Dowry Death,17,crime_34.pdf,63,1
+April,2022,Crime against Women,Dowry Death,9,crime_34.pdf,63,1
+April,2023,POCSO,POCSO,256,crime_34.pdf,64,1
+March,2023,POCSO,POCSO,270,crime_34.pdf,64,1
+April,2022,POCSO,POCSO,277,crime_34.pdf,64,1
+April,2023,SC/ST POA Act,SC/ST POA Act,140,crime_34.pdf,65,1
+March,2023,SC/ST POA Act,SC/ST POA Act,158,crime_34.pdf,65,1
+April,2022,SC/ST POA Act,SC/ST POA Act,197,crime_34.pdf,65,1
+April,2023.0,Security Cases,Security Cases,2346,crime_34.pdf,66,1
+March,2023.0,Security Cases,Security Cases,5688,crime_34.pdf,66,1
+April,2022.0,Security Cases,Security Cases,1035,crime_34.pdf,66,1
+April,2023.0,Security Cases,Total,4503,crime_34.pdf,66,1
+March,2023.0,Security Cases,Total,9685,crime_34.pdf,66,1
+April,2022.0,Security Cases,Total,1712,crime_34.pdf,66,1
+April,2023,Cyber Crimes,Cyber Crimes,1710,crime_34.pdf,67,1
+March,2023,Cyber Crimes,Cyber Crimes,1615,crime_34.pdf,67,1
+April,2022,Cyber Crimes,Cyber Crimes,998,crime_34.pdf,67,1
+April,2023,Economic Offences,Economic Offences,466,crime_34.pdf,68,1
+March,2023,Economic Offences,Economic Offences,562,crime_34.pdf,68,1
+April,2022,Economic Offences,Economic Offences,524,crime_34.pdf,68,1
+April,2023,MMDR & KMMCR,MMDR Act,10,crime_34.pdf,69,1
+March,2023,MMDR & KMMCR,MMDR Act,10,crime_34.pdf,69,1
+April,2022,MMDR & KMMCR,MMDR Act,9,crime_34.pdf,69,1
+April,2023,MMDR & KMMCR,KMMC Rules,6,crime_34.pdf,69,1
+March,2023,MMDR & KMMCR,KMMC Rules,5,crime_34.pdf,69,1
+April,2022,MMDR & KMMCR,KMMC Rules,10,crime_34.pdf,69,1
+April,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,877,crime_34.pdf,70,1
+March,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,906,crime_34.pdf,70,1
+April,2022,Motor Vehicles Theft,Motor Vehicles Theft Cases,950,crime_34.pdf,70,1
+April,2023,NDPS Cases,NDPS Cases,470,crime_34.pdf,71,1
+March,2023,NDPS Cases,NDPS Cases,757,crime_34.pdf,71,1
+April,2022,NDPS Cases,NDPS Cases,314,crime_34.pdf,71,1
+May,2023,Murder,Murder for gain,2,crime_35.pdf,3,1
+April,2023,Murder,Murder for gain,2,crime_35.pdf,3,1
+May,2022,Murder,Murder for gain,4,crime_35.pdf,3,1
+May,2023,Murder,Other Murders,102,crime_35.pdf,3,1
+April,2023,Murder,Other Murders,100,crime_35.pdf,3,1
+May,2022,Murder,Other Murders,125,crime_35.pdf,3,1
+May,2023,Murder,Total Murder,104,crime_35.pdf,3,1
+April,2023,Murder,Total Murder,102,crime_35.pdf,3,1
+May,2022,Murder,Total Murder,129,crime_35.pdf,3,1
+May,2023,Dacoity,Dacoity Cases,11,crime_35.pdf,4,1
+April,2023,Dacoity,Dacoity Cases,11,crime_35.pdf,4,1
+May,2022,Dacoity,Dacoity Cases,22,crime_35.pdf,4,1
+May,2023,Robbery,Chain Snatching,55,crime_35.pdf,5,1
+April,2023,Robbery,Chain Snatching,41,crime_35.pdf,5,1
+May,2022,Robbery,Chain Snatching,60,crime_35.pdf,5,1
+May,2023,Robbery,Robbery (Except Chain Snatching),98,crime_35.pdf,5,1
+April,2023,Robbery,Robbery (Except Chain Snatching),74,crime_35.pdf,5,1
+May,2022,Robbery,Robbery (Except Chain Snatching),83,crime_35.pdf,5,1
+May,2023,Robbery,Total Robbery,153,crime_35.pdf,5,1
+April,2023,Robbery,Total Robbery,115,crime_35.pdf,5,1
+May,2022,Robbery,Total Robbery,143,crime_35.pdf,5,1
+May,2023,Burglary,Burglary Night,391,crime_35.pdf,6,1
+April,2023,Burglary,Burglary Night,269,crime_35.pdf,6,1
+May,2022,Burglary,Burglary Night,389,crime_35.pdf,6,1
+May,2023,Burglary,Burglary Day,81,crime_35.pdf,6,1
+April,2023,Burglary,Burglary Day,70,crime_35.pdf,6,1
+May,2022,Burglary,Burglary Day,83,crime_35.pdf,6,1
+May,2023,Burglary,Total,472,crime_35.pdf,6,1
+April,2023,Burglary,Total,339,crime_35.pdf,6,1
+May,2022,Burglary,Total,472,crime_35.pdf,6,1
+May,2023,Theft,Reported,1723,crime_35.pdf,7,1
+April,2023,Theft,Reported,1554,crime_35.pdf,7,1
+May,2022,Theft,Reported,1874,crime_35.pdf,7,1
+May,2023,Riots,Riots,379,crime_35.pdf,8,1
+April,2023,Riots,Riots,294,crime_35.pdf,8,1
+May,2022,Riots,Riots,351,crime_35.pdf,8,1
+May,2023,Hurt,Cases of Hurt,1506,crime_35.pdf,9,1
+April,2023,Hurt,Cases of Hurt,1352,crime_35.pdf,9,1
+May,2022,Hurt,Cases of Hurt,1306,crime_35.pdf,9,1
+May,2023,Special & Local Laws,Special & Local Laws,4409,crime_35.pdf,10,1
+April,2023,Special & Local Laws,Special & Local Laws,5783,crime_35.pdf,10,1
+May,2022,Special & Local Laws,Special & Local Laws,5699,crime_35.pdf,10,1
+May,2023,Crime against Women,Rape,47,crime_35.pdf,11,1
+April,2023,Crime against Women,Rape,46,crime_35.pdf,11,1
+May,2022,Crime against Women,Rape,44,crime_35.pdf,11,1
+May,2023,Crime against Women,Dowry Death,13,crime_35.pdf,11,1
+April,2023,Crime against Women,Dowry Death,11,crime_35.pdf,11,1
+May,2022,Crime against Women,Dowry Death,14,crime_35.pdf,11,1
+May,2023,POCSO,POCSO,249,crime_35.pdf,12,1
+April,2023,POCSO,POCSO,283,crime_35.pdf,12,1
+May,2022,POCSO,POCSO,266,crime_35.pdf,12,1
+May,2023,SC/ST POA Act,SC/ST POA Act,145,crime_35.pdf,13,1
+April,2023,SC/ST POA Act,SC/ST POA Act,145,crime_35.pdf,13,1
+May,2022,SC/ST POA Act,SC/ST POA Act,175,crime_35.pdf,13,1
+May,2023.0,Security Cases,Security Cases,1274,crime_35.pdf,14,1
+April,2023.0,Security Cases,Security Cases,2375,crime_35.pdf,14,1
+May,2022.0,Security Cases,Security Cases,1949,crime_35.pdf,14,1
+May,2023.0,Security Cases,Total,1565,crime_35.pdf,14,1
+April,2023.0,Security Cases,Total,4559,crime_35.pdf,14,1
+May,2022.0,Security Cases,Total,3340,crime_35.pdf,14,1
+May,2023,Cyber Crimes,Cyber Crimes,1570,crime_35.pdf,15,1
+April,2023,Cyber Crimes,Cyber Crimes,1709,crime_35.pdf,15,1
+May,2022,Cyber Crimes,Cyber Crimes,914,crime_35.pdf,15,1
+May,2023,Economic Offences,Economic Offences,371,crime_35.pdf,16,1
+April,2023,Economic Offences,Economic Offences,465,crime_35.pdf,16,1
+May,2022,Economic Offences,Economic Offences,371,crime_35.pdf,16,1
+May,2023,MMDR & KMMCR,MMDR Act,7,crime_35.pdf,17,1
+April,2023,MMDR & KMMCR,MMDR Act,10,crime_35.pdf,17,1
+May,2022,MMDR & KMMCR,MMDR Act,9,crime_35.pdf,17,1
+May,2023,MMDR & KMMCR,KMMC Rules,0,crime_35.pdf,17,1
+April,2023,MMDR & KMMCR,KMMC Rules,6,crime_35.pdf,17,1
+May,2022,MMDR & KMMCR,KMMC Rules,9,crime_35.pdf,17,1
+May,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,935,crime_35.pdf,18,1
+April,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,878,crime_35.pdf,18,1
+May,2022,Motor Vehicles Theft,Motor Vehicles Theft Cases,1053,crime_35.pdf,18,1
+May,2023,NDPS Cases,NDPS Cases,442,crime_35.pdf,19,1
+April,2023,NDPS Cases,NDPS Cases,470,crime_35.pdf,19,1
+May,2022,NDPS Cases,NDPS Cases,573,crime_35.pdf,19,1
+June,2023,Murder,Murder for gain,2,crime_36.pdf,3,1
+May,2023,Murder,Murder for gain,3,crime_36.pdf,3,1
+June,2022,Murder,Murder for gain,3,crime_36.pdf,3,1
+June,2023,Murder,Other Murders,109,crime_36.pdf,3,1
+May,2023,Murder,Other Murders,105,crime_36.pdf,3,1
+June,2022,Murder,Other Murders,118,crime_36.pdf,3,1
+June,2023,Murder,Total Murder,111,crime_36.pdf,3,1
+May,2023,Murder,Total Murder,108,crime_36.pdf,3,1
+June,2022,Murder,Total Murder,121,crime_36.pdf,3,1
+June,2023,Dacoity,Dacoity Cases,15,crime_36.pdf,4,1
+May,2023,Dacoity,Dacoity Cases,11,crime_36.pdf,4,1
+June,2022,Dacoity,Dacoity Cases,22,crime_36.pdf,4,1
+June,2023,Robbery,Chain Snatching,46,crime_36.pdf,5,1
+May,2023,Robbery,Chain Snatching,56,crime_36.pdf,5,1
+June,2022,Robbery,Chain Snatching,79,crime_36.pdf,5,1
+June,2023,Robbery,Robbery (Except Chain Snatching),83,crime_36.pdf,5,1
+May,2023,Robbery,Robbery (Except Chain Snatching),97,crime_36.pdf,5,1
+June,2022,Robbery,Robbery (Except Chain Snatching),74,crime_36.pdf,5,1
+June,2023,Robbery,Total Robbery,139,crime_36.pdf,5,1
+May,2023,Robbery,Total Robbery,153,crime_36.pdf,5,1
+June,2022,Robbery,Total Robbery,153,crime_36.pdf,5,1
+June,2023,Burglary,Burglary Night,440,crime_36.pdf,6,1
+May,2023,Burglary,Burglary Night,394,crime_36.pdf,6,1
+June,2022,Burglary,Burglary Night,363,crime_36.pdf,6,1
+June,2023,Burglary,Burglary Day,135,crime_36.pdf,6,1
+May,2023,Burglary,Burglary Day,80,crime_36.pdf,6,1
+June,2022,Burglary,Burglary Day,72,crime_36.pdf,6,1
+June,2023,Burglary,Total,575,crime_36.pdf,6,1
+May,2023,Burglary,Total,474,crime_36.pdf,6,1
+June,2022,Burglary,Total,435,crime_36.pdf,6,1
+June,2023,Theft,Reported,2422,crime_36.pdf,7,1
+May,2023,Theft,Reported,1721,crime_36.pdf,7,1
+June,2022,Theft,Reported,1937,crime_36.pdf,7,1
+June,2023,Riots,Riots,372,crime_36.pdf,8,1
+May,2023,Riots,Riots,378,crime_36.pdf,8,1
+June,2022,Riots,Riots,349,crime_36.pdf,8,1
+June,2023,Hurt,Cases of Hurt,1596,crime_36.pdf,9,1
+May,2023,Hurt,Cases of Hurt,1497,crime_36.pdf,9,1
+June,2022,Hurt,Cases of Hurt,1380,crime_36.pdf,9,1
+June,2023,Special & Local Laws,Special & Local Laws,6752,crime_36.pdf,10,1
+May,2023,Special & Local Laws,Special & Local Laws,4461,crime_36.pdf,10,1
+June,2022,Special & Local Laws,Special & Local Laws,4602,crime_36.pdf,10,1
+June,2023,Crime against Women,Rape,67,crime_36.pdf,11,1
+May,2023,Crime against Women,Rape,47,crime_36.pdf,11,1
+June,2022,Crime against Women,Rape,48,crime_36.pdf,11,1
+June,2023,Crime against Women,Dowry Death,9,crime_36.pdf,11,1
+May,2023,Crime against Women,Dowry Death,14,crime_36.pdf,11,1
+June,2022,Crime against Women,Dowry Death,18,crime_36.pdf,11,1
+June,2023,POCSO,POCSO,281,crime_36.pdf,12,1
+May,2023,POCSO,POCSO,294,crime_36.pdf,12,1
+June,2022,POCSO,POCSO,293,crime_36.pdf,12,1
+June,2023,SC/ST POA Act,SC/ST POA Act,192,crime_36.pdf,13,1
+May,2023,SC/ST POA Act,SC/ST POA Act,150,crime_36.pdf,13,1
+June,2022,SC/ST POA Act,SC/ST POA Act,198,crime_36.pdf,13,1
+June,2023.0,Security Cases,Security Cases,1601,crime_36.pdf,14,1
+May,2023.0,Security Cases,Security Cases,1299,crime_36.pdf,14,1
+June,2022.0,Security Cases,Security Cases,4339,crime_36.pdf,14,1
+June,2023.0,Security Cases,Total,2382,crime_36.pdf,14,1
+May,2023.0,Security Cases,Total,1595,crime_36.pdf,14,1
+June,2022.0,Security Cases,Total,8142,crime_36.pdf,14,1
+June,2023,Cyber Crimes,Cyber Crimes,1759,crime_36.pdf,15,1
+May,2023,Cyber Crimes,Cyber Crimes,1570,crime_36.pdf,15,1
+June,2022,Cyber Crimes,Cyber Crimes,964,crime_36.pdf,15,1
+June,2023,Economic Offences,Economic Offences,665,crime_36.pdf,16,1
+May,2023,Economic Offences,Economic Offences,371,crime_36.pdf,16,1
+June,2022,Economic Offences,Economic Offences,610,crime_36.pdf,16,1
+June,2023,MMDR & KMMCR,MMDR Act,11,crime_36.pdf,17,1
+May,2023,MMDR & KMMCR,MMDR Act,7,crime_36.pdf,17,1
+June,2022,MMDR & KMMCR,MMDR Act,8,crime_36.pdf,17,1
+June,2023,MMDR & KMMCR,KMMC Rules,12,crime_36.pdf,17,1
+May,2023,MMDR & KMMCR,KMMC Rules,0,crime_36.pdf,17,1
+June,2022,MMDR & KMMCR,KMMC Rules,2,crime_36.pdf,17,1
+June,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1288,crime_36.pdf,18,1
+May,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,935,crime_36.pdf,18,1
+June,2022,Motor Vehicles Theft,Motor Vehicles Theft Cases,1162,crime_36.pdf,18,1
+June,2023,NDPS Cases,NDPS Cases,1290,crime_36.pdf,19,1
+May,2023,NDPS Cases,NDPS Cases,442,crime_36.pdf,19,1
+June,2022,NDPS Cases,NDPS Cases,659,crime_36.pdf,19,1
+July,2023,Murder,Murder for gain,0,crime_37.pdf,3,1
+June,2023,Murder,Murder for gain,3,crime_37.pdf,3,1
+July,2022,Murder,Murder for gain,7,crime_37.pdf,3,1
+July,2023,Murder,Other Murders,114,crime_37.pdf,3,1
+June,2023,Murder,Other Murders,114,crime_37.pdf,3,1
+July,2022,Murder,Other Murders,119,crime_37.pdf,3,1
+July,2023,Murder,Total Murder,114,crime_37.pdf,3,1
+June,2023,Murder,Total Murder,117,crime_37.pdf,3,1
+July,2022,Murder,Total Murder,126,crime_37.pdf,3,1
+July,2023,Dacoity,Dacoity Cases,9,crime_37.pdf,4,1
+June,2023,Dacoity,Dacoity Cases,14,crime_37.pdf,4,1
+July,2022,Dacoity,Dacoity Cases,24,crime_37.pdf,4,1
+July,2023,Robbery,Chain Snatching,49,crime_37.pdf,5,1
+June,2023,Robbery,Chain Snatching,46,crime_37.pdf,5,1
+July,2022,Robbery,Chain Snatching,69,crime_37.pdf,5,1
+July,2023,Robbery,Robbery (Except Chain Snatching),163,crime_37.pdf,5,1
+June,2023,Robbery,Robbery (Except Chain Snatching),92,crime_37.pdf,5,1
+July,2022,Robbery,Robbery (Except Chain Snatching),122,crime_37.pdf,5,1
+July,2023,Robbery,Total Robbery,212,crime_37.pdf,5,1
+June,2023,Robbery,Total Robbery,138,crime_37.pdf,5,1
+July,2022,Robbery,Total Robbery,191,crime_37.pdf,5,1
+July,2023,Burglary,Burglary Night,470,crime_37.pdf,6,1
+June,2023,Burglary,Burglary Night,441,crime_37.pdf,6,1
+July,2022,Burglary,Burglary Night,388,crime_37.pdf,6,1
+July,2023,Burglary,Burglary Day,136,crime_37.pdf,6,1
+June,2023,Burglary,Burglary Day,135,crime_37.pdf,6,1
+July,2022,Burglary,Burglary Day,85,crime_37.pdf,6,1
+July,2023,Burglary,Total,606,crime_37.pdf,6,1
+June,2023,Burglary,Total,576,crime_37.pdf,6,1
+July,2022,Burglary,Total,473,crime_37.pdf,6,1
+July,2023,Theft,Reported,2774,crime_37.pdf,7,1
+June,2023,Theft,Reported,2420,crime_37.pdf,7,1
+July,2022,Theft,Reported,1955,crime_37.pdf,7,1
+July,2023,Riots,Riots,312,crime_37.pdf,8,1
+June,2023,Riots,Riots,372,crime_37.pdf,8,1
+July,2022,Riots,Riots,291,crime_37.pdf,8,1
+July,2023,Hurt,Cases of Hurt,1443,crime_37.pdf,9,1
+June,2023,Hurt,Cases of Hurt,1595,crime_37.pdf,9,1
+July,2022,Hurt,Cases of Hurt,1147,crime_37.pdf,9,1
+July,2023,Special & Local Laws,Special & Local Laws,6042,crime_37.pdf,10,1
+June,2023,Special & Local Laws,Special & Local Laws,6793,crime_37.pdf,10,1
+July,2022,Special & Local Laws,Special & Local Laws,4844,crime_37.pdf,10,1
+July,2023,Crime against Women,Rape,48,crime_37.pdf,11,1
+June,2023,Crime against Women,Rape,66,crime_37.pdf,11,1
+July,2022,Crime against Women,Rape,52,crime_37.pdf,11,1
+July,2023,Crime against Women,Dowry Death,15,crime_37.pdf,11,1
+June,2023,Crime against Women,Dowry Death,9,crime_37.pdf,11,1
+July,2022,Crime against Women,Dowry Death,16,crime_37.pdf,11,1
+July,2023,POCSO,POCSO,308,crime_37.pdf,12,1
+June,2023,POCSO,POCSO,314,crime_37.pdf,12,1
+July,2022,POCSO,POCSO,251,crime_37.pdf,12,1
+July,2023,SC/ST POA Act,SC/ST POA Act,202,crime_37.pdf,13,1
+June,2023,SC/ST POA Act,SC/ST POA Act,195,crime_37.pdf,13,1
+July,2022,SC/ST POA Act,SC/ST POA Act,121,crime_37.pdf,13,1
+July,2023.0,Security Cases,Security Cases,1462,crime_37.pdf,14,1
+June,2023.0,Security Cases,Security Cases,1632,crime_37.pdf,14,1
+July,2022.0,Security Cases,Security Cases,4022,crime_37.pdf,14,1
+July,2023.0,Security Cases,Total,2303,crime_37.pdf,14,1
+June,2023.0,Security Cases,Total,2415,crime_37.pdf,14,1
+July,2022.0,Security Cases,Total,7034,crime_37.pdf,14,1
+July,2023,Cyber Crimes,Cyber Crimes,2067,crime_37.pdf,15,1
+June,2023,Cyber Crimes,Cyber Crimes,1760,crime_37.pdf,15,1
+July,2022,Cyber Crimes,Cyber Crimes,1156,crime_37.pdf,15,1
+July,2023,Economic Offences,Economic Offences,843,crime_37.pdf,16,1
+June,2023,Economic Offences,Economic Offences,663,crime_37.pdf,16,1
+July,2022,Economic Offences,Economic Offences,629,crime_37.pdf,16,1
+July,2023,MMDR & KMMCR,MMDR Act,17,crime_37.pdf,17,1
+June,2023,MMDR & KMMCR,MMDR Act,12,crime_37.pdf,17,1
+July,2022,MMDR & KMMCR,MMDR Act,4,crime_37.pdf,17,1
+July,2023,MMDR & KMMCR,KMMC Rules,2,crime_37.pdf,17,1
+June,2023,MMDR & KMMCR,KMMC Rules,12,crime_37.pdf,17,1
+July,2022,MMDR & KMMCR,KMMC Rules,6,crime_37.pdf,17,1
+July,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1464,crime_37.pdf,18,1
+June,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1288,crime_37.pdf,18,1
+July,2022,Motor Vehicles Theft,Motor Vehicles Theft Cases,1150,crime_37.pdf,18,1
+July,2023,NDPS Cases,NDPS Cases,818,crime_37.pdf,19,1
+June,2023,NDPS Cases,NDPS Cases,1291,crime_37.pdf,19,1
+July,2022,NDPS Cases,NDPS Cases,554,crime_37.pdf,19,1
+August,2023,Murder,Murder for gain,1,crime_38.pdf,3,1
+July,2023,Murder,Murder for gain,0,crime_38.pdf,3,1
+August,2022,Murder,Murder for gain,3,crime_38.pdf,3,1
+August,2023,Murder,Other Murders,101,crime_38.pdf,3,1
+July,2023,Murder,Other Murders,114,crime_38.pdf,3,1
+August,2022,Murder,Other Murders,84,crime_38.pdf,3,1
+August,2023,Murder,Total Murder,102,crime_38.pdf,3,1
+July,2023,Murder,Total Murder,114,crime_38.pdf,3,1
+August,2022,Murder,Total Murder,87,crime_38.pdf,3,1
+August,2023,Dacoity,Dacoity Cases,16,crime_38.pdf,4,1
+July,2023,Dacoity,Dacoity Cases,13,crime_38.pdf,4,1
+August,2022,Dacoity,Dacoity Cases,13,crime_38.pdf,4,1
+August,2023,Robbery,Chain Snatching,42,crime_38.pdf,5,1
+July,2023,Robbery,Chain Snatching,48,crime_38.pdf,5,1
+August,2022,Robbery,Chain Snatching,61,crime_38.pdf,5,1
+August,2023,Robbery,Robbery (Except Chain Snatching),155,crime_38.pdf,5,1
+July,2023,Robbery,Robbery (Except Chain Snatching),164,crime_38.pdf,5,1
+August,2022,Robbery,Robbery (Except Chain Snatching),105,crime_38.pdf,5,1
+August,2023,Robbery,Total Robbery,197,crime_38.pdf,5,1
+July,2023,Robbery,Total Robbery,212,crime_38.pdf,5,1
+August,2022,Robbery,Total Robbery,166,crime_38.pdf,5,1
+August,2023,Burglary,Burglary Night,501,crime_38.pdf,6,1
+July,2023,Burglary,Burglary Night,469,crime_38.pdf,6,1
+August,2022,Burglary,Burglary Night,421,crime_38.pdf,6,1
+August,2023,Burglary,Burglary Day,136,crime_38.pdf,6,1
+July,2023,Burglary,Burglary Day,137,crime_38.pdf,6,1
+August,2022,Burglary,Burglary Day,104,crime_38.pdf,6,1
+August,2023,Burglary,Total,637,crime_38.pdf,6,1
+July,2023,Burglary,Total,606,crime_38.pdf,6,1
+August,2022,Burglary,Total,525,crime_38.pdf,6,1
+August,2023,Theft,Reported,2870,crime_38.pdf,7,1
+July,2023,Theft,Reported,2776,crime_38.pdf,7,1
+August,2022,Theft,Reported,1861,crime_38.pdf,7,1
+August,2023,Riots,Riots,333,crime_38.pdf,8,1
+July,2023,Riots,Riots,315,crime_38.pdf,8,1
+August,2022,Riots,Riots,277,crime_38.pdf,8,1
+August,2023,Hurt,Cases of Hurt,1614,crime_38.pdf,9,1
+July,2023,Hurt,Cases of Hurt,1443,crime_38.pdf,9,1
+August,2022,Hurt,Cases of Hurt,1191,crime_38.pdf,9,1
+August,2023,Special & Local Laws,Special & Local Laws,6661,crime_38.pdf,10,1
+July,2023,Special & Local Laws,Special & Local Laws,6074,crime_38.pdf,10,1
+August,2022,Special & Local Laws,Special & Local Laws,4562,crime_38.pdf,10,1
+August,2023,Crime against Women,Rape,51,crime_38.pdf,11,1
+July,2023,Crime against Women,Rape,48,crime_38.pdf,11,1
+August,2022,Crime against Women,Rape,43,crime_38.pdf,11,1
+August,2023,Crime against Women,Dowry Death,13,crime_38.pdf,11,1
+July,2023,Crime against Women,Dowry Death,16,crime_38.pdf,11,1
+August,2022,Crime against Women,Dowry Death,11,crime_38.pdf,11,1
+August,2023,POCSO,POCSO,353,crime_38.pdf,12,1
+July,2023,POCSO,POCSO,326,crime_38.pdf,12,1
+August,2022,POCSO,POCSO,225,crime_38.pdf,12,1
+August,2023,SC/ST POA Act,SC/ST POA Act,213,crime_38.pdf,13,1
+July,2023,SC/ST POA Act,SC/ST POA Act,207,crime_38.pdf,13,1
+August,2022,SC/ST POA Act,SC/ST POA Act,140,crime_38.pdf,13,1
+August,2023.0,Security Cases,Security Cases,1676,crime_38.pdf,14,1
+July,2023.0,Security Cases,Security Cases,1477,crime_38.pdf,14,1
+August,2022.0,Security Cases,Security Cases,3554,crime_38.pdf,14,1
+August,2023.0,Security Cases,Total,2778,crime_38.pdf,14,1
+July,2023.0,Security Cases,Total,2336,crime_38.pdf,14,1
+August,2022.0,Security Cases,Total,6257,crime_38.pdf,14,1
+August,2023,Cyber Crimes,Cyber Crimes,2196,crime_38.pdf,15,1
+July,2023,Cyber Crimes,Cyber Crimes,2072,crime_38.pdf,15,1
+August,2022,Cyber Crimes,Cyber Crimes,1111,crime_38.pdf,15,1
+August,2023,Economic Offences,Economic Offences,783,crime_38.pdf,16,1
+July,2023,Economic Offences,Economic Offences,835,crime_38.pdf,16,1
+August,2022,Economic Offences,Economic Offences,556,crime_38.pdf,16,1
+August,2023,MMDR & KMMCR,MMDR Act,13,crime_38.pdf,17,1
+July,2023,MMDR & KMMCR,MMDR Act,17,crime_38.pdf,17,1
+August,2022,MMDR & KMMCR,MMDR Act,9,crime_38.pdf,17,1
+August,2023,MMDR & KMMCR,KMMC Rules,4,crime_38.pdf,17,1
+July,2023,MMDR & KMMCR,KMMC Rules,2,crime_38.pdf,17,1
+August,2022,MMDR & KMMCR,KMMC Rules,3,crime_38.pdf,17,1
+August,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1505,crime_38.pdf,18,1
+July,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1464,crime_38.pdf,18,1
+August,2022,Motor Vehicles Theft,Motor Vehicles Theft Cases,1077,crime_38.pdf,18,1
+August,2023,NDPS Cases,NDPS Cases,721,crime_38.pdf,19,1
+July,2023,NDPS Cases,NDPS Cases,818,crime_38.pdf,19,1
+August,2022,NDPS Cases,NDPS Cases,689,crime_38.pdf,19,1
+September,2023,Murder,Murder for gain,0,crime_39.pdf,3,1
+August,2023,Murder,Murder for gain,2,crime_39.pdf,3,1
+September,2022,Murder,Murder for gain,7,crime_39.pdf,3,1
+September,2023,Murder,Other Murders,90,crime_39.pdf,3,1
+August,2023,Murder,Other Murders,100,crime_39.pdf,3,1
+September,2022,Murder,Other Murders,101,crime_39.pdf,3,1
+September,2023,Murder,Total Murder,90,crime_39.pdf,3,1
+August,2023,Murder,Total Murder,102,crime_39.pdf,3,1
+September,2022,Murder,Total Murder,108,crime_39.pdf,3,1
+September,2023,Dacoity,Dacoity Cases,20,crime_39.pdf,4,1
+August,2023,Dacoity,Dacoity Cases,17,crime_39.pdf,4,1
+September,2022,Dacoity,Dacoity Cases,14,crime_39.pdf,4,1
+September,2023,Robbery,Chain Snatching,54,crime_39.pdf,5,1
+August,2023,Robbery,Chain Snatching,43,crime_39.pdf,5,1
+September,2022,Robbery,Chain Snatching,59,crime_39.pdf,5,1
+September,2023,Robbery,Robbery (Except Chain Snatching),116,crime_39.pdf,5,1
+August,2023,Robbery,Robbery (Except Chain Snatching),155,crime_39.pdf,5,1
+September,2022,Robbery,Robbery (Except Chain Snatching),102,crime_39.pdf,5,1
+September,2023,Robbery,Total Robbery,170,crime_39.pdf,5,1
+August,2023,Robbery,Total Robbery,198,crime_39.pdf,5,1
+September,2022,Robbery,Total Robbery,161,crime_39.pdf,5,1
+September,2023,Burglary,Burglary Night,409,crime_39.pdf,6,1
+August,2023,Burglary,Burglary Night,504,crime_39.pdf,6,1
+September,2022,Burglary,Burglary Night,376,crime_39.pdf,6,1
+September,2023,Burglary,Burglary Day,101,crime_39.pdf,6,1
+August,2023,Burglary,Burglary Day,136,crime_39.pdf,6,1
+September,2022,Burglary,Burglary Day,79,crime_39.pdf,6,1
+September,2023,Burglary,Total,510,crime_39.pdf,6,1
+August,2023,Burglary,Total,640,crime_39.pdf,6,1
+September,2022,Burglary,Total,455,crime_39.pdf,6,1
+September,2023,Theft,Reported,2248,crime_39.pdf,7,1
+August,2023,Theft,Reported,2868,crime_39.pdf,7,1
+September,2022,Theft,Reported,1647,crime_39.pdf,7,1
+September,2023,Riots,Riots,332,crime_39.pdf,8,1
+August,2023,Riots,Riots,333,crime_39.pdf,8,1
+September,2022,Riots,Riots,286,crime_39.pdf,8,1
+September,2023,Hurt,Cases of Hurt,1573,crime_39.pdf,9,1
+August,2023,Hurt,Cases of Hurt,1611,crime_39.pdf,9,1
+September,2022,Hurt,Cases of Hurt,1217,crime_39.pdf,9,1
+September,2023,Special & Local Laws,Special & Local Laws,5950,crime_39.pdf,10,1
+August,2023,Special & Local Laws,Special & Local Laws,6692,crime_39.pdf,10,1
+September,2022,Special & Local Laws,Special & Local Laws,4284,crime_39.pdf,10,1
+September,2023,Crime against Women,Rape,51,crime_39.pdf,11,1
+August,2023,Crime against Women,Rape,51,crime_39.pdf,11,1
+September,2022,Crime against Women,Rape,47,crime_39.pdf,11,1
+September,2023,Crime against Women,Dowry Death,22,crime_39.pdf,11,1
+August,2023,Crime against Women,Dowry Death,13,crime_39.pdf,11,1
+September,2022,Crime against Women,Dowry Death,11,crime_39.pdf,11,1
+September,2023,POCSO,POCSO,269,crime_39.pdf,12,1
+August,2023,POCSO,POCSO,377,crime_39.pdf,12,1
+September,2022,POCSO,POCSO,266,crime_39.pdf,12,1
+September,2023,SC/ST POA Act,SC/ST POA Act,202,crime_39.pdf,13,1
+August,2023,SC/ST POA Act,SC/ST POA Act,211,crime_39.pdf,13,1
+September,2022,SC/ST POA Act,SC/ST POA Act,171,crime_39.pdf,13,1
+September,2023.0,Security Cases,Security Cases,3129,crime_39.pdf,14,1
+August,2023.0,Security Cases,Security Cases,1686,crime_39.pdf,14,1
+September,2022.0,Security Cases,Security Cases,1213,crime_39.pdf,14,1
+September,2023.0,Security Cases,Total,4890,crime_39.pdf,14,1
+August,2023.0,Security Cases,Total,2791,crime_39.pdf,14,1
+September,2022.0,Security Cases,Total,2107,crime_39.pdf,14,1
+September,2023,Cyber Crimes,Cyber Crimes,2021,crime_39.pdf,15,1
+August,2023,Cyber Crimes,Cyber Crimes,2196,crime_39.pdf,15,1
+September,2022,Cyber Crimes,Cyber Crimes,1072,crime_39.pdf,15,1
+September,2023,Economic Offences,Economic Offences,677,crime_39.pdf,16,1
+August,2023,Economic Offences,Economic Offences,782,crime_39.pdf,16,1
+September,2022,Economic Offences,Economic Offences,576,crime_39.pdf,16,1
+September,2023,MMDR & KMMCR,MMDR Act,16,crime_39.pdf,17,1
+August,2023,MMDR & KMMCR,MMDR Act,13,crime_39.pdf,17,1
+September,2022,MMDR & KMMCR,MMDR Act,6,crime_39.pdf,17,1
+September,2023,MMDR & KMMCR,KMMC Rules,2,crime_39.pdf,17,1
+August,2023,MMDR & KMMCR,KMMC Rules,4,crime_39.pdf,17,1
+September,2022,MMDR & KMMCR,KMMC Rules,4,crime_39.pdf,17,1
+September,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1154,crime_39.pdf,18,1
+August,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1504,crime_39.pdf,18,1
+September,2022,Motor Vehicles Theft,Motor Vehicles Theft Cases,943,crime_39.pdf,18,1
+September,2023,NDPS Cases,NDPS Cases,507,crime_39.pdf,19,1
+August,2023,NDPS Cases,NDPS Cases,723,crime_39.pdf,19,1
+September,2022,NDPS Cases,NDPS Cases,609,crime_39.pdf,19,1
+March,2026,Murder,Murder for gain,1,crime_3.pdf,3,1
+February,2026,Murder,Murder for gain,4,crime_3.pdf,3,1
+March,2025,Murder,Murder for gain,3,crime_3.pdf,3,1
+March,2026,Murder,Other Murders,103,crime_3.pdf,3,1
+February,2026,Murder,Other Murders,72,crime_3.pdf,3,1
+March,2025,Murder,Other Murders,97,crime_3.pdf,3,1
+March,2026,Murder,Total Murder,104,crime_3.pdf,3,1
+February,2026,Murder,Total Murder,76,crime_3.pdf,3,1
+March,2025,Murder,Total Murder,100,crime_3.pdf,3,1
+March,2026,Dacoity,Dacoity Cases,18,crime_3.pdf,4,1
+February,2026,Dacoity,Dacoity Cases,13,crime_3.pdf,4,1
+March,2025,Dacoity,Dacoity Cases,14,crime_3.pdf,4,1
+March,2026,Robbery,Chain Snatching,38,crime_3.pdf,5,1
+February,2026,Robbery,Chain Snatching,33,crime_3.pdf,5,1
+March,2025,Robbery,Chain Snatching,36,crime_3.pdf,5,1
+March,2026,Robbery,Robbery (Except Chain Snatching),64,crime_3.pdf,5,1
+February,2026,Robbery,Robbery (Except Chain Snatching),52,crime_3.pdf,5,1
+March,2025,Robbery,Robbery (Except Chain Snatching),46,crime_3.pdf,5,1
+March,2026,Robbery,Total Robbery,102,crime_3.pdf,5,1
+February,2026,Robbery,Total Robbery,85,crime_3.pdf,5,1
+March,2025,Robbery,Total Robbery,82,crime_3.pdf,5,1
+March,2026,Burglary,Burglary Night,267,crime_3.pdf,6,1
+February,2026,Burglary,Burglary Night,295,crime_3.pdf,6,1
+March,2025,Burglary,Burglary Night,292,crime_3.pdf,6,1
+March,2026,Burglary,Burglary Day,78,crime_3.pdf,6,1
+February,2026,Burglary,Burglary Day,90,crime_3.pdf,6,1
+March,2025,Burglary,Burglary Day,81,crime_3.pdf,6,1
+March,2026,Burglary,Total,345,crime_3.pdf,6,1
+February,2026,Burglary,Total,385,crime_3.pdf,6,1
+March,2025,Burglary,Total,373,crime_3.pdf,6,1
+March,2026,Theft,Reported,1713,crime_3.pdf,7,1
+February,2026,Theft,Reported,1633,crime_3.pdf,7,1
+March,2025,Theft,Reported,1819,crime_3.pdf,7,1
+March,2026,Riots,Riots,332,crime_3.pdf,8,1
+February,2026,Riots,Riots,268,crime_3.pdf,8,1
+March,2025,Riots,Riots,298,crime_3.pdf,8,1
+March,2026,Hurt,Cases of Hurt,1784,crime_3.pdf,9,1
+February,2026,Hurt,Cases of Hurt,1418,crime_3.pdf,9,1
+March,2025,Hurt,Cases of Hurt,1594,crime_3.pdf,9,1
+March,2026,Special & Local Laws,Special & Local Laws,6726,crime_3.pdf,10,1
+February,2026,Special & Local Laws,Special & Local Laws,5364,crime_3.pdf,10,1
+March,2025,Special & Local Laws,Special & Local Laws,6109,crime_3.pdf,10,1
+March,2026,Crime against Women,Rape,48,crime_3.pdf,11,1
+February,2026,Crime against Women,Rape,41,crime_3.pdf,11,1
+March,2025,Crime against Women,Rape,59,crime_3.pdf,11,1
+March,2026,Crime against Women,Dowry Death,18,crime_3.pdf,11,1
+February,2026,Crime against Women,Dowry Death,5,crime_3.pdf,11,1
+March,2025,Crime against Women,Dowry Death,7,crime_3.pdf,11,1
+March,2026,POCSO,POCSO,368,crime_3.pdf,12,1
+February,2026,POCSO,POCSO,386,crime_3.pdf,12,1
+March,2025,POCSO,POCSO,400,crime_3.pdf,12,1
+March,2026,SC/ST POA Act,SC/ST POA Act,225,crime_3.pdf,13,1
+February,2026,SC/ST POA Act,SC/ST POA Act,213,crime_3.pdf,13,1
+March,2025,SC/ST POA Act,SC/ST POA Act,205,crime_3.pdf,13,1
+March,2026.0,Security Cases,Security Cases,2702,crime_3.pdf,14,1
+February,2026.0,Security Cases,Security Cases,1532,crime_3.pdf,14,1
+March,2025.0,Security Cases,Security Cases,4256,crime_3.pdf,14,1
+March,2026.0,Security Cases,Total,5052,crime_3.pdf,14,1
+February,2026.0,Security Cases,Total,3206,crime_3.pdf,14,1
+March,2025.0,Security Cases,Total,7727,crime_3.pdf,14,1
+March,2026,Cyber Crimes,Cyber Crimes,1013,crime_3.pdf,15,1
+February,2026,Cyber Crimes,Cyber Crimes,1029,crime_3.pdf,15,1
+March,2025,Cyber Crimes,Cyber Crimes,1268,crime_3.pdf,15,1
+March,2026,Economic Offences,Economic Offences,494,crime_3.pdf,16,1
+February,2026,Economic Offences,Economic Offences,635,crime_3.pdf,16,1
+March,2025,Economic Offences,Economic Offences,582,crime_3.pdf,16,1
+March,2026,MMDR & KMMCR,MMDR Act,5,crime_3.pdf,17,1
+February,2026,MMDR & KMMCR,MMDR Act,0,crime_3.pdf,17,1
+March,2025,MMDR & KMMCR,MMDR Act,12,crime_3.pdf,17,1
+March,2026,MMDR & KMMCR,KMMC Rules,2,crime_3.pdf,17,1
+February,2026,MMDR & KMMCR,KMMC Rules,1,crime_3.pdf,17,1
+March,2025,MMDR & KMMCR,KMMC Rules,1,crime_3.pdf,17,1
+March,2026,Motor Vehicles Theft,Motor Vehicles Theft Cases,755,crime_3.pdf,18,1
+February,2026,Motor Vehicles Theft,Motor Vehicles Theft Cases,683,crime_3.pdf,18,1
+March,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,831,crime_3.pdf,18,1
+March,2026,NDPS Cases,NDPS Cases,1017,crime_3.pdf,19,1
+February,2026,NDPS Cases,NDPS Cases,980,crime_3.pdf,19,1
+March,2025,NDPS Cases,NDPS Cases,433,crime_3.pdf,19,1
+October,2023,Murder,Murder for gain,0,crime_40.pdf,3,1
+September,2023,Murder,Murder for gain,0,crime_40.pdf,3,1
+October,2022,Murder,Murder for gain,4,crime_40.pdf,3,1
+October,2023,Murder,Other Murders,112,crime_40.pdf,3,1
+September,2023,Murder,Other Murders,93,crime_40.pdf,3,1
+October,2022,Murder,Other Murders,122,crime_40.pdf,3,1
+October,2023,Murder,Total Murder,112,crime_40.pdf,3,1
+September,2023,Murder,Total Murder,93,crime_40.pdf,3,1
+October,2022,Murder,Total Murder,126,crime_40.pdf,3,1
+October,2023,Dacoity,Dacoity Cases,13,crime_40.pdf,4,1
+September,2023,Dacoity,Dacoity Cases,23,crime_40.pdf,4,1
+October,2022,Dacoity,Dacoity Cases,18,crime_40.pdf,4,1
+October,2023,Robbery,Chain Snatching,63,crime_40.pdf,5,1
+September,2023,Robbery,Chain Snatching,51,crime_40.pdf,5,1
+October,2022,Robbery,Chain Snatching,47,crime_40.pdf,5,1
+October,2023,Robbery,Robbery (Except Chain Snatching),114,crime_40.pdf,5,1
+September,2023,Robbery,Robbery (Except Chain Snatching),119,crime_40.pdf,5,1
+October,2022,Robbery,Robbery (Except Chain Snatching),76,crime_40.pdf,5,1
+October,2023,Robbery,Total Robbery,177,crime_40.pdf,5,1
+September,2023,Robbery,Total Robbery,170,crime_40.pdf,5,1
+October,2022,Robbery,Total Robbery,123,crime_40.pdf,5,1
+September,October,Burglary,Burglary Night,454,crime_40.pdf,6,1
+August,September,Burglary,Burglary Night,406,crime_40.pdf,6,1
+September,October,Burglary,Burglary Night,378,crime_40.pdf,6,1
+September,October,Burglary,Burglary Day,87,crime_40.pdf,6,1
+August,September,Burglary,Burglary Day,102,crime_40.pdf,6,1
+September,October,Burglary,Burglary Day,70,crime_40.pdf,6,1
+September,October,Burglary,Total,541,crime_40.pdf,6,1
+August,September,Burglary,Total,508,crime_40.pdf,6,1
+September,October,Burglary,Total,448,crime_40.pdf,6,1
+October,2023,Theft,Reported,2392,crime_40.pdf,7,1
+September,2023,Theft,Reported,2248,crime_40.pdf,7,1
+October,2022,Theft,Reported,1644,crime_40.pdf,7,1
+October,2023,Riots,Riots,332,crime_40.pdf,8,1
+September,2023,Riots,Riots,328,crime_40.pdf,8,1
+October,2022,Riots,Riots,307,crime_40.pdf,8,1
+October,2023,Hurt,Cases of Hurt,1499,crime_40.pdf,9,1
+September,2023,Hurt,Cases of Hurt,1577,crime_40.pdf,9,1
+October,2022,Hurt,Cases of Hurt,1240,crime_40.pdf,9,1
+October,2023,Special & Local Laws,Special & Local Laws,5224,crime_40.pdf,10,1
+September,2023,Special & Local Laws,Special & Local Laws,5978,crime_40.pdf,10,1
+October,2022,Special & Local Laws,Special & Local Laws,4119,crime_40.pdf,10,1
+October,2023,Crime against Women,Rape,57,crime_40.pdf,11,1
+September,2023,Crime against Women,Rape,52,crime_40.pdf,11,1
+October,2022,Crime against Women,Rape,34,crime_40.pdf,11,1
+October,2023,Crime against Women,Dowry Death,13,crime_40.pdf,11,1
+September,2023,Crime against Women,Dowry Death,22,crime_40.pdf,11,1
+October,2022,Crime against Women,Dowry Death,12,crime_40.pdf,11,1
+October,2023,POCSO,POCSO,263,crime_40.pdf,12,1
+September,2023,POCSO,POCSO,291,crime_40.pdf,12,1
+October,2022,POCSO,POCSO,233,crime_40.pdf,12,1
+October,2023,SC/ST POA Act,SC/ST POA Act,203,crime_40.pdf,13,1
+September,2023,SC/ST POA Act,SC/ST POA Act,204,crime_40.pdf,13,1
+October,2022,SC/ST POA Act,SC/ST POA Act,160,crime_40.pdf,13,1
+October,2023.0,Security Cases,Security Cases,1231,crime_40.pdf,14,1
+September,2023.0,Security Cases,Security Cases,3157,crime_40.pdf,14,1
+October,2022.0,Security Cases,Security Cases,832,crime_40.pdf,14,1
+October,2023.0,Security Cases,Total,2948,crime_40.pdf,14,1
+September,2023.0,Security Cases,Total,4933,crime_40.pdf,14,1
+October,2022.0,Security Cases,Total,1635,crime_40.pdf,14,1
+October,2023,Cyber Crimes,Cyber Crimes,2123,crime_40.pdf,15,1
+September,2023,Cyber Crimes,Cyber Crimes,2023,crime_40.pdf,15,1
+October,2022,Cyber Crimes,Cyber Crimes,1104,crime_40.pdf,15,1
+October,2023,Economic Offences,Economic Offences,703,crime_40.pdf,16,1
+September,2023,Economic Offences,Economic Offences,672,crime_40.pdf,16,1
+October,2022,Economic Offences,Economic Offences,552,crime_40.pdf,16,1
+October,2023,MMDR & KMMCR,MMDR Act,17,crime_40.pdf,17,1
+September,2023,MMDR & KMMCR,MMDR Act,17,crime_40.pdf,17,1
+October,2022,MMDR & KMMCR,MMDR Act,6,crime_40.pdf,17,1
+October,2023,MMDR & KMMCR,KMMC Rules,3,crime_40.pdf,17,1
+September,2023,MMDR & KMMCR,KMMC Rules,2,crime_40.pdf,17,1
+October,2022,MMDR & KMMCR,KMMC Rules,6,crime_40.pdf,17,1
+October,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1220,crime_40.pdf,18,1
+September,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1155,crime_40.pdf,18,1
+October,2022,Motor Vehicles Theft,Motor Vehicles Theft Cases,863,crime_40.pdf,18,1
+October,2023,NDPS Cases,NDPS Cases,224,crime_40.pdf,19,1
+September,2023,NDPS Cases,NDPS Cases,507,crime_40.pdf,19,1
+October,2022,NDPS Cases,NDPS Cases,421,crime_40.pdf,19,1
+November,2023,Murder,Murder for gain,5,crime_41.pdf,3,1
+October,2023,Murder,Murder for gain,0,crime_41.pdf,3,1
+November,2022,Murder,Murder for gain,2,crime_41.pdf,3,1
+November,2023,Murder,Other Murders,89,crime_41.pdf,3,1
+October,2023,Murder,Other Murders,116,crime_41.pdf,3,1
+November,2022,Murder,Other Murders,100,crime_41.pdf,3,1
+November,2023,Murder,Total Murder,94,crime_41.pdf,3,1
+October,2023,Murder,Total Murder,116,crime_41.pdf,3,1
+November,2022,Murder,Total Murder,102,crime_41.pdf,3,1
+November,2023,Dacoity,Dacoity Cases,14,crime_41.pdf,4,1
+October,2023,Dacoity,Dacoity Cases,12,crime_41.pdf,4,1
+November,2022,Dacoity,Dacoity Cases,20,crime_41.pdf,4,1
+November,2023,Robbery,Chain Snatching,53,crime_41.pdf,5,1
+October,2023,Robbery,Chain Snatching,62,crime_41.pdf,5,1
+November,2022,Robbery,Chain Snatching,40,crime_41.pdf,5,1
+November,2023,Robbery,Robbery (Except Chain Snatching),105,crime_41.pdf,5,1
+October,2023,Robbery,Robbery (Except Chain Snatching),115,crime_41.pdf,5,1
+November,2022,Robbery,Robbery (Except Chain Snatching),98,crime_41.pdf,5,1
+November,2023,Robbery,Total Robbery,158,crime_41.pdf,5,1
+October,2023,Robbery,Total Robbery,177,crime_41.pdf,5,1
+November,2022,Robbery,Total Robbery,138,crime_41.pdf,5,1
+November,October,Burglary,Burglary Night,381,crime_41.pdf,6,1
+October,September,Burglary,Burglary Night,457,crime_41.pdf,6,1
+November,October,Burglary,Burglary Night,386,crime_41.pdf,6,1
+November,October,Burglary,Burglary Day,92,crime_41.pdf,6,1
+October,September,Burglary,Burglary Day,85,crime_41.pdf,6,1
+November,October,Burglary,Burglary Day,92,crime_41.pdf,6,1
+November,October,Burglary,Total,473,crime_41.pdf,6,1
+October,September,Burglary,Total,542,crime_41.pdf,6,1
+November,October,Burglary,Total,478,crime_41.pdf,6,1
+November,2023,Theft,Reported,2119,crime_41.pdf,7,1
+October,2023,Theft,Reported,2393,crime_41.pdf,7,1
+November,2022,Theft,Reported,1712,crime_41.pdf,7,1
+November,2023,Riots,Riots,284,crime_41.pdf,8,1
+October,2023,Riots,Riots,332,crime_41.pdf,8,1
+November,2022,Riots,Riots,268,crime_41.pdf,8,1
+November,2023,Hurt,Cases of Hurt,1352,crime_41.pdf,9,1
+October,2023,Hurt,Cases of Hurt,1498,crime_41.pdf,9,1
+November,2022,Hurt,Cases of Hurt,1171,crime_41.pdf,9,1
+November,2023,Special & Local Laws,Special & Local Laws,5635,crime_41.pdf,10,1
+October,2023,Special & Local Laws,Special & Local Laws,5248,crime_41.pdf,10,1
+November,2022,Special & Local Laws,Special & Local Laws,3913,crime_41.pdf,10,1
+November,2023,Crime against Women,Rape,51,crime_41.pdf,11,1
+October,2023,Crime against Women,Rape,56,crime_41.pdf,11,1
+November,2022,Crime against Women,Rape,46,crime_41.pdf,11,1
+November,2023,Crime against Women,Dowry Death,14,crime_41.pdf,11,1
+October,2023,Crime against Women,Dowry Death,14,crime_41.pdf,11,1
+November,2022,Crime against Women,Dowry Death,18,crime_41.pdf,11,1
+November,2023,POCSO,POCSO,262,crime_41.pdf,12,1
+October,2023,POCSO,POCSO,285,crime_41.pdf,12,1
+November,2022,POCSO,POCSO,281,crime_41.pdf,12,1
+November,2023,SC/ST POA Act,SC/ST POA Act,163,crime_41.pdf,13,1
+October,2023,SC/ST POA Act,SC/ST POA Act,204,crime_41.pdf,13,1
+November,2022,SC/ST POA Act,SC/ST POA Act,170,crime_41.pdf,13,1
+November,2023.0,Security Cases,Security Cases,2285,crime_41.pdf,14,1
+October,2023.0,Security Cases,Security Cases,1250,crime_41.pdf,14,1
+November,2022.0,Security Cases,Security Cases,992,crime_41.pdf,14,1
+November,2023.0,Security Cases,Total,3605,crime_41.pdf,14,1
+October,2023.0,Security Cases,Total,2983,crime_41.pdf,14,1
+November,2022.0,Security Cases,Total,1891,crime_41.pdf,14,1
+November,2023,Cyber Crimes,Cyber Crimes,2065,crime_41.pdf,15,1
+October,2023,Cyber Crimes,Cyber Crimes,2126,crime_41.pdf,15,1
+November,2022,Cyber Crimes,Cyber Crimes,1232,crime_41.pdf,15,1
+November,2023,Economic Offences,Economic Offences,608,crime_41.pdf,16,1
+October,2023,Economic Offences,Economic Offences,701,crime_41.pdf,16,1
+November,2022,Economic Offences,Economic Offences,612,crime_41.pdf,16,1
+November,2023,MMDR & KMMCR,MMDR Act,8,crime_41.pdf,17,1
+October,2023,MMDR & KMMCR,MMDR Act,17,crime_41.pdf,17,1
+November,2022,MMDR & KMMCR,MMDR Act,4,crime_41.pdf,17,1
+November,2023,MMDR & KMMCR,KMMC Rules,2,crime_41.pdf,17,1
+October,2023,MMDR & KMMCR,KMMC Rules,3,crime_41.pdf,17,1
+November,2022,MMDR & KMMCR,KMMC Rules,2,crime_41.pdf,17,1
+November,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1103,crime_41.pdf,18,1
+October,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1222,crime_41.pdf,18,1
+November,2022,Motor Vehicles Theft,Motor Vehicles Theft Cases,943,crime_41.pdf,18,1
+November,2023,NDPS Cases,NDPS Cases,311,crime_41.pdf,19,1
+October,2023,NDPS Cases,NDPS Cases,224,crime_41.pdf,19,1
+November,2022,NDPS Cases,NDPS Cases,386,crime_41.pdf,19,1
+April,2026,Murder,Murder for gain,1,crime_4.pdf,3,1
+March,2026,Murder,Murder for gain,1,crime_4.pdf,3,1
+April,2025,Murder,Murder for gain,3,crime_4.pdf,3,1
+April,2026,Murder,Other Murders,77,crime_4.pdf,3,1
+March,2026,Murder,Other Murders,110,crime_4.pdf,3,1
+April,2025,Murder,Other Murders,117,crime_4.pdf,3,1
+April,2026,Murder,Total Murder,78,crime_4.pdf,3,1
+March,2026,Murder,Total Murder,111,crime_4.pdf,3,1
+April,2025,Murder,Total Murder,120,crime_4.pdf,3,1
+April,2026,Dacoity,Dacoity Cases,7,crime_4.pdf,4,1
+March,2026,Dacoity,Dacoity Cases,20,crime_4.pdf,4,1
+April,2025,Dacoity,Dacoity Cases,10,crime_4.pdf,4,1
+April,2026,Robbery,Chain Snatching,30,crime_4.pdf,5,1
+March,2026,Robbery,Chain Snatching,39,crime_4.pdf,5,1
+April,2025,Robbery,Chain Snatching,41,crime_4.pdf,5,1
+April,2026,Robbery,Robbery (Except Chain Snatching),52,crime_4.pdf,5,1
+March,2026,Robbery,Robbery (Except Chain Snatching),63,crime_4.pdf,5,1
+April,2025,Robbery,Robbery (Except Chain Snatching),39,crime_4.pdf,5,1
+April,2026,Robbery,Total Robbery,82,crime_4.pdf,5,1
+March,2026,Robbery,Total Robbery,102,crime_4.pdf,5,1
+April,2025,Robbery,Total Robbery,80,crime_4.pdf,5,1
+April,2026,Burglary,Burglary Night,323,crime_4.pdf,6,1
+March,2026,Burglary,Burglary Night,266,crime_4.pdf,6,1
+April,2025,Burglary,Burglary Night,320,crime_4.pdf,6,1
+April,2026,Burglary,Burglary Day,74,crime_4.pdf,6,1
+March,2026,Burglary,Burglary Day,79,crime_4.pdf,6,1
+April,2025,Burglary,Burglary Day,96,crime_4.pdf,6,1
+April,2026,Burglary,Total,397,crime_4.pdf,6,1
+March,2026,Burglary,Total,345,crime_4.pdf,6,1
+April,2025,Burglary,Total,416,crime_4.pdf,6,1
+April,2026,Theft,Reported,1694,crime_4.pdf,7,1
+March,2026,Theft,Reported,1711,crime_4.pdf,7,1
+April,2025,Theft,Reported,1769,crime_4.pdf,7,1
+April,2026,Riots,Riots,342,crime_4.pdf,8,1
+March,2026,Riots,Riots,329,crime_4.pdf,8,1
+April,2025,Riots,Riots,302,crime_4.pdf,8,1
+April,2026,Hurt,Cases of Hurt,1756,crime_4.pdf,9,1
+March,2026,Hurt,Cases of Hurt,1780,crime_4.pdf,9,1
+April,2025,Hurt,Cases of Hurt,1548,crime_4.pdf,9,1
+April,2026,Special & Local Laws,Special & Local Laws,5395,crime_4.pdf,10,1
+March,2026,Special & Local Laws,Special & Local Laws,6796,crime_4.pdf,10,1
+April,2025,Special & Local Laws,Special & Local Laws,5188,crime_4.pdf,10,1
+April,2026,Crime against Women,Rape,56,crime_4.pdf,11,1
+March,2026,Crime against Women,Rape,51,crime_4.pdf,11,1
+April,2025,Crime against Women,Rape,56,crime_4.pdf,11,1
+April,2026,Crime against Women,Dowry Death,15,crime_4.pdf,11,1
+March,2026,Crime against Women,Dowry Death,18,crime_4.pdf,11,1
+April,2025,Crime against Women,Dowry Death,16,crime_4.pdf,11,1
+April,2026,POCSO,POCSO,394,crime_4.pdf,12,1
+March,2026,POCSO,POCSO,422,crime_4.pdf,12,1
+April,2025,POCSO,POCSO,382,crime_4.pdf,12,1
+April,2026,SC/ST POA Act,SC/ST POA Act,237,crime_4.pdf,13,1
+March,2026,SC/ST POA Act,SC/ST POA Act,230,crime_4.pdf,13,1
+April,2025,SC/ST POA Act,SC/ST POA Act,189,crime_4.pdf,13,1
+April,2026.0,Security Cases,Security Cases,1760,crime_4.pdf,14,1
+March,2026.0,Security Cases,Security Cases,2724,crime_4.pdf,14,1
+April,2025.0,Security Cases,Security Cases,2869,crime_4.pdf,14,1
+April,2026.0,Security Cases,Total,3419,crime_4.pdf,14,1
+March,2026.0,Security Cases,Total,5096,crime_4.pdf,14,1
+April,2025.0,Security Cases,Total,4898,crime_4.pdf,14,1
+April,2026,Cyber Crimes,Cyber Crimes,928,crime_4.pdf,15,1
+March,2026,Cyber Crimes,Cyber Crimes,1012,crime_4.pdf,15,1
+April,2025,Cyber Crimes,Cyber Crimes,1008,crime_4.pdf,15,1
+April,2026,Economic Offences,Economic Offences,546,crime_4.pdf,16,1
+March,2026,Economic Offences,Economic Offences,495,crime_4.pdf,16,1
+April,2025,Economic Offences,Economic Offences,507,crime_4.pdf,16,1
+April,2026,MMDR & KMMCR,MMDR Act,2,crime_4.pdf,17,1
+March,2026,MMDR & KMMCR,MMDR Act,5,crime_4.pdf,17,1
+April,2025,MMDR & KMMCR,MMDR Act,7,crime_4.pdf,17,1
+April,2026,MMDR & KMMCR,KMMC Rules,3,crime_4.pdf,17,1
+March,2026,MMDR & KMMCR,KMMC Rules,2,crime_4.pdf,17,1
+April,2025,MMDR & KMMCR,KMMC Rules,0,crime_4.pdf,17,1
+April,2026,Motor Vehicles Theft,Motor Vehicles Theft Cases,804,crime_4.pdf,18,1
+March,2026,Motor Vehicles Theft,Motor Vehicles Theft Cases,755,crime_4.pdf,18,1
+April,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,813,crime_4.pdf,18,1
+April,2026,NDPS Cases,NDPS Cases,940,crime_4.pdf,19,1
+March,2026,NDPS Cases,NDPS Cases,1018,crime_4.pdf,19,1
+April,2025,NDPS Cases,NDPS Cases,517,crime_4.pdf,19,1
+May,2026,Murder,Murder for gain,3,crime_5.pdf,3,1
+April,2026,Murder,Murder for gain,2,crime_5.pdf,3,1
+May,2025,Murder,Murder for gain,4,crime_5.pdf,3,1
+May,2026,Murder,Other Murders,91,crime_5.pdf,3,1
+April,2026,Murder,Other Murders,77,crime_5.pdf,3,1
+May,2025,Murder,Other Murders,110,crime_5.pdf,3,1
+May,2026,Murder,Total Murder,94,crime_5.pdf,3,1
+April,2026,Murder,Total Murder,79,crime_5.pdf,3,1
+May,2025,Murder,Total Murder,114,crime_5.pdf,3,1
+May,2026,Dacoity,Dacoity Cases,15,crime_5.pdf,4,1
+April,2026,Dacoity,Dacoity Cases,8,crime_5.pdf,4,1
+May,2025,Dacoity,Dacoity Cases,5,crime_5.pdf,4,1
+May,2026,Robbery,Chain Snatching,36,crime_5.pdf,5,1
+April,2026,Robbery,Chain Snatching,31,crime_5.pdf,5,1
+May,2025,Robbery,Chain Snatching,40,crime_5.pdf,5,1
+May,2026,Robbery,Robbery (Except Chain Snatching),65,crime_5.pdf,5,1
+April,2026,Robbery,Robbery (Except Chain Snatching),50,crime_5.pdf,5,1
+May,2025,Robbery,Robbery (Except Chain Snatching),44,crime_5.pdf,5,1
+May,2026,Robbery,Total Robbery,101,crime_5.pdf,5,1
+April,2026,Robbery,Total Robbery,81,crime_5.pdf,5,1
+May,2025,Robbery,Total Robbery,84,crime_5.pdf,5,1
+May,2026,Burglary,Burglary Night,324,crime_5.pdf,6,1
+April,2026,Burglary,Burglary Night,329,crime_5.pdf,6,1
+May,2025,Burglary,Burglary Night,333,crime_5.pdf,6,1
+May,2026,Burglary,Burglary Day,57,crime_5.pdf,6,1
+April,2026,Burglary,Burglary Day,74,crime_5.pdf,6,1
+May,2025,Burglary,Burglary Day,89,crime_5.pdf,6,1
+May,2026,Burglary,Total,381,crime_5.pdf,6,1
+April,2026,Burglary,Total,403,crime_5.pdf,6,1
+May,2025,Burglary,Total,422,crime_5.pdf,6,1
+May,2026,Theft,Reported,1740,crime_5.pdf,7,1
+April,2026,Theft,Reported,1685,crime_5.pdf,7,1
+May,2025,Theft,Reported,1707,crime_5.pdf,7,1
+May,2026,Riots,Riots,383,crime_5.pdf,8,1
+April,2026,Riots,Riots,343,crime_5.pdf,8,1
+May,2025,Riots,Riots,296,crime_5.pdf,8,1
+May,2026,Hurt,Cases of Hurt,1710,crime_5.pdf,9,1
+April,2026,Hurt,Cases of Hurt,1758,crime_5.pdf,9,1
+May,2025,Hurt,Cases of Hurt,1408,crime_5.pdf,9,1
+May,2026,Special & Local Laws,Special & Local Laws,5563,crime_5.pdf,10,1
+April,2026,Special & Local Laws,Special & Local Laws,5463,crime_5.pdf,10,1
+May,2025,Special & Local Laws,Special & Local Laws,5425,crime_5.pdf,10,1
+May,2026,Crime against Women,Rape,57,crime_5.pdf,11,1
+April,2026,Crime against Women,Rape,54,crime_5.pdf,11,1
+May,2025,Crime against Women,Rape,63,crime_5.pdf,11,1
+May,2026,Crime against Women,Dowry Death,10,crime_5.pdf,11,1
+April,2026,Crime against Women,Dowry Death,15,crime_5.pdf,11,1
+May,2025,Crime against Women,Dowry Death,6,crime_5.pdf,11,1
+May,2026,POCSO,POCSO,406,crime_5.pdf,12,1
+April,2026,POCSO,POCSO,445,crime_5.pdf,12,1
+May,2025,POCSO,POCSO,393,crime_5.pdf,12,1
+May,2026,SC/ST POA Act,SC/ST POA Act,232,crime_5.pdf,13,1
+April,2026,SC/ST POA Act,SC/ST POA Act,245,crime_5.pdf,13,1
+May,2025,SC/ST POA Act,SC/ST POA Act,177,crime_5.pdf,13,1
+May,2026.0,Security Cases,Security Cases,3302,crime_5.pdf,14,1
+April,2026.0,Security Cases,Security Cases,1776,crime_5.pdf,14,1
+May,2025.0,Security Cases,Security Cases,3817,crime_5.pdf,14,1
+May,2026.0,Security Cases,Total,5745,crime_5.pdf,14,1
+April,2026.0,Security Cases,Total,3441,crime_5.pdf,14,1
+May,2025.0,Security Cases,Total,7881,crime_5.pdf,14,1
+May,2026,Cyber Crimes,Cyber Crimes,947,crime_5.pdf,15,1
+April,2026,Cyber Crimes,Cyber Crimes,927,crime_5.pdf,15,1
+May,2025,Cyber Crimes,Cyber Crimes,1200,crime_5.pdf,15,1
+May,2026,Economic Offences,Economic Offences,542,crime_5.pdf,16,1
+April,2026,Economic Offences,Economic Offences,543,crime_5.pdf,16,1
+May,2025,Economic Offences,Economic Offences,530,crime_5.pdf,16,1
+May,2026,MMDR & KMMCR,MMDR Act,5,crime_5.pdf,17,1
+April,2026,MMDR & KMMCR,MMDR Act,2,crime_5.pdf,17,1
+May,2025,MMDR & KMMCR,MMDR Act,4,crime_5.pdf,17,1
+May,2026,MMDR & KMMCR,KMMC Rules,1,crime_5.pdf,17,1
+April,2026,MMDR & KMMCR,KMMC Rules,3,crime_5.pdf,17,1
+May,2025,MMDR & KMMCR,KMMC Rules,1,crime_5.pdf,17,1
+May,2026,Motor Vehicles Theft,Motor Vehicles Theft Cases,761,crime_5.pdf,18,1
+April,2026,Motor Vehicles Theft,Motor Vehicles Theft Cases,802,crime_5.pdf,18,1
+May,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,779,crime_5.pdf,18,1
+May,2026,NDPS Cases,NDPS Cases,813,crime_5.pdf,19,1
+April,2026,NDPS Cases,NDPS Cases,940,crime_5.pdf,19,1
+May,2025,NDPS Cases,NDPS Cases,374,crime_5.pdf,19,1
+January,2025,Murder,Murder for gain,4,crime_6.pdf,3,1
+December,2024,Murder,Murder for gain,7,crime_6.pdf,3,1
+January,2024,Murder,Murder for gain,3,crime_6.pdf,3,1
+January,2025,Murder,Other Murders,94,crime_6.pdf,3,1
+December,2024,Murder,Other Murders,87,crime_6.pdf,3,1
+January,2024,Murder,Other Murders,76,crime_6.pdf,3,1
+January,2025,Murder,Total Murder,98,crime_6.pdf,3,1
+December,2024,Murder,Total Murder,94,crime_6.pdf,3,1
+January,2024,Murder,Total Murder,79,crime_6.pdf,3,1
+January,2025,Dacoity,Dacoity Cases,13,crime_6.pdf,4,1
+December,2024,Dacoity,Dacoity Cases,12,crime_6.pdf,4,1
+January,2024,Dacoity,Dacoity Cases,17,crime_6.pdf,4,1
+January,2025,Robbery,Chain Snatching,42,crime_6.pdf,5,1
+December,2024,Robbery,Chain Snatching,39,crime_6.pdf,5,1
+January,2024,Robbery,Chain Snatching,54,crime_6.pdf,5,1
+January,2025,Robbery,Robbery (Except Chain Snatching),56,crime_6.pdf,5,1
+December,2024,Robbery,Robbery (Except Chain Snatching),53,crime_6.pdf,5,1
+January,2024,Robbery,Robbery (Except Chain Snatching),120,crime_6.pdf,5,1
+January,2025,Robbery,Total Robbery,98,crime_6.pdf,5,1
+December,2024,Robbery,Total Robbery,92,crime_6.pdf,5,1
+January,2024,Robbery,Total Robbery,174,crime_6.pdf,5,1
+January,2025,Burglary,Burglary Night,316,crime_6.pdf,6,1
+December,2024,Burglary,Burglary Night,336,crime_6.pdf,6,1
+January,2024,Burglary,Burglary Night,415,crime_6.pdf,6,1
+January,2025,Burglary,Burglary Day,94,crime_6.pdf,6,1
+December,2024,Burglary,Burglary Day,94,crime_6.pdf,6,1
+January,2024,Burglary,Burglary Day,101,crime_6.pdf,6,1
+January,2025,Burglary,Total,410,crime_6.pdf,6,1
+December,2024,Burglary,Total,430,crime_6.pdf,6,1
+January,2024,Burglary,Total,516,crime_6.pdf,6,1
+January,2025,Theft,Reported,1837,crime_6.pdf,7,1
+December,2024,Theft,Reported,1891,crime_6.pdf,7,1
+January,2024,Theft,Reported,1942,crime_6.pdf,7,1
+January,2025,Riots,Riots,260,crime_6.pdf,8,1
+December,2024,Riots,Riots,247,crime_6.pdf,8,1
+January,2024,Riots,Riots,301,crime_6.pdf,8,1
+January,2025,Hurt,Cases of Hurt,1314,crime_6.pdf,9,1
+December,2024,Hurt,Cases of Hurt,1300,crime_6.pdf,9,1
+January,2024,Hurt,Cases of Hurt,1387,crime_6.pdf,9,1
+January,2025,Special & Local Laws,Special & Local Laws,4534,crime_6.pdf,10,1
+December,2024,Special & Local Laws,Special & Local Laws,6333,crime_6.pdf,10,1
+January,2024,Special & Local Laws,Special & Local Laws,4734,crime_6.pdf,10,1
+January,2025,Crime against Women,Rape,65,crime_6.pdf,11,1
+December,2024,Crime against Women,Rape,58,crime_6.pdf,11,1
+January,2024,Crime against Women,Rape,53,crime_6.pdf,11,1
+January,2025,Crime against Women,Dowry Death,11,crime_6.pdf,11,1
+December,2024,Crime against Women,Dowry Death,6,crime_6.pdf,11,1
+January,2024,Crime against Women,Dowry Death,5,crime_6.pdf,11,1
+January,2025,POCSO,POCSO,304,crime_6.pdf,12,1
+December,2024,POCSO,POCSO,319,crime_6.pdf,12,1
+January,2024,POCSO,POCSO,348,crime_6.pdf,12,1
+January,2025,SC/ST POA Act,SC/ST POA Act,172,crime_6.pdf,13,1
+December,2024,SC/ST POA Act,SC/ST POA Act,172,crime_6.pdf,13,1
+January,2024,SC/ST POA Act,SC/ST POA Act,200,crime_6.pdf,13,1
+January,2025.0,Security Cases,Security Cases,1418,crime_6.pdf,14,1
+December,2024.0,Security Cases,Security Cases,1199,crime_6.pdf,14,1
+January,2024.0,Security Cases,Security Cases,1724,crime_6.pdf,14,1
+January,2025.0,Security Cases,Total,2592,crime_6.pdf,14,1
+December,2024.0,Security Cases,Total,1949,crime_6.pdf,14,1
+January,2024.0,Security Cases,Total,3751,crime_6.pdf,14,1
+January,2025,Cyber Crimes,Cyber Crimes,1401,crime_6.pdf,15,1
+December,2024,Cyber Crimes,Cyber Crimes,1520,crime_6.pdf,15,1
+January,2024,Cyber Crimes,Cyber Crimes,1948,crime_6.pdf,15,1
+January,2025,Economic Offences,Economic Offences,571,crime_6.pdf,16,1
+December,2024,Economic Offences,Economic Offences,615,crime_6.pdf,16,1
+January,2024,Economic Offences,Economic Offences,678,crime_6.pdf,16,1
+January,2025,MMDR & KMMCR,MMDR Act,5,crime_6.pdf,17,1
+December,2024,MMDR & KMMCR,MMDR Act,5,crime_6.pdf,17,1
+January,2024,MMDR & KMMCR,MMDR Act,15,crime_6.pdf,17,1
+January,2025,MMDR & KMMCR,KMMC Rules,0,crime_6.pdf,17,1
+December,2024,MMDR & KMMCR,KMMC Rules,2,crime_6.pdf,17,1
+January,2024,MMDR & KMMCR,KMMC Rules,6,crime_6.pdf,17,1
+January,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,900,crime_6.pdf,18,1
+December,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,926,crime_6.pdf,18,1
+January,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1018,crime_6.pdf,18,1
+January,2025,NDPS Cases,NDPS Cases,428,crime_6.pdf,19,1
+December,2024,NDPS Cases,NDPS Cases,651,crime_6.pdf,19,1
+January,2024,NDPS Cases,NDPS Cases,282,crime_6.pdf,19,1
+February,2025,Murder,Murder for gain,3,crime_7.pdf,3,1
+January,2025,Murder,Murder for gain,4,crime_7.pdf,3,1
+February,2024,Murder,Murder for gain,2,crime_7.pdf,3,1
+February,2025,Murder,Other Murders,98,crime_7.pdf,3,1
+January,2025,Murder,Other Murders,97,crime_7.pdf,3,1
+February,2024,Murder,Other Murders,117,crime_7.pdf,3,1
+February,2025,Murder,Total Murder,101,crime_7.pdf,3,1
+January,2025,Murder,Total Murder,101,crime_7.pdf,3,1
+February,2024,Murder,Total Murder,119,crime_7.pdf,3,1
+February,2025,Dacoity,Dacoity Cases,11,crime_7.pdf,4,1
+January,2025,Dacoity,Dacoity Cases,13,crime_7.pdf,4,1
+February,2024,Dacoity,Dacoity Cases,17,crime_7.pdf,4,1
+February,2025,Robbery,Chain Snatching,33,crime_7.pdf,5,1
+January,2025,Robbery,Chain Snatching,43,crime_7.pdf,5,1
+February,2024,Robbery,Chain Snatching,68,crime_7.pdf,5,1
+February,2025,Robbery,Robbery (Except Chain Snatching),46,crime_7.pdf,5,1
+January,2025,Robbery,Robbery (Except Chain Snatching),54,crime_7.pdf,5,1
+February,2024,Robbery,Robbery (Except Chain Snatching),103,crime_7.pdf,5,1
+February,2025,Robbery,Total Robbery,79,crime_7.pdf,5,1
+January,2025,Robbery,Total Robbery,97,crime_7.pdf,5,1
+February,2024,Robbery,Total Robbery,171,crime_7.pdf,5,1
+February,2025,Burglary,Burglary Night,312,crime_7.pdf,6,1
+January,2025,Burglary,Burglary Night,315,crime_7.pdf,6,1
+February,2024,Burglary,Burglary Night,354,crime_7.pdf,6,1
+February,2025,Burglary,Burglary Day,73,crime_7.pdf,6,1
+January,2025,Burglary,Burglary Day,94,crime_7.pdf,6,1
+February,2024,Burglary,Burglary Day,99,crime_7.pdf,6,1
+February,2025,Burglary,Total,385,crime_7.pdf,6,1
+January,2025,Burglary,Total,489,crime_7.pdf,6,1
+February,2024,Burglary,Total,453,crime_7.pdf,6,1
+February,2025,Theft,Reported,1644,crime_7.pdf,7,1
+January,2025,Theft,Reported,1837,crime_7.pdf,7,1
+February,2024,Theft,Reported,2006,crime_7.pdf,7,1
+February,2025,Riots,Riots,271,crime_7.pdf,8,1
+January,2025,Riots,Riots,263,crime_7.pdf,8,1
+February,2024,Riots,Riots,289,crime_7.pdf,8,1
+February,2025,Hurt,Cases of Hurt,1202,crime_7.pdf,9,1
+January,2025,Hurt,Cases of Hurt,1306,crime_7.pdf,9,1
+February,2024,Hurt,Cases of Hurt,1478,crime_7.pdf,9,1
+February,2025,Special & Local Laws,Special & Local Laws,4188,crime_7.pdf,10,1
+January,2025,Special & Local Laws,Special & Local Laws,4596,crime_7.pdf,10,1
+February,2024,Special & Local Laws,Special & Local Laws,4809,crime_7.pdf,10,1
+February,2025,Crime against Women,Rape,77,crime_7.pdf,11,1
+January,2025,Crime against Women,Rape,65,crime_7.pdf,11,1
+February,2024,Crime against Women,Rape,58,crime_7.pdf,11,1
+February,2025,Crime against Women,Dowry Death,9,crime_7.pdf,11,1
+January,2025,Crime against Women,Dowry Death,11,crime_7.pdf,11,1
+February,2024,Crime against Women,Dowry Death,14,crime_7.pdf,11,1
+February,2025,POCSO,POCSO,264,crime_7.pdf,12,1
+January,2025,POCSO,POCSO,348,crime_7.pdf,12,1
+February,2024,POCSO,POCSO,324,crime_7.pdf,12,1
+February,2025,SC/ST POA Act,SC/ST POA Act,183,crime_7.pdf,13,1
+January,2025,SC/ST POA Act,SC/ST POA Act,178,crime_7.pdf,13,1
+February,2024,SC/ST POA Act,SC/ST POA Act,208,crime_7.pdf,13,1
+February,2025.0,Security Cases,Security Cases,1392,crime_7.pdf,14,1
+January,2025.0,Security Cases,Security Cases,1424,crime_7.pdf,14,1
+February,2024.0,Security Cases,Security Cases,8574,crime_7.pdf,14,1
+February,2025.0,Security Cases,Total,3072,crime_7.pdf,14,1
+January,2025.0,Security Cases,Total,2605,crime_7.pdf,14,1
+February,2024.0,Security Cases,Total,14414,crime_7.pdf,14,1
+February,2025,Cyber Crimes,Cyber Crimes,1173,crime_7.pdf,15,1
+January,2025,Cyber Crimes,Cyber Crimes,1401,crime_7.pdf,15,1
+February,2024,Cyber Crimes,Cyber Crimes,2040,crime_7.pdf,15,1
+February,2025,Economic Offences,Economic Offences,517,crime_7.pdf,16,1
+January,2025,Economic Offences,Economic Offences,571,crime_7.pdf,16,1
+February,2024,Economic Offences,Economic Offences,665,crime_7.pdf,16,1
+February,2025,MMDR & KMMCR,MMDR Act,4,crime_7.pdf,17,1
+January,2025,MMDR & KMMCR,MMDR Act,4,crime_7.pdf,17,1
+February,2024,MMDR & KMMCR,MMDR Act,8,crime_7.pdf,17,1
+February,2025,MMDR & KMMCR,KMMC Rules,3,crime_7.pdf,17,1
+January,2025,MMDR & KMMCR,KMMC Rules,1,crime_7.pdf,17,1
+February,2024,MMDR & KMMCR,KMMC Rules,8,crime_7.pdf,17,1
+February,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,738,crime_7.pdf,18,1
+January,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,902,crime_7.pdf,18,1
+February,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1028,crime_7.pdf,18,1
+February,2025,NDPS Cases,NDPS Cases,415,crime_7.pdf,19,1
+January,2025,NDPS Cases,NDPS Cases,428,crime_7.pdf,19,1
+February,2024,NDPS Cases,NDPS Cases,275,crime_7.pdf,19,1
+March,2025,Murder,Murder for gain,2,crime_8.pdf,3,1
+February,2025,Murder,Murder for gain,3,crime_8.pdf,3,1
+March,2024,Murder,Murder for gain,2,crime_8.pdf,3,1
+March,2025,Murder,Other Murders,98,crime_8.pdf,3,1
+February,2025,Murder,Other Murders,100,crime_8.pdf,3,1
+March,2024,Murder,Other Murders,103,crime_8.pdf,3,1
+March,2025,Murder,Total Murder,100,crime_8.pdf,3,1
+February,2025,Murder,Total Murder,103,crime_8.pdf,3,1
+March,2024,Murder,Total Murder,105,crime_8.pdf,3,1
+March,2025,Dacoity,Dacoity Cases,13,crime_8.pdf,4,1
+February,2025,Dacoity,Dacoity Cases,11,crime_8.pdf,4,1
+March,2024,Dacoity,Dacoity Cases,16,crime_8.pdf,4,1
+March,2025,Robbery,Chain Snatching,40,crime_8.pdf,5,1
+February,2025,Robbery,Chain Snatching,33,crime_8.pdf,5,1
+March,2024,Robbery,Chain Snatching,64,crime_8.pdf,5,1
+March,2025,Robbery,Robbery (Except Chain Snatching),53,crime_8.pdf,5,1
+February,2025,Robbery,Robbery (Except Chain Snatching),46,crime_8.pdf,5,1
+March,2024,Robbery,Robbery (Except Chain Snatching),115,crime_8.pdf,5,1
+March,2025,Robbery,Total Robbery,93,crime_8.pdf,5,1
+February,2025,Robbery,Total Robbery,79,crime_8.pdf,5,1
+March,2024,Robbery,Total Robbery,179,crime_8.pdf,5,1
+March,2025,Burglary,Burglary Night,289,crime_8.pdf,6,1
+February,2025,Burglary,Burglary Night,313,crime_8.pdf,6,1
+March,2024,Burglary,Burglary Night,320,crime_8.pdf,6,1
+March,2025,Burglary,Burglary Day,81,crime_8.pdf,6,1
+February,2025,Burglary,Burglary Day,73,crime_8.pdf,6,1
+March,2024,Burglary,Burglary Day,80,crime_8.pdf,6,1
+March,2025,Burglary,Total,370,crime_8.pdf,6,1
+February,2025,Burglary,Total,386,crime_8.pdf,6,1
+March,2024,Burglary,Total,400,crime_8.pdf,6,1
+March,2025,Theft,Reported,1749,crime_8.pdf,7,1
+February,2025,Theft,Reported,1612,crime_8.pdf,7,1
+March,2024,Theft,Reported,2121,crime_8.pdf,7,1
+March,2025,Riots,Riots,295,crime_8.pdf,8,1
+February,2025,Riots,Riots,277,crime_8.pdf,8,1
+March,2024,Riots,Riots,337,crime_8.pdf,8,1
+March,2025,Hurt,Cases of Hurt,1582,crime_8.pdf,9,1
+February,2025,Hurt,Cases of Hurt,1186,crime_8.pdf,9,1
+March,2024,Hurt,Cases of Hurt,1652,crime_8.pdf,9,1
+March,2025,Special & Local Laws,Special & Local Laws,5994,crime_8.pdf,10,1
+February,2025,Special & Local Laws,Special & Local Laws,4248,crime_8.pdf,10,1
+March,2024,Special & Local Laws,Special & Local Laws,6066,crime_8.pdf,10,1
+March,2025,Crime against Women,Rape,96,crime_8.pdf,11,1
+February,2025,Crime against Women,Rape,77,crime_8.pdf,11,1
+March,2024,Crime against Women,Rape,63,crime_8.pdf,11,1
+March,2025,Crime against Women,Dowry Death,10,crime_8.pdf,11,1
+February,2025,Crime against Women,Dowry Death,9,crime_8.pdf,11,1
+March,2024,Crime against Women,Dowry Death,7,crime_8.pdf,11,1
+March,2025,POCSO,POCSO,332,crime_8.pdf,12,1
+February,2025,POCSO,POCSO,306,crime_8.pdf,12,1
+March,2024,POCSO,POCSO,345,crime_8.pdf,12,1
+March,2025,SC/ST POA Act,SC/ST POA Act,195,crime_8.pdf,13,1
+February,2025,SC/ST POA Act,SC/ST POA Act,188,crime_8.pdf,13,1
+March,2024,SC/ST POA Act,SC/ST POA Act,209,crime_8.pdf,13,1
+March,2025.0,Security Cases,Security Cases,4189,crime_8.pdf,14,1
+February,2025.0,Security Cases,Security Cases,1418,crime_8.pdf,14,1
+March,2024.0,Security Cases,Security Cases,9676,crime_8.pdf,14,1
+March,2025.0,Security Cases,Total,7581,crime_8.pdf,14,1
+February,2025.0,Security Cases,Total,3122,crime_8.pdf,14,1
+March,2024.0,Security Cases,Total,14299,crime_8.pdf,14,1
+March,2025,Cyber Crimes,Cyber Crimes,1254,crime_8.pdf,15,1
+February,2025,Cyber Crimes,Cyber Crimes,1174,crime_8.pdf,15,1
+March,2024,Cyber Crimes,Cyber Crimes,1977,crime_8.pdf,15,1
+March,2025,Economic Offences,Economic Offences,581,crime_8.pdf,16,1
+February,2025,Economic Offences,Economic Offences,514,crime_8.pdf,16,1
+March,2024,Economic Offences,Economic Offences,637,crime_8.pdf,16,1
+March,2025,MMDR & KMMCR,MMDR Act,13,crime_8.pdf,17,1
+February,2025,MMDR & KMMCR,MMDR Act,4,crime_8.pdf,17,1
+March,2024,MMDR & KMMCR,MMDR Act,12,crime_8.pdf,17,1
+March,2025,MMDR & KMMCR,KMMC Rules,1,crime_8.pdf,17,1
+February,2025,MMDR & KMMCR,KMMC Rules,3,crime_8.pdf,17,1
+March,2024,MMDR & KMMCR,KMMC Rules,3,crime_8.pdf,17,1
+March,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,831,crime_8.pdf,18,1
+February,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,740,crime_8.pdf,18,1
+March,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1060,crime_8.pdf,18,1
+March,2025,NDPS Cases,NDPS Cases,433,crime_8.pdf,19,1
+February,2025,NDPS Cases,NDPS Cases,415,crime_8.pdf,19,1
+March,2024,NDPS Cases,NDPS Cases,370,crime_8.pdf,19,1
+April,2025,Murder,Murder for gain,3,crime_9.pdf,3,1
+March,2025,Murder,Murder for gain,4,crime_9.pdf,3,1
+April,2024,Murder,Murder for gain,3,crime_9.pdf,3,1
+April,2025,Murder,Other Murders,118,crime_9.pdf,3,1
+March,2025,Murder,Other Murders,99,crime_9.pdf,3,1
+April,2024,Murder,Other Murders,121,crime_9.pdf,3,1
+April,2025,Murder,Total Murder,121,crime_9.pdf,3,1
+March,2025,Murder,Total Murder,103,crime_9.pdf,3,1
+April,2024,Murder,Total Murder,124,crime_9.pdf,3,1
+April,2025,Dacoity,Dacoity Cases,8,crime_9.pdf,4,1
+March,2025,Dacoity,Dacoity Cases,14,crime_9.pdf,4,1
+April,2024,Dacoity,Dacoity Cases,10,crime_9.pdf,4,1
+April,2025,Robbery,Chain Snatching,38,crime_9.pdf,5,1
+March,2025,Robbery,Chain Snatching,41,crime_9.pdf,5,1
+April,2024,Robbery,Chain Snatching,54,crime_9.pdf,5,1
+April,2025,Robbery,Robbery (Except Chain Snatching),46,crime_9.pdf,5,1
+March,2025,Robbery,Robbery (Except Chain Snatching),50,crime_9.pdf,5,1
+April,2024,Robbery,Robbery (Except Chain Snatching),96,crime_9.pdf,5,1
+April,2025,Robbery,Total Robbery,84,crime_9.pdf,5,1
+March,2025,Robbery,Total Robbery,91,crime_9.pdf,5,1
+April,2024,Robbery,Total Robbery,150,crime_9.pdf,5,1
+April,2025,Burglary,Burglary Night,313,crime_9.pdf,6,1
+March,2025,Burglary,Burglary Night,291,crime_9.pdf,6,1
+April,2024,Burglary,Burglary Night,325,crime_9.pdf,6,1
+April,2025,Burglary,Burglary Day,91,crime_9.pdf,6,1
+March,2025,Burglary,Burglary Day,81,crime_9.pdf,6,1
+April,2024,Burglary,Burglary Day,73,crime_9.pdf,6,1
+April,2025,Burglary,Total,404,crime_9.pdf,6,1
+March,2025,Burglary,Total,372,crime_9.pdf,6,1
+April,2024,Burglary,Total,398,crime_9.pdf,6,1
+April,2025,Theft,Reported,1782,crime_9.pdf,7,1
+March,2025,Theft,Reported,1816,crime_9.pdf,7,1
+April,2024,Theft,Reported,1760,crime_9.pdf,7,1
+April,2025,Riots,Riots,295,crime_9.pdf,8,1
+March,2025,Riots,Riots,294,crime_9.pdf,8,1
+April,2024,Riots,Riots,340,crime_9.pdf,8,1
+April,2025,Hurt,Cases of Hurt,1528,crime_9.pdf,9,1
+March,2025,Hurt,Cases of Hurt,1580,crime_9.pdf,9,1
+April,2024,Hurt,Cases of Hurt,1648,crime_9.pdf,9,1
+April,2025,Special & Local Laws,Special & Local Laws,5082,crime_9.pdf,10,1
+March,2025,Special & Local Laws,Special & Local Laws,6043,crime_9.pdf,10,1
+April,2024,Special & Local Laws,Special & Local Laws,5013,crime_9.pdf,10,1
+April,2025,Crime against Women,Rape,79,crime_9.pdf,11,1
+March,2025,Crime against Women,Rape,96,crime_9.pdf,11,1
+April,2024,Crime against Women,Rape,57,crime_9.pdf,11,1
+April,2025,Crime against Women,Dowry Death,15,crime_9.pdf,11,1
+March,2025,Crime against Women,Dowry Death,9,crime_9.pdf,11,1
+April,2024,Crime against Women,Dowry Death,10,crime_9.pdf,11,1
+April,2025,POCSO,POCSO,309,crime_9.pdf,12,1
+March,2025,POCSO,POCSO,368,crime_9.pdf,12,1
+April,2024,POCSO,POCSO,355,crime_9.pdf,12,1
+April,2025,SC/ST POA Act,SC/ST POA Act,186,crime_9.pdf,13,1
+March,2025,SC/ST POA Act,SC/ST POA Act,202,crime_9.pdf,13,1
+April,2024,SC/ST POA Act,SC/ST POA Act,191,crime_9.pdf,13,1
+April,2025.0,Security Cases,Security Cases,2835,crime_9.pdf,14,1
+March,2025.0,Security Cases,Security Cases,4224,crime_9.pdf,14,1
+April,2024.0,Security Cases,Security Cases,2803,crime_9.pdf,14,1
+April,2025.0,Security Cases,Total,4799,crime_9.pdf,14,1
+March,2025.0,Security Cases,Total,7663,crime_9.pdf,14,1
+April,2024.0,Security Cases,Total,4707,crime_9.pdf,14,1
+April,2025,Cyber Crimes,Cyber Crimes,1005,crime_9.pdf,15,1
+March,2025,Cyber Crimes,Cyber Crimes,1255,crime_9.pdf,15,1
+April,2024,Cyber Crimes,Cyber Crimes,1603,crime_9.pdf,15,1
+April,2025,Economic Offences,Economic Offences,509,crime_9.pdf,16,1
+March,2025,Economic Offences,Economic Offences,581,crime_9.pdf,16,1
+April,2024,Economic Offences,Economic Offences,451,crime_9.pdf,16,1
+April,2025,MMDR & KMMCR,MMDR Act,12,crime_9.pdf,17,1
+March,2025,MMDR & KMMCR,MMDR Act,13,crime_9.pdf,17,1
+April,2024,MMDR & KMMCR,MMDR Act,5,crime_9.pdf,17,1
+April,2025,MMDR & KMMCR,KMMC Rules,0,crime_9.pdf,17,1
+March,2025,MMDR & KMMCR,KMMC Rules,1,crime_9.pdf,17,1
+April,2024,MMDR & KMMCR,KMMC Rules,5,crime_9.pdf,17,1
+April,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,813,crime_9.pdf,18,1
+March,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,832,crime_9.pdf,18,1
+April,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,868,crime_9.pdf,18,1
+April,2025,NDPS Cases,NDPS Cases,517,crime_9.pdf,19,1
+March,2025,NDPS Cases,NDPS Cases,433,crime_9.pdf,19,1
+April,2024,NDPS Cases,NDPS Cases,217,crime_9.pdf,19,1

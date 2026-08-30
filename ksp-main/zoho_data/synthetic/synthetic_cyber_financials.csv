@@ -1,0 +1,186 @@
+FIR_Number,Fraud_Type,Amount_Lost_INR,Amount_Frozen_INR,Platform
+FIR-936/2025-f20d,OTP Fraud,130369,13060,WhatsApp
+FIR-881/2026-058b,OTP Fraud,59719,30524,Phone Call
+FIR-873/2025-ddc3,Crypto Scam,49583,28128,Phone Call
+FIR-547/2026-d604,Job Scam,52993,26611,Telegram
+FIR-786/2025-3115,Phishing Link,274998,102755,Telegram
+FIR-746/2025-4a6d,Phishing Link,145528,110090,Fake Website
+FIR-706/2025-a0f0,Investment Fraud,349518,30725,WhatsApp
+FIR-281/2025-f461,Job Scam,164856,47091,Telegram
+FIR-258/2025-b0db,Investment Fraud,373030,145431,Facebook
+FIR-285/2026-1c4e,Job Scam,376707,23190,Facebook
+FIR-107/2026-8908,Phishing Link,118274,5857,Fake Website
+FIR-580/2025-47d9,Job Scam,222537,75518,WhatsApp
+FIR-768/2026-1612,Phishing Link,97168,649,WhatsApp
+FIR-821/2025-3852,Investment Fraud,296723,118203,Fake Website
+FIR-358/2025-0ecf,Job Scam,333365,204998,Facebook
+FIR-372/2025-d776,Crypto Scam,123742,91804,WhatsApp
+FIR-718/2026-ee88,Crypto Scam,411127,158734,Phone Call
+FIR-728/2025-e0fd,Investment Fraud,264306,187630,Telegram
+FIR-116/2025-3302,Crypto Scam,43933,24975,Fake Website
+FIR-626/2025-785e,OTP Fraud,122269,6548,Phone Call
+FIR-512/2025-cefc,Phishing Link,117178,21205,WhatsApp
+FIR-892/2026-b2bd,Job Scam,140475,61096,Telegram
+FIR-672/2026-7b4d,Job Scam,54599,4857,Telegram
+FIR-961/2025-71c6,Phishing Link,265467,191640,Facebook
+FIR-223/2026-becb,Crypto Scam,254846,111417,Fake Website
+FIR-814/2025-a98d,Phishing Link,421669,256378,Fake Website
+FIR-463/2026-8e38,Investment Fraud,301505,27312,Phone Call
+FIR-681/2026-8c54,OTP Fraud,470277,360866,Facebook
+FIR-443/2025-9eca,OTP Fraud,11085,2574,WhatsApp
+FIR-377/2025-a6c6,Phishing Link,6909,5181,WhatsApp
+FIR-440/2026-9f06,Crypto Scam,492452,43052,Telegram
+FIR-659/2026-0dda,OTP Fraud,199079,71096,Phone Call
+FIR-937/2026-23e3,Investment Fraud,372670,294641,Phone Call
+FIR-788/2025-d619,Job Scam,471333,234540,WhatsApp
+FIR-207/2026-4d4f,Phishing Link,452264,127312,Facebook
+FIR-357/2026-9de5,Phishing Link,150857,13895,Fake Website
+FIR-603/2026-6ec7,Job Scam,14135,5478,Phone Call
+FIR-733/2026-1ee2,Crypto Scam,212490,40028,Phone Call
+FIR-168/2025-e6cd,Investment Fraud,407449,140367,Telegram
+FIR-375/2026-bacb,OTP Fraud,98565,65508,WhatsApp
+FIR-363/2025-ded5,Job Scam,481759,58890,Facebook
+FIR-900/2025-64c9,Job Scam,183749,137963,Phone Call
+FIR-969/2026-7011,Crypto Scam,92678,50384,WhatsApp
+FIR-992/2026-edbd,Job Scam,42267,16567,Telegram
+FIR-538/2025-1eed,Crypto Scam,38175,15901,Telegram
+FIR-784/2026-911d,Investment Fraud,239792,140716,Phone Call
+FIR-654/2025-3407,Crypto Scam,489129,352128,Facebook
+FIR-156/2025-7fc4,Investment Fraud,485819,360252,Fake Website
+FIR-477/2026-240f,Crypto Scam,70517,18550,Facebook
+FIR-316/2025-221c,Investment Fraud,146611,76847,WhatsApp
+FIR-738/2025-3bd8,Crypto Scam,421822,226601,Telegram
+FIR-381/2025-c2ce,Phishing Link,161286,114435,Facebook
+FIR-223/2026-6d7b,OTP Fraud,104075,83106,Telegram
+FIR-338/2026-f877,Phishing Link,440337,81301,Fake Website
+FIR-429/2026-e0bd,Crypto Scam,96893,62662,Telegram
+FIR-808/2025-6c76,Investment Fraud,374454,45305,Phone Call
+FIR-862/2026-190f,Phishing Link,248032,4010,WhatsApp
+FIR-856/2025-ecac,Crypto Scam,463141,304943,Telegram
+FIR-254/2025-20d6,Job Scam,63955,34260,WhatsApp
+FIR-784/2025-a314,Phishing Link,150805,23120,Facebook
+FIR-248/2025-5af9,Phishing Link,180358,6125,Fake Website
+FIR-752/2025-5ea1,Phishing Link,295948,55482,Telegram
+FIR-904/2026-04ad,Crypto Scam,418522,229276,Phone Call
+FIR-366/2026-2a7a,Phishing Link,245564,116187,Fake Website
+FIR-136/2026-9ad6,Crypto Scam,125168,79435,Fake Website
+FIR-936/2026-6693,Phishing Link,488482,34363,Phone Call
+FIR-447/2025-cf39,Job Scam,155654,30025,Facebook
+FIR-801/2026-c73c,Job Scam,89561,10605,WhatsApp
+FIR-959/2026-40f3,Phishing Link,58950,43652,Telegram
+FIR-429/2026-dade,Phishing Link,406699,235312,Fake Website
+FIR-664/2025-dbe2,Job Scam,118925,86573,Facebook
+FIR-598/2025-b505,Investment Fraud,19923,7219,WhatsApp
+FIR-994/2025-7ff3,OTP Fraud,488449,266683,Fake Website
+FIR-346/2025-b37a,Investment Fraud,121572,5161,Telegram
+FIR-539/2025-6789,Crypto Scam,409462,150434,Facebook
+FIR-828/2026-80fa,Crypto Scam,226632,91015,Fake Website
+FIR-188/2025-8182,Job Scam,337385,88124,WhatsApp
+FIR-996/2026-05c6,OTP Fraud,428898,244453,WhatsApp
+FIR-125/2026-5196,Job Scam,77429,21133,WhatsApp
+FIR-698/2025-45a8,Phishing Link,449890,59921,Phone Call
+FIR-577/2026-a531,Phishing Link,447044,72414,Telegram
+FIR-457/2026-762c,Phishing Link,280935,217558,Phone Call
+FIR-263/2025-b508,OTP Fraud,363100,87121,WhatsApp
+FIR-108/2026-3f24,Crypto Scam,43850,25255,Fake Website
+FIR-461/2025-cbcd,Job Scam,354244,81167,Facebook
+FIR-567/2026-f3c3,Job Scam,192681,8793,Telegram
+FIR-522/2026-c35e,Investment Fraud,177073,44870,Fake Website
+FIR-825/2026-8644,OTP Fraud,7373,4019,Facebook
+FIR-289/2026-2faf,Phishing Link,427518,29392,Fake Website
+FIR-668/2026-11b4,Investment Fraud,13937,2133,Fake Website
+FIR-226/2025-51ec,Job Scam,231823,69484,Telegram
+FIR-479/2026-9e60,Phishing Link,479094,378995,Facebook
+FIR-449/2026-8a78,Phishing Link,156743,48272,WhatsApp
+FIR-940/2025-9063,Job Scam,156361,85610,Telegram
+FIR-524/2025-cb4d,Crypto Scam,456983,22826,Telegram
+FIR-892/2026-7bd0,OTP Fraud,10834,171,Facebook
+FIR-847/2026-9cdb,Phishing Link,188223,72919,WhatsApp
+FIR-178/2026-7572,OTP Fraud,315908,51613,Fake Website
+FIR-671/2025-da9c,Phishing Link,379380,149178,Fake Website
+FIR-447/2025-4c77,Investment Fraud,402678,138783,Fake Website
+FIR-242/2025-8d09,Investment Fraud,182958,81119,Phone Call
+FIR-683/2026-cd2e,Crypto Scam,234548,126934,WhatsApp
+FIR-689/2025-7617,Job Scam,396887,249517,Facebook
+FIR-573/2025-2414,Crypto Scam,264635,80342,Phone Call
+FIR-310/2026-1d47,OTP Fraud,451984,60757,Fake Website
+FIR-706/2026-b6de,Job Scam,242165,38160,Fake Website
+FIR-855/2025-47f1,Crypto Scam,356107,41821,Fake Website
+FIR-836/2025-2332,Job Scam,276997,128311,Facebook
+FIR-574/2026-d025,Phishing Link,265845,146984,Phone Call
+FIR-514/2025-b993,Crypto Scam,328380,78800,Phone Call
+FIR-126/2025-5f66,Phishing Link,408190,238522,Phone Call
+FIR-120/2026-3141,Investment Fraud,160737,5795,WhatsApp
+FIR-912/2025-4a22,OTP Fraud,15492,7867,Telegram
+FIR-754/2026-7c81,Crypto Scam,163053,62711,Facebook
+FIR-447/2026-a1ba,OTP Fraud,49822,12298,Facebook
+FIR-937/2025-6047,Investment Fraud,315313,17343,Fake Website
+FIR-481/2025-d11f,Job Scam,203680,127118,Phone Call
+FIR-429/2025-8101,Phishing Link,432139,287601,Facebook
+FIR-467/2026-2778,Investment Fraud,225291,97499,Telegram
+FIR-839/2026-e99e,Job Scam,294505,182472,WhatsApp
+FIR-346/2025-9008,Job Scam,303746,190981,WhatsApp
+FIR-942/2025-8a06,Investment Fraud,23019,3350,Facebook
+FIR-532/2026-da6f,OTP Fraud,402561,302762,Fake Website
+FIR-329/2026-59a1,Job Scam,57709,2940,Fake Website
+FIR-143/2026-e1cd,Phishing Link,164887,103837,Phone Call
+FIR-872/2026-d85b,Phishing Link,174678,67987,Phone Call
+FIR-441/2026-d7ff,Phishing Link,14115,5061,Phone Call
+FIR-452/2026-1bfc,OTP Fraud,187351,131964,Telegram
+FIR-651/2025-59b6,Phishing Link,12974,849,Facebook
+FIR-327/2026-d28d,Job Scam,384276,78699,Phone Call
+FIR-536/2025-cb43,Phishing Link,241925,109670,Phone Call
+FIR-374/2025-79b9,Job Scam,58851,2147,Fake Website
+FIR-103/2026-f3cc,Investment Fraud,354260,156837,WhatsApp
+FIR-355/2026-0819,Phishing Link,477352,72931,Phone Call
+FIR-132/2025-9dc3,Phishing Link,217120,130242,Phone Call
+FIR-497/2026-6750,Crypto Scam,188136,122645,Fake Website
+FIR-534/2026-b2d7,Phishing Link,112647,49001,Fake Website
+FIR-408/2025-f67d,OTP Fraud,431770,170399,WhatsApp
+FIR-518/2026-7422,Crypto Scam,485406,353721,Telegram
+FIR-855/2026-faa3,Investment Fraud,168168,24095,Facebook
+FIR-391/2026-731b,Crypto Scam,170028,121852,Facebook
+FIR-596/2025-e3db,Investment Fraud,282125,129114,WhatsApp
+FIR-987/2026-a7fe,Phishing Link,273164,180346,Facebook
+FIR-797/2026-e13d,Phishing Link,313720,144325,Telegram
+FIR-665/2026-029f,Job Scam,200452,148225,Facebook
+FIR-871/2025-a1a3,Investment Fraud,99111,17380,Facebook
+FIR-605/2025-6e0e,Investment Fraud,346135,240355,Facebook
+FIR-736/2026-b070,Phishing Link,224036,71381,WhatsApp
+FIR-596/2026-f185,OTP Fraud,251440,112167,Fake Website
+FIR-567/2025-8f31,Job Scam,409154,152008,Telegram
+FIR-996/2026-d2f7,Investment Fraud,293489,36438,Telegram
+FIR-870/2025-7423,Investment Fraud,246147,131381,Facebook
+FIR-593/2026-edb5,Investment Fraud,274691,180432,Facebook
+FIR-916/2026-6165,OTP Fraud,144501,26506,Telegram
+FIR-372/2025-3495,Job Scam,11574,5196,Phone Call
+FIR-580/2025-a516,OTP Fraud,11186,5480,Phone Call
+FIR-463/2026-7ed8,Job Scam,171221,27363,WhatsApp
+FIR-620/2026-c235,Phishing Link,202259,80276,Fake Website
+FIR-577/2025-522e,Crypto Scam,104827,6304,Phone Call
+FIR-631/2025-a0ea,Job Scam,282711,86220,WhatsApp
+FIR-795/2026-980d,Job Scam,472315,16958,Phone Call
+FIR-922/2025-db4c,Investment Fraud,476142,183269,Telegram
+FIR-589/2026-f507,Investment Fraud,420481,211531,Phone Call
+FIR-544/2026-c5b4,Investment Fraud,78988,42090,Fake Website
+FIR-248/2025-aca7,Job Scam,241026,24238,Phone Call
+FIR-999/2025-f4d5,Investment Fraud,319287,194072,WhatsApp
+FIR-102/2025-9f4f,Investment Fraud,323818,145235,Telegram
+FIR-582/2025-392c,Crypto Scam,193286,121475,Telegram
+FIR-217/2025-e480,Investment Fraud,295789,185049,Phone Call
+FIR-418/2026-5344,OTP Fraud,84595,25357,Telegram
+FIR-533/2025-114d,Investment Fraud,37841,9120,Phone Call
+FIR-610/2026-ea8e,Job Scam,389844,8567,WhatsApp
+FIR-784/2025-7ff3,Crypto Scam,197179,150599,Telegram
+FIR-917/2025-6412,OTP Fraud,30208,22068,WhatsApp
+FIR-412/2026-6bd7,Phishing Link,386755,125272,Telegram
+FIR-387/2025-7305,Crypto Scam,75011,38253,Facebook
+FIR-846/2025-b78b,Crypto Scam,120637,68159,Fake Website
+FIR-855/2026-ef4c,Phishing Link,150043,10639,Telegram
+FIR-358/2025-1fff,Job Scam,91482,38187,Telegram
+FIR-485/2026-b39f,Phishing Link,52289,24946,WhatsApp
+FIR-409/2026-9197,OTP Fraud,196593,57373,WhatsApp
+FIR-660/2025-520f,OTP Fraud,84237,40867,Facebook
+FIR-847/2025-04d5,Phishing Link,282567,23590,Fake Website
+FIR-829/2026-a273,Phishing Link,305098,7700,Phone Call
+FIR-425/2026-90af,Crypto Scam,115319,23082,Facebook

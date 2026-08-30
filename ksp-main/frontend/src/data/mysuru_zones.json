@@ -1,0 +1,413 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mysuru_city",
+        "name": "MYSURU CITY & DISTRICT",
+        "color": "#7c3aed",
+        "fillColor": "#7c3aed",
+        "center": [
+          12.2958,
+          76.6394
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.35,
+              12.1
+            ],
+            [
+              76.25,
+              12.25
+            ],
+            [
+              76.3,
+              12.45
+            ],
+            [
+              76.65,
+              12.52
+            ],
+            [
+              76.85,
+              12.48
+            ],
+            [
+              76.9,
+              12.2
+            ],
+            [
+              76.7,
+              12.05
+            ],
+            [
+              76.35,
+              12.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mandya",
+        "name": "MANDYA SECTOR",
+        "color": "#06b6d4",
+        "fillColor": "#06b6d4",
+        "center": [
+          12.5218,
+          76.8951
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.7,
+              12.35
+            ],
+            [
+              76.65,
+              12.48
+            ],
+            [
+              76.55,
+              12.75
+            ],
+            [
+              76.8,
+              12.92
+            ],
+            [
+              77.12,
+              12.85
+            ],
+            [
+              77.1,
+              12.4
+            ],
+            [
+              76.85,
+              12.32
+            ],
+            [
+              76.7,
+              12.35
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hassan",
+        "name": "HASSAN SECTOR",
+        "color": "#ec4899",
+        "fillColor": "#ec4899",
+        "center": [
+          13.0072,
+          76.1017
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.8,
+              12.6
+            ],
+            [
+              75.6,
+              12.9
+            ],
+            [
+              75.65,
+              13.35
+            ],
+            [
+              76.25,
+              13.45
+            ],
+            [
+              76.45,
+              13.15
+            ],
+            [
+              76.4,
+              12.7
+            ],
+            [
+              76.1,
+              12.6
+            ],
+            [
+              75.8,
+              12.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chamarajanagara",
+        "name": "CHAMARAJANAGARA",
+        "color": "#10b981",
+        "fillColor": "#10b981",
+        "center": [
+          11.9261,
+          76.9437
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.65,
+              11.55
+            ],
+            [
+              76.65,
+              11.95
+            ],
+            [
+              76.7,
+              12.05
+            ],
+            [
+              76.9,
+              12.2
+            ],
+            [
+              77.45,
+              12.18
+            ],
+            [
+              77.45,
+              11.7
+            ],
+            [
+              77.0,
+              11.55
+            ],
+            [
+              76.65,
+              11.55
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chikkamagaluru",
+        "name": "CHIKKAMAGALURU",
+        "color": "#84cc16",
+        "fillColor": "#84cc16",
+        "center": [
+          13.3161,
+          75.772
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.15,
+              13.05
+            ],
+            [
+              75.05,
+              13.45
+            ],
+            [
+              75.35,
+              13.8
+            ],
+            [
+              76.25,
+              13.8
+            ],
+            [
+              76.25,
+              13.45
+            ],
+            [
+              75.65,
+              13.35
+            ],
+            [
+              75.5,
+              13.05
+            ],
+            [
+              75.15,
+              13.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kodagu",
+        "name": "KODAGU (MADIKERI)",
+        "color": "#f97316",
+        "fillColor": "#f97316",
+        "center": [
+          12.4244,
+          75.7382
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.35,
+              11.9
+            ],
+            [
+              75.25,
+              12.4
+            ],
+            [
+              75.55,
+              12.72
+            ],
+            [
+              76.1,
+              12.6
+            ],
+            [
+              76.25,
+              12.25
+            ],
+            [
+              76.1,
+              12.1
+            ],
+            [
+              75.7,
+              11.9
+            ],
+            [
+              75.35,
+              11.9
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dakshina_kannada",
+        "name": "DAKSHINA KANNADA (MANGALURU)",
+        "color": "#ef4444",
+        "fillColor": "#ef4444",
+        "center": [
+          12.9141,
+          74.856
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.8,
+              12.4
+            ],
+            [
+              74.75,
+              12.9
+            ],
+            [
+              74.8,
+              13.15
+            ],
+            [
+              75.4,
+              13.15
+            ],
+            [
+              75.55,
+              12.72
+            ],
+            [
+              75.25,
+              12.4
+            ],
+            [
+              74.8,
+              12.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "udupi",
+        "name": "UDUPI COASTAL SECTOR",
+        "color": "#eab308",
+        "fillColor": "#eab308",
+        "center": [
+          13.3409,
+          74.7421
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.65,
+              13.15
+            ],
+            [
+              74.5,
+              13.85
+            ],
+            [
+              75.2,
+              13.8
+            ],
+            [
+              75.05,
+              13.45
+            ],
+            [
+              75.4,
+              13.15
+            ],
+            [
+              74.8,
+              13.15
+            ],
+            [
+              74.65,
+              13.15
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

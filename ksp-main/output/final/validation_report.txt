@@ -1,0 +1,89 @@
+========================================
+      DATASET VALIDATION REPORT         
+========================================
+Total Rows: 3354
+Duplicate Rows: 691
+
+--- Missing Values ---
+Month: 0
+Year: 0
+Crime Category: 0
+Subcategory: 0
+Cases: 0
+
+--- Data Integrity ---
+Cases are Integers: True
+Negative Case Counts: 0
+Impossible Years: 0
+
+--- Categorical Summaries ---
+Unique Crime Categories (17):
+  - Burglary
+  - Crime against Women
+  - Cyber Crimes
+  - Dacoity
+  - Economic Offences
+  - Hurt
+  - MMDR & KMMCR
+  - Motor Vehicles Theft
+  - Murder
+  - NDPS Cases
+  - POCSO
+  - Riots
+  - Robbery
+  - SC/ST POA Act
+  - Security Cases
+  - Special & Local Laws
+  - Theft
+
+Rows per Crime Category:
+  Murder: 387
+  Robbery: 387
+  Burglary: 387
+  Crime against Women: 258
+  Security Cases: 258
+  MMDR & KMMCR: 258
+  Riots: 129
+  Theft: 129
+  Dacoity: 129
+  Special & Local Laws: 129
+  Hurt: 129
+  SC/ST POA Act: 129
+  POCSO: 129
+  Cyber Crimes: 129
+  Economic Offences: 129
+  Motor Vehicles Theft: 129
+  NDPS Cases: 129
+
+Rows per Year:
+  2022: 306
+  2022.0: 26
+  2023: 876
+  2023.0: 74
+  2024: 936
+  2024.0: 78
+  2025: 744
+  2025.0: 62
+  2026: 216
+  2026.0: 18
+  October: 12
+  September: 6
+
+Rows per Month:
+  April: 365
+  August: 263
+  December: 208
+  February: 309
+  Feburary: 3
+  January: 312
+  July: 234
+  June: 232
+  March: 338
+  May: 287
+  November: 260
+  October: 254
+  September: 289
+
+========================================
+FINAL STATUS: FAIL
+========================================

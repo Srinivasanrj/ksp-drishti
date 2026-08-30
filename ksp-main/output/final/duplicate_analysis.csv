@@ -1,0 +1,542 @@
+Month,Year,Crime_Category,Subcategory,Cases,Duplicate_Count,Source_Files
+April,2023,NDPS Cases,NDPS Cases,470,4,crime_21_page_19_table_01.csv | crime_34_page_19_table_01.csv | crime_34_page_71_table_01.csv | crime_35_page_19_table_01.csv
+March,2023,Crime against Women,Dowry Death,17,4,crime_20_page_11_table_01.csv | crime_33_page_11_table_01.csv | crime_34_page_11_table_01.csv | crime_34_page_63_table_01.csv
+March,2023,MMDR & KMMCR,KMMC Rules,5,4,crime_20_page_17_table_01.csv | crime_33_page_17_table_01.csv | crime_34_page_17_table_01.csv | crime_34_page_69_table_01.csv
+March,2023,Murder,Murder for gain,0,4,crime_20_page_03_table_01.csv | crime_33_page_03_table_01.csv | crime_34_page_03_table_01.csv | crime_34_page_55_table_01.csv
+March,2023,NDPS Cases,NDPS Cases,757,4,crime_20_page_19_table_01.csv | crime_33_page_19_table_01.csv | crime_34_page_19_table_01.csv | crime_34_page_71_table_01.csv
+November,2024,Crime against Women,Dowry Death,5,4,crime_16_page_11_table_01.csv | crime_28_page_11_table_01.csv | crime_29_page_11_table_01.csv | crime_30_page_11_table_01.csv
+November,2024,MMDR & KMMCR,KMMC Rules,1,4,crime_16_page_17_table_01.csv | crime_28_page_17_table_01.csv | crime_29_page_17_table_01.csv | crime_30_page_17_table_01.csv
+November,2024,MMDR & KMMCR,MMDR Act,9,4,crime_16_page_17_table_01.csv | crime_28_page_17_table_01.csv | crime_29_page_17_table_01.csv | crime_30_page_17_table_01.csv
+November,2024,NDPS Cases,NDPS Cases,424,4,crime_16_page_19_table_01.csv | crime_28_page_19_table_01.csv | crime_29_page_19_table_01.csv | crime_30_page_19_table_01.csv
+October,2024,Crime against Women,Dowry Death,9,4,crime_15_page_11_table_01.csv | crime_27_page_11_table_01.csv | crime_28_page_11_table_01.csv | crime_29_page_11_table_01.csv
+October,2024,MMDR & KMMCR,KMMC Rules,2,4,crime_15_page_17_table_01.csv | crime_27_page_17_table_01.csv | crime_28_page_17_table_01.csv | crime_29_page_17_table_01.csv
+October,2024,NDPS Cases,NDPS Cases,274,4,crime_15_page_19_table_01.csv | crime_27_page_19_table_01.csv | crime_28_page_19_table_01.csv | crime_29_page_19_table_01.csv
+September,2024,MMDR & KMMCR,KMMC Rules,1,4,crime_14_page_17_table_01.csv | crime_14_page_71_table_01.csv | crime_26_page_17_table_01.csv | crime_27_page_17_table_01.csv
+September,2024,Murder,Murder for gain,2,4,crime_14_page_03_table_01.csv | crime_14_page_57_table_01.csv | crime_26_page_03_table_01.csv | crime_27_page_03_table_01.csv
+July,2023,MMDR & KMMCR,MMDR Act,17,3,crime_24_page_17_table_01.csv | crime_37_page_17_table_01.csv | crime_38_page_17_table_01.csv
+January,2025,Murder,Murder for gain,4,3,crime_1_page_03_table_01.csv | crime_6_page_03_table_01.csv | crime_7_page_03_table_01.csv
+April,2025,NDPS Cases,NDPS Cases,517,3,crime_10_page_19_table_01.csv | crime_4_page_19_table_01.csv | crime_9_page_19_table_01.csv
+December,2024,NDPS Cases,NDPS Cases,651,3,crime_17_page_19_table_01.csv | crime_30_page_19_table_01.csv | crime_6_page_19_table_01.csv
+August,2025,MMDR & KMMCR,KMMC Rules,4,3,crime_13_page_17_table_01.csv | crime_14_page_17_table_01.csv | crime_14_page_71_table_01.csv
+August,2025,MMDR & KMMCR,MMDR Act,4,3,crime_13_page_17_table_01.csv | crime_14_page_17_table_01.csv | crime_14_page_71_table_01.csv
+August,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,699,3,crime_13_page_18_table_01.csv | crime_14_page_18_table_01.csv | crime_14_page_72_table_01.csv
+August,2025,Murder,Murder for gain,3,3,crime_13_page_03_table_01.csv | crime_14_page_03_table_01.csv | crime_14_page_57_table_01.csv
+August,2025,Murder,Other Murders,94,3,crime_13_page_03_table_01.csv | crime_14_page_03_table_01.csv | crime_14_page_57_table_01.csv
+August,2025,Murder,Total Murder,97,3,crime_13_page_03_table_01.csv | crime_14_page_03_table_01.csv | crime_14_page_57_table_01.csv
+August,2025,NDPS Cases,NDPS Cases,739,3,crime_13_page_19_table_01.csv | crime_14_page_19_table_01.csv | crime_14_page_73_table_01.csv
+August,2023,Crime against Women,Dowry Death,13,3,crime_25_page_11_table_01.csv | crime_38_page_11_table_01.csv | crime_39_page_11_table_01.csv
+January,2025,NDPS Cases,NDPS Cases,428,3,crime_1_page_19_table_01.csv | crime_6_page_19_table_01.csv | crime_7_page_19_table_01.csv
+February,2024,Dacoity,Dacoity Cases,17,3,crime_19_page_04_table_01.csv | crime_20_page_04_table_01.csv | crime_7_page_04_table_01.csv
+April,2023,Burglary,Burglary Day,69,3,crime_21_page_06_table_01.csv | crime_34_page_06_table_01.csv | crime_34_page_58_table_01.csv
+February,2024,MMDR & KMMCR,KMMC Rules,8,3,crime_19_page_17_table_01.csv | crime_20_page_17_table_01.csv | crime_7_page_17_table_01.csv
+September,2025,MMDR & KMMCR,MMDR Act,10,3,crime_14_page_17_table_01.csv | crime_14_page_71_table_01.csv | crime_15_page_17_table_01.csv
+April,2023,Crime against Women,Dowry Death,11,3,crime_34_page_11_table_01.csv | crime_34_page_63_table_01.csv | crime_35_page_11_table_01.csv
+April,2023,Crime against Women,Rape,46,3,crime_34_page_11_table_01.csv | crime_34_page_63_table_01.csv | crime_35_page_11_table_01.csv
+April,2023,Cyber Crimes,Cyber Crimes,1710,3,crime_21_page_15_table_01.csv | crime_34_page_15_table_01.csv | crime_34_page_67_table_01.csv
+July,2024,NDPS Cases,NDPS Cases,354,3,crime_12_page_19_table_01.csv | crime_24_page_19_table_01.csv | crime_25_page_19_table_01.csv
+July,2023,Murder,Murder for gain,0,3,crime_24_page_03_table_01.csv | crime_37_page_03_table_01.csv | crime_38_page_03_table_01.csv
+February,2024,Murder,Murder for gain,2,3,crime_19_page_03_table_01.csv | crime_20_page_03_table_01.csv | crime_7_page_03_table_01.csv
+August,2023,Riots,Riots,333,3,crime_25_page_08_table_01.csv | crime_38_page_08_table_01.csv | crime_39_page_08_table_01.csv
+April,2023,MMDR & KMMCR,KMMC Rules,6,3,crime_34_page_17_table_01.csv | crime_34_page_69_table_01.csv | crime_35_page_17_table_01.csv
+April,2023,MMDR & KMMCR,MMDR Act,10,3,crime_34_page_17_table_01.csv | crime_34_page_69_table_01.csv | crime_35_page_17_table_01.csv
+February,2024,NDPS Cases,NDPS Cases,275,3,crime_19_page_19_table_01.csv | crime_20_page_19_table_01.csv | crime_7_page_19_table_01.csv
+April,2023,Murder,Murder for gain,2,3,crime_34_page_03_table_01.csv | crime_34_page_55_table_01.csv | crime_35_page_03_table_01.csv
+April,2023,Murder,Other Murders,100,3,crime_34_page_03_table_01.csv | crime_34_page_55_table_01.csv | crime_35_page_03_table_01.csv
+April,2023,Murder,Total Murder,102,3,crime_34_page_03_table_01.csv | crime_34_page_55_table_01.csv | crime_35_page_03_table_01.csv
+July,2024,MMDR & KMMCR,KMMC Rules,3,3,crime_12_page_17_table_01.csv | crime_24_page_17_table_01.csv | crime_25_page_17_table_01.csv
+July,2024,MMDR & KMMCR,MMDR Act,2,3,crime_12_page_17_table_01.csv | crime_24_page_17_table_01.csv | crime_25_page_17_table_01.csv
+July,2024,Murder,Murder for gain,1,3,crime_12_page_03_table_01.csv | crime_24_page_03_table_01.csv | crime_25_page_03_table_01.csv
+February,2025,Crime against Women,Dowry Death,9,3,crime_2_page_11_table_01.csv | crime_7_page_11_table_01.csv | crime_8_page_11_table_01.csv
+July,2023,MMDR & KMMCR,KMMC Rules,2,3,crime_24_page_17_table_01.csv | crime_37_page_17_table_01.csv | crime_38_page_17_table_01.csv
+January,2024,MMDR & KMMCR,KMMC Rules,6,3,crime_18_page_17_table_01.csv | crime_19_page_17_table_01.csv | crime_6_page_17_table_01.csv
+February,2023,Crime against Women,Dowry Death,9,3,crime_19_page_11_table_01.csv | crime_32_page_11_table_01.csv | crime_33_page_11_table_01.csv
+February,2025,MMDR & KMMCR,KMMC Rules,3,3,crime_2_page_17_table_01.csv | crime_7_page_17_table_01.csv | crime_8_page_17_table_01.csv
+August,2024,MMDR & KMMCR,KMMC Rules,2,3,crime_13_page_17_table_01.csv | crime_25_page_17_table_01.csv | crime_26_page_17_table_01.csv
+February,2025,MMDR & KMMCR,MMDR Act,4,3,crime_2_page_17_table_01.csv | crime_7_page_17_table_01.csv | crime_8_page_17_table_01.csv
+February,2025,Murder,Murder for gain,3,3,crime_2_page_03_table_01.csv | crime_7_page_03_table_01.csv | crime_8_page_03_table_01.csv
+January,2024,MMDR & KMMCR,MMDR Act,15,3,crime_18_page_17_table_01.csv | crime_19_page_17_table_01.csv | crime_6_page_17_table_01.csv
+April,2024,MMDR & KMMCR,KMMC Rules,5,3,crime_21_page_17_table_01.csv | crime_22_page_17_table_01.csv | crime_9_page_17_table_01.csv
+April,2024,MMDR & KMMCR,MMDR Act,5,3,crime_21_page_17_table_01.csv | crime_22_page_17_table_01.csv | crime_9_page_17_table_01.csv
+April,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,868,3,crime_21_page_18_table_01.csv | crime_22_page_18_table_01.csv | crime_9_page_18_table_01.csv
+April,2024,Murder,Murder for gain,3,3,crime_21_page_03_table_01.csv | crime_22_page_03_table_01.csv | crime_9_page_03_table_01.csv
+June,2023,Crime against Women,Dowry Death,9,3,crime_23_page_11_table_01.csv | crime_36_page_11_table_01.csv | crime_37_page_11_table_01.csv
+June,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1288,3,crime_23_page_18_table_01.csv | crime_36_page_18_table_01.csv | crime_37_page_18_table_01.csv
+June,2023,Robbery,Chain Snatching,46,3,crime_23_page_05_table_01.csv | crime_36_page_05_table_01.csv | crime_37_page_05_table_01.csv
+June,2024,Crime against Women,Dowry Death,10,3,crime_11_page_11_table_01.csv | crime_23_page_11_table_01.csv | crime_24_page_11_table_01.csv
+June,2024,MMDR & KMMCR,KMMC Rules,0,3,crime_11_page_17_table_01.csv | crime_23_page_17_table_01.csv | crime_24_page_17_table_01.csv
+March,2023,Burglary,Burglary Day,84,3,crime_33_page_06_table_01.csv | crime_34_page_06_table_01.csv | crime_34_page_58_table_01.csv
+March,2023,Cyber Crimes,Cyber Crimes,1615,3,crime_33_page_15_table_01.csv | crime_34_page_15_table_01.csv | crime_34_page_67_table_01.csv
+March,2023,Dacoity,Dacoity Cases,22,3,crime_20_page_04_table_01.csv | crime_34_page_04_table_01.csv | crime_34_page_56_table_01.csv
+April,2025,MMDR & KMMCR,KMMC Rules,0,3,crime_10_page_17_table_01.csv | crime_4_page_17_table_01.csv | crime_9_page_17_table_01.csv
+March,2023,MMDR & KMMCR,MMDR Act,10,3,crime_33_page_17_table_01.csv | crime_34_page_17_table_01.csv | crime_34_page_69_table_01.csv
+April,2024,NDPS Cases,NDPS Cases,217,3,crime_21_page_19_table_01.csv | crime_22_page_19_table_01.csv | crime_9_page_19_table_01.csv
+March,2023,Murder,Other Murders,112,3,crime_20_page_03_table_01.csv | crime_34_page_03_table_01.csv | crime_34_page_55_table_01.csv
+March,2023,Murder,Total Murder,112,3,crime_20_page_03_table_01.csv | crime_34_page_03_table_01.csv | crime_34_page_55_table_01.csv
+December,2024,Burglary,Burglary Day,94,3,crime_17_page_06_table_01.csv | crime_30_page_06_table_01.csv | crime_6_page_06_table_01.csv
+March,2023,Robbery,Chain Snatching,56,3,crime_33_page_05_table_01.csv | crime_34_page_05_table_01.csv | crime_34_page_57_table_01.csv
+March,2023,Robbery,Robbery (Except Chain Snatching),83,3,crime_33_page_05_table_01.csv | crime_34_page_05_table_01.csv | crime_34_page_57_table_01.csv
+March,2023,Robbery,Total Robbery,139,3,crime_33_page_05_table_01.csv | crime_34_page_05_table_01.csv | crime_34_page_57_table_01.csv
+March,2024,Burglary,Burglary Day,80,3,crime_20_page_06_table_01.csv | crime_21_page_06_table_01.csv | crime_8_page_06_table_01.csv
+March,2024,Crime against Women,Dowry Death,7,3,crime_20_page_11_table_01.csv | crime_21_page_11_table_01.csv | crime_8_page_11_table_01.csv
+March,2024,MMDR & KMMCR,KMMC Rules,3,3,crime_20_page_17_table_01.csv | crime_21_page_17_table_01.csv | crime_8_page_17_table_01.csv
+March,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1060,3,crime_20_page_18_table_01.csv | crime_21_page_18_table_01.csv | crime_8_page_18_table_01.csv
+March,2024,Murder,Murder for gain,2,3,crime_20_page_03_table_01.csv | crime_21_page_03_table_01.csv | crime_8_page_03_table_01.csv
+March,2024,NDPS Cases,NDPS Cases,370,3,crime_20_page_19_table_01.csv | crime_21_page_19_table_01.csv | crime_8_page_19_table_01.csv
+March,2025,Burglary,Burglary Day,81,3,crime_3_page_06_table_01.csv | crime_8_page_06_table_01.csv | crime_9_page_06_table_01.csv
+March,2025,MMDR & KMMCR,KMMC Rules,1,3,crime_3_page_17_table_01.csv | crime_8_page_17_table_01.csv | crime_9_page_17_table_01.csv
+March,2025,NDPS Cases,NDPS Cases,433,3,crime_3_page_19_table_01.csv | crime_8_page_19_table_01.csv | crime_9_page_19_table_01.csv
+May,2023,MMDR & KMMCR,KMMC Rules,0,3,crime_22_page_17_table_01.csv | crime_35_page_17_table_01.csv | crime_36_page_17_table_01.csv
+May,2023,NDPS Cases,NDPS Cases,442,3,crime_22_page_19_table_01.csv | crime_35_page_19_table_01.csv | crime_36_page_19_table_01.csv
+May,2024,MMDR & KMMCR,KMMC Rules,4,3,crime_10_page_17_table_01.csv | crime_22_page_17_table_01.csv | crime_23_page_17_table_01.csv
+May,2024,Murder,Murder for gain,5,3,crime_10_page_03_table_01.csv | crime_22_page_03_table_01.csv | crime_23_page_03_table_01.csv
+May,2024,NDPS Cases,NDPS Cases,243,3,crime_10_page_19_table_01.csv | crime_22_page_19_table_01.csv | crime_23_page_19_table_01.csv
+May,2024,Robbery,Chain Snatching,58,3,crime_10_page_05_table_01.csv | crime_22_page_05_table_01.csv | crime_23_page_05_table_01.csv
+May,2025,MMDR & KMMCR,KMMC Rules,1,3,crime_10_page_17_table_01.csv | crime_11_page_17_table_01.csv | crime_5_page_17_table_01.csv
+May,2025,Murder,Murder for gain,4,3,crime_10_page_03_table_01.csv | crime_11_page_03_table_01.csv | crime_5_page_03_table_01.csv
+May,2025,NDPS Cases,NDPS Cases,374,3,crime_10_page_19_table_01.csv | crime_11_page_19_table_01.csv | crime_5_page_19_table_01.csv
+November,2023,Dacoity,Dacoity Cases,14,3,crime_28_page_04_table_01.csv | crime_29_page_04_table_01.csv | crime_41_page_04_table_01.csv
+November,2023,Economic Offences,Economic Offences,608,3,crime_28_page_16_table_01.csv | crime_29_page_16_table_01.csv | crime_41_page_16_table_01.csv
+November,2023,MMDR & KMMCR,MMDR Act,8,3,crime_28_page_17_table_01.csv | crime_29_page_17_table_01.csv | crime_41_page_17_table_01.csv
+November,2023,NDPS Cases,NDPS Cases,311,3,crime_28_page_19_table_01.csv | crime_29_page_19_table_01.csv | crime_41_page_19_table_01.csv
+January,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1018,3,crime_18_page_18_table_01.csv | crime_19_page_18_table_01.csv | crime_6_page_18_table_01.csv
+November,2024,Dacoity,Dacoity Cases,9,3,crime_28_page_04_table_01.csv | crime_29_page_04_table_01.csv | crime_30_page_04_table_01.csv
+January,2024,Murder,Murder for gain,3,3,crime_18_page_03_table_01.csv | crime_19_page_03_table_01.csv | crime_6_page_03_table_01.csv
+August,2025,Burglary,Burglary Day,91,3,crime_13_page_06_table_01.csv | crime_14_page_06_table_01.csv | crime_14_page_60_table_01.csv
+November,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,777,3,crime_16_page_18_table_01.csv | crime_28_page_18_table_01.csv | crime_29_page_18_table_01.csv
+November,2024,Murder,Murder for gain,4,3,crime_28_page_03_table_01.csv | crime_29_page_03_table_01.csv | crime_30_page_03_table_01.csv
+January,2023,MMDR & KMMCR,KMMC Rules,4,3,crime_18_page_17_table_01.csv | crime_31_page_17_table_01.csv | crime_32_page_17_table_01.csv
+November,2024,Riots,Riots,219,3,crime_28_page_08_table_01.csv | crime_29_page_08_table_01.csv | crime_30_page_08_table_01.csv
+November,2024,Robbery,Chain Snatching,40,3,crime_28_page_05_table_01.csv | crime_29_page_05_table_01.csv | crime_30_page_05_table_01.csv
+November,2024.0,Security Cases,Security Cases,1057,3,crime_28_page_14_table_01.csv | crime_29_page_14_table_01.csv | crime_30_page_14_table_01.csv
+November,2024.0,Security Cases,Total,1875,3,crime_28_page_14_table_01.csv | crime_29_page_14_table_01.csv | crime_30_page_14_table_01.csv
+October,2023,MMDR & KMMCR,KMMC Rules,3,3,crime_27_page_17_table_01.csv | crime_40_page_17_table_01.csv | crime_41_page_17_table_01.csv
+October,2023,MMDR & KMMCR,MMDR Act,17,3,crime_27_page_17_table_01.csv | crime_40_page_17_table_01.csv | crime_41_page_17_table_01.csv
+October,2023,Murder,Murder for gain,0,3,crime_27_page_03_table_01.csv | crime_40_page_03_table_01.csv | crime_41_page_03_table_01.csv
+October,2024,Burglary,Burglary Day,100,3,crime_15_page_06_table_01.csv | crime_28_page_06_table_01.csv | crime_29_page_06_table_01.csv
+October,2024,Burglary,Burglary Night,388,3,crime_15_page_06_table_01.csv | crime_28_page_06_table_01.csv | crime_29_page_06_table_01.csv
+October,2024,Burglary,Total,488,3,crime_15_page_06_table_01.csv | crime_28_page_06_table_01.csv | crime_29_page_06_table_01.csv
+February,2023,NDPS Cases,NDPS Cases,344,3,crime_19_page_19_table_01.csv | crime_32_page_19_table_01.csv | crime_33_page_19_table_01.csv
+October,2024,Dacoity,Dacoity Cases,9,3,crime_27_page_04_table_01.csv | crime_28_page_04_table_01.csv | crime_29_page_04_table_01.csv
+October,2024,Hurt,Cases of Hurt,1276,3,crime_27_page_09_table_01.csv | crime_28_page_09_table_01.csv | crime_29_page_09_table_01.csv
+August,2025,Crime against Women,Dowry Death,10,3,crime_13_page_11_table_01.csv | crime_14_page_11_table_01.csv | crime_14_page_65_table_01.csv
+October,2024,MMDR & KMMCR,MMDR Act,9,3,crime_15_page_17_table_01.csv | crime_28_page_17_table_01.csv | crime_29_page_17_table_01.csv
+October,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,839,3,crime_27_page_18_table_01.csv | crime_28_page_18_table_01.csv | crime_29_page_18_table_01.csv
+October,2024,Murder,Murder for gain,3,3,crime_27_page_03_table_01.csv | crime_28_page_03_table_01.csv | crime_29_page_03_table_01.csv
+February,2023,Robbery,Chain Snatching,49,3,crime_19_page_05_table_01.csv | crime_32_page_05_table_01.csv | crime_33_page_05_table_01.csv
+October,2024.0,Security Cases,Security Cases,1310,3,crime_27_page_14_table_01.csv | crime_28_page_14_table_01.csv | crime_29_page_14_table_01.csv
+October,2024.0,Security Cases,Total,2447,3,crime_27_page_14_table_01.csv | crime_28_page_14_table_01.csv | crime_29_page_14_table_01.csv
+September,2023,MMDR & KMMCR,KMMC Rules,2,3,crime_26_page_17_table_01.csv | crime_39_page_17_table_01.csv | crime_40_page_17_table_01.csv
+September,2023,Murder,Murder for gain,0,3,crime_26_page_03_table_01.csv | crime_39_page_03_table_01.csv | crime_40_page_03_table_01.csv
+September,2023,Theft,Reported,2248,3,crime_26_page_07_table_01.csv | crime_39_page_07_table_01.csv | crime_40_page_07_table_01.csv
+January,2023,MMDR & KMMCR,MMDR Act,8,3,crime_18_page_17_table_01.csv | crime_31_page_17_table_01.csv | crime_32_page_17_table_01.csv
+April,2025,Murder,Murder for gain,3,3,crime_10_page_03_table_01.csv | crime_4_page_03_table_01.csv | crime_9_page_03_table_01.csv
+September,2025,Crime against Women,Dowry Death,6,3,crime_14_page_11_table_01.csv | crime_14_page_65_table_01.csv | crime_15_page_11_table_01.csv
+September,2025,Dacoity,Dacoity Cases,12,3,crime_14_page_04_table_01.csv | crime_14_page_58_table_01.csv | crime_15_page_04_table_01.csv
+September,2025,MMDR & KMMCR,KMMC Rules,1,3,crime_14_page_17_table_01.csv | crime_14_page_71_table_01.csv | crime_15_page_17_table_01.csv
+September,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,731,3,crime_14_page_18_table_01.csv | crime_14_page_72_table_01.csv | crime_15_page_18_table_01.csv
+September,2025,Robbery,Total Robbery,90,3,crime_14_page_05_table_01.csv | crime_14_page_59_table_01.csv | crime_15_page_05_table_01.csv
+August,2024,MMDR & KMMCR,MMDR Act,3,2,crime_25_page_17_table_01.csv | crime_26_page_17_table_01.csv
+August,2024,Murder,Murder for gain,4,2,crime_13_page_03_table_01.csv | crime_26_page_03_table_01.csv
+August,2024,NDPS Cases,NDPS Cases,436,2,crime_25_page_19_table_01.csv | crime_26_page_19_table_01.csv
+August,2024,Robbery,Chain Snatching,54,2,crime_25_page_05_table_01.csv | crime_26_page_05_table_01.csv
+August,2024.0,Security Cases,Security Cases,1940,2,crime_25_page_14_table_01.csv | crime_26_page_14_table_01.csv
+August,2024.0,Security Cases,Total,2491,2,crime_25_page_14_table_01.csv | crime_26_page_14_table_01.csv
+August,2025,Burglary,Burglary Night,350,2,crime_14_page_06_table_01.csv | crime_14_page_60_table_01.csv
+August,2025,Burglary,Total,441,2,crime_14_page_06_table_01.csv | crime_14_page_60_table_01.csv
+August,2025,Crime against Women,Rape,83,2,crime_14_page_11_table_01.csv | crime_14_page_65_table_01.csv
+August,2025,Cyber Crimes,Cyber Crimes,1265,2,crime_14_page_15_table_01.csv | crime_14_page_69_table_01.csv
+August,2025,Dacoity,Dacoity Cases,8,2,crime_14_page_04_table_01.csv | crime_14_page_58_table_01.csv
+August,2025,Economic Offences,Economic Offences,443,2,crime_14_page_16_table_01.csv | crime_14_page_70_table_01.csv
+August,2025,Hurt,Cases of Hurt,1223,2,crime_14_page_09_table_01.csv | crime_14_page_63_table_01.csv
+August,2025,POCSO,POCSO,379,2,crime_14_page_12_table_01.csv | crime_14_page_66_table_01.csv
+August,2025,Riots,Riots,285,2,crime_14_page_08_table_01.csv | crime_14_page_62_table_01.csv
+August,2025,Robbery,Chain Snatching,30,2,crime_14_page_05_table_01.csv | crime_14_page_59_table_01.csv
+August,2025,Robbery,Robbery (Except Chain Snatching),54,2,crime_14_page_05_table_01.csv | crime_14_page_59_table_01.csv
+August,2025,Robbery,Total Robbery,84,2,crime_14_page_05_table_01.csv | crime_14_page_59_table_01.csv
+August,2025,SC/ST POA Act,SC/ST POA Act,172,2,crime_14_page_13_table_01.csv | crime_14_page_67_table_01.csv
+August,2025,Special & Local Laws,Special & Local Laws,4872,2,crime_14_page_10_table_01.csv | crime_14_page_64_table_01.csv
+August,2025,Theft,Reported,1560,2,crime_14_page_07_table_01.csv | crime_14_page_61_table_01.csv
+August,2025.0,Security Cases,Security Cases,3932,2,crime_14_page_14_table_01.csv | crime_14_page_68_table_01.csv
+August,2025.0,Security Cases,Total,6865,2,crime_14_page_14_table_01.csv | crime_14_page_68_table_01.csv
+December,2023,Burglary,Burglary Day,110,2,crime_18_page_06_table_01.csv | crime_30_page_06_table_01.csv
+December,2023,Burglary,Burglary Night,443,2,crime_18_page_06_table_01.csv | crime_30_page_06_table_01.csv
+December,2023,Burglary,Total,553,2,crime_18_page_06_table_01.csv | crime_30_page_06_table_01.csv
+December,2023,MMDR & KMMCR,KMMC Rules,7,2,crime_18_page_17_table_01.csv | crime_30_page_17_table_01.csv
+December,2023,MMDR & KMMCR,MMDR Act,4,2,crime_18_page_17_table_01.csv | crime_30_page_17_table_01.csv
+December,2023,Murder,Total Murder,122,2,crime_18_page_03_table_01.csv | crime_30_page_03_table_01.csv
+December,2023.0,Security Cases,Security Cases,1293,2,crime_18_page_14_table_01.csv | crime_30_page_14_table_01.csv
+December,2023.0,Security Cases,Total,2376,2,crime_18_page_14_table_01.csv | crime_30_page_14_table_01.csv
+December,2024,Crime against Women,Dowry Death,6,2,crime_17_page_11_table_01.csv | crime_6_page_11_table_01.csv
+December,2024,Dacoity,Dacoity Cases,12,2,crime_30_page_04_table_01.csv | crime_6_page_04_table_01.csv
+December,2024,Hurt,Cases of Hurt,1300,2,crime_30_page_09_table_01.csv | crime_6_page_09_table_01.csv
+December,2024,MMDR & KMMCR,KMMC Rules,2,2,crime_17_page_17_table_01.csv | crime_6_page_17_table_01.csv
+December,2024,MMDR & KMMCR,MMDR Act,5,2,crime_17_page_17_table_01.csv | crime_6_page_17_table_01.csv
+December,2024,Murder,Murder for gain,7,2,crime_30_page_03_table_01.csv | crime_6_page_03_table_01.csv
+December,2024,Murder,Other Murders,87,2,crime_17_page_03_table_01.csv | crime_6_page_03_table_01.csv
+December,2024,Murder,Total Murder,95,2,crime_17_page_03_table_01.csv | crime_30_page_03_table_01.csv
+December,2024,Robbery,Chain Snatching,40,2,crime_17_page_05_table_01.csv | crime_30_page_05_table_01.csv
+December,2024.0,Security Cases,Total,1949,2,crime_17_page_14_table_01.csv | crime_6_page_14_table_01.csv
+December,2025,Burglary,Burglary Day,105,2,crime_17_page_06_table_01.csv | crime_1_page_06_table_01.csv
+December,2025,Crime against Women,Rape,41,2,crime_17_page_11_table_01.csv | crime_1_page_11_table_01.csv
+December,2025,Cyber Crimes,Cyber Crimes,1286,2,crime_17_page_15_table_01.csv | crime_1_page_15_table_01.csv
+December,2025,Dacoity,Dacoity Cases,14,2,crime_17_page_04_table_01.csv | crime_1_page_04_table_01.csv
+December,2025,Economic Offences,Economic Offences,710,2,crime_17_page_16_table_01.csv | crime_1_page_16_table_01.csv
+December,2025,MMDR & KMMCR,KMMC Rules,3,2,crime_17_page_17_table_01.csv | crime_1_page_17_table_01.csv
+December,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,795,2,crime_17_page_18_table_01.csv | crime_1_page_18_table_01.csv
+December,2025,Murder,Murder for gain,2,2,crime_17_page_03_table_01.csv | crime_1_page_03_table_01.csv
+December,2025,Robbery,Chain Snatching,42,2,crime_17_page_05_table_01.csv | crime_1_page_05_table_01.csv
+February,2023,Burglary,Burglary Day,77,2,crime_19_page_06_table_01.csv | crime_32_page_06_table_01.csv
+February,2023,Burglary,Burglary Night,371,2,crime_32_page_06_table_01.csv | crime_33_page_06_table_01.csv
+February,2023,Crime against Women,Rape,54,2,crime_19_page_11_table_01.csv | crime_33_page_11_table_01.csv
+February,2023,Cyber Crimes,Cyber Crimes,1370,2,crime_32_page_15_table_01.csv | crime_33_page_15_table_01.csv
+February,2023,Dacoity,Dacoity Cases,14,2,crime_19_page_04_table_01.csv | crime_32_page_04_table_01.csv
+February,2023,MMDR & KMMCR,KMMC Rules,4,2,crime_32_page_17_table_01.csv | crime_33_page_17_table_01.csv
+February,2023,MMDR & KMMCR,MMDR Act,6,2,crime_32_page_17_table_01.csv | crime_33_page_17_table_01.csv
+February,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,859,2,crime_19_page_18_table_01.csv | crime_33_page_18_table_01.csv
+February,2023,Murder,Other Murders,114,2,crime_19_page_03_table_01.csv | crime_33_page_03_table_01.csv
+February,2023,SC/ST POA Act,SC/ST POA Act,145,2,crime_19_page_13_table_01.csv | crime_32_page_13_table_01.csv
+February,2024,Burglary,Burglary Day,99,2,crime_20_page_06_table_01.csv | crime_7_page_06_table_01.csv
+February,2024,Crime against Women,Dowry Death,14,2,crime_20_page_11_table_01.csv | crime_7_page_11_table_01.csv
+February,2024,Cyber Crimes,Cyber Crimes,2004,2,crime_19_page_15_table_01.csv | crime_20_page_15_table_01.csv
+February,2024,MMDR & KMMCR,MMDR Act,8,2,crime_19_page_17_table_01.csv | crime_7_page_17_table_01.csv
+February,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1025,2,crime_19_page_18_table_01.csv | crime_20_page_18_table_01.csv
+February,2024,Robbery,Chain Snatching,67,2,crime_19_page_05_table_01.csv | crime_20_page_05_table_01.csv
+February,2024,SC/ST POA Act,SC/ST POA Act,208,2,crime_20_page_13_table_01.csv | crime_7_page_13_table_01.csv
+February,2025,Burglary,Burglary Day,73,2,crime_7_page_06_table_01.csv | crime_8_page_06_table_01.csv
+February,2025,Crime against Women,Rape,77,2,crime_7_page_11_table_01.csv | crime_8_page_11_table_01.csv
+February,2025,Dacoity,Dacoity Cases,11,2,crime_7_page_04_table_01.csv | crime_8_page_04_table_01.csv
+February,2025,NDPS Cases,NDPS Cases,415,2,crime_7_page_19_table_01.csv | crime_8_page_19_table_01.csv
+February,2025,Robbery,Chain Snatching,33,2,crime_7_page_05_table_01.csv | crime_8_page_05_table_01.csv
+February,2025,Robbery,Robbery (Except Chain Snatching),46,2,crime_7_page_05_table_01.csv | crime_8_page_05_table_01.csv
+February,2025,Robbery,Total Robbery,79,2,crime_7_page_05_table_01.csv | crime_8_page_05_table_01.csv
+February,2026,Crime against Women,Dowry Death,5,2,crime_2_page_11_table_01.csv | crime_3_page_11_table_01.csv
+February,2026,Crime against Women,Rape,41,2,crime_2_page_11_table_01.csv | crime_3_page_11_table_01.csv
+February,2026,Hurt,Cases of Hurt,1418,2,crime_2_page_09_table_01.csv | crime_3_page_09_table_01.csv
+February,2026,MMDR & KMMCR,KMMC Rules,1,2,crime_2_page_17_table_01.csv | crime_3_page_17_table_01.csv
+February,2026,MMDR & KMMCR,MMDR Act,0,2,crime_2_page_17_table_01.csv | crime_3_page_17_table_01.csv
+February,2026,Motor Vehicles Theft,Motor Vehicles Theft Cases,683,2,crime_2_page_18_table_01.csv | crime_3_page_18_table_01.csv
+February,2026,NDPS Cases,NDPS Cases,980,2,crime_2_page_19_table_01.csv | crime_3_page_19_table_01.csv
+February,2026,Riots,Riots,268,2,crime_2_page_08_table_01.csv | crime_3_page_08_table_01.csv
+February,2026,Robbery,Chain Snatching,33,2,crime_2_page_05_table_01.csv | crime_3_page_05_table_01.csv
+January,2023,Burglary,Burglary Day,73,2,crime_31_page_06_table_01.csv | crime_32_page_06_table_01.csv
+January,2023,Burglary,Burglary Night,372,2,crime_18_page_06_table_01.csv | crime_32_page_06_table_01.csv
+January,2023,Crime against Women,Rape,29,2,crime_18_page_11_table_01.csv | crime_31_page_11_table_01.csv
+January,2023,Cyber Crimes,Cyber Crimes,1325,2,crime_31_page_15_table_01.csv | crime_32_page_15_table_01.csv
+January,2023,Hurt,Cases of Hurt,1280,2,crime_31_page_09_table_01.csv | crime_32_page_09_table_01.csv
+January,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,901,2,crime_18_page_18_table_01.csv | crime_32_page_18_table_01.csv
+January,2023,Murder,Murder for gain,1,2,crime_31_page_03_table_01.csv | crime_32_page_03_table_01.csv
+January,2023,Murder,Total Murder,104,2,crime_18_page_03_table_01.csv | crime_31_page_03_table_01.csv
+January,2023,NDPS Cases,NDPS Cases,362,2,crime_31_page_19_table_01.csv | crime_32_page_19_table_01.csv
+January,2023,Riots,Riots,281,2,crime_18_page_08_table_01.csv | crime_31_page_08_table_01.csv
+January,2023,Robbery,Chain Snatching,54,2,crime_31_page_05_table_01.csv | crime_32_page_05_table_01.csv
+January,2023,Theft,Reported,1641,2,crime_18_page_07_table_01.csv | crime_32_page_07_table_01.csv
+January,2024,Burglary,Burglary Night,408,2,crime_18_page_06_table_01.csv | crime_19_page_06_table_01.csv
+January,2024,Crime against Women,Dowry Death,6,2,crime_18_page_11_table_01.csv | crime_19_page_11_table_01.csv
+January,2024,NDPS Cases,NDPS Cases,281,2,crime_18_page_19_table_01.csv | crime_19_page_19_table_01.csv
+January,2025,Burglary,Burglary Day,94,2,crime_6_page_06_table_01.csv | crime_7_page_06_table_01.csv
+January,2025,Burglary,Burglary Night,316,2,crime_1_page_06_table_01.csv | crime_6_page_06_table_01.csv
+January,2025,Crime against Women,Dowry Death,11,2,crime_6_page_11_table_01.csv | crime_7_page_11_table_01.csv
+January,2025,Crime against Women,Rape,65,2,crime_6_page_11_table_01.csv | crime_7_page_11_table_01.csv
+January,2025,Cyber Crimes,Cyber Crimes,1401,2,crime_6_page_15_table_01.csv | crime_7_page_15_table_01.csv
+January,2025,Dacoity,Dacoity Cases,13,2,crime_6_page_04_table_01.csv | crime_7_page_04_table_01.csv
+January,2025,Economic Offences,Economic Offences,571,2,crime_6_page_16_table_01.csv | crime_7_page_16_table_01.csv
+January,2025,MMDR & KMMCR,KMMC Rules,1,2,crime_1_page_17_table_01.csv | crime_7_page_17_table_01.csv
+January,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,900,2,crime_1_page_18_table_01.csv | crime_6_page_18_table_01.csv
+January,2025,Theft,Reported,1837,2,crime_6_page_07_table_01.csv | crime_7_page_07_table_01.csv
+January,2026,Burglary,Total,441,2,crime_1_page_06_table_01.csv | crime_2_page_06_table_01.csv
+January,2026,Crime against Women,Rape,45,2,crime_1_page_11_table_01.csv | crime_2_page_11_table_01.csv
+January,2026,Cyber Crimes,Cyber Crimes,1259,2,crime_1_page_15_table_01.csv | crime_2_page_15_table_01.csv
+January,2026,Dacoity,Dacoity Cases,6,2,crime_1_page_04_table_01.csv | crime_2_page_04_table_01.csv
+January,2026,MMDR & KMMCR,MMDR Act,11,2,crime_1_page_17_table_01.csv | crime_2_page_17_table_01.csv
+January,2026,Murder,Murder for gain,5,2,crime_1_page_03_table_01.csv | crime_2_page_03_table_01.csv
+July,2023,Burglary,Total,606,2,crime_37_page_06_table_01.csv | crime_38_page_06_table_01.csv
+July,2023,Crime against Women,Dowry Death,16,2,crime_24_page_11_table_01.csv | crime_38_page_11_table_01.csv
+July,2023,Crime against Women,Rape,48,2,crime_37_page_11_table_01.csv | crime_38_page_11_table_01.csv
+July,2023,Dacoity,Dacoity Cases,13,2,crime_24_page_04_table_01.csv | crime_38_page_04_table_01.csv
+July,2023,Hurt,Cases of Hurt,1443,2,crime_37_page_09_table_01.csv | crime_38_page_09_table_01.csv
+July,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1464,2,crime_37_page_18_table_01.csv | crime_38_page_18_table_01.csv
+July,2023,Murder,Other Murders,114,2,crime_37_page_03_table_01.csv | crime_38_page_03_table_01.csv
+July,2023,Murder,Total Murder,114,2,crime_37_page_03_table_01.csv | crime_38_page_03_table_01.csv
+July,2023,NDPS Cases,NDPS Cases,818,2,crime_37_page_19_table_01.csv | crime_38_page_19_table_01.csv
+July,2023,Robbery,Chain Snatching,48,2,crime_24_page_05_table_01.csv | crime_38_page_05_table_01.csv
+July,2023,Robbery,Total Robbery,212,2,crime_37_page_05_table_01.csv | crime_38_page_05_table_01.csv
+July,2023,SC/ST POA Act,SC/ST POA Act,202,2,crime_24_page_13_table_01.csv | crime_37_page_13_table_01.csv
+July,2024,Dacoity,Dacoity Cases,21,2,crime_12_page_04_table_01.csv | crime_24_page_04_table_01.csv
+July,2024,Hurt,Cases of Hurt,1166,2,crime_24_page_09_table_01.csv | crime_25_page_09_table_01.csv
+July,2024,Murder,Other Murders,91,2,crime_12_page_03_table_01.csv | crime_25_page_03_table_01.csv
+July,2024,Murder,Total Murder,92,2,crime_12_page_03_table_01.csv | crime_25_page_03_table_01.csv
+July,2024,Robbery,Chain Snatching,49,2,crime_24_page_05_table_01.csv | crime_25_page_05_table_01.csv
+July,2024,Robbery,Robbery (Except Chain Snatching),72,2,crime_24_page_05_table_01.csv | crime_25_page_05_table_01.csv
+July,2024,Robbery,Total Robbery,121,2,crime_24_page_05_table_01.csv | crime_25_page_05_table_01.csv
+July,2024,SC/ST POA Act,SC/ST POA Act,161,2,crime_12_page_13_table_01.csv | crime_24_page_13_table_01.csv
+July,2025,Crime against Women,Dowry Death,12,2,crime_12_page_11_table_01.csv | crime_13_page_11_table_01.csv
+July,2025,Crime against Women,Rape,69,2,crime_12_page_11_table_01.csv | crime_13_page_11_table_01.csv
+July,2025,Dacoity,Dacoity Cases,14,2,crime_12_page_04_table_01.csv | crime_13_page_04_table_01.csv
+July,2025,MMDR & KMMCR,KMMC Rules,1,2,crime_12_page_17_table_01.csv | crime_13_page_17_table_01.csv
+July,2025,NDPS Cases,NDPS Cases,701,2,crime_12_page_19_table_01.csv | crime_13_page_19_table_01.csv
+July,2025,Robbery,Total Robbery,95,2,crime_12_page_05_table_01.csv | crime_13_page_05_table_01.csv
+June,2023,Burglary,Burglary Day,135,2,crime_36_page_06_table_01.csv | crime_37_page_06_table_01.csv
+April,2022,Burglary,Total,428,2,crime_34_page_06_table_01.csv | crime_34_page_58_table_01.csv
+June,2023,Crime against Women,Rape,67,2,crime_23_page_11_table_01.csv | crime_36_page_11_table_01.csv
+June,2023,MMDR & KMMCR,KMMC Rules,12,2,crime_36_page_17_table_01.csv | crime_37_page_17_table_01.csv
+April,2022,Crime against Women,Dowry Death,9,2,crime_34_page_11_table_01.csv | crime_34_page_63_table_01.csv
+June,2023,Murder,Murder for gain,3,2,crime_23_page_03_table_01.csv | crime_37_page_03_table_01.csv
+June,2023,NDPS Cases,NDPS Cases,1290,2,crime_23_page_19_table_01.csv | crime_36_page_19_table_01.csv
+June,2023,Riots,Riots,372,2,crime_36_page_08_table_01.csv | crime_37_page_08_table_01.csv
+April,2022,Crime against Women,Rape,48,2,crime_34_page_11_table_01.csv | crime_34_page_63_table_01.csv
+April,2022,Cyber Crimes,Cyber Crimes,998,2,crime_34_page_15_table_01.csv | crime_34_page_67_table_01.csv
+June,2024,Crime against Women,Rape,55,2,crime_23_page_11_table_01.csv | crime_24_page_11_table_01.csv
+June,2024,Dacoity,Dacoity Cases,11,2,crime_11_page_04_table_01.csv | crime_23_page_04_table_01.csv
+April,2022,Dacoity,Dacoity Cases,19,2,crime_34_page_04_table_01.csv | crime_34_page_56_table_01.csv
+June,2024,MMDR & KMMCR,MMDR Act,10,2,crime_23_page_17_table_01.csv | crime_24_page_17_table_01.csv
+June,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,1081,2,crime_23_page_18_table_01.csv | crime_24_page_18_table_01.csv
+June,2024,Murder,Total Murder,92,2,crime_11_page_03_table_01.csv | crime_24_page_03_table_01.csv
+June,2024,NDPS Cases,NDPS Cases,321,2,crime_11_page_19_table_01.csv | crime_24_page_19_table_01.csv
+June,2024,SC/ST POA Act,SC/ST POA Act,148,2,crime_23_page_13_table_01.csv | crime_24_page_13_table_01.csv
+June,2024,Theft,Reported,2020,2,crime_11_page_07_table_01.csv | crime_24_page_07_table_01.csv
+June,2025,Crime against Women,Dowry Death,7,2,crime_11_page_11_table_01.csv | crime_12_page_11_table_01.csv
+June,2025,Hurt,Cases of Hurt,1436,2,crime_11_page_09_table_01.csv | crime_12_page_09_table_01.csv
+June,2025,MMDR & KMMCR,KMMC Rules,4,2,crime_11_page_17_table_01.csv | crime_12_page_17_table_01.csv
+June,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,836,2,crime_11_page_18_table_01.csv | crime_12_page_18_table_01.csv
+June,2025,Murder,Murder for gain,1,2,crime_11_page_03_table_01.csv | crime_12_page_03_table_01.csv
+June,2025,NDPS Cases,NDPS Cases,662,2,crime_11_page_19_table_01.csv | crime_12_page_19_table_01.csv
+April,2022,Economic Offences,Economic Offences,524,2,crime_34_page_16_table_01.csv | crime_34_page_68_table_01.csv
+March,2023,Burglary,Burglary Night,302,2,crime_34_page_06_table_01.csv | crime_34_page_58_table_01.csv
+March,2023,Burglary,Total,386,2,crime_34_page_06_table_01.csv | crime_34_page_58_table_01.csv
+April,2022,Hurt,Cases of Hurt,1462,2,crime_34_page_09_table_01.csv | crime_34_page_61_table_01.csv
+March,2023,Crime against Women,Rape,46,2,crime_34_page_11_table_01.csv | crime_34_page_63_table_01.csv
+April,2022,MMDR & KMMCR,KMMC Rules,10,2,crime_34_page_17_table_01.csv | crime_34_page_69_table_01.csv
+April,2022,MMDR & KMMCR,MMDR Act,9,2,crime_34_page_17_table_01.csv | crime_34_page_69_table_01.csv
+March,2023,Economic Offences,Economic Offences,562,2,crime_34_page_16_table_01.csv | crime_34_page_68_table_01.csv
+March,2023,Hurt,Cases of Hurt,1488,2,crime_34_page_09_table_01.csv | crime_34_page_61_table_01.csv
+April,2022,Motor Vehicles Theft,Motor Vehicles Theft Cases,950,2,crime_34_page_18_table_01.csv | crime_34_page_70_table_01.csv
+April,2022,Murder,Murder for gain,4,2,crime_34_page_03_table_01.csv | crime_34_page_55_table_01.csv
+March,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,906,2,crime_34_page_18_table_01.csv | crime_34_page_70_table_01.csv
+September,2024,Special & Local Laws,Special & Local Laws,4525,2,crime_14_page_10_table_01.csv | crime_14_page_64_table_01.csv
+September,2025.0,Security Cases,Total,1786,2,crime_14_page_14_table_01.csv | crime_14_page_68_table_01.csv
+April,2022,Murder,Total Murder,127,2,crime_34_page_03_table_01.csv | crime_34_page_55_table_01.csv
+April,2022,NDPS Cases,NDPS Cases,314,2,crime_34_page_19_table_01.csv | crime_34_page_71_table_01.csv
+March,2023,POCSO,POCSO,270,2,crime_34_page_12_table_01.csv | crime_34_page_64_table_01.csv
+March,2023,Riots,Riots,335,2,crime_34_page_08_table_01.csv | crime_34_page_60_table_01.csv
+April,2022,POCSO,POCSO,277,2,crime_34_page_12_table_01.csv | crime_34_page_64_table_01.csv
+April,2022,Riots,Riots,418,2,crime_34_page_08_table_01.csv | crime_34_page_60_table_01.csv
+April,2022,Robbery,Chain Snatching,65,2,crime_34_page_05_table_01.csv | crime_34_page_57_table_01.csv
+March,2023,SC/ST POA Act,SC/ST POA Act,158,2,crime_34_page_13_table_01.csv | crime_34_page_65_table_01.csv
+March,2023,Special & Local Laws,Special & Local Laws,7369,2,crime_34_page_10_table_01.csv | crime_34_page_62_table_01.csv
+March,2023,Theft,Reported,1656,2,crime_34_page_07_table_01.csv | crime_34_page_59_table_01.csv
+March,2023.0,Security Cases,Security Cases,5688,2,crime_34_page_14_table_01.csv | crime_34_page_66_table_01.csv
+March,2023.0,Security Cases,Total,9685,2,crime_34_page_14_table_01.csv | crime_34_page_66_table_01.csv
+April,2022,Robbery,Robbery (Except Chain Snatching),77,2,crime_34_page_05_table_01.csv | crime_34_page_57_table_01.csv
+April,2022,Robbery,Total Robbery,142,2,crime_34_page_05_table_01.csv | crime_34_page_57_table_01.csv
+March,2024,Cyber Crimes,Cyber Crimes,1939,2,crime_20_page_15_table_01.csv | crime_21_page_15_table_01.csv
+March,2024,Dacoity,Dacoity Cases,18,2,crime_20_page_04_table_01.csv | crime_21_page_04_table_01.csv
+April,2022,SC/ST POA Act,SC/ST POA Act,197,2,crime_34_page_13_table_01.csv | crime_34_page_65_table_01.csv
+April,2022,Special & Local Laws,Special & Local Laws,4429,2,crime_34_page_10_table_01.csv | crime_34_page_62_table_01.csv
+April,2022,Theft,Reported,1704,2,crime_34_page_07_table_01.csv | crime_34_page_59_table_01.csv
+April,2022.0,Security Cases,Security Cases,1035,2,crime_34_page_14_table_01.csv | crime_34_page_66_table_01.csv
+March,2024,Robbery,Chain Snatching,63,2,crime_20_page_05_table_01.csv | crime_21_page_05_table_01.csv
+April,2022.0,Security Cases,Total,1712,2,crime_34_page_14_table_01.csv | crime_34_page_66_table_01.csv
+March,2025,Crime against Women,Rape,96,2,crime_8_page_11_table_01.csv | crime_9_page_11_table_01.csv
+March,2025,Dacoity,Dacoity Cases,14,2,crime_3_page_04_table_01.csv | crime_9_page_04_table_01.csv
+March,2025,Economic Offences,Economic Offences,581,2,crime_8_page_16_table_01.csv | crime_9_page_16_table_01.csv
+April,2023,Burglary,Burglary Night,266,2,crime_34_page_06_table_01.csv | crime_34_page_58_table_01.csv
+March,2025,MMDR & KMMCR,MMDR Act,13,2,crime_8_page_17_table_01.csv | crime_9_page_17_table_01.csv
+March,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,831,2,crime_3_page_18_table_01.csv | crime_8_page_18_table_01.csv
+March,2025,Murder,Total Murder,100,2,crime_3_page_03_table_01.csv | crime_8_page_03_table_01.csv
+April,2023,Dacoity,Dacoity Cases,10,2,crime_34_page_04_table_01.csv | crime_34_page_56_table_01.csv
+March,2026,Burglary,Total,345,2,crime_3_page_06_table_01.csv | crime_4_page_06_table_01.csv
+March,2026,Crime against Women,Dowry Death,18,2,crime_3_page_11_table_01.csv | crime_4_page_11_table_01.csv
+March,2026,MMDR & KMMCR,KMMC Rules,2,2,crime_3_page_17_table_01.csv | crime_4_page_17_table_01.csv
+March,2026,MMDR & KMMCR,MMDR Act,5,2,crime_3_page_17_table_01.csv | crime_4_page_17_table_01.csv
+March,2026,Motor Vehicles Theft,Motor Vehicles Theft Cases,755,2,crime_3_page_18_table_01.csv | crime_4_page_18_table_01.csv
+March,2026,Murder,Murder for gain,1,2,crime_3_page_03_table_01.csv | crime_4_page_03_table_01.csv
+March,2026,Robbery,Total Robbery,102,2,crime_3_page_05_table_01.csv | crime_4_page_05_table_01.csv
+May,2023,Crime against Women,Dowry Death,14,2,crime_22_page_11_table_01.csv | crime_36_page_11_table_01.csv
+May,2023,Crime against Women,Rape,47,2,crime_35_page_11_table_01.csv | crime_36_page_11_table_01.csv
+May,2023,Cyber Crimes,Cyber Crimes,1570,2,crime_35_page_15_table_01.csv | crime_36_page_15_table_01.csv
+May,2023,Dacoity,Dacoity Cases,11,2,crime_35_page_04_table_01.csv | crime_36_page_04_table_01.csv
+May,2023,Economic Offences,Economic Offences,371,2,crime_35_page_16_table_01.csv | crime_36_page_16_table_01.csv
+April,2023,Economic Offences,Economic Offences,465,2,crime_21_page_16_table_01.csv | crime_35_page_16_table_01.csv
+May,2023,MMDR & KMMCR,MMDR Act,7,2,crime_35_page_17_table_01.csv | crime_36_page_17_table_01.csv
+May,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,935,2,crime_35_page_18_table_01.csv | crime_36_page_18_table_01.csv
+May,2023,Murder,Murder for gain,3,2,crime_22_page_03_table_01.csv | crime_36_page_03_table_01.csv
+April,2023,Economic Offences,Economic Offences,466,2,crime_34_page_16_table_01.csv | crime_34_page_68_table_01.csv
+May,2023,Robbery,Total Robbery,153,2,crime_35_page_05_table_01.csv | crime_36_page_05_table_01.csv
+May,2024,Burglary,Burglary Day,104,2,crime_10_page_06_table_01.csv | crime_23_page_06_table_01.csv
+May,2024,Dacoity,Dacoity Cases,8,2,crime_22_page_04_table_01.csv | crime_23_page_04_table_01.csv
+April,2023,Hurt,Cases of Hurt,1355,2,crime_34_page_09_table_01.csv | crime_34_page_61_table_01.csv
+May,2024,MMDR & KMMCR,MMDR Act,6,2,crime_22_page_17_table_01.csv | crime_23_page_17_table_01.csv
+April,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,877,2,crime_34_page_18_table_01.csv | crime_34_page_70_table_01.csv
+April,2023,POCSO,POCSO,256,2,crime_34_page_12_table_01.csv | crime_34_page_64_table_01.csv
+April,2023,Riots,Riots,293,2,crime_34_page_08_table_01.csv | crime_34_page_60_table_01.csv
+May,2025,Crime against Women,Dowry Death,6,2,crime_11_page_11_table_01.csv | crime_5_page_11_table_01.csv
+April,2023,Robbery,Chain Snatching,39,2,crime_34_page_05_table_01.csv | crime_34_page_57_table_01.csv
+May,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,779,2,crime_11_page_18_table_01.csv | crime_5_page_18_table_01.csv
+April,2023,Robbery,Chain Snatching,41,2,crime_21_page_05_table_01.csv | crime_35_page_05_table_01.csv
+April,2023,Robbery,Robbery (Except Chain Snatching),75,2,crime_34_page_05_table_01.csv | crime_34_page_57_table_01.csv
+May,2025,Robbery,Total Robbery,85,2,crime_10_page_05_table_01.csv | crime_11_page_05_table_01.csv
+May,2025,SC/ST POA Act,SC/ST POA Act,177,2,crime_11_page_13_table_01.csv | crime_5_page_13_table_01.csv
+November,2023,Burglary,Burglary Day,92,2,crime_28_page_06_table_01.csv | crime_29_page_06_table_01.csv
+November,2023,Burglary,Burglary Night,387,2,crime_28_page_06_table_01.csv | crime_29_page_06_table_01.csv
+November,2023,Burglary,Total,479,2,crime_28_page_06_table_01.csv | crime_29_page_06_table_01.csv
+November,2023,Crime against Women,Dowry Death,15,2,crime_28_page_11_table_01.csv | crime_29_page_11_table_01.csv
+November,2023,Crime against Women,Rape,52,2,crime_28_page_11_table_01.csv | crime_29_page_11_table_01.csv
+November,2023,Cyber Crimes,Cyber Crimes,2067,2,crime_28_page_15_table_01.csv | crime_29_page_15_table_01.csv
+April,2023,Robbery,Total Robbery,114,2,crime_34_page_05_table_01.csv | crime_34_page_57_table_01.csv
+April,2023,SC/ST POA Act,SC/ST POA Act,140,2,crime_34_page_13_table_01.csv | crime_34_page_65_table_01.csv
+November,2023,Hurt,Cases of Hurt,1360,2,crime_28_page_09_table_01.csv | crime_29_page_09_table_01.csv
+November,2023,MMDR & KMMCR,KMMC Rules,3,2,crime_28_page_17_table_01.csv | crime_29_page_17_table_01.csv
+April,2023,Special & Local Laws,Special & Local Laws,5745,2,crime_34_page_10_table_01.csv | crime_34_page_62_table_01.csv
+November,2023,Motor Vehicles Theft,Motor Vehicles Theft Cases,1104,2,crime_28_page_18_table_01.csv | crime_29_page_18_table_01.csv
+November,2023,Murder,Murder for gain,4,2,crime_28_page_03_table_01.csv | crime_29_page_03_table_01.csv
+November,2023,Murder,Other Murders,92,2,crime_28_page_03_table_01.csv | crime_29_page_03_table_01.csv
+November,2023,Murder,Total Murder,96,2,crime_28_page_03_table_01.csv | crime_29_page_03_table_01.csv
+April,2023,Theft,Reported,1560,2,crime_34_page_07_table_01.csv | crime_34_page_59_table_01.csv
+November,2023,POCSO,POCSO,321,2,crime_28_page_12_table_01.csv | crime_29_page_12_table_01.csv
+November,2023,Riots,Riots,293,2,crime_28_page_08_table_01.csv | crime_29_page_08_table_01.csv
+November,2023,Robbery,Chain Snatching,54,2,crime_28_page_05_table_01.csv | crime_29_page_05_table_01.csv
+November,2023,Robbery,Robbery (Except Chain Snatching),102,2,crime_28_page_05_table_01.csv | crime_29_page_05_table_01.csv
+November,2023,Robbery,Total Robbery,156,2,crime_28_page_05_table_01.csv | crime_29_page_05_table_01.csv
+November,2023,SC/ST POA Act,SC/ST POA Act,164,2,crime_28_page_13_table_01.csv | crime_29_page_13_table_01.csv
+November,2023,Special & Local Laws,Special & Local Laws,5689,2,crime_28_page_10_table_01.csv | crime_29_page_10_table_01.csv
+November,2023,Theft,Reported,2108,2,crime_28_page_07_table_01.csv | crime_29_page_07_table_01.csv
+November,2023.0,Security Cases,Security Cases,2320,2,crime_28_page_14_table_01.csv | crime_29_page_14_table_01.csv
+November,2023.0,Security Cases,Total,5951,2,crime_28_page_14_table_01.csv | crime_29_page_14_table_01.csv
+November,2024,Burglary,Burglary Day,89,2,crime_28_page_06_table_01.csv | crime_29_page_06_table_01.csv
+November,2024,Burglary,Burglary Night,332,2,crime_28_page_06_table_01.csv | crime_29_page_06_table_01.csv
+November,2024,Burglary,Total,421,2,crime_28_page_06_table_01.csv | crime_29_page_06_table_01.csv
+April,2023.0,Security Cases,Security Cases,2346,2,crime_34_page_14_table_01.csv | crime_34_page_66_table_01.csv
+November,2024,Crime against Women,Rape,46,2,crime_28_page_11_table_01.csv | crime_29_page_11_table_01.csv
+November,2024,Cyber Crimes,Cyber Crimes,1568,2,crime_28_page_15_table_01.csv | crime_29_page_15_table_01.csv
+April,2023.0,Security Cases,Total,4503,2,crime_34_page_14_table_01.csv | crime_34_page_66_table_01.csv
+November,2024,Economic Offences,Economic Offences,506,2,crime_28_page_16_table_01.csv | crime_29_page_16_table_01.csv
+November,2024,Hurt,Cases of Hurt,1228,2,crime_28_page_09_table_01.csv | crime_29_page_09_table_01.csv
+April,2024,Cyber Crimes,Cyber Crimes,1574,2,crime_21_page_15_table_01.csv | crime_22_page_15_table_01.csv
+April,2024,Robbery,Total Robbery,150,2,crime_22_page_05_table_01.csv | crime_9_page_05_table_01.csv
+April,2025,Burglary,Burglary Day,91,2,crime_10_page_06_table_01.csv | crime_9_page_06_table_01.csv
+April,2025,Crime against Women,Dowry Death,16,2,crime_10_page_11_table_01.csv | crime_4_page_11_table_01.csv
+November,2024,Murder,Other Murders,98,2,crime_28_page_03_table_01.csv | crime_29_page_03_table_01.csv
+November,2024,Murder,Total Murder,102,2,crime_28_page_03_table_01.csv | crime_29_page_03_table_01.csv
+April,2025,Crime against Women,Rape,79,2,crime_10_page_11_table_01.csv | crime_9_page_11_table_01.csv
+November,2024,POCSO,POCSO,260,2,crime_28_page_12_table_01.csv | crime_29_page_12_table_01.csv
+April,2025,Dacoity,Dacoity Cases,8,2,crime_10_page_04_table_01.csv | crime_9_page_04_table_01.csv
+April,2025,Economic Offences,Economic Offences,509,2,crime_10_page_16_table_01.csv | crime_9_page_16_table_01.csv
+November,2024,Robbery,Robbery (Except Chain Snatching),44,2,crime_28_page_05_table_01.csv | crime_29_page_05_table_01.csv
+November,2024,Robbery,Total Robbery,84,2,crime_28_page_05_table_01.csv | crime_29_page_05_table_01.csv
+November,2024,SC/ST POA Act,SC/ST POA Act,151,2,crime_28_page_13_table_01.csv | crime_29_page_13_table_01.csv
+November,2024,Special & Local Laws,Special & Local Laws,5620,2,crime_28_page_10_table_01.csv | crime_29_page_10_table_01.csv
+November,2024,Theft,Reported,1665,2,crime_28_page_07_table_01.csv | crime_29_page_07_table_01.csv
+April,2025,Hurt,Cases of Hurt,1528,2,crime_10_page_09_table_01.csv | crime_9_page_09_table_01.csv
+April,2022,Burglary,Burglary Night,352,2,crime_34_page_06_table_01.csv | crime_34_page_58_table_01.csv
+November,2025,Crime against Women,Rape,45,2,crime_16_page_11_table_01.csv | crime_17_page_11_table_01.csv
+November,2025,Cyber Crimes,Cyber Crimes,1186,2,crime_16_page_15_table_01.csv | crime_17_page_15_table_01.csv
+November,2025,Economic Offences,Economic Offences,554,2,crime_16_page_16_table_01.csv | crime_17_page_16_table_01.csv
+November,2025,MMDR & KMMCR,KMMC Rules,1,2,crime_16_page_17_table_01.csv | crime_17_page_17_table_01.csv
+November,2025,MMDR & KMMCR,MMDR Act,6,2,crime_16_page_17_table_01.csv | crime_17_page_17_table_01.csv
+November,2025,Murder,Total Murder,99,2,crime_16_page_03_table_01.csv | crime_17_page_03_table_01.csv
+November,October,Burglary,Burglary Day,92,2,crime_41_page_06_table_01.csv
+October,2023,Crime against Women,Dowry Death,14,2,crime_27_page_11_table_01.csv | crime_41_page_11_table_01.csv
+October,2023,Economic Offences,Economic Offences,701,2,crime_27_page_16_table_01.csv | crime_41_page_16_table_01.csv
+April,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,813,2,crime_4_page_18_table_01.csv | crime_9_page_18_table_01.csv
+April,2025,Murder,Other Murders,117,2,crime_10_page_03_table_01.csv | crime_4_page_03_table_01.csv
+April,2025,Murder,Total Murder,120,2,crime_10_page_03_table_01.csv | crime_4_page_03_table_01.csv
+October,2023,NDPS Cases,NDPS Cases,224,2,crime_40_page_19_table_01.csv | crime_41_page_19_table_01.csv
+October,2023,Riots,Riots,332,2,crime_40_page_08_table_01.csv | crime_41_page_08_table_01.csv
+October,2023,Robbery,Total Robbery,177,2,crime_40_page_05_table_01.csv | crime_41_page_05_table_01.csv
+April,2025,Riots,Riots,295,2,crime_10_page_08_table_01.csv | crime_9_page_08_table_01.csv
+April,2026,Burglary,Burglary Day,74,2,crime_4_page_06_table_01.csv | crime_5_page_06_table_01.csv
+April,2026,Crime against Women,Dowry Death,15,2,crime_4_page_11_table_01.csv | crime_5_page_11_table_01.csv
+April,2026,MMDR & KMMCR,KMMC Rules,3,2,crime_4_page_17_table_01.csv | crime_5_page_17_table_01.csv
+October,2024,Crime against Women,Rape,50,2,crime_28_page_11_table_01.csv | crime_29_page_11_table_01.csv
+October,2024,Cyber Crimes,Cyber Crimes,1643,2,crime_28_page_15_table_01.csv | crime_29_page_15_table_01.csv
+April,2026,MMDR & KMMCR,MMDR Act,2,2,crime_4_page_17_table_01.csv | crime_5_page_17_table_01.csv
+October,2024,Economic Offences,Economic Offences,521,2,crime_28_page_16_table_01.csv | crime_29_page_16_table_01.csv
+April,2026,Murder,Other Murders,77,2,crime_4_page_03_table_01.csv | crime_5_page_03_table_01.csv
+April,2026,NDPS Cases,NDPS Cases,940,2,crime_4_page_19_table_01.csv | crime_5_page_19_table_01.csv
+August,2023,Burglary,Burglary Day,136,2,crime_38_page_06_table_01.csv | crime_39_page_06_table_01.csv
+August,2023,Crime against Women,Rape,51,2,crime_38_page_11_table_01.csv | crime_39_page_11_table_01.csv
+August,2023,Cyber Crimes,Cyber Crimes,2196,2,crime_38_page_15_table_01.csv | crime_39_page_15_table_01.csv
+October,2024,Murder,Other Murders,96,2,crime_28_page_03_table_01.csv | crime_29_page_03_table_01.csv
+October,2024,Murder,Total Murder,99,2,crime_28_page_03_table_01.csv | crime_29_page_03_table_01.csv
+August,2023,MMDR & KMMCR,KMMC Rules,4,2,crime_38_page_17_table_01.csv | crime_39_page_17_table_01.csv
+October,2024,POCSO,POCSO,237,2,crime_28_page_12_table_01.csv | crime_29_page_12_table_01.csv
+October,2024,Riots,Riots,199,2,crime_28_page_08_table_01.csv | crime_29_page_08_table_01.csv
+October,2024,Robbery,Chain Snatching,33,2,crime_28_page_05_table_01.csv | crime_29_page_05_table_01.csv
+October,2024,Robbery,Robbery (Except Chain Snatching),59,2,crime_28_page_05_table_01.csv | crime_29_page_05_table_01.csv
+October,2024,Robbery,Total Robbery,92,2,crime_28_page_05_table_01.csv | crime_29_page_05_table_01.csv
+October,2024,SC/ST POA Act,SC/ST POA Act,164,2,crime_28_page_13_table_01.csv | crime_29_page_13_table_01.csv
+October,2024,Special & Local Laws,Special & Local Laws,4321,2,crime_28_page_10_table_01.csv | crime_29_page_10_table_01.csv
+October,2024,Theft,Reported,1768,2,crime_28_page_07_table_01.csv | crime_29_page_07_table_01.csv
+August,2023,MMDR & KMMCR,MMDR Act,13,2,crime_38_page_17_table_01.csv | crime_39_page_17_table_01.csv
+August,2023,Murder,Murder for gain,2,2,crime_25_page_03_table_01.csv | crime_39_page_03_table_01.csv
+October,2025,Crime against Women,Rape,50,2,crime_15_page_11_table_01.csv | crime_16_page_11_table_01.csv
+October,2025,Dacoity,Dacoity Cases,17,2,crime_15_page_04_table_01.csv | crime_16_page_04_table_01.csv
+October,2025,MMDR & KMMCR,KMMC Rules,2,2,crime_15_page_17_table_01.csv | crime_16_page_17_table_01.csv
+October,2025,Motor Vehicles Theft,Motor Vehicles Theft Cases,815,2,crime_15_page_18_table_01.csv | crime_16_page_18_table_01.csv
+October,2025,NDPS Cases,NDPS Cases,423,2,crime_15_page_19_table_01.csv | crime_16_page_19_table_01.csv
+September,2023,Crime against Women,Dowry Death,22,2,crime_39_page_11_table_01.csv | crime_40_page_11_table_01.csv
+September,2023,Cyber Crimes,Cyber Crimes,2021,2,crime_26_page_15_table_01.csv | crime_39_page_15_table_01.csv
+August,2023,Murder,Total Murder,102,2,crime_38_page_03_table_01.csv | crime_39_page_03_table_01.csv
+August,2023,Robbery,Robbery (Except Chain Snatching),155,2,crime_38_page_05_table_01.csv | crime_39_page_05_table_01.csv
+September,2023,NDPS Cases,NDPS Cases,507,2,crime_39_page_19_table_01.csv | crime_40_page_19_table_01.csv
+September,2023,Riots,Riots,332,2,crime_26_page_08_table_01.csv | crime_39_page_08_table_01.csv
+September,2023,Robbery,Total Robbery,170,2,crime_39_page_05_table_01.csv | crime_40_page_05_table_01.csv
+September,2023,SC/ST POA Act,SC/ST POA Act,204,2,crime_26_page_13_table_01.csv | crime_40_page_13_table_01.csv
+August,2024,Burglary,Burglary Day,109,2,crime_25_page_06_table_01.csv | crime_26_page_06_table_01.csv
+September,2024,Burglary,Burglary Night,284,2,crime_14_page_06_table_01.csv | crime_14_page_60_table_01.csv
+September,2024,Burglary,Total,381,2,crime_14_page_06_table_01.csv | crime_14_page_60_table_01.csv
+September,2024,Crime against Women,Dowry Death,15,2,crime_14_page_11_table_01.csv | crime_14_page_65_table_01.csv
+September,2024,Crime against Women,Rape,58,2,crime_14_page_11_table_01.csv | crime_14_page_65_table_01.csv
+September,2024,Cyber Crimes,Cyber Crimes,1738,2,crime_14_page_15_table_01.csv | crime_14_page_69_table_01.csv
+September,2024,Dacoity,Dacoity Cases,11,2,crime_14_page_04_table_01.csv | crime_14_page_58_table_01.csv
+September,2024,Economic Offences,Economic Offences,577,2,crime_14_page_16_table_01.csv | crime_14_page_70_table_01.csv
+September,2024,Economic Offences,Economic Offences,578,2,crime_26_page_16_table_01.csv | crime_27_page_16_table_01.csv
+September,2024,Hurt,Cases of Hurt,1334,2,crime_14_page_09_table_01.csv | crime_14_page_63_table_01.csv
+August,2024,Burglary,Burglary Night,320,2,crime_25_page_06_table_01.csv | crime_26_page_06_table_01.csv
+September,2024,MMDR & KMMCR,MMDR Act,2,2,crime_26_page_17_table_01.csv | crime_27_page_17_table_01.csv
+September,2024,MMDR & KMMCR,MMDR Act,3,2,crime_14_page_17_table_01.csv | crime_14_page_71_table_01.csv
+September,2024,Motor Vehicles Theft,Motor Vehicles Theft Cases,881,2,crime_14_page_18_table_01.csv | crime_14_page_72_table_01.csv
+August,2024,Burglary,Total,429,2,crime_25_page_06_table_01.csv | crime_26_page_06_table_01.csv
+September,2024,Murder,Other Murders,90,2,crime_14_page_03_table_01.csv | crime_14_page_57_table_01.csv
+September,2024,Murder,Total Murder,92,2,crime_14_page_03_table_01.csv | crime_14_page_57_table_01.csv
+September,2024,NDPS Cases,NDPS Cases,339,2,crime_26_page_19_table_01.csv | crime_27_page_19_table_01.csv
+September,2024,NDPS Cases,NDPS Cases,340,2,crime_14_page_19_table_01.csv | crime_14_page_73_table_01.csv
+September,2024,POCSO,POCSO,339,2,crime_14_page_12_table_01.csv | crime_14_page_66_table_01.csv
+September,2024,Riots,Riots,284,2,crime_14_page_08_table_01.csv | crime_14_page_62_table_01.csv
+September,2024,Robbery,Chain Snatching,38,2,crime_14_page_05_table_01.csv | crime_14_page_59_table_01.csv
+September,2024,Robbery,Robbery (Except Chain Snatching),54,2,crime_14_page_05_table_01.csv | crime_14_page_59_table_01.csv
+September,2024,Robbery,Total Robbery,92,2,crime_14_page_05_table_01.csv | crime_14_page_59_table_01.csv
+September,2024,Robbery,Total Robbery,94,2,crime_26_page_05_table_01.csv | crime_27_page_05_table_01.csv
+September,2024,SC/ST POA Act,SC/ST POA Act,180,2,crime_14_page_13_table_01.csv | crime_14_page_67_table_01.csv
+April,2023,Burglary,Total,335,2,crime_34_page_06_table_01.csv | crime_34_page_58_table_01.csv
+September,2024,Theft,Reported,1747,2,crime_14_page_07_table_01.csv | crime_14_page_61_table_01.csv
+September,2024.0,Security Cases,Security Cases,1797,2,crime_26_page_14_table_01.csv | crime_27_page_14_table_01.csv
+September,2024.0,Security Cases,Security Cases,1875,2,crime_14_page_14_table_01.csv | crime_14_page_68_table_01.csv
+September,2024.0,Security Cases,Total,2155,2,crime_26_page_14_table_01.csv | crime_27_page_14_table_01.csv
+September,2024.0,Security Cases,Total,2682,2,crime_14_page_14_table_01.csv | crime_14_page_68_table_01.csv
+September,2025,Burglary,Burglary Day,97,2,crime_14_page_06_table_01.csv | crime_14_page_60_table_01.csv
+September,2025,Burglary,Burglary Night,302,2,crime_14_page_06_table_01.csv | crime_14_page_60_table_01.csv
+September,2025,Burglary,Total,399,2,crime_14_page_06_table_01.csv | crime_14_page_60_table_01.csv
+August,2024,Crime against Women,Dowry Death,10,2,crime_25_page_11_table_01.csv | crime_26_page_11_table_01.csv
+September,2025,Crime against Women,Rape,70,2,crime_14_page_11_table_01.csv | crime_14_page_65_table_01.csv
+September,2025,Cyber Crimes,Cyber Crimes,1296,2,crime_14_page_15_table_01.csv | crime_14_page_69_table_01.csv
+August,2024,Cyber Crimes,Cyber Crimes,1774,2,crime_25_page_15_table_01.csv | crime_26_page_15_table_01.csv
+September,2025,Economic Offences,Economic Offences,574,2,crime_14_page_16_table_01.csv | crime_14_page_70_table_01.csv
+September,2025,Hurt,Cases of Hurt,1323,2,crime_14_page_09_table_01.csv | crime_14_page_63_table_01.csv
+April,2022,Murder,Other Murders,123,2,crime_34_page_03_table_01.csv | crime_34_page_55_table_01.csv
+August,2024,Dacoity,Dacoity Cases,14,2,crime_13_page_04_table_01.csv | crime_25_page_04_table_01.csv
+August,2024,Economic Offences,Economic Offences,580,2,crime_13_page_16_table_01.csv | crime_26_page_16_table_01.csv
+September,2025,Murder,Murder for gain,4,2,crime_14_page_03_table_01.csv | crime_14_page_57_table_01.csv
+September,2025,Murder,Other Murders,96,2,crime_14_page_03_table_01.csv | crime_14_page_57_table_01.csv
+September,2025,Murder,Total Murder,100,2,crime_14_page_03_table_01.csv | crime_14_page_57_table_01.csv
+September,2025,NDPS Cases,NDPS Cases,452,2,crime_14_page_19_table_01.csv | crime_14_page_73_table_01.csv
+September,2025,POCSO,POCSO,338,2,crime_14_page_12_table_01.csv | crime_14_page_66_table_01.csv
+September,2025,Riots,Riots,261,2,crime_14_page_08_table_01.csv | crime_14_page_62_table_01.csv
+September,2025,Robbery,Chain Snatching,27,2,crime_14_page_05_table_01.csv | crime_14_page_59_table_01.csv
+September,2025,Robbery,Robbery (Except Chain Snatching),63,2,crime_14_page_05_table_01.csv | crime_14_page_59_table_01.csv
+August,2024,Hurt,Cases of Hurt,1246,2,crime_25_page_09_table_01.csv | crime_26_page_09_table_01.csv
+September,2025,SC/ST POA Act,SC/ST POA Act,206,2,crime_14_page_13_table_01.csv | crime_14_page_67_table_01.csv
+September,2025,Special & Local Laws,Special & Local Laws,4991,2,crime_14_page_10_table_01.csv | crime_14_page_64_table_01.csv
+September,2025,Theft,Reported,1613,2,crime_14_page_07_table_01.csv | crime_14_page_61_table_01.csv
+September,2025.0,Security Cases,Security Cases,1028,2,crime_14_page_14_table_01.csv | crime_14_page_68_table_01.csv
+April,2022,Burglary,Burglary Day,76,2,crime_34_page_06_table_01.csv | crime_34_page_58_table_01.csv

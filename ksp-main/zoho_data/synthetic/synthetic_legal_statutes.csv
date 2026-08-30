@@ -1,0 +1,9 @@
+Law_Name,Section_Number,Offence,Punishment,Cognizable,Bailable
+BNS,103,Murder,Death or Imprisonment for life,True,False
+BNS,309(4),Robbery / Snatching,Rigorous imprisonment up to 7 years,True,False
+BNS,303(2),Theft,Imprisonment up to 3 years or fine,True,False
+BNS,318(4),Cheating,Imprisonment up to 7 years and fine,True,False
+IT Act,66C,Identity Theft,Imprisonment up to 3 years and fine up to 1 Lakh,True,True
+IT Act,66D,Cheating by personation using computer resource,Imprisonment up to 3 years and fine up to 1 Lakh,True,True
+POCSO,4,Penetrative sexual assault,Imprisonment not less than 10 years up to life,True,False
+NDPS,20,Contravention in relation to cannabis plant and cannabis,Imprisonment up to 20 years and fine up to 2 Lakhs,True,False

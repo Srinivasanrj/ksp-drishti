@@ -1,0 +1,4 @@
+KSP Crime Statistics Summary Repository:
+- Cyber Crimes: Includes phishing, ransomware, identity theft, and online financial fraud. Reported cases increased in urban nodes like Bengaluru, Mysuru, and Mangaluru.
+- Theft & Burglary: Includes chain snatching, housebreaking (day & night), and copper wire theft. Peak incidence occurs during night-beat patrol windows between 01:00 AM and 04:00 AM.
+- POCSO & Crime Against Women: Tracked under special taskforce oversight with zero-tolerance fast-track investigation mandates within 60 days.
