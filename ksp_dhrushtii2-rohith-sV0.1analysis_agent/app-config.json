@@ -1,0 +1,16 @@
+{
+	"command": "sh -c \"python3 server.py\"",
+	"build_path": "./",
+	"stack": "python_3_12",
+	"env_variables": {
+		"CATALYST_PROJECT_ID": "54626000000013049",
+		"CATALYST_ORG_ID": "60077159195",
+		"ZOHO_CLIENT_ID": "1000.QJ48UXS62P10JU8969EVZH62U1SZFK",
+		"ZOHO_CLIENT_SECRET": "3bed33b28c414cd60a45e42d2b49e3999958934a66",
+		"ZOHO_ACCESS_TOKEN": "1000.c78f3577392279af8caf09bf49fcb8d0.43493bd175610866d203bd13bcb56768",
+		"ZOHO_REFRESH_TOKEN": "1000.1770f65a536a4a052ab351f89a85b0ac.124660e7fbf5112ae21ff3d9991ba3a5",
+		"ZOHO_API_DOMAIN": "https://www.zohoapis.in"
+	},
+	"memory": 512,
+	"scripts": {}
+}

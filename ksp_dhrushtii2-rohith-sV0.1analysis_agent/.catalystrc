@@ -1,0 +1,36 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "54626000000013049",
+      "name": "KSPCrimeIntelligencePlatform",
+      "domain": {
+        "id": "50043767490",
+        "name": "kspcrimeintelligenceplatform-60077159195.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60077159195",
+          "name": "Development",
+          "type": 3
+        },
+        {
+          "idx": 2,
+          "id": "50044349190",
+          "name": "Production",
+          "type": 1
+        }
+      ]
+    }
+  ]
+}
