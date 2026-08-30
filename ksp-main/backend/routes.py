@@ -71,8 +71,11 @@ def upload_file():
         "session_id": session_id
     })
 
-@chat_bp.route('/chat', methods=['POST'])
+@chat_bp.route('/chat', methods=['POST', 'OPTIONS'])
+@chat_bp.route('/api/chat', methods=['POST', 'OPTIONS'])
 def chat():
+    if request.method == 'OPTIONS':
+        return jsonify({"success": True}), 200
     start_time = time.time()
     if not request.is_json:
         return jsonify({"success": False, "error": "Request must be JSON"}), 400

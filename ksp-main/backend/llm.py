@@ -103,7 +103,7 @@ def call_glm(messages: list) -> dict:
         url = f"https://api.catalyst.zoho.in/quickml/v1/project/{Config.CATALYST_PROJECT_ID}/glm/chat"
         headers = {
             "Content-Type": "application/json",
-            "Authorization": f"Zoho-oauthtoken {Config.CATALYST_ACCESS_TOKEN}",
+            "Authorization": f"Zoho-oauthtoken {Config.get_access_token()}",
             "CATALYST-ORG": str(Config.CATALYST_ORG_ID)
         }
         payload = {
@@ -165,7 +165,7 @@ def call_quickml_rag_answer(user_query: str, document_ids: list = None) -> str:
     def _make_headers():
         return {
             "Content-Type": "application/json",
-            "Authorization": f"Zoho-oauthtoken {Config.CATALYST_ACCESS_TOKEN}",
+            "Authorization": f"Zoho-oauthtoken {Config.get_access_token()}",
             "CATALYST-ORG": str(Config.CATALYST_ORG_ID)
         }
 

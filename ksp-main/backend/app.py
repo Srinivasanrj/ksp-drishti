@@ -7,7 +7,8 @@ Main server setup, route blueprints, static file serving, and error handling.
 
 import logging
 import os
-from flask import Flask, jsonify, render_template
+from flask import Flask, jsonify, render_template, request
+from flask_cors import CORS
 from routes import chat_bp
 from config import Config
 
@@ -45,6 +46,16 @@ def create_app():
         static_url_path=''
     )
     app.config.from_object(Config)
+
+    # Enable CORS for all routes and origins
+    CORS(app, resources={r"/*": {"origins": "*"}}, supports_credentials=True)
+
+    @app.after_request
+    def after_request(response):
+        response.headers.add('Access-Control-Allow-Origin', '*')
+        response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization,X-Requested-With')
+        response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS')
+        return response
 
     # 3. Register route blueprints
     app.register_blueprint(chat_bp)

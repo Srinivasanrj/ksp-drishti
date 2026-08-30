@@ -94,6 +94,7 @@ function DivisionDashboard({
   ) || zonesData[0];
 
   const [panicActive, setPanicActive] = useState(false);
+  const [showDrishtiAgent, setShowDrishtiAgent] = useState(false);
   const [leftTab, setLeftTab] = useState('insights');
   const [selectedZone, setSelectedZone] = useState(() => isHead ? null : userUnitZone);
   const [mapStyle, setMapStyle] = useState('google_street');
@@ -641,15 +642,38 @@ function DivisionDashboard({
 
       {panicActive && <PanicSOS onClose={() => setPanicActive(false)} />}
 
-      {/* Floating KSP DRISHTI Assistant Trigger (Placeholder) */}
+      {/* Floating KSP DRISHTI Assistant Trigger */}
       <button
         className="floating-chatbot-trigger"
-        onClick={() => {}}
-        title="KSP DRISHTI Intelligence Assistant (Offline for Maintenance)"
+        onClick={() => setShowDrishtiAgent(true)}
+        title="KSP DRISHTI Intelligence Assistant"
         aria-label="KSP DRISHTI Assistant"
       >
         <Bot size={26} />
       </button>
+
+      {/* DRISHTI AGENT OVERLAY */}
+      {showDrishtiAgent && (
+        <div style={{
+          position: 'fixed',
+          top: 0, left: 0, right: 0, bottom: 0,
+          zIndex: 999999,
+          background: 'rgba(0,0,0,0.85)',
+          display: 'flex',
+          flexDirection: 'column'
+        }}>
+          <div style={{ background: '#132B20', padding: '10px 20px', display: 'flex', justifyContent: 'flex-end', borderBottom: '2px solid #D49B44' }}>
+            <button onClick={() => setShowDrishtiAgent(false)} style={{ background: 'none', border: 'none', color: '#D49B44', cursor: 'pointer', display: 'flex', alignItems: 'center', gap: '6px', fontWeight: 'bold', fontSize: '14px' }}>
+              <X size={20} /> Close Intelligence Assistant
+            </button>
+          </div>
+          <iframe 
+            src="http://localhost:5174" 
+            style={{ width: '100%', height: '100%', border: 'none', flex: 1 }} 
+            title="Drishti Analysis Agent"
+          />
+        </div>
+      )}
     </div>
   );
 }
