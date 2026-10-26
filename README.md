@@ -7,13 +7,6 @@
 
 ---
 
-## 📸 Screenshots
-
-<!-- Add 2–3 screenshots or a GIF here, e.g. the chatbot, a division dashboard, and the chart modal. -->
-_Coming soon._
-
----
-
 ## 🌟 Overview
 
 Investigators often have to dig through separate databases, PDFs and spreadsheets to answer simple questions. **KSP Sentinel AI** puts these behind one chat interface. A supervisor router reads each question and sends it to a specialist agent: text-to-SQL analytics, document search, pattern analysis, or network intelligence.
@@ -124,9 +117,7 @@ npm run dev
 
 Built as a team for the **KSP Datathon 2026**.
 
-**My contribution:** [Fill in what you personally built, e.g. "Designed the supervisor router and analytics agent (text-to-SQL + chart generation), built the division dashboards in React, and wrote the data-ingestion scripts."]
-
-**Teammates:** [Name — role], [Name — role]
+<!-- TODO: add **My contribution:** ... (e.g. "Designed the supervisor router and analytics agent (text-to-SQL + chart generation), built the division dashboards in React, and wrote the data-ingestion scripts.") and **Teammates:** Name — role. Add a Screenshots section near the top too. -->
 
 ---
 
